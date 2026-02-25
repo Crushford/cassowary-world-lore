@@ -1,111 +1,242 @@
 # AGENTS.md
 
-## Project Intent
+## Role
 
-This repository is a **Markdown-only lore source** for the Cassowary World story.
+Agents expand and maintain the canonical knowledge base of Cassowary World.
 
-Agents should treat it as a canonical worldbuilding docs repo that may be embedded inside another project and rendered directly.
+Agents do not invent arbitrary lore.  
+Agents model biological, ecological, and civilizational evolution under constraints.
+
+This repository is the source of truth.
+
+Other applications may render it, but canon is defined here.
+
+---
+
+## Core Principle: Canon Must Be Explained
+
+Nothing exists in canon without explanation.
+
+Every capability must emerge through:
+
+- biological evolution
+- ecological interaction
+- technological development
+- or cultural processes
+
+Avoid unexplained capability jumps.
+
+Every system must have ancestry.
+
+---
+
+## Canon Development Pipeline
+
+Agents must follow this pipeline:
+
+### 1. Exploration (Non-Canon)
+
+Exploratory content may be generated:
+
+- story scenes
+- speculative systems
+- hypothetical scenarios
+
+These are NOT canon.
+
+Their purpose is to expose assumptions.
+
+---
+
+### 2. Assumption Extraction
+
+Agents must identify factual assumptions introduced.
+
+Examples:
+
+- domesticated species exist
+- preservation methods exist
+- roads or transport exist
+- political institutions exist
+
+Each assumption becomes a candidate canon item.
+
+---
+
+### 3. Evaluation
+
+Compare each candidate fact against:
+
+- GUIDING_PRINCIPLES.md
+- existing foundation documents
+- existing technical documents
+
+Classify each as:
+
+- Compatible
+- Contradictory
+- Requires technical documentation
+- Open question
+
+Do not silently accept assumptions.
+
+---
+
+### 4. Technical Documentation
+
+Accepted or candidate systems must be formalized in technical documents.
+
+Technical documents convert ideas into structured canon.
+
+Before drafting any new technical document, agents must read the reference example:
+
+`technical-documents/honeypot-ant-domestication-and-sugar-preservation.md`
+
+Use that document as the default structural model unless the subject clearly requires a different section order.
+
+They must explain:
+
+- what the system is
+- how it works
+- how it emerged
+- what limits it
+- what it enables
+
+---
+
+### 5. Canon Promotion
+
+Facts become canon only when documented in:
+
+- foundation files
+- technical documents
+- or timeline files
+
+Stories are never canon by themselves.
+
+---
+
+### 6. Timeline Integration
+
+Major systems must include approximate emergence periods.
+
+Update:
+
+03-history-and-timeline.md
+
+Civilization evolves gradually.
+
+---
+
+### 7. Record Uncertainty
+
+Unknowns must be recorded in:
+
+99-open-questions.md
+
+Do not invent answers to resolve uncertainty.
+
+---
+
+## Technical Document Requirements
+
+Technical documents must include:
+
+- Title
+- Status (Draft / Canon Candidate / Canon)
+- Summary
+- Definition
+- Mechanism / Process
+- Evolutionary or Historical Emergence
+- Constraints and Limits
+- Civilizational Implications
+- Related Documents
+- Open Questions
+
+Focus on mechanisms, not narrative.
+
+---
+
+## Technical Document Authoring Procedure (Required)
+
+When an agent is asked to write a technical document about a subject, follow this procedure:
+
+1. Read `technical-documents/honeypot-ant-domestication-and-sugar-preservation.md` first.
+2. Copy its structure as the starting template.
+3. Replace subject-specific content while preserving causal explanation and constraint language.
+4. Link the document to relevant guiding principles and related technical/foundation docs.
+5. Mark uncertain claims as `Draft` or `Canon Candidate`.
+6. Record unresolved questions in the document's `Open Questions` section (and in `99-open-questions.md` when globally important).
+
+This is mandatory so technical docs stay consistent in style, structure, and canon-evaluation quality.
+
+## Technical Document Style Definition (Reference Standard)
+
+The reference technical document demonstrates the expected style:
+
+- neutral, encyclopedia-like tone
+- explicit biological/ecological/technical mechanism
+- timeline of emergence (when relevant)
+- clear constraints and failure modes
+- civilizational consequences
+- dependency/enabling relationships between systems
+- links to related documents
+
+Agents should treat the honeypot-ant document as the model for "how to write a technical document" in this repository.
+
+---
+
+## Causality Requirement
+
+Always connect causal chains:
+
+biology → behavior → technology → infrastructure → institutions
+
+Example:
+
+grasping forelimbs → object transport → food storage → taxation → empire
+
+---
 
 ## File Layout Rules
 
-- Keep core canon and story foundation docs as top-level `*.md` files
-- Store subject-specific technical reference pages in `technical-documents/`
-- Do not add code, build scripts, package files, or tooling unless explicitly requested
-- Do not create additional folders unless explicitly requested
-- Keep filenames stable and descriptive; prefer numbered prefixes for reading order in sequence docs
+Root files contain global canon.
+
+technical-documents/ contains system-specific explanations.
+
+Do not create unnecessary folders.
+
+Prefer updating existing documents.
+
+---
+
+## Canon Authority Order
+
+Highest authority:
+
+1. GUIDING_PRINCIPLES.md
+2. Foundation documents
+3. Canon technical documents
+4. Draft technical documents
+5. Stories and exploratory material
+
+---
 
 ## Editing Rules
 
-- Preserve existing canon unless the user asks to revise it
-- When adding new lore, note assumptions and avoid contradicting other files
-- Prefer updating the most relevant existing doc instead of creating duplicates
-- Use Markdown headings and bullet lists for easy rendering in other repos/apps
-- Keep sections scannable; avoid long unstructured paragraphs
+Preserve canon unless explicitly revised.
 
-## Cross-Document Consistency
+Avoid contradictions.
 
-- Align names, dates, factions, and terminology across files
-- If a fact changes, update all affected docs in the same pass when possible
-- Put unresolved items in `99-open-questions.md` instead of burying them elsewhere
+Maintain cross-document consistency.
 
-## Canon Document Types
+Use clear headings and structured Markdown.
+Use Markdown links in `Related Documents` sections (not plain path text).
 
-- Foundation docs: broad worldbuilding documents at the repo root (overview, regions, history, rules, story setup)
-- Guiding principles: high-level constraints that all lore and stories must obey
-- Technical documents: subject-level reference pages explaining how one system, event, species, technology, or institution works
-- Open questions: unresolved canon decisions and conflicts
+---
 
-## Definition of a Technical Document
+## Long-Term Objective
 
-A technical document is a **Wikipedia-style lore reference page** about a single subject.
+Construct a coherent evolutionary and civilizational history of cassowary-derived intelligent life across Sahul.
 
-It should explain the subject clearly, state what is canon vs draft, describe how it works, and link to related documents so a reader can navigate the knowledge graph.
-
-Technical documents are not prose scenes, character dialogue, or brainstorming dumps. They are structured reference pages for canon-building.
-
-## How to Write Technical Documents
-
-- Focus on one subject per document (example: a divergence event, a preservation method, a faction institution)
-- Write in a neutral, explanatory tone
-- Prefer explicit mechanisms and constraints over vague statements
-- Mark uncertain claims as `Draft`, `Proposed`, or `Open Question`
-- Add hyperlinks to related docs (root docs, guiding principles, and other technical docs)
-- Explain causal links: anatomy -> behavior -> technology -> institutions
-- If a claim changes world capability, connect it to `GUIDING_PRINCIPLES.md`
-
-## Technical Document Required Sections (Default)
-
-- `# Title`
-- `Status` (Draft / Canon Candidate / Canon)
-- `Summary`
-- `Definition` (what the subject is)
-- `Mechanism / Process` (how it works)
-- `Constraints and Limits`
-- `Implications for Civilization or Story`
-- `Related Documents` (Markdown links)
-- `Open Questions` (if any)
-
-## Technical Document Hyperlink Rules
-
-- Use relative Markdown links
-- Link to at least one foundation doc and one principles/canon control doc when relevant
-- Prefer links in a dedicated `Related Documents` section and inline links where context matters
-- Update links if files are renamed or moved
-
-## Definition of Guiding Principles
-
-Guiding principles are the **constitutional rules** of Cassowary World.
-
-They are not ordinary lore facts. They define the constraints used to evaluate whether new lore is plausible, on-theme, and consistent with the project.
-
-They exist to prevent drift into arbitrary fantasy or contradiction.
-
-## How to Interpret Guiding Principles
-
-- Treat principles as constraints first, prompts second
-- When a draft idea conflicts with a principle, the idea must be revised, justified in technical lore, or rejected
-- Do not override a principle with a cool story moment without explicit user approval
-- Translate principles into testable questions (example: "What energy source enables this institution?")
-- Use principles to justify causal chains, not just end results
-- If a principle seems ambiguous, document the ambiguity and add a question to `99-open-questions.md`
-- When writing technical docs, explicitly note which guiding principles the doc depends on
-
-## Canon Evaluation Order
-
-- Guiding principles (`GUIDING_PRINCIPLES.md`)
-- Confirmed canon in root foundation docs and accepted technical docs
-- Draft technical docs and story ideas
-- Open questions and speculative notes
-
-## Scope for Now
-
-- Focus on foundational worldbuilding and story setup
-- Build a consistent technical-document corpus over time
-- Leave advanced formatting, automation, and schemas for later
-
-## Current Priority
-
-- Strengthen `GUIDING_PRINCIPLES.md`
-- Add technical documents for key systems (divergence, anatomy, sugar preservation, transport, governance)
-- Cross-link documents so the repo can be rendered as a navigable lore reference
-
+Prioritize realism, causality, and internal consistency at all times.

@@ -21,10 +21,16 @@ Each page should describe one subject clearly, explain how it works, define cons
 - Relative Markdown links to related documents
 - Mark status clearly (`Draft`, `Canon Candidate`, `Canon`)
 
+## Reference Example (Read Before Writing New Technical Docs)
+
+- [Honeypot Ant Domestication and Sugar Preservation](honeypot-ant-domestication-and-sugar-preservation.md) - canonical format example for technical doc structure and depth
+
 ## Current Drafts
 
 - [Cassowary Divergence and Functional Claws](cassowary-divergence-and-functional-claws.md)
 - [Sahul Food Forest Functional Crop Portfolio](sahul-food-forest-functional-crop-portfolio.md)
+- [Cassowary Neurodevelopment and Predator Management Transition (4-3 MYA)](cassowary-neurodevelopment-and-predator-management-transition-4-3-mya.md)
+- [Honeypot Ant Domestication and Sugar Preservation](honeypot-ant-domestication-and-sugar-preservation.md)
 
 ## Related Documents
 
