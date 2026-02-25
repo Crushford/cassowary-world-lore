@@ -23,7 +23,7 @@ None currently listed.
 - [Orchard Lineage Management](technical-documents/agriculture/orchard-lineage-management.md) (`agriculture`, placeholder)
 - [Storage and Ceramic Technology](technical-documents/infrastructure/storage-and-ceramic-technology.md) (`infrastructure`, placeholder)
 - [Transport Networks](technical-documents/infrastructure/transport-networks.md) (`infrastructure`, placeholder)
-- [Tribute and Taxation](technical-documents/institutions/tribute-and-taxation.md) (`institutions`, placeholder)
+- [Tribute and Taxation](technical-documents/institutions/tribute-and-taxation.md) (`institutions`)
 
 ## Deprecated
 

@@ -18,6 +18,9 @@ Unknown — requires future timeline integration from technical documents.
 - Honeypot ant proto-domestication: ~4-3 MYA (candidate)
 - Neurodevelopment / predator-management transition window: 4-3 MYA (draft)
 - Honeypot ant civilizational dependency in some regions: ~2.5-2 MYA (candidate)
+- Proto-tribute via repeated seasonal vessel contributions: ~3.2-2.8 MYA (draft; derived from `technical-documents/institutions/tribute-and-taxation.md`)
+- Standardized sealed vessel tribute in some core regions: ~2.7-2.3 MYA (draft; centered near ~2.5 MYA)
+- Regional guarded storage centers / taxation nodes: ~2.2-1.8 MYA (draft; centered near ~2 MYA)
 
 ## Related Documents
 
