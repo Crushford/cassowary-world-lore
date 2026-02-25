@@ -1,4 +1,4 @@
-# CANON_INDEX
+# Canon Index
 
 Status: Draft
 
@@ -10,15 +10,16 @@ Do not promote a system to `Canon` unless explicitly confirmed.
 
 None currently listed.
 
-## Canon Candidate
+## Canon Candidates
 
 - [Honeypot Ant Domestication and Sugar Preservation](technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md) (`ecology`)
 
-## Draft
+## Draft Systems
 
 - [Cassowary Neurodevelopment and Predator Management Transition (4-3 MYA)](technical-documents/biology/cassowary-neurodevelopment-and-predator-management-transition-4-3-mya.md) (`biology`)
 - [Sahul Food Forest Functional Crop Portfolio](technical-documents/frameworks/sahul-food-forest-functional-crop-portfolio.md) (`frameworks`)
 - [Aphid Domestication](technical-documents/ecology/aphid-domestication.md) (`ecology`, placeholder)
+- [Food Preservation and Storage Systems](technical-documents/infrastructure/food-preservation-and-storage-systems.md) (`infrastructure`)
 - [Orchard Lineage Management](technical-documents/agriculture/orchard-lineage-management.md) (`agriculture`, placeholder)
 - [Storage and Ceramic Technology](technical-documents/infrastructure/storage-and-ceramic-technology.md) (`infrastructure`, placeholder)
 - [Transport Networks](technical-documents/infrastructure/transport-networks.md) (`infrastructure`, placeholder)

@@ -51,6 +51,7 @@ Minimum expected scope:
 ## Enables
 
 - [Honeypot Ant Domestication and Sugar Preservation](../ecology/honeypot-ant-domestication-and-sugar-preservation.md)
+- [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute and Taxation](../institutions/tribute-and-taxation.md)
 - [Transport Networks](transport-networks.md)
 
@@ -60,6 +61,7 @@ Minimum expected scope:
 - [Guiding Principles](../../GUIDING_PRINCIPLES.md)
 - [History and Timeline](../../03-history-and-timeline.md)
 - [Honeypot Ant Domestication and Sugar Preservation](../ecology/honeypot-ant-domestication-and-sugar-preservation.md)
+- [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute and Taxation](../institutions/tribute-and-taxation.md)
 - [Open Questions](../../99-open-questions.md)
 

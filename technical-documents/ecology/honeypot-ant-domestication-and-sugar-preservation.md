@@ -232,6 +232,7 @@ In this model, ant colonies serve a function analogous to distributed biological
 
 ## Enables
 
+- [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - tribute systems and ration redistribution
 - longer-distance trade in preserved calories
 - permanent urban or proto-urban settlements
@@ -259,6 +260,7 @@ Dependency graph notes:
 - [Technical Documents Index](../README.md)
 - [Sahul Food Forest Functional Crop Portfolio](../frameworks/sahul-food-forest-functional-crop-portfolio.md)
 - [Aphid Domestication (Placeholder)](aphid-domestication.md)
+- [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology (Placeholder)](../infrastructure/storage-and-ceramic-technology.md)
 - [Tribute and Taxation (Placeholder)](../institutions/tribute-and-taxation.md)
 - [History and Timeline](../../03-history-and-timeline.md)

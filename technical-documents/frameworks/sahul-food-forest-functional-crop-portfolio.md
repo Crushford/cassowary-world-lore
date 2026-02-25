@@ -235,6 +235,7 @@ If adopted at state scale, the portfolio model supports transregional planning a
 ## Enables
 
 - cross-region agricultural planning without a single staple species
+- [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md) (via preservation-oriented crop role planning)
 - clearer dependency mapping between crops and state functions
 - future technical documents on orchard lineages, grafting, and tribute crop classes
 
@@ -254,6 +255,7 @@ If adopted at state scale, the portfolio model supports transregional planning a
 - [Technical Documents Index](../README.md)
 - [Honeypot Ant Domestication and Sugar Preservation](../ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 - [Orchard Lineage Management (Placeholder)](../agriculture/orchard-lineage-management.md)
+- [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology (Placeholder)](../infrastructure/storage-and-ceramic-technology.md)
 - [Tribute and Taxation (Placeholder)](../institutions/tribute-and-taxation.md)
 - [Regions and Places](../../01-regions-and-places.md)

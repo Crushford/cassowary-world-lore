@@ -44,6 +44,7 @@ Minimum expected scope:
 ## Depends On
 
 - [Honeypot Ant Domestication and Sugar Preservation](../ecology/honeypot-ant-domestication-and-sugar-preservation.md) or other preserved surplus systems
+- [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
 - authority structures and territorial claims (unknown details)
@@ -60,6 +61,7 @@ Minimum expected scope:
 - [Guiding Principles](../../GUIDING_PRINCIPLES.md)
 - [Core Logic](../../CORE_LOGIC.md)
 - [Honeypot Ant Domestication and Sugar Preservation](../ecology/honeypot-ant-domestication-and-sugar-preservation.md)
+- [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
 - [Open Questions](../../99-open-questions.md)
