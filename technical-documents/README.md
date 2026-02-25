@@ -24,6 +24,7 @@ Each page should describe one subject clearly, explain how it works, define cons
 ## Current Drafts
 
 - [Cassowary Divergence and Functional Claws](cassowary-divergence-and-functional-claws.md)
+- [Sahul Food Forest Functional Crop Portfolio](sahul-food-forest-functional-crop-portfolio.md)
 
 ## Related Documents
 
