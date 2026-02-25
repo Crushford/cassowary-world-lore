@@ -18,9 +18,9 @@ This document covers three linked systems in the late `4-3 MYA` transition windo
 
 It does **not** claim modern/full later imperial cognition. It describes a transitional cognitive ecology.
 
-## Mechanism / Process (Draft)
+## Mechanism / Process
 
-The proposed mechanism is a layered developmental system:
+The mechanism in this document remains `Draft`. The proposed model is a layered developmental system:
 
 1. Early-maturing neural systems preserve immediate survival (movement, balance, threat response).
 2. Juvenile development loads social and ecological patterning through observation, imitation, and repeated experience.
@@ -29,6 +29,35 @@ The proposed mechanism is a layered developmental system:
 5. Predator pressure is reduced first through collective behavior and risk management, not direct dominance in one step.
 
 This produces a civilization-compatible cognition profile without requiring uniformly enlarged or uniformly advanced brains.
+
+## Evolutionary or Historical Emergence
+
+This document describes a transition interval (`4-3 MYA`), not a final cognitive endpoint. It proposes how a survival-focused cassowary cognition profile could begin supporting more complex social coordination and predator management without a single abrupt intelligence jump.
+
+### Pre-transition baseline (before ~4 MYA)
+
+Cassowary behavior is dominated by immediate survival, parental care, and local ecological learning.
+
+- strong reflexive movement and threat response
+- limited long-horizon coordination
+- predator relations are primarily avoidance and escape
+
+### Transition interval (`4-3 MYA`)
+
+Development becomes more layered and socially loaded.
+
+- juvenile learning periods lengthen and matter more
+- individual variation in executive integration increases
+- group coordination improves before consistent high-level individual planning
+- predator management behaviors emerge as risky but repeatable group strategies
+
+### Post-transition carryover (toward `3-2 MYA`, provisional)
+
+The document's proposed changes create preconditions for later settlement stability and institutional learning, but do not by themselves imply mature state cognition.
+
+- predator pressure becomes more manageable in some regions
+- apprenticeship and coalition training become more consequential
+- later technical and institutional systems can build on this behavioral base
 
 ## Brain Structure by End of 4-3 MYA Period (Draft)
 
@@ -252,7 +281,7 @@ Predator management becomes strategic rather than purely emotional or retaliator
 - Early juvenile competence should not be overstated into full independent survival
 - Human comparisons are analogies for pattern, not direct equivalence
 
-## Implications for Civilization and Story
+## Civilizational Implications
 
 - Supports long juvenile dependency as a cultural-loading system, not just physical protection
 - Makes father-chick coordination and apprenticeship central to social reproduction
@@ -275,6 +304,9 @@ Predator management becomes strategic rather than purely emotional or retaliator
 
 - [Guiding Principles](../GUIDING_PRINCIPLES.md)
 - [Technical Documents Index](README.md)
+- [History and Timeline](../03-history-and-timeline.md)
+- [Rules of the World](../04-rules-of-the-world.md)
+- [Open Questions](../99-open-questions.md)
 - [Sahul Food Forest Functional Crop Portfolio](sahul-food-forest-functional-crop-portfolio.md)
 - [Project README](../README.md)
 

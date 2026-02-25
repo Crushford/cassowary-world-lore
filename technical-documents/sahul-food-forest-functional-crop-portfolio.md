@@ -148,7 +148,7 @@ This creates a food forest system that scales north-south by swapping species in
 
 The civilization spreads by copying **roles**, not species.
 
-## Mechanism / Process (Why This Scales)
+## Mechanism / Process
 
 The model addresses expansion and continuity in a multi-climate landscape through:
 
@@ -160,6 +160,42 @@ The model addresses expansion and continuity in a multi-climate landscape throug
 
 This is a potential workaround to latitude-related crop transfer limits: the civilization replicates an ecological design pattern, not a single crop package.
 
+## Evolutionary or Historical Emergence
+
+This document is a `Draft` classificatory model, not a claim that cassowaries begin with a continent-scale agricultural plan. The portfolio concept is expected to emerge gradually as orchard practice, preservation systems, and interregional exchange become more complex.
+
+### Phase 1: Local orchard management (pre-portfolio)
+
+Early communities manage local species for immediate ecological fit.
+
+- crop choices are species-specific and region-specific
+- knowledge is transmitted as local practice rather than abstract categories
+- substitution across climate zones is limited
+
+### Phase 2: Regional experimentation and substitution
+
+As settlements spread across different Sahul ecologies, communities begin comparing functionally similar crops in different regions.
+
+- local species swaps preserve similar outcomes (sugar, oil, buffers)
+- grafting and propagation practices spread unevenly
+- trade exposes communities to alternative orchard systems
+
+### Phase 3: Functional abstraction (portfolio logic emerges)
+
+Horticultural specialists and administrators begin classifying crops by role rather than species identity alone.
+
+- "base calorie," "oil wealth," and "buffer" functions become planning categories
+- tribute and orchard planning can be standardized across regions with different species
+- regional identity crops persist inside a shared system architecture
+
+### Phase 4: Institutional use (late, uneven, and provisional)
+
+If adopted at state scale, the portfolio model supports transregional planning and risk management without requiring one staple species.
+
+- expansion copies ecological roles rather than a fixed crop list
+- administration can reason about interchangeable crop functions
+- adoption remains constrained by local ecology, labor, and preservation infrastructure
+
 ## Constraints and Limits
 
 - Species claims require validation against actual cassowary ranges, ecology, and timeline assumptions
@@ -169,12 +205,12 @@ This is a potential workaround to latitude-related crop transfer limits: the civ
 - Regional climate shifts (including glacial/interglacial periods) may change suitability ranges
 - This portfolio does not replace the need for preservation and storage systems; it complements them
 
-## Implications for Civilization and Story
+## Civilizational Implications
 
-- Supports a distinctive orchard-empire model instead of a grain-state template
+- Supports an orchard-empire model instead of a grain-state template
 - Enables regional diversity without breaking civilizational continuity
 - Creates oil, sugar, and famine-buffer classes that can map to tribute systems and trade
-- Introduces strategic "species lock-in" crops that reinforce cassowary political advantage
+- Introduces "species lock-in" crops that may reinforce cassowary political advantage
 - Makes ecological knowledge, grafting practice, and orchard management central to state capacity
 
 ## Guiding Principles Used
@@ -184,7 +220,8 @@ This is a potential workaround to latitude-related crop transfer limits: the civ
 - Principle 4: Ecology Determines Culture
 - Principle 5: Domestication Is Partnership, Not Ownership
 - Principle 6: Technology Evolves Gradually and Unevenly
-- Principle 7: History Flows Forward From Constraints
+- Principle 7: History Flows Forward From Constraints, Not Backward From Desired Outcomes
+- Principle 9: Canon Emerges Through Iteration and Selection
 
 ## Related Documents
 
