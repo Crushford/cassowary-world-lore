@@ -4,255 +4,255 @@ Status: Canon Candidate
 
 ## Summary
 
-Honeypot ant domestication is the primary biological mechanism that enables large-scale energy storage in cassowary civilization.
+Honeypot ant domestication is the primary energy-storage system that enables large-scale surplus in cassowary civilization under Sahul orchard ecologies.
 
-Honeypot ants convert plant sugars into concentrated, shelf-stable internal reserves within specialized workers called repletes. Cassowaries manage ant colonies using orchard design, pottery vessels, and ecological manipulation, allowing controlled harvesting of stored sugar.
+Cassowaries do not manufacture sugar directly as a staple crop product. Instead, they manage an ecological production chain in which sap-feeding insects and honeypot ants convert dispersed plant sugars into concentrated reserves stored inside replete workers. Cassowary intervention focuses on orchard design, aphid stabilization, nest localization, and controlled harvesting.
 
-This system replaces grain as the foundational stored-calorie infrastructure of civilization and enables taxation, trade, and urban population density.
-
-Without honeypot ant domestication, cassowary civilization would remain limited to dispersed subsistence orchards.
+This system provides a plausible alternative to grain-based storage and supports taxation, redistribution, trade, and sustained urban populations. It is a `Canon Candidate` because key quantitative parameters (yield, storage life, regional variation, and selective breeding limits) remain unresolved.
 
 ## Definition
 
-Honeypot ant domestication is the deliberate management of honeypot ant colonies to produce predictable, harvestable sugar reserves.
+Honeypot ant domestication is the deliberate ecological management of honeypot ant colonies to produce predictable, harvestable sugar reserves for preservation and redistribution.
 
-Cassowaries do not directly manufacture sugar. Instead, they cultivate ecological chains:
+The system is a partnership model of domestication rather than direct ownership or full biological redesign. Cassowaries stabilize and exploit preexisting ant behavior (replete storage) instead of inventing a new capability.
 
-tree sap -> aphids -> honeydew -> honeypot ants -> stored sugar -> cassowary harvest
+Core production chain:
 
-The ants function as living biological storage vessels.
+tree sap -> aphids -> honeydew -> honeypot ants -> replete sugar reserves -> cassowary harvest -> preserved sugar paste
 
-## Biological Basis
+## Mechanism / Process
 
-Honeypot ants naturally develop repletes, specialized workers whose abdomens expand to store liquid sugar.
+### Biological basis (pre-domestication trait)
 
-These repletes:
+Honeypot ants naturally produce repletes, specialized workers whose abdomens expand to store liquid carbohydrate reserves.
 
-- remain stationary inside protected chambers
-- store excess colony nutrition
-- can retain sugar for months or longer
-- represent concentrated caloric storage
+Repletes typically:
 
-This trait evolved before cassowary domestication.
+- remain stationary in protected nest chambers
+- store surplus colony nutrition
+- retain concentrated liquid reserves over extended periods
+- function as colony famine buffers
 
-Cassowaries exploit and stabilize this existing behavior.
+This trait predates cassowary management and satisfies the "no additional miracles" constraint in the guiding principles: cassowaries are exploiting existing ecology, not creating unexplained ant biology.
 
-## Domestication Mechanism
+### Cassowary management stages
 
-Domestication occurs through environmental control rather than direct breeding in early stages.
+Cassowary domestication begins as environmental control rather than selective breeding. The core managed variables are orchard substrate, aphid stability, nest architecture, and harvest intensity.
 
-Cassowaries manipulate four key variables:
+#### 1. Host tree management
 
-### 1. Host Tree Management
+Cassowaries cultivate and maintain sap-rich tree species that support dense aphid populations, including figs, lilly pilly lineages, and other suitable rainforest or wet-forest trees.
 
-Cassowaries cultivate trees that support dense aphid populations, including figs, lilly pilly species, and sap-rich rainforest trees.
+Mechanism:
 
-Higher sap production supports larger aphid colonies.
+- increased sap availability supports larger aphid populations
+- larger aphid populations increase honeydew production
+- higher honeydew availability supports larger or more stable honeypot ant colonies
 
-Higher aphid density supports larger ant colonies.
+#### 2. Aphid stabilization
 
-### 2. Aphid Stabilization
+Cassowaries protect productive aphid-host relationships by reducing disruption around managed trees and discouraging predators or competing insects where feasible.
 
-Cassowaries protect aphid colonies from predators by:
+Typical interventions may include:
 
-- maintaining stable host trees
-- limiting disruptive ground disturbance
-- discouraging competing insect species
+- maintaining stable orchard canopy and host tree health
+- limiting ground disturbance near key root zones and nest areas
+- removing or discouraging competing insect colonies in high-value orchards
 
-Ants already defend aphids naturally, reinforcing this relationship.
+This builds on an existing ecological partnership because ants already defend aphids in many contexts.
 
-### 3. Nest Architecture Modification
+#### 3. Nest architecture modification (pottery-assisted localization)
 
-Cassowaries place clay vessels partially buried in soil near colony entrances.
+Cassowaries place clay vessels or ceramic chambers partially buried near colony entrances or known nest expansion zones.
 
-Ants expand nesting chambers into these vessels because they provide:
+Ant colonies may expand into these chambers when they provide:
 
-- stable temperature
+- thermal stability
 - structural protection
-- expansion space
+- dry, protected expansion volume
 
-This concentrates repletes in predictable, harvestable locations.
+The civilizational importance of this step is localization: repletes become concentrated in predictable, accessible locations rather than dispersed through irregular underground chambers.
 
-These vessels function as artificial storage chambers.
+#### 4. Controlled harvest and replacement
 
-### 4. Controlled Harvest
+Cassowaries periodically remove a portion of stored reserves while preserving colony viability.
 
-Cassowaries periodically remove individual repletes or entire storage clusters while leaving the colony intact.
+Harvest strategies may include:
 
-Harvest methods include:
+- removing individual repletes from accessible chambers
+- removing vessel-contained storage clusters
+- replacing harvested vessels with empty prepared vessels to encourage reoccupation
 
-- removing individual repletes manually
-- removing entire vessel chambers
-- replacing harvested vessels with empty ones
+Sustainable management depends on leaving sufficient reserve capacity for colony survival and seasonal recovery. Overharvest degrades colony resilience and can trigger local collapse.
 
-Because only surplus reserves are taken, colonies remain productive.
+### Post-harvest sugar processing and preservation
 
-This mirrors ant natural reserve usage during famine.
+Replete contents are converted into a transportable preserved product (sugar paste or related concentrates) using pottery and sealing materials.
 
-## Sugar Processing and Preservation
+Typical process sequence:
 
-Harvested repletes are processed into sugar paste.
+1. Repletes are opened or crushed and liquid reserves are collected.
+2. Liquid is filtered or decanted to remove debris.
+3. Fruit pulp or other flavoring/bulk ingredients may be added (region and period dependent).
+4. The mixture is concentrated by heating or controlled sun reduction.
+5. The concentrate is sealed in ceramic vessels using wax, resin, or similar barrier materials.
 
-Typical steps:
+Resulting preserved product is expected to be:
 
-1. repletes are crushed
-2. liquid sugar is collected
-3. liquid is combined with fruit pulp if desired
-4. mixture is reduced by heating or sun concentration
-5. final paste is sealed in ceramic vessels using wax or resin
+- calorically dense relative to fresh fruit
+- more transportable than raw repletes
+- more durable than unprocessed honeydew
+- suitable for tribute, storage, and rationing
 
-Resulting product is:
+## Evolutionary or Historical Emergence
 
-- shelf-stable
-- transportable
-- resistant to microbial spoilage
-- calorically dense
+This system follows the guiding-principle sequence of gradual, uneven development: ecological familiarity precedes management; management precedes preservation standardization; preservation precedes large administrative systems.
 
-This forms the primary preserved calorie unit of cassowary civilization.
+Approximate emergence sequence (provisional):
 
-## Timeline of Emergence
+### Pre-domestication consumption (~6-4 MYA)
 
-Approximate timeline:
+Cassowaries opportunistically consume wild honeypot ants and repletes.
 
-### Pre-domestication phase (~6-4 MYA)
+- no colony management
+- no storage standardization
+- no predictable surplus extraction
 
-Cassowaries opportunistically consume wild honeypot ants.
+### Repeated harvesting / proto-management (~4-3 MYA)
 
-No colony control exists.
+Cassowaries repeatedly revisit productive colonies and begin low-intensity protection of favorable orchard patches.
 
-### Proto-domestication (~4-3 MYA)
+- site memory and seasonal return behavior increase yields
+- early disturbance control improves colony persistence
+- management remains local and non-standardized
 
-Cassowaries repeatedly harvest the same colonies.
+### Pottery-assisted proto-domestication (~4-3 MYA, regionally variable)
 
-Pottery use allows deliberate nest expansion.
+As pottery becomes available, cassowaries begin placing vessels near productive nests, unintentionally and then intentionally biasing nest expansion into artificial chambers.
 
-Colonies begin stabilizing around managed orchards.
+- replete localization improves harvest predictability
+- orchard management and colony management begin to integrate
+- preserved sugar production becomes possible at larger scale
 
-### Early domestication (~3-2.5 MYA)
+### Early domestication system (~3-2.5 MYA)
 
-Orchard-aphid-ant systems become intentionally constructed.
+Orchard-aphid-ant systems are intentionally constructed and maintained as productive infrastructure.
 
-Sugar harvesting becomes predictable.
+- managed orchards are planned around colony persistence
+- harvest timing becomes socially coordinated
+- sugar paste becomes a regular stored-calorie resource
 
-Permanent settlements become viable.
+Permanent settlement becomes more viable where orchard and ant-field conditions remain stable.
 
-### Civilizational dependence (~2.5-2 MYA)
+### Civilizational dependence and institutionalization (~2.5-2 MYA)
 
-Sugar paste becomes tribute and trade commodity.
+Preserved sugar becomes a major tribute, ration, and trade medium in some regions.
 
-Urban population density increases.
+- storage supports non-food-producing specialists
+- political power concentrates around productive orchard-ant landscapes
+- administrative measurement and sealing practices likely develop around preserved units
 
-Political power becomes tied to orchard and ant-field control.
+Adoption is expected to remain uneven across Sahul due to ecological variation, climate, and species distributions.
 
 ## Constraints and Limits
 
-Ant colonies require stable ecological conditions.
+Honeypot ant domestication is powerful but slow, ecologically fragile, and difficult to scale rapidly.
 
-They are vulnerable to:
+### Ecological constraints
 
-- flooding
-- fungal outbreaks
-- temperature extremes
-- host tree loss
+- colonies require stable host trees and sufficient aphid productivity
+- flooding can destroy nests or alter soil suitability
+- fungal outbreaks can reduce colony health or spoil stored product
+- temperature extremes can reduce productivity or cause colony loss
+- host tree decline cascades into aphid loss and reduced ant reserves
 
-Sugar production is slower than grain production per unit time.
+### Production and infrastructure constraints
 
-Ant domestication requires long-term orchard stability.
+- production is slower and more ecologically contingent than annual grain harvest systems
+- long-term orchard stability is a prerequisite for reliable output
+- pottery production and sealing materials are required for large-scale preservation
+- colonies are not easily relocated long distances without losses
+- spread of the system occurs more reliably through orchard replication than colony transport
 
-Colony collapse can cause local famine.
+### Management constraints and failure modes
 
-Ants cannot be rapidly relocated over long distances.
+- overharvesting repletes reduces colony resilience
+- political extraction pressure can outrun ecological recovery
+- loss of preservation capacity (pottery, seals, fuel, labor coordination) reduces usable surplus even if colonies survive
+- climate shifts that disrupt aphid-host relationships destabilize the entire chain
 
-Domestication spreads primarily through orchard replication, not colony transport.
+These limits slow imperial expansion and make state capacity dependent on orchard ecology rather than only military control.
 
 ## Civilizational Implications
 
-This system creates the first true energy storage economy in cassowary civilization.
+Honeypot ant domestication creates a biologically mediated surplus economy. In Cassowary World terms, it is the key bridge from orchard subsistence to durable institutions.
 
-Key consequences include:
+### Causal chain (guiding-principle framing)
 
-### Permanent settlements
+ecology and cassowary behavior -> orchard management -> aphid stabilization -> ant reserve concentration -> pottery-assisted harvest -> preserved sugar -> tribute and redistribution -> administrative specialization
 
-Stored food allows year-round habitation.
+### Major implications
 
-### Taxation systems
+- **Permanent settlements:** Stored calories reduce seasonal dispersal pressure in productive regions.
+- **Taxation and tribute:** Preserved sugar can be measured, sealed, transported, and redistributed.
+- **Trade networks:** Dense preserved calories support exchange over longer distances than fresh fruit.
+- **Political centralization:** Control of productive orchard-ant systems becomes a source of state power.
+- **Labor specialization:** Reliable storage supports administrators, craftspeople, and other non-foraging roles.
+- **Ecological dependency:** Political stability becomes tightly coupled to orchard health and pest ecology.
 
-Sugar paste can be measured, sealed, and transported as tribute.
+### Functional comparison to human grain systems
 
-### Trade networks
+Human empires often rely on grain because grain stores well in dry form. Cassowary civilizations in Sahul-like ecologies may instead rely on living biological storage (ants) plus post-harvest concentration and sealing.
 
-Preserved sugar enables long-distance exchange.
-
-### Political centralization
-
-Control of orchard-ant systems creates political power.
-
-### Urban population growth
-
-Non-food-producing populations become sustainable.
-
-### Ecological dependency
-
-Civilization becomes tightly coupled to orchard health.
-
-## Comparison to Human Grain Systems
-
-Human civilization relies on grain because grain stores easily.
-
-Cassowary civilization relies on biological sugar storage because their ecology favors perennial fruit systems.
-
-Ant colonies function as biological grain silos.
-
-Cassowaries manage living storage organisms rather than inert crops.
-
-## Failure Modes
-
-Collapse of orchard systems leads to ant colony collapse.
-
-Loss of preservation capacity causes population contraction.
-
-Climate shifts that disrupt aphid populations destabilize sugar production.
-
-Political overexploitation can destroy colony sustainability.
-
-These limits constrain imperial expansion speed.
+In this model, ant colonies serve a function analogous to distributed biological silos, while pottery and sealing convert biological storage into administrative storage.
 
 ## Relationship to Other Systems
 
 ### Requires
 
-- orchard domestication and grafting systems
-- pottery production
-- resin and wax sealing technology
+- orchard domestication and grafting systems (or equivalent orchard management practices)
+- pottery production and vessel standardization
+- resin and wax sealing technologies (or functionally similar sealants)
+- local ecological knowledge of host trees, aphids, and ant behavior
 
 ### Enables
 
-- tribute systems
-- long-distance trade
-- permanent cities
-- administrative specialization
+- tribute systems and ration redistribution
+- longer-distance trade in preserved calories
+- permanent urban or proto-urban settlements
+- administrative and craft specialization
+
+### Canon integration notes
+
+- Major emergence phases should be reflected in [History and Timeline](../03-history-and-timeline.md) when that file is present.
+- Globally unresolved quantitative questions should also be tracked in [Open Questions](../99-open-questions.md).
 
 ## Guiding Principles Used
 
+- Principle 1: One Divergence, Then No Magic
 - Principle 2: Biology Shapes Civilization
 - Principle 3: Energy Storage Creates Power
 - Principle 4: Ecology Determines Culture
 - Principle 5: Domestication Is Partnership, Not Ownership
 - Principle 6: Technology Evolves Gradually and Unevenly
-- Principle 7: History Flows Forward From Constraints
+- Principle 7: History Flows Forward From Constraints, Not Backward From Desired Outcomes
+- Principle 9: Canon Emerges Through Iteration and Selection
 
 ## Related Documents
 
 - [Guiding Principles](../GUIDING_PRINCIPLES.md)
+- [Technical Documents Index](README.md)
 - [Sahul Food Forest Functional Crop Portfolio](sahul-food-forest-functional-crop-portfolio.md)
 - [History and Timeline](../03-history-and-timeline.md)
 - [Regions and Places](../01-regions-and-places.md)
+- [Rules of the World](../04-rules-of-the-world.md)
 - [Open Questions](../99-open-questions.md)
 
 ## Open Questions
 
-- Can ant colonies be selectively bred for larger repletes?
-- What is the typical yield per colony per year?
-- How long can sugar paste remain stable under storage?
-- What regional species variations exist across Sahul?
-- What predators or parasites threaten managed colonies?
+- Can managed honeypot ant colonies be selectively bred (directly or indirectly) for larger or more numerous repletes?
+- What is a plausible annual yield range per managed colony under different orchard conditions?
+- How long does preserved sugar paste remain stable under different sealing materials and climates?
+- Which honeypot ant species or species-complexes are relevant across different Sahul regions?
+- What predators, parasites, or pathogens most strongly threaten managed colonies?
+- What labor and land area ratios are required to support urban populations through this system?
