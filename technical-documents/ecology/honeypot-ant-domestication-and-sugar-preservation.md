@@ -20,6 +20,16 @@ Core production chain:
 
 tree sap -> aphids -> honeydew -> honeypot ants -> replete sugar reserves -> cassowary harvest -> preserved sugar paste
 
+## Mechanism or Model
+
+This system is a managed ecological conversion-and-storage model:
+
+- orchards and host trees generate sugar inputs
+- aphids and ants convert and concentrate those inputs
+- pottery and sealing technologies convert biological storage into administrative storage
+
+Detailed operational steps are documented below.
+
 ## Mechanism / Process
 
 ### Biological basis (pre-domestication trait)
@@ -154,6 +164,13 @@ Preserved sugar becomes a major tribute, ration, and trade medium in some region
 
 Adoption is expected to remain uneven across Sahul due to ecological variation, climate, and species distributions.
 
+## Timeline Placement
+
+- Proto-stage (opportunistic consumption): ~6-4 MYA
+- Proto-domestication / repeated harvest: ~4-3 MYA
+- Early domestication system: ~3-2.5 MYA
+- Civilizational dependency in some regions: ~2.5-2 MYA
+
 ## Constraints and Limits
 
 Honeypot ant domestication is powerful but slow, ecologically fragile, and difficult to scale rapidly.
@@ -206,26 +223,24 @@ Human empires often rely on grain because grain stores well in dry form. Cassowa
 
 In this model, ant colonies serve a function analogous to distributed biological silos, while pottery and sealing convert biological storage into administrative storage.
 
-## Relationship to Other Systems
-
-### Requires
+## Depends On
 
 - orchard domestication and grafting systems (or equivalent orchard management practices)
 - pottery production and vessel standardization
 - resin and wax sealing technologies (or functionally similar sealants)
 - local ecological knowledge of host trees, aphids, and ant behavior
 
-### Enables
+## Enables
 
 - tribute systems and ration redistribution
 - longer-distance trade in preserved calories
 - permanent urban or proto-urban settlements
 - administrative and craft specialization
 
-### Canon integration notes
+Dependency graph notes:
 
-- Major emergence phases should be reflected in [History and Timeline](../03-history-and-timeline.md) when that file is present.
-- Globally unresolved quantitative questions should also be tracked in [Open Questions](../99-open-questions.md).
+- Major emergence phases should be reflected in [History and Timeline](../../03-history-and-timeline.md).
+- Globally unresolved quantitative questions should also be tracked in [Open Questions](../../99-open-questions.md).
 
 ## Guiding Principles Used
 
@@ -240,13 +255,16 @@ In this model, ant colonies serve a function analogous to distributed biological
 
 ## Related Documents
 
-- [Guiding Principles](../GUIDING_PRINCIPLES.md)
-- [Technical Documents Index](README.md)
-- [Sahul Food Forest Functional Crop Portfolio](sahul-food-forest-functional-crop-portfolio.md)
-- [History and Timeline](../03-history-and-timeline.md)
-- [Regions and Places](../01-regions-and-places.md)
-- [Rules of the World](../04-rules-of-the-world.md)
-- [Open Questions](../99-open-questions.md)
+- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Technical Documents Index](../README.md)
+- [Sahul Food Forest Functional Crop Portfolio](../frameworks/sahul-food-forest-functional-crop-portfolio.md)
+- [Aphid Domestication (Placeholder)](aphid-domestication.md)
+- [Storage and Ceramic Technology (Placeholder)](../infrastructure/storage-and-ceramic-technology.md)
+- [Tribute and Taxation (Placeholder)](../institutions/tribute-and-taxation.md)
+- [History and Timeline](../../03-history-and-timeline.md)
+- [Regions and Places](../../01-regions-and-places.md)
+- [Rules of the World](../../04-rules-of-the-world.md)
+- [Open Questions](../../99-open-questions.md)
 
 ## Open Questions
 

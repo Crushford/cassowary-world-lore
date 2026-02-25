@@ -1,21 +1,22 @@
 # Cassowary World Lore
 
-This repository is a docs-only foundation for the **Cassowary World** story.
+This repository is the documentation and canon foundation for the **Cassowary World** project.
 
-Another project can include this repo and display the latest Markdown from the current branch.
+It is organized as a causal knowledge base: technical documents explain how systems work, what they depend on, and what they enable.
 
 ## Purpose
 
 - Store canon and story foundation notes for the Cassowary World
-- Keep worldbuilding documents easy to read and sync
-- Make the repo easy to embed inside another repo/app that renders Markdown
+- Preserve causal explanations for biological, ecological, technical, and institutional systems
+- Make canon status and system dependencies easier to audit and maintain
 
-## Structure
+## Repository Structure
 
-- Root `*.md` files - core foundation and canon docs
-- `technical-documents/` - Wikipedia-style technical lore pages with cross-links
-- `README.md` - project overview (this file)
-- `AGENTS.md` - instructions for AI/human agents editing the docs
+- Root `*.md` files - foundation documents, guiding principles, canon index, and repository-level references
+- `technical-documents/` - technical lore pages organized by category (`biology/`, `ecology/`, `agriculture/`, `infrastructure/`, `institutions/`, `frameworks/`)
+- `stories/` - non-canon exploratory narrative material and spikes
+- `README.md` - repository overview (this file)
+- `AGENTS.md` - operating instructions for human/AI contributors
 
 ## Current Foundation Docs
 
@@ -26,20 +27,37 @@ Another project can include this repo and display the latest Markdown from the c
 - `04-rules-of-the-world.md`
 - `05-story-foundation.md`
 - `GUIDING_PRINCIPLES.md`
+- `CORE_LOGIC.md`
+- `CANON_INDEX.md`
 - `99-open-questions.md`
 
 ## Technical Documents
 
-Technical documents are subject-focused reference pages (Wikipedia style) used to explain how a specific feature of the world works and how it connects to canon.
+Technical documents are subject-focused reference pages used to explain how a specific feature of the world works, when it emerges, what constrains it, and which downstream systems it enables.
 
-Current drafts:
+See `technical-documents/README.md` for category definitions, required sections, and canon-promotion workflow.
 
-- `technical-documents/README.md`
-- `technical-documents/cassowary-divergence-and-functional-claws.md`
+## Core Logic
+
+`CORE_LOGIC.md` is the inference layer for repository consistency. It captures causal rules and dependency expectations (for example, preservation implies storage infrastructure; storage infrastructure implies ownership and institutional handling).
+
+Technical documents should be checked against `CORE_LOGIC.md` to identify missing dependencies, contradictions, or required placeholder documents.
+
+## Canon Promotion
+
+Canon status progresses through documented review, not narrative assertion.
+
+- `Draft` - exploratory, incomplete, or provisional
+- `Canon Candidate` - mechanistically defined and plausibly integrated
+- `Canon` - explicitly confirmed
+- `Deprecated` - retained for traceability but no longer active canon
+
+Technical systems should be tracked in `CANON_INDEX.md`.
 
 ## Working Style
 
 - Keep core world/canon docs at the repository root
-- Put subject-specific technical reference pages in `technical-documents/`
+- Put subject-specific technical reference pages in the appropriate `technical-documents/` category folder
+- Add dependency and timeline sections to technical docs
 - Prefer updating existing files over creating many new ones
-- Use clear headings and short sections so renderers can display them cleanly
+- Use clear headings and structured Markdown

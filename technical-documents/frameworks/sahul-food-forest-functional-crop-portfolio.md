@@ -20,6 +20,12 @@ The "functional crop portfolio" model is a classification system for orchard and
 
 This model supports a distributed orchard civilization instead of a grain monoculture.
 
+## Mechanism or Model
+
+This document is a classification and planning model rather than a single production technology.
+
+It groups crops by civilizational function (calories, oil, buffers, specialist roles) so systems can be replicated across regions by replacing species while preserving function.
+
 ## Candidate Crop Groups (Draft)
 
 All entries below are draft candidates pending technical validation, regional ecology mapping, and timeline fit.
@@ -196,6 +202,12 @@ If adopted at state scale, the portfolio model supports transregional planning a
 - administration can reason about interchangeable crop functions
 - adoption remains constrained by local ecology, labor, and preservation infrastructure
 
+## Timeline Placement
+
+- Local pre-portfolio orchard management: Unknown — requires future technical document.
+- Functional substitution across regions: Unknown — requires future technical document.
+- Administrative portfolio model adoption (if any): Unknown — requires future technical document.
+
 ## Constraints and Limits
 
 - Species claims require validation against actual cassowary ranges, ecology, and timeline assumptions
@@ -213,6 +225,19 @@ If adopted at state scale, the portfolio model supports transregional planning a
 - Introduces "species lock-in" crops that may reinforce cassowary political advantage
 - Makes ecological knowledge, grafting practice, and orchard management central to state capacity
 
+## Depends On
+
+- orchard lineage management and propagation practice
+- regional ecological knowledge of species ranges and climate limits
+- preservation/storage systems that make crop roles administratively meaningful
+- trade or interregional contact sufficient to compare substitute species
+
+## Enables
+
+- cross-region agricultural planning without a single staple species
+- clearer dependency mapping between crops and state functions
+- future technical documents on orchard lineages, grafting, and tribute crop classes
+
 ## Guiding Principles Used
 
 - Principle 2: Biology Shapes Civilization
@@ -225,12 +250,16 @@ If adopted at state scale, the portfolio model supports transregional planning a
 
 ## Related Documents
 
-- [Guiding Principles](../GUIDING_PRINCIPLES.md)
-- [Regions and Places](../01-regions-and-places.md)
-- [Rules of the World](../04-rules-of-the-world.md)
-- [History and Timeline](../03-history-and-timeline.md)
-- [Open Questions](../99-open-questions.md)
-- [Technical Documents Index](README.md)
+- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Technical Documents Index](../README.md)
+- [Honeypot Ant Domestication and Sugar Preservation](../ecology/honeypot-ant-domestication-and-sugar-preservation.md)
+- [Orchard Lineage Management (Placeholder)](../agriculture/orchard-lineage-management.md)
+- [Storage and Ceramic Technology (Placeholder)](../infrastructure/storage-and-ceramic-technology.md)
+- [Tribute and Taxation (Placeholder)](../institutions/tribute-and-taxation.md)
+- [Regions and Places](../../01-regions-and-places.md)
+- [Rules of the World](../../04-rules-of-the-world.md)
+- [History and Timeline](../../03-history-and-timeline.md)
+- [Open Questions](../../99-open-questions.md)
 
 ## Open Questions
 
@@ -239,3 +268,4 @@ If adopted at state scale, the portfolio model supports transregional planning a
 - Which crops are tribute staples versus household staples?
 - How much of this system depends on active grafting versus managed wild stands?
 - How should "Diamond's latitude constraint" be formalized in Cassowary World technical lore?
+- What approximate periods correspond to local-only orchard practice versus functional portfolio planning?

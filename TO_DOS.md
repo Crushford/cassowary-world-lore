@@ -6,7 +6,7 @@ Technical documents should still keep their own `Open Questions` sections for ca
 
 ## Honeypot Ant Domestication and Sugar Preservation
 
-Source: [technical-documents/honeypot-ant-domestication-and-sugar-preservation.md](technical-documents/honeypot-ant-domestication-and-sugar-preservation.md)
+Source: [technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md](technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 - [ ] Determine whether managed ant colonies can be selectively bred for larger repletes.
 - [ ] Estimate typical sugar yield per colony per year under managed orchard conditions.
@@ -16,4 +16,4 @@ Source: [technical-documents/honeypot-ant-domestication-and-sugar-preservation.m
 
 ## Repository Maintenance
 
-- [ ] Add a root `99-open-questions.md` file (currently referenced by technical documents but not present).
+- [x] Add a root `99-open-questions.md` file (currently referenced by technical documents but not present).

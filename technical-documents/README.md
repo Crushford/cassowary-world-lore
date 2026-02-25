@@ -1,32 +1,79 @@
 # Technical Documents
 
-This folder contains Wikipedia-style technical lore pages for Cassowary World.
+This folder contains technical reference pages for Cassowary World. These pages are the mechanism layer of canon: they explain how systems work, how they emerged, what they depend on, and what they enable.
 
-Each page should describe one subject clearly, explain how it works, define constraints, and link to related documents.
+## Purpose of Technical Documents
 
-## What Belongs Here
+Technical documents are used to formalize candidate or accepted systems such as:
 
-- Evolutionary divergences
-- Anatomical adaptations
-- Ecological production systems
-- Preservation methods
-- Infrastructure systems
-- Institutions and governance mechanisms
+- biological divergences and developmental changes
+- ecological production chains
+- agricultural and preservation methods
+- infrastructure systems
+- institutional mechanisms
+- cross-system frameworks and classification models
 
-## Writing Rules (Short Version)
+## Technical Documents Define Mechanisms, Not Narrative
 
-- One subject per page
-- Neutral explanatory tone
-- Explicit mechanisms and limits
-- Relative Markdown links to related documents
-- Mark status clearly (`Draft`, `Canon Candidate`, `Canon`)
+Technical documents explain causal systems. They do not establish canon through scenes, character moments, or story events alone.
 
-## Reference Example (Read Before Writing New Technical Docs)
+Stories may generate assumptions, but technical documents (plus foundation/timeline docs) are where those assumptions are evaluated and formalized.
 
-- [Honeypot Ant Domestication and Sugar Preservation](honeypot-ant-domestication-and-sugar-preservation.md) - canonical format example for technical doc structure and depth
+## Document Categories
+
+Category folders under `technical-documents/`:
+
+- `biology/` - anatomy, neurodevelopment, lifespan, evolutionary body changes
+- `ecology/` - species interactions, domestication ecologies, predator relationships, orchard ecosystems
+- `agriculture/` - orchard management, grafting, crop handling, cultivation practices
+- `infrastructure/` - ceramics, storage, transport, roads, logistics hardware
+- `institutions/` - tribute, taxation, ownership, governance mechanisms, communication systems
+- `frameworks/` - classification systems, energy models, expansion models, planning abstractions
+
+If a document is primarily a meta-model or classification system, place it in `frameworks/`.
+
+## Canon Promotion Process
+
+Technical docs should make status explicit:
+
+- `Draft` - exploratory or partially specified; not canon
+- `Canon Candidate` - plausible and structured, but still awaiting broader integration/validation
+- `Canon` - explicitly promoted and treated as established repository canon
+- `Deprecated` - retained for traceability but superseded or rejected
+
+Standard progression:
+
+1. Story or exploration introduces assumptions.
+2. Assumptions are extracted and evaluated against guiding principles.
+3. Technical document formalizes mechanism, limits, dependencies, and timeline placement.
+4. Canon status is tracked in [`CANON_INDEX.md`](../CANON_INDEX.md).
+5. Promotion to `Canon` occurs only with explicit confirmation.
+
+## Dependency Requirements
+
+Every technical document must include explicit dependency graph sections:
+
+- `Depends On`
+- `Enables`
+
+Every technical document must also include:
+
+- `Timeline Placement`
+- `Constraints and Limits`
+- `Open Questions`
+
+If a dependency or enabling system is unknown, mark it explicitly as:
+
+`Unknown — requires future technical document.`
+
+## Reference Example
+
+- [Honeypot Ant Domestication and Sugar Preservation](ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 ## Related Documents
 
+- [Project README](../README.md)
 - [Guiding Principles](../GUIDING_PRINCIPLES.md)
-- [Rules of the World](../04-rules-of-the-world.md)
+- [Core Logic](../CORE_LOGIC.md)
+- [Canon Index](../CANON_INDEX.md)
 - [Open Questions](../99-open-questions.md)

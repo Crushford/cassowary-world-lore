@@ -18,6 +18,17 @@ This document covers three linked systems in the late `4-3 MYA` transition windo
 
 It does **not** claim modern/full later imperial cognition. It describes a transitional cognitive ecology.
 
+## Mechanism or Model
+
+This document proposes a developmental model in which:
+
+- survival-critical cognition matures early
+- socially loaded learning matures over a long juvenile period
+- executive integration matures late and unevenly
+- predator management emerges from coordination before full strategic dominance
+
+Detailed mechanisms and draft anatomical implications are documented below.
+
 ## Mechanism / Process
 
 The mechanism in this document remains `Draft`. The proposed model is a layered developmental system:
@@ -58,6 +69,11 @@ The document's proposed changes create preconditions for later settlement stabil
 - predator pressure becomes more manageable in some regions
 - apprenticeship and coalition training become more consequential
 - later technical and institutional systems can build on this behavioral base
+
+## Timeline Placement
+
+- Primary transition window: 4-3 MYA
+- Carryover effects into later settlement-supporting behavior: toward 3-2 MYA (provisional)
 
 ## Brain Structure by End of 4-3 MYA Period (Draft)
 
@@ -290,6 +306,20 @@ Predator management becomes strategic rather than purely emotional or retaliator
 - Reframes predators as a managed systems problem, enabling territorial expansion and stable settlements
 - Supports future technical docs on coalition norms, education, fire control, and predator policy
 
+## Depends On
+
+- prior cassowary anatomical divergence and grasping/claw functionality (documented elsewhere)
+- persistent predator pressure in inhabited ecologies
+- parental care and apprenticeship behaviors sufficient for long juvenile learning
+- ecological conditions that reward repeated territorial and coalition behavior
+
+## Enables
+
+- predator-management institutions and territorial safety practices
+- more stable settlements in predator-dense regions
+- longer apprenticeship systems and knowledge transmission norms
+- later administrative specialization supported by reduced baseline mortality risk
+
 ## Guiding Principles Used
 
 - Principle 1: One Divergence, Then No Magic
@@ -302,13 +332,14 @@ Predator management becomes strategic rather than purely emotional or retaliator
 
 ## Related Documents
 
-- [Guiding Principles](../GUIDING_PRINCIPLES.md)
-- [Technical Documents Index](README.md)
-- [History and Timeline](../03-history-and-timeline.md)
-- [Rules of the World](../04-rules-of-the-world.md)
-- [Open Questions](../99-open-questions.md)
-- [Sahul Food Forest Functional Crop Portfolio](sahul-food-forest-functional-crop-portfolio.md)
-- [Project README](../README.md)
+- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Technical Documents Index](../README.md)
+- [History and Timeline](../../03-history-and-timeline.md)
+- [Rules of the World](../../04-rules-of-the-world.md)
+- [Open Questions](../../99-open-questions.md)
+- [Sahul Food Forest Functional Crop Portfolio](../frameworks/sahul-food-forest-functional-crop-portfolio.md)
+- [Transport Networks (Placeholder)](../infrastructure/transport-networks.md)
+- [Project README](../../README.md)
 
 ## Open Questions
 
