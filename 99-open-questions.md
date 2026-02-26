@@ -14,6 +14,12 @@ This document tracks unresolved canon decisions and system gaps.
 - When does a functional crop-portfolio model become an explicit planning framework rather than local practice?
 - Which root foundation documents should be prioritized after the technical-document restructure to support agricultural canon promotion?
 
+## Ecology
+
+- Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
+- How stable are New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under ~2 MYA climate conditions?
+
 ## Institutions
 
 - Ownership and storage-rights formalization linked to surplus storage
@@ -36,6 +42,8 @@ This document tracks unresolved canon decisions and system gaps.
 - Which systems are required before a first coherent timeline pass can be promoted beyond placeholder status?
 - How should preservation/storage milestones be placed relative to early tribute systems?
 - Do tribute standardization and regional storage centers emerge first in the same regions as honeypot-ant civilizational dependency, or in transport chokepoints with mixed storage economies?
+- Which specific glacial maximum intervals around ~2 MYA should be used as the canonical geographic baseline for early expansion timelines?
+- How quickly do land-bridge openings and closures alter regional connectivity relative to institution-building timescales?
 
 ## Pending Technical Docs
 
