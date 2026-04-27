@@ -1,0 +1,48 @@
+{
+  "_createdAt": "2025-08-08T12:44:51Z",
+  "_id": "19278d5b-4d0f-44bd-9a00-59a30b81e13d",
+  "description": "Here is some early concept art",
+  "headerImage": null,
+  "images": [
+    {
+      "_key": "ad3ec4ef67d3",
+      "caption": "Card games on a train",
+      "image": "/content-images/1d8bf43929287a3c71bc01693348fe9ed493c14e-1024x1024.webp"
+    },
+    {
+      "_key": "a080cf4858c8",
+      "caption": "On the back of a train",
+      "image": "/content-images/99212d79d48dcf19b403b57efa6618faade79cd3-1024x1024.webp"
+    },
+    {
+      "_key": "0f628debfab6",
+      "caption": "Roman card game",
+      "image": "/content-images/f2a31d931de59d51cda30657a6a13567e8d787c7-1024x1024.webp"
+    },
+    {
+      "_key": "2891c9562d8e",
+      "caption": "priest outfit",
+      "image": "/content-images/b6a08eb260ea86276ba8c4b27c34d8e73b326494-1024x1024.webp"
+    },
+    {
+      "_key": "b542eb55c07c",
+      "caption": "early face experimentation",
+      "image": "/content-images/83537d10171789404d5b12f53d139e0e0330ffbd-1024x1024.webp"
+    },
+    {
+      "_key": "c0e06717d1a7",
+      "caption": "Boat concept ",
+      "image": "/content-images/055405d6e8c004d5fc0e50fd0715cd7779a92010-1024x1024.webp"
+    },
+    {
+      "_key": "20fa4b659aea",
+      "caption": "victorian era casino scene",
+      "image": "/content-images/ebe8cc71d5e0d6674f95f137dbfecee0ed00d852-1792x1024.webp"
+    }
+  ],
+  "slug": {
+    "_type": "slug",
+    "current": "initial-concept-art"
+  },
+  "title": "Initial Concept Art"
+}
