@@ -1,6 +1,10 @@
 # Tribute and Taxation
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. Focused retrievable lore files derived from it are [Tribute Sealed Vessel Units](../../lore/tribute/tribute-sealed-vessel-units.md), [Tribute Seal Integrity and Authority Marks](../../lore/tribute/tribute-seal-integrity-and-authority-marks.md), [Tribute Storage Custody and Redistribution](../../lore/tribute/tribute-storage-custody-and-redistribution.md), and [Tribute Collection Counting and Enforcement](../../lore/tribute/tribute-collection-counting-and-enforcement.md).
 
 ## Summary
 

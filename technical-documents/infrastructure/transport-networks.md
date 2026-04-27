@@ -1,12 +1,16 @@
 # Transport Networks
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Transport Networks](../../lore/infrastructure/transport-networks.md).
 
 ## Summary
 
-This placeholder technical document will define routes, path maintenance, transport infrastructure, and movement patterns that support trade, tribute, and regional coordination.
+This placeholder technical document defined routes, path maintenance, transport infrastructure, and movement patterns that support trade, tribute, and regional coordination.
 
-It exists because preserved surplus and political integration imply repeatable movement systems.
+It existed because preserved surplus and political integration implied repeatable movement systems.
 
 ## Definition
 

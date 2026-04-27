@@ -1,12 +1,16 @@
 # Food Preservation and Storage Systems
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Food Preservation and Storage Systems](../../lore/infrastructure/food-preservation-and-storage-systems.md).
 
 ## Summary
 
-This technical document defines the infrastructure-level preservation system that converts orchard and ant-derived food production into season-spanning surplus.
+This technical document defined the infrastructure-level preservation system that converts orchard and ant-derived food production into season-spanning surplus.
 
-It is the bridge between agricultural output and state formation: without reliable preservation and storage, calorie surplus remains local, perishable, and politically difficult to accumulate.
+It was the bridge between agricultural output and state formation: without reliable preservation and storage, calorie surplus remained local, perishable, and politically difficult to accumulate.
 
 ## Definition
 

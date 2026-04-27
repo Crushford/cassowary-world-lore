@@ -200,13 +200,23 @@ grasping forelimbs → object transport → food storage → taxation → empire
 
 ## File Layout Rules
 
-Root files contain global canon.
+Root files contain stable foundation canon, canon indexes, and project-wide references.
 
-technical-documents/ contains system-specific explanations.
+principles/ links to project philosophy and canon constraints.
 
-Do not create unnecessary folders.
+docs/ links to contributor-facing instructions and migration guides.
 
-Prefer updating existing documents.
+reference/ contains real-world baseline and world-state material.
+
+lore/ contains the retrievable Cassowary World layer: fundamental divergences and focused system docs.
+
+technical-documents/ contains retained source material and audit history during migration.
+
+stories/ contains non-canon narrative exploration.
+
+Do not create unnecessary folders beyond this layered structure.
+
+Prefer updating existing documents or adding focused lore files over creating broad duplicate summaries.
 
 ---
 

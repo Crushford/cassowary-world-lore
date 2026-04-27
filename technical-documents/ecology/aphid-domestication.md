@@ -1,12 +1,16 @@
 # Aphid Domestication
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Aphid Stabilization](../../lore/ecology/aphid-stabilization.md).
 
 ## Summary
 
-This placeholder technical document will define how cassowaries stabilize, manage, or selectively favor aphid populations as part of the orchard -> honeydew -> ant sugar production chain.
+This placeholder technical document defined how cassowaries stabilize, manage, or selectively favor aphid populations as part of the orchard -> honeydew -> ant sugar production chain.
 
-It exists because honeypot-ant domestication implies a distinct ecological management layer between host trees and ant reserves.
+It existed because honeypot-ant domestication implies a distinct ecological management layer between host trees and ant reserves.
 
 ## Definition
 

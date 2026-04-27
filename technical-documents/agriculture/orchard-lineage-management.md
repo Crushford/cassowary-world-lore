@@ -1,12 +1,16 @@
 # Orchard Lineage Management
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Orchard Lineage Management](../../lore/agriculture/orchard-lineage-management.md).
 
 ## Summary
 
-This placeholder technical document will define how cassowaries select, propagate, maintain, and regionally adapt orchard tree lineages over multiple generations.
+This placeholder technical document defined how cassowaries select, propagate, maintain, and regionally adapt orchard tree lineages over multiple generations.
 
-It exists to anchor dependencies implied by honeypot-ant production, crop portfolio planning, and long-term orchard stability claims.
+It existed to anchor dependencies implied by honeypot-ant production, crop portfolio planning, and long-term orchard stability claims.
 
 ## Definition
 

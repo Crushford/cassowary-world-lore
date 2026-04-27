@@ -1,6 +1,6 @@
 # Technical Documents
 
-This folder contains technical reference pages for Cassowary World. These pages are the mechanism layer of canon: they explain how systems work, how they emerged, what they depend on, and what they enable.
+This folder is retained source material and audit history for Cassowary World migration. Active canon now lives in `reference/`, `lore/`, and `stories/`.
 
 ## Purpose of Technical Documents
 
@@ -69,6 +69,8 @@ If a dependency or enabling system is unknown, mark it explicitly as:
 ## Reference Example
 
 - [Honeypot Ant Domestication and Sugar Preservation](ecology/honeypot-ant-domestication-and-sugar-preservation.md)
+- [Cassowary Neurodevelopment and Predator Management Transition](../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
+- [Sahul Food Forest Functional Crop Portfolio](../lore/frameworks/sahul-food-forest-functional-crop-portfolio.md)
 
 ## Related Documents
 

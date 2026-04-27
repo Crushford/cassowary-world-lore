@@ -1,6 +1,10 @@
 # Honeypot Ant Domestication and Sugar Preservation
 
-Status: Canon Candidate
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. Focused retrievable lore files derived from it are [Honeypot Ant Orchard System Management](../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md), [Honeypot Ant Harvesting](../../lore/honeypot-ants/honeypot-ant-harvesting.md), and [Honeypot Ant Sugar Preservation](../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md).
 
 ## Summary
 

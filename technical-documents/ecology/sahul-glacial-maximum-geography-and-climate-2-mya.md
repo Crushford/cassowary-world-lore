@@ -1,6 +1,10 @@
 # Sahul Glacial Maximum Geography and Climate (~2 MYA)
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. Its baseline content now lives in [World State — ~2 MYA (Representative Glacial Maximum)](../../reference/world-state-2mya.md) and [Sahul and Pleistocene Climate](../../reference/geography/sahul-and-pleistocene-climate.md).
 
 ## Summary
 

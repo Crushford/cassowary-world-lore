@@ -1,12 +1,16 @@
 # Storage and Ceramic Technology
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Storage and Ceramic Technology](../../lore/infrastructure/storage-and-ceramic-technology.md).
 
 ## Summary
 
-This placeholder technical document will define the storage-container and ceramic infrastructure required for large-scale preservation, sealing, measurement, and transport of surplus foods (including sugar concentrates).
+This placeholder technical document defined the storage-container and ceramic infrastructure required for large-scale preservation, sealing, measurement, and transport of surplus foods (including sugar concentrates).
 
-It exists because preservation and taxation claims imply durable containers, standardized vessels, and sealing practices.
+It existed because preservation and taxation claims implied durable containers, standardized vessels, and sealing practices.
 
 ## Definition
 

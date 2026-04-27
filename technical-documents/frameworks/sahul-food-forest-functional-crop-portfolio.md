@@ -1,6 +1,10 @@
 # Sahul Food Forest Functional Crop Portfolio
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Sahul Food Forest Functional Crop Portfolio](../../lore/frameworks/sahul-food-forest-functional-crop-portfolio.md).
 
 ## Summary
 

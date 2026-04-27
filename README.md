@@ -2,7 +2,7 @@
 
 This repository is the documentation and canon foundation for the **Cassowary World** project.
 
-It is organized as a causal knowledge base: technical documents explain how systems work, what they depend on, and what they enable.
+It is organized as a layered causal knowledge base: real-world reference defines the baseline, divergences define what changes, lore explains what emerges, and stories demonstrate systems without defining canon.
 
 ## Purpose
 
@@ -12,10 +12,14 @@ It is organized as a causal knowledge base: technical documents explain how syst
 
 ## Repository Structure
 
-- Root `*.md` files - foundation documents, guiding principles, canon index, and repository-level references
-- `technical-documents/` - technical lore pages organized by category (`biology/`, `ecology/`, `agriculture/`, `infrastructure/`, `institutions/`, `frameworks/`)
+- `principles/` - navigation for guiding philosophy and canon constraints
+- `docs/` - navigation for contributor-facing instructions and migration guides
+- `reference/` - real-world baseline and world-state documents
+- `lore/` - retrievable Cassowary World system docs and fundamental divergences
 - `stories/` - non-canon exploratory narrative material and spikes
-- `README.md` - repository overview (this file)
+- `technical-documents/` - retained source material and audit trail during migration
+- Root `*.md` files - foundation documents, canon index, open questions, and stable project-level references
+- `README.md` - repository overview
 - `AGENTS.md` - operating instructions for human/AI contributors
 
 ## Current Foundation Docs
@@ -56,8 +60,9 @@ Technical systems should be tracked in `CANON_INDEX.md`.
 
 ## Working Style
 
-- Keep core world/canon docs at the repository root
-- Put subject-specific technical reference pages in the appropriate `technical-documents/` category folder
+- Keep root foundation docs stable until specific migration passes justify edits
+- Use `reference/` for real-world baseline, `lore/` for Cassowary World systems, and `stories/` for narrative exploration
+- Keep retained source material in `technical-documents/` during early migration
 - Add dependency and timeline sections to technical docs
 - Prefer updating existing files over creating many new ones
 - Use clear headings and structured Markdown

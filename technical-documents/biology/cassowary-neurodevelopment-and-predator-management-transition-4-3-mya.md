@@ -1,6 +1,10 @@
 # Cassowary Neurodevelopment and Predator Management Transition (4-3 MYA)
 
-Status: Draft
+Status: Deprecated
+
+## Migration Note
+
+This source technical document is retained as audit material during lore migration. The active retrievable lore file derived from it is [Cassowary Neurodevelopment and Predator Management Transition](../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md).
 
 ## Summary
 
