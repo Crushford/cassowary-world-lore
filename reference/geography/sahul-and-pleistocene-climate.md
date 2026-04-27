@@ -22,6 +22,5 @@ Cassowary World uses these mechanisms to explain why productive zones, transport
 ## Related Documents
 
 - [World State — ~2 MYA (Representative Glacial Maximum)](../world-state-2mya.md)
-- [Sahul Glacial Maximum Geography and Climate](../../technical-documents/ecology/sahul-glacial-maximum-geography-and-climate-2-mya.md)
 - [History and Timeline](../../03-history-and-timeline.md)
 - [Regions and Places](../../01-regions-and-places.md)

@@ -14,7 +14,6 @@ This document answers how early tribute is collected, counted, audited, and enfo
 - Status: Draft
 - Related institutions: tribute, taxation, redistribution, administrative specialization
 - Related technologies: sealed vessels, transport routes, storage racks, seal marks
-- Source documents: [Tribute and Taxation](../../technical-documents/institutions/tribute-and-taxation.md)
 
 ## Atomic Notes
 

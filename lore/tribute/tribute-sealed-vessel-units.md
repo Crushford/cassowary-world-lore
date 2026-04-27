@@ -14,7 +14,6 @@ This document answers how early cassowary tribute becomes measurable before weig
 - Status: Draft
 - Related technologies: ceramic vessels, sealants, standard vessel forms
 - Related institutions: tribute, taxation, storage custody
-- Source documents: [Tribute and Taxation](../../technical-documents/institutions/tribute-and-taxation.md)
 
 ## Atomic Notes
 

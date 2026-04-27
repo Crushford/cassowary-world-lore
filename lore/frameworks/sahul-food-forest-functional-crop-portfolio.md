@@ -15,7 +15,6 @@ This document answers how cassowary agriculture can scale across Sahul by preser
 - Related species: figs, macadamia, palms, lilly pillies, quandongs, cassowary plum lineages
 - Related technologies: grafting, transplanting, preservation planning
 - Related institutions: orchard lineage management, food preservation, tribute planning
-- Source documents: [Sahul Food Forest Functional Crop Portfolio](../../technical-documents/frameworks/sahul-food-forest-functional-crop-portfolio.md)
 
 ## Atomic Notes
 

@@ -14,7 +14,6 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Status: Draft
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization
 - Related technologies: sealed vessels, cool storage, guarded storehouses
-- Source documents: [Tribute and Taxation](../../technical-documents/institutions/tribute-and-taxation.md)
 
 ## Atomic Notes
 

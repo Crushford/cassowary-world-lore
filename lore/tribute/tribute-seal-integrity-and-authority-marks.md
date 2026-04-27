@@ -14,7 +14,6 @@ This document answers how sealed tribute vessels carry trust and authority befor
 - Status: Draft
 - Related technologies: resin seals, wax seals, clay seals, ceramic lids, stamp objects
 - Related institutions: tribute, taxation, storage custody
-- Source documents: [Tribute and Taxation](../../technical-documents/institutions/tribute-and-taxation.md)
 
 ## Atomic Notes
 

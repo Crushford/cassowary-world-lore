@@ -2,7 +2,7 @@
 
 Status: Draft
 
-Purpose: Track canon status for active lore docs in `lore/` and baseline docs in `reference/`, while retaining deprecated source history in `technical-documents/`.
+Purpose: Track canon status for active lore docs in `lore/` and baseline docs in `reference/`.
 
 Do not promote a system to `Canon` unless explicitly confirmed.
 
@@ -44,18 +44,9 @@ None currently listed.
 - [Honeypot Ant Nest Splitting](lore/divergences/honeypot-ant-nest-splitting.md) (`divergence`)
 - [Moa Ridability Undefined](lore/divergences/moa-ridability-undefined.md) (`divergence`)
 
-## Deprecated
+## Removed Source Archive
 
-- [Honeypot Ant Domestication and Sugar Preservation](technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
-- [Cassowary Neurodevelopment and Predator Management Transition (4-3 MYA)](technical-documents/biology/cassowary-neurodevelopment-and-predator-management-transition-4-3-mya.md)
-- [Sahul Food Forest Functional Crop Portfolio](technical-documents/frameworks/sahul-food-forest-functional-crop-portfolio.md)
-- [Aphid Domestication](technical-documents/ecology/aphid-domestication.md)
-- [Sahul Glacial Maximum Geography and Climate (2 MYA)](technical-documents/ecology/sahul-glacial-maximum-geography-and-climate-2-mya.md)
-- [Food Preservation and Storage Systems](technical-documents/infrastructure/food-preservation-and-storage-systems.md)
-- [Orchard Lineage Management](technical-documents/agriculture/orchard-lineage-management.md)
-- [Storage and Ceramic Technology](technical-documents/infrastructure/storage-and-ceramic-technology.md)
-- [Transport Networks](technical-documents/infrastructure/transport-networks.md)
-- [Tribute and Taxation](technical-documents/institutions/tribute-and-taxation.md)
+Deprecated source documents were removed after migration and remain available through Git history.
 
 ## Maintenance Notes
 

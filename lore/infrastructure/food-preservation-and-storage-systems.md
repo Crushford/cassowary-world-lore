@@ -14,7 +14,6 @@ This document answers how cassowary societies convert perishable orchard and ant
 - Status: Canon Candidate
 - Related technologies: pottery, ceramic vessels, sealing materials, cool storage, drying
 - Related institutions: tribute, redistribution, stored surplus, administrative specialization
-- Source documents: [Food Preservation and Storage Systems](../../technical-documents/infrastructure/food-preservation-and-storage-systems.md)
 
 ## Atomic Notes
 

@@ -15,7 +15,6 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Related species: cassowaries, honeypot ants
 - Related technologies: pottery, ceramic vessels, wax seals, resin seals, controlled heating, sun reduction
 - Related institutions: tribute, redistribution, trade, administrative specialization
-- Source documents: [Honeypot Ant Domestication and Sugar Preservation](../../technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 ## Atomic Notes
 

@@ -15,7 +15,6 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 - Related species: cassowaries, honeypot ants, aphids, sap-rich orchard trees
 - Related technologies: pottery, sealing materials
 - Related institutions: tribute, redistribution, administrative specialization
-- Source documents: [Honeypot Ant Domestication and Sugar Preservation](../../technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 ## Atomic Notes
 

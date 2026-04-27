@@ -15,7 +15,6 @@ This document answers how cassowary cognition shifts during the `4-3 MYA` transi
 - Related species: cassowaries
 - Related institutions: apprenticeship, coalition leadership, territorial safety
 - Related technologies: fire use, tool sequences, coordinated patrols
-- Source documents: [Cassowary Neurodevelopment and Predator Management Transition](../../technical-documents/biology/cassowary-neurodevelopment-and-predator-management-transition-4-3-mya.md)
 
 ## Atomic Notes
 

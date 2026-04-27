@@ -14,7 +14,6 @@ This document answers how cassowaries make honeypot ant reserves accessible and 
 - Status: Canon Candidate
 - Related species: cassowaries, honeypot ants
 - Related technologies: clay vessels, ceramic chambers, pottery
-- Source documents: [Honeypot Ant Domestication and Sugar Preservation](../../technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 ## Atomic Notes
 

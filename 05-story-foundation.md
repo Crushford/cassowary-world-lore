@@ -16,4 +16,4 @@ Unknown — requires future foundation document drafting.
 
 - [Guiding Principles](GUIDING_PRINCIPLES.md)
 - [stories/README](stories/README.md)
-- [Technical Documents Index](technical-documents/README.md)
+- [Canon Index](CANON_INDEX.md)

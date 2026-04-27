@@ -11,7 +11,6 @@ This divergence file tracks the Cassowary World change that makes one domesticat
 - Topics: honeypot ants, domestication, nest propagation, scalable sugar production
 - Status: Draft
 - Related species: honeypot ants, cassowaries
-- Source documents: [Honeypot Ant Domestication and Sugar Preservation](../../technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 ## What Changes
 

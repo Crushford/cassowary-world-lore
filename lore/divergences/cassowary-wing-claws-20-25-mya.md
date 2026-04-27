@@ -12,7 +12,6 @@ This divergence file tracks the proposed root change in cassowary wing-claw func
 - Time periods: `20-25 MYA`
 - Status: Canon conflict / needs reconciliation
 - Related species: cassowaries
-- Source documents: [Guiding Principles](../../GUIDING_PRINCIPLES.md)
 
 ## What Changes
 

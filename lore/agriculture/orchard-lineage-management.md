@@ -15,7 +15,6 @@ This document answers how cassowaries preserve and adapt productive orchard tree
 - Related species: orchard trees, cassowaries, aphids, honeypot ants
 - Related technologies: propagation, grafting, transplanting
 - Related institutions: orchard management, land continuity, lineage memory
-- Source documents: [Orchard Lineage Management](../../technical-documents/agriculture/orchard-lineage-management.md)
 
 ## Atomic Notes
 

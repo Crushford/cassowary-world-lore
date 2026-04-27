@@ -67,13 +67,11 @@ Pure real-world facts should move to reference docs or brief context. Atomic not
 
 Stories demonstrate how systems work in lived reality. They do not define canon by themselves. If story material introduces a useful world fact, extract it into a system doc or open question before treating it as canon.
 
-### Retained Source Layer
+### Removed Source Archive
 
-`technical-documents/` remains retained source material during migration.
+Earlier broad mechanism documents were removed after migration. If an old source document is needed for audit or recovery, use Git history.
 
-Technical documents preserve the original mechanism writeups, audit trail, and source context. Early migration passes should not delete, rename, or substantially rewrite source technical documents. When a source document is piloted, add only a brief migration note that links to the new focused lore files.
-
-Root foundation documents should remain overview, navigation, or framework documents unless they contain substantive canon that needs later migration.
+Root foundation documents should remain overview, navigation, or framework documents unless they contain substantive canon that needs migration into `reference/`, `lore/divergences/`, or `lore/`.
 
 ## Top-Level Navigation
 
@@ -82,7 +80,6 @@ Root foundation documents should remain overview, navigation, or framework docum
 - `reference/` contains real-world baseline and world-state documents.
 - `lore/` contains Cassowary World systems and fundamental divergences.
 - `stories/` contains non-canon narrative material.
-- `technical-documents/` remains retained source material and audit history during migration.
 
 ## Core Concept
 
@@ -209,7 +206,6 @@ Optional metadata may include:
 - Related institutions
 - Related technologies
 - Related documents
-- Source documents
 
 Do not invent near-duplicate tags. Pick clear reusable labels.
 
@@ -383,7 +379,7 @@ Work in stages. Preserve meaning while improving structure.
 
 Do not rewrite lore aggressively. Do not invent new canon. Do not silently promote speculative material to canon.
 
-Suggested order:
+Suggested review order:
 
 1. ecology and biology documents
 2. agriculture and infrastructure documents

@@ -16,4 +16,4 @@ Unknown — requires future foundation document drafting.
 
 - [Guiding Principles](GUIDING_PRINCIPLES.md)
 - [Core Logic](CORE_LOGIC.md)
-- [Technical Documents Index](technical-documents/README.md)
+- [World State Reference](reference/world-state-2mya.md)

@@ -14,7 +14,6 @@ This document answers how cassowaries keep aphid-host relationships productive e
 - Status: Canon Candidate
 - Related species: cassowaries, aphids, orchard trees, honeypot ants
 - Related institutions: orchard management, surplus production
-- Source documents: [Aphid Domestication](../../technical-documents/ecology/aphid-domestication.md)
 
 ## Atomic Notes
 

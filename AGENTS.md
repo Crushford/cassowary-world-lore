@@ -69,32 +69,33 @@ Compare each candidate fact against:
 
 - GUIDING_PRINCIPLES.md
 - existing foundation documents
-- existing technical documents
+- existing reference docs
+- existing divergence docs
+- existing lore docs
 
 Classify each as:
 
 - Compatible
 - Contradictory
-- Requires technical documentation
+- Requires lore documentation
 - Open question
 
 Do not silently accept assumptions.
 
 ---
 
-### 4. Technical Documentation
+### 4. Lore Documentation
 
-Accepted or candidate systems must be formalized in technical documents.
+Accepted or candidate systems must be formalized in the active layered knowledge system.
 
-Technical documents convert ideas into structured canon.
+Use the correct layer:
 
-Before drafting any new technical document, agents must read the reference example:
+- `reference/` for real-world baseline and world-state constraints
+- `lore/divergences/` for fundamental changes from the real world
+- `lore/` for Cassowary World systems that emerge from baseline reality plus divergences
+- `stories/` for non-canon narrative exploration
 
-`technical-documents/honeypot-ant-domestication-and-sugar-preservation.md`
-
-Use that document as the default structural model unless the subject clearly requires a different section order.
-
-They must explain:
+Lore system documents must explain:
 
 - what the system is
 - how it works
@@ -109,7 +110,9 @@ They must explain:
 Facts become canon only when documented in:
 
 - foundation files
-- technical documents
+- reference files
+- divergence files
+- lore files
 - or timeline files
 
 Stories are never canon by themselves.
@@ -138,18 +141,15 @@ Do not invent answers to resolve uncertainty.
 
 ---
 
-## Technical Document Requirements
+## Lore Document Requirements
 
-Technical documents must include:
+Focused lore system documents should include:
 
 - Title
-- Status (Draft / Canon Candidate / Canon)
 - Summary
-- Definition
-- Mechanism / Process
-- Evolutionary or Historical Emergence
-- Constraints and Limits
-- Civilizational Implications
+- Metadata
+- Atomic Notes
+- Context
 - Related Documents
 - Open Questions
 
@@ -157,22 +157,22 @@ Focus on mechanisms, not narrative.
 
 ---
 
-## Technical Document Authoring Procedure (Required)
+## Lore Document Authoring Procedure (Required)
 
-When an agent is asked to write a technical document about a subject, follow this procedure:
+When an agent is asked to write a lore document about a subject, follow this procedure:
 
-1. Read `technical-documents/honeypot-ant-domestication-and-sugar-preservation.md` first.
-2. Copy its structure as the starting template.
-3. Replace subject-specific content while preserving causal explanation and constraint language.
-4. Link the document to relevant guiding principles and related technical/foundation docs.
+1. Identify whether the material belongs in `reference/`, `lore/divergences/`, `lore/`, `stories/`, or `99-open-questions.md`.
+2. For system lore, follow the focused Markdown structure used by the honeypot-ant and tribute lore files.
+3. Convert important canon-bearing content into Atomic Notes.
+4. Link the document to relevant reference, divergence, lore, foundation, and timeline docs.
 5. Mark uncertain claims as `Draft` or `Canon Candidate`.
-6. Record unresolved questions in the document's `Open Questions` section (and in `99-open-questions.md` when globally important).
+6. Record unresolved questions in the document's `Open Questions` section and in `99-open-questions.md` when globally important.
 
-This is mandatory so technical docs stay consistent in style, structure, and canon-evaluation quality.
+This is mandatory so lore docs stay consistent in style, structure, and canon-evaluation quality.
 
-## Technical Document Style Definition (Reference Standard)
+## Lore Document Style Definition (Reference Standard)
 
-The reference technical document demonstrates the expected style:
+The honeypot-ant and tribute lore documents demonstrate the expected style:
 
 - neutral, encyclopedia-like tone
 - explicit biological/ecological/technical mechanism
@@ -182,7 +182,7 @@ The reference technical document demonstrates the expected style:
 - dependency/enabling relationships between systems
 - links to related documents
 
-Agents should treat the honeypot-ant document as the model for "how to write a technical document" in this repository.
+Agents should treat those documents as models for focused system lore.
 
 ---
 
@@ -210,8 +210,6 @@ reference/ contains real-world baseline and world-state material.
 
 lore/ contains the retrievable Cassowary World layer: fundamental divergences and focused system docs.
 
-technical-documents/ contains retained source material and audit history during migration.
-
 stories/ contains non-canon narrative exploration.
 
 Do not create unnecessary folders beyond this layered structure.
@@ -226,8 +224,8 @@ Highest authority:
 
 1. GUIDING_PRINCIPLES.md
 2. Foundation documents
-3. Canon technical documents
-4. Draft technical documents
+3. Canon reference, divergence, and lore documents
+4. Draft reference, divergence, and lore documents
 5. Stories and exploratory material
 
 ---

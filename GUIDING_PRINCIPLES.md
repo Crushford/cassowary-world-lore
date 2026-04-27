@@ -130,8 +130,8 @@ It is anthropology through speculative evolution.
 
 ## How to Use This Document
 
-- Use it to evaluate new lore and technical documents
-- Cite relevant principles in technical docs and canon proposals
+- Use it to evaluate new reference, divergence, lore, and story-derived canon proposals
+- Cite relevant principles in lore docs and canon proposals
 - Add ambiguities or unresolved interpretations to `99-open-questions.md`
 
 ## Related Documents
@@ -140,5 +140,4 @@ It is anthropology through speculative evolution.
 - [History and Timeline](03-history-and-timeline.md)
 - [Rules of the World](04-rules-of-the-world.md)
 - [Open Questions](99-open-questions.md)
-- [Technical Documents Index](technical-documents/README.md)
-
+- [Canon Index](CANON_INDEX.md)

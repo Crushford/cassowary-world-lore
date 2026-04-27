@@ -14,7 +14,6 @@ This document answers how cassowary societies produce, standardize, seal, and re
 - Status: Canon Candidate
 - Related technologies: clay sourcing, firing, wax seals, resin seals, vessel standardization
 - Related institutions: storage, preservation, tribute, redistribution
-- Source documents: [Storage and Ceramic Technology](../../technical-documents/infrastructure/storage-and-ceramic-technology.md)
 
 ## Atomic Notes
 

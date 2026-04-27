@@ -14,7 +14,6 @@ This document answers how maintained routes and movement nodes let cassowary soc
 - Status: Canon Candidate
 - Related technologies: path maintenance, river corridors, coastal routes, ridge lines
 - Related institutions: tribute, redistribution, regional integration
-- Source documents: [Transport Networks](../../technical-documents/infrastructure/transport-networks.md)
 
 ## Atomic Notes
 

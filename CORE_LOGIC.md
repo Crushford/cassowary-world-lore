@@ -39,5 +39,4 @@ When a technical document introduces a system, contributors should check:
 
 - [Guiding Principles](GUIDING_PRINCIPLES.md)
 - [Canon Index](CANON_INDEX.md)
-- [Technical Documents Index](technical-documents/README.md)
 - [Open Questions](99-open-questions.md)

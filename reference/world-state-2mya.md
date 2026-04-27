@@ -65,6 +65,5 @@ This file does not attempt a full species catalog.
 ## Related Documents
 
 - [Sahul and Pleistocene Climate](geography/sahul-and-pleistocene-climate.md)
-- [Sahul Glacial Maximum Geography and Climate](../technical-documents/ecology/sahul-glacial-maximum-geography-and-climate-2-mya.md)
 - [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)
