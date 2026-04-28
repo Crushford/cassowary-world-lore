@@ -1,0 +1,9 @@
+{
+  "name": "cassowary-world-lore",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:indexes": "node --experimental-strip-types tools/generate-indexes.ts",
+    "generate:indexes:check": "node --experimental-strip-types tools/generate-indexes.ts --check"
+  }
+}

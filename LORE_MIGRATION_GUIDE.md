@@ -215,8 +215,9 @@ Time labels are controlled metadata values. Do not invent new time labels casual
 
 Initial allowed labels:
 
-- `20-25 MYA`
+- `~12 MYA`
 - `~6-4 MYA`
+- `~4-3 MYA`
 - `4-3 MYA`
 - `~3-2.5 MYA`
 - `~2.5-2 MYA`

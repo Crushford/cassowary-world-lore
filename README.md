@@ -17,18 +17,14 @@ It is organized as a layered causal knowledge base: real-world reference defines
 - `reference/` - real-world baseline and world-state documents
 - `lore/` - retrievable Cassowary World system docs and fundamental divergences
 - `stories/` - non-canon exploratory narrative material and spikes
+- `generated/` - committed deterministic indexes derived from the source docs
 - Root `*.md` files - foundation documents, canon index, open questions, and stable project-level references
 - `README.md` - repository overview
 - `AGENTS.md` - operating instructions for human/AI contributors
 
 ## Current Foundation Docs
 
-- `00-world-overview.md`
-- `01-regions-and-places.md`
-- `02-people-cultures-and-factions.md`
 - `03-history-and-timeline.md`
-- `04-rules-of-the-world.md`
-- `05-story-foundation.md`
 - `GUIDING_PRINCIPLES.md`
 - `CORE_LOGIC.md`
 - `CANON_INDEX.md`
@@ -62,5 +58,6 @@ Active reference and lore systems should be tracked in `CANON_INDEX.md`.
 - Keep root foundation docs stable until specific migration passes justify edits
 - Use `reference/` for real-world baseline, `lore/` for Cassowary World systems, and `stories/` for narrative exploration
 - Add dependency, timeline, and related-document links to lore docs where relevant
+- Keep `generated/` committed and in sync with source docs
 - Prefer updating existing files over creating many new ones
 - Use clear headings and structured Markdown

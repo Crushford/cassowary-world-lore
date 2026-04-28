@@ -9,6 +9,13 @@ This file describes the baseline Earth context for the main Cassowary World sett
 
 This is not a general reference for modern Earth. It is a time-specific baseline for Cassowary World lore.
 
+## Metadata
+
+- Primary topic: World State — ~2 MYA (Representative Glacial Maximum)
+- Topics: geography, climate, Sahul, glacial maximum, sea level, refugia, movement corridors, megafauna, large predators, honeypot ants, aphids
+- Time periods: `~2 MYA`, `~2 MYA representative glacial maximum`
+- Regions: Sahul
+
 ## Core World Picture
 
 - Sahul is a single connected landmass rather than separate modern islands and continents.

@@ -1,0 +1,26 @@
+name: generate-indexes
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build-generated-indexes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --package-lock=false --ignore-scripts
+
+      - name: Generate committed indexes
+        run: npm run generate:indexes
+
+      - name: Check generated files are current
+        run: git diff --exit-code -- generated
