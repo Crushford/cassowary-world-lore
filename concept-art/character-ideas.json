@@ -1,0 +1,38 @@
+{
+  "_createdAt": "2025-08-08T12:50:28Z",
+  "_id": "3fdffd71-1abd-43f4-a067-4bdbb6cb6e0e",
+  "description": "Here is a range of character ideas ",
+  "headerImage": null,
+  "images": [
+    {
+      "_key": "2fc68f1ee5f8",
+      "caption": "betting stand on game day",
+      "image": "/content-images/08e2193082d0f041eda1f41392d1945f3d9e9187-1024x1536.png"
+    },
+    {
+      "_key": "c90eaf6945a9",
+      "caption": "loading dock scene",
+      "image": "/content-images/8f6e137550ebf784416ef48fe612faae07074c02-606x909.png"
+    },
+    {
+      "_key": "3ae5e6d88696",
+      "caption": "Water engineer, you can see how young they are from the small casque",
+      "image": "/content-images/918ae2f0956cabc31f5010ed61a5b9af9502df7d-606x909.png"
+    },
+    {
+      "_key": "0305fbf62f45",
+      "caption": "this is just to show the shape of a cassowary body",
+      "image": "/content-images/32379704cd8da4cb763fe39c65d25a646506ac65-606x909.png"
+    },
+    {
+      "_key": "79c28a788fb2",
+      "caption": "Honey pot ant farmer",
+      "image": "/content-images/c5469274988a6b794ad6aed9c2b1446fb7fb070a-1024x1536.jpg"
+    }
+  ],
+  "slug": {
+    "_type": "slug",
+    "current": "character-ideas"
+  },
+  "title": "Character Ideas"
+}

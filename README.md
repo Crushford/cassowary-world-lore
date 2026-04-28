@@ -2,7 +2,7 @@
 
 This repository is the documentation and canon foundation for the **Cassowary World** project.
 
-It is organized as a causal knowledge base: technical documents explain how systems work, what they depend on, and what they enable.
+It is organized as a layered causal knowledge base: real-world reference defines the baseline, divergences define what changes, lore explains what emerges, and stories demonstrate systems without defining canon.
 
 ## Purpose
 
@@ -12,36 +12,35 @@ It is organized as a causal knowledge base: technical documents explain how syst
 
 ## Repository Structure
 
-- Root `*.md` files - foundation documents, guiding principles, canon index, and repository-level references
-- `technical-documents/` - technical lore pages organized by category (`biology/`, `ecology/`, `agriculture/`, `infrastructure/`, `institutions/`, `frameworks/`)
+- `principles/` - navigation for guiding philosophy and canon constraints
+- `docs/` - navigation for contributor-facing instructions and migration guides
+- `reference/` - real-world baseline and world-state documents
+- `lore/` - retrievable Cassowary World system docs and fundamental divergences
 - `stories/` - non-canon exploratory narrative material and spikes
-- `README.md` - repository overview (this file)
+- `generated/` - committed deterministic indexes derived from the source docs
+- Root `*.md` files - foundation documents, canon index, open questions, and stable project-level references
+- `README.md` - repository overview
 - `AGENTS.md` - operating instructions for human/AI contributors
 
 ## Current Foundation Docs
 
-- `00-world-overview.md`
-- `01-regions-and-places.md`
-- `02-people-cultures-and-factions.md`
 - `03-history-and-timeline.md`
-- `04-rules-of-the-world.md`
-- `05-story-foundation.md`
 - `GUIDING_PRINCIPLES.md`
 - `CORE_LOGIC.md`
 - `CANON_INDEX.md`
 - `99-open-questions.md`
 
-## Technical Documents
+## Active Knowledge Layers
 
-Technical documents are subject-focused reference pages used to explain how a specific feature of the world works, when it emerges, what constrains it, and which downstream systems it enables.
+Active canon and canon candidates live in `reference/`, `lore/divergences/`, and `lore/`.
 
-See `technical-documents/README.md` for category definitions, required sections, and canon-promotion workflow.
+`reference/` defines real-world baseline and world-state constraints. `lore/divergences/` defines deliberate changes from real-world history or biology. `lore/` defines the Cassowary World systems that emerge from those constraints and divergences.
 
 ## Core Logic
 
 `CORE_LOGIC.md` is the inference layer for repository consistency. It captures causal rules and dependency expectations (for example, preservation implies storage infrastructure; storage infrastructure implies ownership and institutional handling).
 
-Technical documents should be checked against `CORE_LOGIC.md` to identify missing dependencies, contradictions, or required placeholder documents.
+Lore documents should be checked against `CORE_LOGIC.md` to identify missing dependencies, contradictions, or required open questions.
 
 ## Canon Promotion
 
@@ -52,12 +51,13 @@ Canon status progresses through documented review, not narrative assertion.
 - `Canon` - explicitly confirmed
 - `Deprecated` - retained for traceability but no longer active canon
 
-Technical systems should be tracked in `CANON_INDEX.md`.
+Active reference and lore systems should be tracked in `CANON_INDEX.md`.
 
 ## Working Style
 
-- Keep core world/canon docs at the repository root
-- Put subject-specific technical reference pages in the appropriate `technical-documents/` category folder
-- Add dependency and timeline sections to technical docs
+- Keep root foundation docs stable until specific migration passes justify edits
+- Use `reference/` for real-world baseline, `lore/` for Cassowary World systems, and `stories/` for narrative exploration
+- Add dependency, timeline, and related-document links to lore docs where relevant
+- Keep `generated/` committed and in sync with source docs
 - Prefer updating existing files over creating many new ones
 - Use clear headings and structured Markdown

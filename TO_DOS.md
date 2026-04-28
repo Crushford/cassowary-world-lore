@@ -2,11 +2,9 @@
 
 This file tracks cross-document follow-up work and unresolved research tasks.
 
-Technical documents should still keep their own `Open Questions` sections for canon consistency.
+Active reference, divergence, and lore files should keep their own `Open Questions` sections for canon consistency.
 
 ## Honeypot Ant Domestication and Sugar Preservation
-
-Source: [technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md](technical-documents/ecology/honeypot-ant-domestication-and-sugar-preservation.md)
 
 - [ ] Determine whether managed ant colonies can be selectively bred for larger repletes.
 - [ ] Estimate typical sugar yield per colony per year under managed orchard conditions.

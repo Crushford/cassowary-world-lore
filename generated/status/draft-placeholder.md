@@ -1,0 +1,9 @@
+# Status Index: Draft Placeholder
+
+| Title                                                                         | Path                               | Layer      | Time Periods | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------- | ---------------------------------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [00 World Overview](../../00-world-overview.md)                               | 00-world-overview.md               | Foundation |              | This placeholder was created during repository restructuring to preserve internal link integrity and provide a future... |
+| [01 Regions and Places](../../01-regions-and-places.md)                       | 01-regions-and-places.md           | Foundation |              | This placeholder was created during repository restructuring to preserve a future foundation-doc anchor.                 |
+| [02 People, Cultures, and Factions](../../02-people-cultures-and-factions.md) | 02-people-cultures-and-factions.md | Foundation |              | This placeholder was created during repository restructuring to preserve the planned foundation-doc sequence.            |
+| [04 Rules of the World](../../04-rules-of-the-world.md)                       | 04-rules-of-the-world.md           | Foundation |              | This placeholder was created during repository restructuring to preserve links and reserve a location for formal worl... |
+| [05 Story Foundation](../../05-story-foundation.md)                           | 05-story-foundation.md             | Foundation |              | This placeholder was created during repository restructuring to preserve the intended foundation-doc sequence.           |

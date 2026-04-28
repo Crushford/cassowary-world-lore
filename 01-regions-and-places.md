@@ -2,7 +2,7 @@
 
 Status: Draft Placeholder
 
-This placeholder was created during repository restructuring to preserve internal links from technical documents.
+This placeholder was created during repository restructuring to preserve a future foundation-doc anchor.
 
 ## Intended Role
 
@@ -15,5 +15,4 @@ Unknown — requires future foundation document drafting.
 ## Related Documents
 
 - [History and Timeline](03-history-and-timeline.md)
-- [Rules of the World](04-rules-of-the-world.md)
-- [Technical Documents Index](technical-documents/README.md)
+- [World State Reference](reference/world-state-2mya.md)
