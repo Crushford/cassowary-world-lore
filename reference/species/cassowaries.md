@@ -17,10 +17,10 @@ This reference explains real-world cassowary traits that matter for Cassowary Wo
 
 ## Relevance to Cassowary World
 
-Cassowary World begins from this biological baseline and then introduces a controlled wing-claw divergence. Later civilization must still follow cassowary anatomy rather than importing human assumptions.
+Cassowary World begins from this biological baseline and then introduces a controlled wing-claw divergence around `~12 MYA`. Later civilization must still follow cassowary anatomy rather than importing human assumptions.
 
 ## Related Documents
 
-- [Cassowary Wing-Claws 20-25 MYA](../../lore/divergences/cassowary-wing-claws-20-25-mya.md)
+- [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md)
 - [Guiding Principles](../../GUIDING_PRINCIPLES.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)

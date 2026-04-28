@@ -17,21 +17,15 @@ This document answers how early tribute is collected, counted, audited, and enfo
 
 ## Atomic Notes
 
-- Tribute collection is a transport-and-custody process.
-- Households or local groups fill and seal standard tribute vessels after preservation cycles.
-- Vessels are hand-carried during seasonal gathering windows.
-- Collection occurs at socially agreed nodes, often located at productive or strategic sites such as orchard grounds, storage groves, ridge camps, or river junction settlements.
-- Vessels are counted and sorted through visible type, size, seal status, storage position, and public witnessing rather than abstract written accounts.
+- Tribute collection is a transport-and-custody process built around standard vessels.
+- Households or local groups fill and seal tribute vessels after preservation cycles, then carry them during seasonal gathering windows.
+- Collection occurs at socially agreed nodes where vessels are counted and sorted through visible form, seal status, and public witnessing rather than abstract written accounts.
 - Selected tribute shares may be retained locally or forwarded to regional storage nodes.
 - Poor routes or seasonal access failures make tribute collection more local, episodic, and dependent on nearby storage nodes.
-- Intake practices combine sorting, lineage or locality placement, new custody seals, and stock rotation into one visible administrative routine.
-- The earliest administrative record is spatial and social: memory, public inspection, and physical arrangement carry audit meaning before notation.
-- Symbolic notation may emerge later but is not required for early tribute enforcement.
+- Intake practices combine sorting, custody seals, and stock rotation into one visible administrative routine.
 - Early tribute enforcement uses control of stored food, productive orchard zones, protected ant-management areas, and coalition dominance rather than specialized police forces.
-- Public sanction can punish seal tampering or contribution refusal.
 - Standardized vessels create recurring administrative labor in sealing, inspecting, guarding, sorting, rotating, collecting, and redistributing stored goods.
-- Early administrators likely emerge as part-time custodians.
-- Part-time custodians may be attached to powerful lineages, ritual centers, or storage coalitions.
+- Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
 - Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
 
 ## Context

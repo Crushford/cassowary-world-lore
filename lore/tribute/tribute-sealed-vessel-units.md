@@ -17,16 +17,12 @@ This document answers how early cassowary tribute becomes measurable before weig
 
 ## Atomic Notes
 
-- Tribute and taxation are recurring institutional systems for surplus extraction and redistribution.
-- Early tribute obligations become administratively usable when they are expressed as counts of standardized physical units.
-- In early cassowary civilizations, the primary taxable unit is expected to be a sealed ceramic volume container containing preserved sugar paste or related preserved foods.
+- Tribute obligations become administratively usable when they are expressed as counts of standardized physical units.
+- In early cassowary civilizations, the primary tribute unit is a sealed ceramic container filled with preserved sugar paste or related preserved foods.
 - Container volume precedes abstract weight measurement because repeatable vessel form can be visually compared without precision scales.
-- Vessel counts remain legible even when mass varies by moisture content or product type.
-- Early vessel accounting is often content-specific because sugar paste jars, oil jars, and other preserved goods are not automatically equivalent.
-- Repeatable shape, stable geometry, narrow necks, fill conventions, markable surfaces, and breakable seals make quantity and custody visible.
+- Vessel form, fill convention, and visible seals make quantity and custody legible even when contents vary.
 - Proto-tribute through repeated seasonal vessel contributions appears in `~3.2-2.8 MYA`.
 - Standardized sealed vessel tribute appears in some core regions in `~2.7-2.3 MYA`.
-- Vessel form and fill convention become politically meaningful during standardized sealed vessel tribute.
 - Content heterogeneity, imperfect ceramic control, breakage, shape drift, and fill-line disputes limit trust in equal tribute units.
 
 ## Context

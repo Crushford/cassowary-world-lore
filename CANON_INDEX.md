@@ -8,7 +8,7 @@ Do not promote a system to `Canon` unless explicitly confirmed.
 
 ## Canon
 
-None currently listed.
+- [Moa Mounted Warfare](lore/transport/moa-mounted-warfare.md) (`transport`)
 
 ## Reference Baseline
 
@@ -40,9 +40,8 @@ None currently listed.
 
 ## Divergences
 
-- [Cassowary Wing-Claws 20-25 MYA](lore/divergences/cassowary-wing-claws-20-25-mya.md) (`divergence`)
+- [Cassowary Wing-Claws ~12 MYA](lore/divergences/cassowary-wing-claws-12-mya.md) (`divergence`)
 - [Honeypot Ant Nest Splitting](lore/divergences/honeypot-ant-nest-splitting.md) (`divergence`)
-- [Moa Ridability Undefined](lore/divergences/moa-ridability-undefined.md) (`divergence`)
 
 ## Removed Source Archive
 

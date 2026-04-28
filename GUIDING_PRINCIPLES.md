@@ -12,7 +12,7 @@ This is not fantasy. It is counterfactual natural history.
 
 ## 1. One Divergence, Then No Magic
 
-Cassowary World diverges from our world around twelve million years ago, when cassowaries develop functional grasping claws on their vestigial wings.
+Cassowary World diverges from our world around twelve million years ago, when rising predator pressure selects for stronger grasping claws on cassowary vestigial wings.
 
 This is the single improbable mutation that begins the chain. Everything else must emerge through ordinary evolution, ecology, and cultural development.
 
@@ -136,8 +136,6 @@ It is anthropology through speculative evolution.
 
 ## Related Documents
 
-- [World Overview](00-world-overview.md)
 - [History and Timeline](03-history-and-timeline.md)
-- [Rules of the World](04-rules-of-the-world.md)
 - [Open Questions](99-open-questions.md)
 - [Canon Index](CANON_INDEX.md)

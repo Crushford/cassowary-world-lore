@@ -6,9 +6,8 @@ Lore docs explain what emerges from real-world baseline conditions plus fundamen
 
 ## Fundamental Divergences
 
-- [Cassowary Wing-Claws 20-25 MYA](divergences/cassowary-wing-claws-20-25-mya.md)
+- [Cassowary Wing-Claws ~12 MYA](divergences/cassowary-wing-claws-12-mya.md)
 - [Honeypot Ant Nest Splitting](divergences/honeypot-ant-nest-splitting.md)
-- [Moa Ridability Undefined](divergences/moa-ridability-undefined.md)
 
 ## Biology
 
@@ -28,6 +27,10 @@ Lore docs explain what emerges from real-world baseline conditions plus fundamen
 - [Tribute Seal Integrity and Authority Marks](tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Storage Custody and Redistribution](tribute/tribute-storage-custody-and-redistribution.md)
 - [Tribute Collection Counting and Enforcement](tribute/tribute-collection-counting-and-enforcement.md)
+
+## Transport
+
+- [Moa Mounted Warfare](transport/moa-mounted-warfare.md)
 
 ## Frameworks
 

@@ -18,23 +18,17 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 
 ## Atomic Notes
 
-- Honeypot ant orchard management provides a biologically mediated surplus strategy under Sahul orchard ecologies rather than a grain-like field agriculture system.
-- Cassowaries manage an ecological production chain in which tree sap passes through aphids, honeydew, honeypot ants, replete reserves, harvest, and preservation.
-- The system is ecological partnership domestication: cassowaries exploit existing ant and aphid behaviors rather than creating new storage biology.
-- Cassowary management stabilizes host trees, aphid populations, nest conditions, and harvest intensity as linked parts of one production system.
-- Maintaining sap-rich host trees increases predictable honeydew availability for managed honeypot ant colonies.
-- Cassowaries protect productive aphid-host relationships by reducing disturbance and discouraging disruptive predators or competing insects where feasible.
+- Honeypot ant orchard management turns orchard trees, aphids, and ant reserves into a linked surplus system rather than a simple harvest of wild colonies.
+- Cassowary intervention stabilizes host trees, aphid populations, nest conditions, and harvest intensity as one production chain.
 - The system develops from opportunistic consumption in `~6-4 MYA`, repeated harvesting in `4-3 MYA`, early domestication in `~3-2.5 MYA`, and regional civilizational dependence in `~2.5-2 MYA`.
 - Adoption remains uneven across Sahul because ecological variation, climate, and species distributions constrain where orchard-ant systems can persist.
 - Long-term orchard stability is a prerequisite for reliable honeypot ant output.
-- Host-tree decline can cascade into aphid loss, lower honeydew flow, and reduced ant reserves.
-- Honeypot ant production is slower and more ecologically contingent than annual grain harvest systems.
+- Host-tree decline, aphid loss, or climate stress can cascade into lower honeydew flow and reduced ant reserves.
 - Spread of the system occurs more reliably through orchard replication than colony transport; scalable colony propagation should reference the nest-splitting divergence.
-- Climate shifts that disrupt aphid-host relationships destabilize the entire production chain.
 
 ## Context
 
-Honeypot ant orchard system management gives cassowary civilization a plausible alternative to grain-based surplus under the constraints described in [World State — ~2 MYA](../../reference/world-state-2mya.md). The system works because cassowaries intervene in the real baseline described in [Honeypot Ants](../../reference/species/honeypot-ants.md) and [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md) instead of inventing a new biological storage behavior.
+Honeypot ant orchard system management gives cassowary civilization a plausible alternative to grain-based surplus under the constraints described in [World State — ~2 MYA](../../reference/world-state-2mya.md). The real biological baseline is in [Honeypot Ants](../../reference/species/honeypot-ants.md) and [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md); this file only tracks how cassowary management turns those baseline relationships into a surplus system.
 
 The important productive unit is not a single crop species. It is a managed relationship among orchard trees, sap-feeding insects, and ants that already store carbohydrates in replete workers. Cassowary management increases reliability by stabilizing host trees, aphid populations, and colony conditions.
 

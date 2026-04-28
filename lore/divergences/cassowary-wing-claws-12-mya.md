@@ -1,16 +1,16 @@
-# Cassowary Wing-Claws 20-25 MYA
+# Cassowary Wing-Claws ~12 MYA
 
 ## Summary
 
-This divergence file tracks the proposed root change in cassowary wing-claw function. It explains what differs from real cassowaries, why it matters, and what still needs canon reconciliation.
+This divergence file tracks the root change in cassowary wing-claw function. Around `~12 MYA`, rising predator pressure selects for stronger functional claws on cassowary vestigial wings. The adaptation begins as a defensive evolutionary response and later supports manipulation.
 
 ## Metadata
 
 - Layer: Fundamental divergence
 - Primary topic: cassowary wing-claw divergence
 - Topics: cassowary anatomy, wing claws, manipulation, evolutionary divergence
-- Time periods: `20-25 MYA`
-- Status: Canon conflict / needs reconciliation
+- Time periods: `~12 MYA`
+- Status: Canon
 - Related species: cassowaries
 
 ## What Changes
@@ -21,9 +21,7 @@ This differs from real cassowaries by making the vestigial wing-claw system more
 
 ## When
 
-The proposed timing is `20-25 MYA`.
-
-This conflicts with the older root statement in [Guiding Principles](../../GUIDING_PRINCIPLES.md), which places the divergence around twelve million years ago. This file therefore flags a canon conflict rather than resolving it silently.
+The divergence begins around `~12 MYA` in response to major predator pressure, including marsupial-lion-like predators.
 
 ## Capabilities Enabled
 
@@ -37,13 +35,12 @@ This conflicts with the older root statement in [Guiding Principles](../../GUIDI
 - Cassowary tool use, carrying, craft, storage, and transport systems.
 - Long-term cognitive and cultural development that depends on persistent manipulative capacity.
 
-## Canon Reconciliation Needed
+## Canon Notes
 
-The timeline conflict remains unresolved. Do not duplicate or normalize this divergence elsewhere until the root date is confirmed.
+Do not reintroduce a later divergence date or treat the wing-claw adaptation as unrelated to predator pressure.
 
 ## Open Questions
 
-- Should the canonical root divergence date be revised from twelve million years ago to `20-25 MYA`?
 - What anatomical pathway connects chick clinging claws to later load-bearing manipulation?
 - Which intermediate stages need technical documentation?
 

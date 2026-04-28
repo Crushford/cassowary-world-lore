@@ -7,7 +7,6 @@ This document tracks unresolved canon decisions and system gaps.
 ## Biology
 
 - What anatomical model supports the neurodevelopment document's casque-associated executive integration hypothesis?
-- Should the canonical cassowary wing-claw divergence date remain around twelve million years ago as stated in `GUIDING_PRINCIPLES.md`, or be revised to `20-25 MYA` as tracked in the divergence layer?
 - What anatomical pathway connects stronger chick wing-claws to later load-bearing manipulation?
 
 ## Agriculture
@@ -35,11 +34,15 @@ This document tracks unresolved canon decisions and system gaps.
 
 ## Infrastructure
 
-- Does moa ridability require a fundamental divergence, selective domestication, equipment, or all three?
 - What storage life is plausible for preserved sugar paste under different ceramic and sealant methods?
 - Transport maintenance and route governance
 - When do preservation vessels become standardized enough for tribute accounting?
 - What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+
+## Transport
+
+- What biological or breeding mechanism makes moas rideable without treating ridability as an unexplained universal trait?
+- Which combination of selection, breeding, and training best explains moas being used as mounts across Sahul?
 
 ## Timeline
 

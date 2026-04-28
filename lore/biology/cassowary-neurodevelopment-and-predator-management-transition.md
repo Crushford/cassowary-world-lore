@@ -30,7 +30,7 @@ This document answers how cassowary cognition shifts during the `4-3 MYA` transi
 
 ## Context
 
-This file sits beside [Cassowary Wing-Claws 20-25 MYA](../../lore/divergences/cassowary-wing-claws-20-25-mya.md) because later cognitive and social development depends on earlier anatomical capacity. The real species baseline is summarized in [Cassowaries](../../reference/species/cassowaries.md). The broader ecological stage is constrained by [World State — ~2 MYA](../../reference/world-state-2mya.md), though this transition itself occurs earlier.
+This file sits beside [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md) because later cognitive and social development depends on earlier anatomical capacity. The real species baseline is summarized in [Cassowaries](../../reference/species/cassowaries.md). The broader ecological stage is constrained by [World State — ~2 MYA](../../reference/world-state-2mya.md), though this transition itself occurs earlier.
 
 The important claim is not that cassowaries become human-like. It is that cognition becomes socially load-bearing: chicks learn through prolonged dependency, coalitions matter more, and predators can be managed through repeated collective behavior rather than only escape.
 
@@ -43,7 +43,7 @@ The important claim is not that cassowaries become human-like. It is that cognit
 
 ## Related Documents
 
-- [Cassowary Wing-Claws 20-25 MYA](../../lore/divergences/cassowary-wing-claws-20-25-mya.md)
+- [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
 - [History and Timeline](../../03-history-and-timeline.md)

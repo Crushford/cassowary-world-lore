@@ -20,8 +20,6 @@ This document answers how cassowary societies convert perishable orchard and ant
 - Food preservation systems convert perishable orchard and ant-derived calories into durable stored surplus.
 - The system combines sugar concentration, drying, sealed ceramics, cool storage, and rotation rather than relying on one universal storage method.
 - Preserved sugar paste is the most institutionally important stored calorie because it is dense, sealable, and transportable.
-- Drying and oil storage extend the same surplus logic to other food classes where climate and crop type allow it.
-- Cool storage and sealed containers reduce but do not eliminate spoilage, heat damage, pest access, and leakage.
 - Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
 - Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
