@@ -16,6 +16,9 @@ This document tracks unresolved canon decisions and system gaps.
 
 - What is a plausible annual yield range for managed honeypot ant colonies under different orchard ecologies?
 - When does a functional crop-portfolio model become an explicit planning framework rather than local practice?
+- Which tree lineages are most important as sap-flow hosts, fruit-and-sap dual trees, nurse canopy trees, and boundary or sacrifice trees across different Sahul regions?
+- Which propagation methods best preserve honeydew-supporting traits across regions: seed, transplant, grafting, or mixed systems?
+- How often can regional substitutions preserve orchard function without preserving exact species?
 
 ## Ecology
 
@@ -27,6 +30,11 @@ This document tracks unresolved canon decisions and system gaps.
 - Which dromornithid genera or species are most appropriate for the `~2 MYA` representative world-state window?
 - Does Cassowary World require stronger or earlier Haast's eagle predation pressure to support moa domestication?
 - Which moa behaviours are plausibly shaped by eagle predation without making moas horse-like herd animals?
+- Which real-world honeypot ant lineages are the best baselines for dryland, woodland, wet-margin, upland, and coastal shelf ecotypes?
+- How far can honeypot ant systems be extended into wet environments before pottery and drainage demands become unsustainable at village-orchard scale?
+- Which sap-feeding insects besides aphids are plausible honeydew partners in different Sahul regions?
+- What sap-feeder density remains productive before host-tree damage rises sharply, and does this threshold differ significantly between lineage types?
+- Which predators, parasites, fungi, and flood conditions most strongly limit wet-margin ant systems?
 
 ## Institutions
 
@@ -37,6 +45,9 @@ This document tracks unresolved canon decisions and system gaps.
 - How many seal-recognition marks can be reliably managed with memory-and-witness systems before symbolic tallying becomes necessary?
 - How are mixed tribute goods (sugar paste, dried fruit, oils) handled before abstract cross-product accounting emerges?
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
+- When does orchard-cluster yield become formalised as a tribute obligation?
+- Are tribute obligations based on nest count, orchard area, vessel count, or expected seasonal yield?
+- Who controls elite ant lineages and grafted sugar-tree lineages, and when does that control become a formalised institutional or property claim?
 
 ## Infrastructure
 
@@ -44,6 +55,10 @@ This document tracks unresolved canon decisions and system gaps.
 - Transport maintenance and route governance
 - When do preservation vessels become standardized enough for tribute accounting?
 - What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+- What shapes and sizes are most plausible for nest-assist pots, harvest bowls, household jars, and tribute jars given cassowary anatomy and orchard conditions?
+- Which ceramic forms emerge first: nest-assist chambers, household storage jars, or tribute vessels?
+- How do wet-margin nest pots manage drainage, airflow, and fungal risk in practice?
+- How long do nest-assist pots last before cracking, clogging, or being abandoned by colonies?
 
 ## Transport
 
