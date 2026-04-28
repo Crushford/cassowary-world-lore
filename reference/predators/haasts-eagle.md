@@ -5,35 +5,28 @@ Status: Draft
 
 ## Summary
 
-This file records baseline information about Haast's eagle as the major real-world predator of New Zealand moas. It supports Cassowary World lore about moa predator pressure, moa social behavior, and the domestication pathway used by early New Zealand cassowary populations.
+This reference documents Haast's eagle as the real-world predator-pressure baseline for moa behaviour in New Zealand. It covers verified biology and the constraints this imposes on lore claims about moa ecology, vigilance, and domestication.
 
-## Metadata
+## Useful Baseline
 
-- Primary topic: Haast's eagle
-- Topics: New Zealand, moa predation, giant eagles, predator pressure, extinction, ecological constraints
-- Time periods: prehistoric New Zealand; Cassowary World relevance depends on later lore about moa domestication and New Zealand settlement
-- Regions: New Zealand
-- Related species: moas, cassowaries
+- Haast's eagle (*Hieraaetus moorei*) was a giant eagle endemic to New Zealand's South Island.
+- It was among the largest eagles known, with females substantially larger than males.
+- Haast's eagle preyed primarily on moas, including large adult females.
+- It is the strongest real-world baseline for top predator pressure on moa populations.
+- Haast's eagle went extinct following the loss of its moa prey after human arrival in New Zealand.
+- No equivalent top aerial predator operated in New Zealand before human contact.
 
-## Atomic Notes
+## Relevance to Cassowary World
 
-- Haast's eagle was a giant eagle from New Zealand.
-- Haast's eagle preyed on moas and is the strongest real-world baseline for moa predator pressure.
-- Moa predation pressure is relevant to Cassowary World because it can shape vigilance, chick defense, nursery behavior, and movement patterns.
-- Haast's eagle went extinct after the loss of moa prey in the real world.
-- Claims that Haast's eagle was earlier, more diverse, more intense, or behaviorally different in Cassowary World belong in lore rather than this reference baseline.
+Haast's eagle establishes that moas faced real and substantial predation pressure from an aerial predator capable of taking large adults. This supports lore claims about moa vigilance behaviour, chick defence, group movement patterns, and responses to novel handlers. Moa predator pressure is a plausible foundation for domestication-relevant behaviours such as nursery grouping and chick dependency, without requiring invented predators.
 
-## Context
+Any claim that Haast's eagle was earlier, more widespread, behaviourally distinct, or ecologically different in Cassowary World from its real-world baseline belongs in lore documents, not here.
 
-Haast's eagle is a better baseline source for moa predator pressure than importing unrelated terror birds into New Zealand. It gives Cassowary World a real ecological bridge for explaining why some moa lineages might become more socially responsive, chick-protective, and predictable under predator pressure.
+## Limits
 
-Any Cassowary World claim that intensified eagle pressure made moas more domesticable should be documented as a lore system or divergence. This reference file only establishes the real-world predator relationship and why it matters.
-
-## Open Questions
-
-- Does Cassowary World require stronger or earlier eagle pressure to support moa sociality and domestication?
-- Which moa behaviors are plausibly shaped by eagle predation without making moas horse-like herd animals?
-- Should intensified moa predator pressure be documented as a separate ecology lore file?
+- Do not use Haast's eagle as evidence that moas were docile, easily handled, or naturally social in ways suited to domestication. Predator pressure shapes vigilance and flight response, not tameness.
+- Do not invent additional New Zealand terror birds or large cursorial predators without a lore document establishing the divergence.
+- Do not assume Haast's eagle predation patterns apply uniformly across all moa species or all New Zealand habitats.
 
 ## Related Documents
 

@@ -17,10 +17,14 @@ Do not promote a system to `Canon` unless explicitly confirmed.
 - [Cassowaries](reference/species/cassowaries.md)
 - [Honeypot Ants](reference/species/honeypot-ants.md)
 - [Aphid-Ant Relationships](reference/ecology/aphid-ant-relationships.md)
+- [Dromornithidae](reference/megafauna/dromornithidae.md)
+- [Moas](reference/species/moas.md)
+- [Haast's Eagle](reference/predators/haasts-eagle.md)
 
 ## Canon Candidates
 
 - [Cassowary Neurodevelopment and Predator Management Transition](lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) (`biology`)
+- [Fire Incubation and Extended Juvenile Development](lore/biology/fire-incubation-and-extended-juvenile-development.md) (`biology`)
 - [Aphid Stabilization](lore/ecology/aphid-stabilization.md) (`ecology`)
 - [Orchard Lineage Management](lore/agriculture/orchard-lineage-management.md) (`agriculture`)
 - [Storage and Ceramic Technology](lore/infrastructure/storage-and-ceramic-technology.md) (`infrastructure`)
@@ -33,10 +37,14 @@ Do not promote a system to `Canon` unless explicitly confirmed.
 - [Tribute Seal Integrity and Authority Marks](lore/tribute/tribute-seal-integrity-and-authority-marks.md) (`institutions`)
 - [Tribute Storage Custody and Redistribution](lore/tribute/tribute-storage-custody-and-redistribution.md) (`institutions`)
 - [Tribute Collection Counting and Enforcement](lore/tribute/tribute-collection-counting-and-enforcement.md) (`institutions`)
+- [Sahul-New Zealand Maritime Contact](lore/transport/sahul-new-zealand-maritime-contact.md) (`transport`)
+- [Moa Domestication and Ridability](lore/transport/moa-domestication-and-ridability.md) (`transport`)
 
 ## Draft Systems
 
 - [Sahul Food Forest Functional Crop Portfolio](lore/frameworks/sahul-food-forest-functional-crop-portfolio.md) (`frameworks`)
+- [First New Zealand Arrival](lore/transport/first-new-zealand-arrival.md) (`transport`)
+- [Dromornithid Prestige Handling](lore/domestication/dromornithid-prestige-handling.md) (`domestication`)
 
 ## Divergences
 

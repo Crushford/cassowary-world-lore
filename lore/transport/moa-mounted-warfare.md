@@ -20,7 +20,8 @@ This document explains how moas function as mounts and transport animals in Cass
 - The northern empire imports moas from New Zealand and breeds them across Sahul.
 - Moas become part of warfare and transport systems rather than remaining a local curiosity.
 - Cassowaries ride moas in Sahul, so the system must support mount use in practice.
-- The biological or breeding mechanism that makes moas rideable remains unresolved and is tracked separately as an open question.
+- The ridability mechanism is addressed in [Moa Domestication and Ridability](moa-domestication-and-ridability.md) as a Canon Candidate. It remains under review but is no longer entirely absent.
+- Moas arrive in Sahul from New Zealand via the maritime contact system described in [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md), as already-managed lineages rather than wild captures.
 
 ## Context
 
@@ -28,10 +29,14 @@ This is a system doc, not a divergence doc. The canon claim is that moas are use
 
 ## Open Questions
 
-- What biological or breeding mechanism makes moas rideable?
-- Which combination of selection, breeding, and training best explains moa mountability across Sahul?
+- Which moa lineages are most suitable for warfare and heavy transport use?
+- How does Sahul breeding continue the selection work begun in New Zealand?
 
 ## Related Documents
 
+- [Moa Domestication and Ridability](moa-domestication-and-ridability.md)
+- [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md)
+- [First New Zealand Arrival](first-new-zealand-arrival.md)
+- [Moas](../../reference/species/moas.md)
 - [Open Questions](../../99-open-questions.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
