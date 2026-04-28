@@ -2,13 +2,13 @@
 
 ## Summary
 
-This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preservation and administrative storage possible.
+This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preservation and administrative storage possible. Ceramic technology serves two distinct functions: living-system nest infrastructure and dead-storage sealed vessels. These are different objects with different forms and different institutional meanings.
 
 ## Metadata
 
 - Layer: Cassowary World system
 - Primary topic: storage and ceramic technology
-- Topics: ceramics, vessels, sealing, standardization, preservation infrastructure
+- Topics: ceramics, vessels, sealing, standardization, preservation infrastructure, nest-assist pots, tribute jars
 - Time periods: `~4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
 - Status: Canon Candidate
@@ -23,12 +23,18 @@ This document answers how cassowary societies produce, standardize, seal, and re
 - Breakage, firing inconsistency, and seal failure reduce the value of stored surplus even when the food itself is still available.
 - Standardization becomes politically important when vessels must move between producers, storage sites, and tribute systems.
 - Ceramic containers are not just storage tools; they are measurement and custody tools.
+- Ceramic technology supports both living nest infrastructure and sealed dead-storage vessels. These are distinct uses with different vessel requirements.
+- Nest-assist pots and tribute jars have different shapes, functions, and authority meanings. A nest-assist pot is rough-surfaced, root-bound, and site-specific. A tribute jar is sealed, marked, standardised, and transportable.
+- The transition from nest-assist pot to tribute jar tracks the transition from ecological management to political accounting. Both are ceramic, but they serve opposite ends of the production chain.
+- Nest-assist pot design prioritises ant acceptance, stability in soil, and repeated access. Tribute jar design prioritises seal integrity, volume standardisation, and authority recognition.
 
 ## Context
 
 This infrastructure underlies [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md), [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md), and [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md). The baseline world-state constraints on climate, spoilage, and movement are anchored in [World State — ~2 MYA](../../reference/world-state-2mya.md).
 
 The important shift is that containers become administratively meaningful. Once a vessel can be recognized, sealed, counted, and trusted after transport, it becomes part of the surplus system itself rather than a neutral wrapper.
+
+[Pottery-Assisted Ant Nest Architecture](pottery-assisted-ant-nest-architecture.md) describes the full taxonomy of vessel classes in the ant orchard system: nest-assist pots, harvest bowls, household jars, tribute jars, and estate vessels. The real-world material baseline for why ceramic chambers work as nest architecture is in [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md).
 
 ## Open Questions
 
@@ -39,8 +45,10 @@ The important shift is that containers become administratively meaningful. Once 
 
 ## Related Documents
 
+- [Pottery-Assisted Ant Nest Architecture](pottery-assisted-ant-nest-architecture.md)
 - [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
 - [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md)
+- [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
 - [Open Questions](../../99-open-questions.md)
