@@ -9,7 +9,6 @@ This document establishes that cassowaries reached New Zealand before the regula
 - Layer: Cassowary World system
 - Primary topic: first cassowary arrival in New Zealand
 - Topics: New Zealand, migration, maritime contact, first settlement, isolation, moa encounter
-- Time periods: earlier unresolved glacial window, pre-trade isolation period
 - Regions: New Zealand, Sahul coastal margins
 - Status: Draft
 - Related species: cassowaries, moas

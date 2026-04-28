@@ -2,16 +2,11 @@
 
 - Docs scanned: 50
 - Topic indexes: 21
-- Time indexes: 13
+- Time indexes: 11
 - Layer indexes: 4
 - Status indexes: 6
-- Errors: 2
+- Errors: 0
 - Warnings: 11
-
-## Errors
-
-- lore/transport/first-new-zealand-arrival.md: Unknown time label: earlier unresolved glacial window [unknown-time-label]
-- lore/transport/first-new-zealand-arrival.md: Unknown time label: pre-trade isolation period [unknown-time-label]
 
 ## Warnings
 

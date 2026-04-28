@@ -104,10 +104,10 @@ Back-of-book style index of topics with at least two references.
 
 ## New Zealand
 
-| Title                                                                                         | Path                                                 | Layer | Status          | Summary                                                                                                                  | Time Periods                                                  |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                   | lore/transport/first-new-zealand-arrival.md          | Lore  | Draft           | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... | earlier unresolved glacial window, pre-trade isolation period |
-| [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md) | lore/transport/sahul-new-zealand-maritime-contact.md | Lore  | Canon Candidate | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... | ~2.5-2 MYA                                                    |
+| Title                                                                                         | Path                                                 | Layer | Status          | Summary                                                                                                                  | Time Periods |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                   | lore/transport/first-new-zealand-arrival.md          | Lore  | Draft           | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |              |
+| [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md) | lore/transport/sahul-new-zealand-maritime-contact.md | Lore  | Canon Candidate | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... | ~2.5-2 MYA   |
 
 ## Orchard Management
 

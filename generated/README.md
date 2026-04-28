@@ -41,5 +41,3 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [~2.7-2.3 MYA](time/~2-7-2-3-mya.md)
 - [~2.2-1.8 MYA](time/~2-2-1-8-mya.md)
 - [~2 MYA representative glacial maximum](time/~2-mya-representative-glacial-maximum.md)
-- [earlier unresolved glacial window](time/earlier-unresolved-glacial-window.md)
-- [pre-trade isolation period](time/pre-trade-isolation-period.md)
