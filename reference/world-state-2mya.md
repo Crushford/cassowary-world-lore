@@ -32,6 +32,8 @@ This is not a general reference for modern Earth. It is a time-specific baseline
 - The Torres Strait area and Arafura Shelf support land connectivity between northern Australia and New Guinea.
 - The Gulf of Carpentaria is not equivalent to its modern marine form and may function as exposed lowland, basin, or seasonal wetland depending on local conditions.
 - Modern coastal geography should not be assumed for settlement, travel, or resource access.
+- Deep-water channels between Sahul and the Indonesian island chain persist even at glacial maximum sea levels. The westward crossing toward Indonesia remains a significant barrier at `~2 MYA`.
+- Cassowary expansion by `~2 MYA` does not include Indonesia or Southeast Asian island groups. The reason is not resolved; see [Open Questions](../99-open-questions.md).
 
 ## Climate
 

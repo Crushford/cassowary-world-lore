@@ -51,7 +51,8 @@ This document tracks unresolved canon decisions and system gaps.
 - Which combination of selection, breeding, and training best explains moas being used as mounts across Sahul?
 - How did the first cassowary population reach New Zealand before regular trade routes?
 - Was the first New Zealand arrival accidental, exploratory, storm-driven, or mixed?
-- Why did early maritime capability not produce durable expansion beyond the Sahul-New Zealand system?
+- Why did cassowaries reach New Zealand but not Indonesia or Southeast Asia by `~2 MYA`? Is the absence from Indonesia explained by crossing difficulty (deep-water channels, sea conditions), ecological incompatibility (cassowary crops and food systems not establishing well in Indonesian island ecologies), danger, or some combination?
+- Does the deep-water channel barrier between Sahul and Indonesia fully explain the westward limit, or are other factors involved?
 - Were the first managed moas hatched from stolen eggs, captured chicks, or both?
 - Which moa lineages became rideable, and were female moas the primary riding animals?
 

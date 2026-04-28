@@ -26,6 +26,9 @@ This document establishes that cassowaries reached New Zealand before the regula
 - First arrival does not imply broad cassowary expansion outside the Sahul-New Zealand system.
 - Early New Zealand cassowary groups become isolated long enough to develop local lifeways and moa-handling traditions before reconnection.
 - Later trade routes connect Sahul societies to already-established New Zealand cassowary groups and managed moa lineages, not to an uninhabited island.
+- By `~2 MYA`, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
+- The absence from Indonesia is established canon. The reason for that absence is not resolved.
+- Possible contributing factors include: deep-water channels toward the west that persist even at glacial maximum sea levels; dangerous open-sea crossing conditions; and the possibility that cassowary food systems and orchard crops do not establish well in the different ecologies of the Indonesian island chain. None of these is confirmed as the primary cause.
 
 ## Context
 
@@ -38,6 +41,7 @@ This document establishes that prior presence without needing to resolve the arr
 - Do not infer a durable blue-water navigation tradition from first arrival. The mechanism may have been accidental.
 - Do not infer broad geographic expansion from first arrival. The Sahul-New Zealand route is the only system supported here.
 - Do not shorten the isolation period speculatively. The gap between arrival and regular trade needs to be long enough for independent moa domestication traditions to develop.
+- Do not extend cassowary range to Indonesia or Southeast Asia without a separate lore document establishing a specific mechanism. The absence from Indonesia is the baseline.
 
 ## Open Questions
 
@@ -45,7 +49,8 @@ This document establishes that prior presence without needing to resolve the arr
 - Was the arrival accidental, exploratory, storm-driven, or mixed?
 - How large was the founding cassowary population?
 - Did early settlers retain memory of Sahul, or did Sahul become mythic before reconnection?
-- Why did early maritime capability not produce durable expansion beyond the Sahul-New Zealand system?
+- Why did cassowaries reach New Zealand but not Indonesia or Southeast Asia? Is it crossing distance and sea conditions, ecological incompatibility (crops, food systems), danger, or some combination?
+- Does the deep-water channel barrier toward Indonesia fully explain the westward limit, or are other factors involved?
 
 ## Related Documents
 
