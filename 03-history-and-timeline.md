@@ -23,6 +23,15 @@ This page records only the broad time anchors already used by active lore files.
 - `~2.2-1.8 MYA` - regional storage centers and route governance
   - [Food Preservation and Storage Systems](lore/infrastructure/food-preservation-and-storage-systems.md)
   - [Transport Networks](lore/infrastructure/transport-networks.md)
+- `earlier unresolved glacial window` - first cassowary arrival in New Zealand
+  - [First New Zealand Arrival](lore/transport/first-new-zealand-arrival.md)
+  - Mechanism unresolved; does not imply mature maritime trade.
+- `post-arrival isolation period` - New Zealand moa handling and early domestication
+  - [Moa Domestication and Ridability](lore/transport/moa-domestication-and-ridability.md)
+  - Gives New Zealand cassowary groups time to develop managed moa lineages before regular Sahul contact.
+- `~2.5-2 MYA` - regular Sahul-New Zealand maritime contact and moa exchange
+  - [Sahul-New Zealand Maritime Contact](lore/transport/sahul-new-zealand-maritime-contact.md)
+  - [Moa Mounted Warfare](lore/transport/moa-mounted-warfare.md)
 - `~2 MYA` - baseline world-state snapshot
   - [World State — ~2 MYA (Representative Glacial Maximum)](reference/world-state-2mya.md)
 
