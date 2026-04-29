@@ -62,7 +62,7 @@ const ROOT_DOC_ALLOWLIST = new Set([
   'docs/core-logic.md',
   'docs/guiding-principles.md',
 ]);
-const IGNORED_DIRS = new Set(['.git', 'generated', 'node_modules', 'archive', 'old']);
+const IGNORED_DIRS = new Set(['.git', '.obsidian', 'generated', 'node_modules', 'archive', 'old']);
 
 const ALLOWED_TIME_LABELS = [
   '~12 MYA',
@@ -118,6 +118,8 @@ async function main() {
   docs.sort((a, b) => a.relPath.localeCompare(b.relPath));
 
   const issues = validateDocs(docs);
+  const preliminaryGeneratedPages = buildGeneratedPages(docs, issues);
+  issues.push(...await validateMarkdownLinks(new Set(Object.keys(preliminaryGeneratedPages))));
   const generatedPages = buildGeneratedPages(docs, issues);
 
   if (checkMode) {
@@ -168,6 +170,12 @@ async function collectMarkdownFiles() {
   return Array.from(discovered).sort((a, b) => a.localeCompare(b));
 }
 
+async function collectMarkdownLinkFiles() {
+  const discovered = new Set<string>();
+  await walkAllMarkdown(ROOT_DIR, discovered);
+  return Array.from(discovered).sort((a, b) => a.localeCompare(b));
+}
+
 async function walkMarkdown(absDir: string, discovered: Set<string>) {
   const entries = await fs.readdir(absDir, { withFileTypes: true });
   for (const entry of entries.sort((a, b) => a.name.localeCompare(b.name))) {
@@ -184,6 +192,25 @@ async function walkMarkdown(absDir: string, discovered: Set<string>) {
     }
 
     if (entry.name === 'README.md') {
+      continue;
+    }
+
+    discovered.add(toPosix(path.relative(ROOT_DIR, path.join(absDir, entry.name))));
+  }
+}
+
+async function walkAllMarkdown(absDir: string, discovered: Set<string>) {
+  const entries = await fs.readdir(absDir, { withFileTypes: true });
+  for (const entry of entries.sort((a, b) => a.name.localeCompare(b.name))) {
+    if (entry.isDirectory()) {
+      if (IGNORED_DIRS.has(entry.name)) {
+        continue;
+      }
+      await walkAllMarkdown(path.join(absDir, entry.name), discovered);
+      continue;
+    }
+
+    if (!entry.isFile() || !entry.name.endsWith('.md')) {
       continue;
     }
 
@@ -410,17 +437,6 @@ function validateDocs(docs: ContentDoc[]) {
       });
     }
 
-    for (const link of doc.localLinks) {
-      const linkIssues = validateLink(doc.relPath, link.href);
-      for (const issue of linkIssues) {
-        issues.push({
-          severity: issue.severity,
-          code: issue.code,
-          path: doc.relPath,
-          message: issue.message,
-        });
-      }
-    }
   }
 
   for (const [normalizedTitle, bucket] of titleMap.entries()) {
@@ -431,6 +447,30 @@ function validateDocs(docs: ContentDoc[]) {
         path: bucket.map((doc) => doc.relPath).join(', '),
         message: `Duplicate title detected for "${bucket[0].title}"`,
       });
+    }
+  }
+
+  return issues;
+}
+
+async function validateMarkdownLinks(generatedTargets: Set<string>) {
+  const issues: ValidationIssue[] = [];
+  const linkFiles = await collectMarkdownLinkFiles();
+
+  for (const relPath of linkFiles) {
+    const raw = await fs.readFile(path.join(ROOT_DIR, relPath), 'utf8');
+    for (const link of extractLinks(raw)) {
+      for (const issue of validateLink(relPath, link.href, {
+        generatedTargets,
+        severity: 'warning',
+      })) {
+        issues.push({
+          severity: issue.severity,
+          code: issue.code,
+          path: relPath,
+          message: issue.message,
+        });
+      }
     }
   }
 
@@ -1518,10 +1558,15 @@ function extractLinks(text: string) {
   return links;
 }
 
-function validateLink(sourceRelPath: string, href: string) {
+function validateLink(
+  sourceRelPath: string,
+  href: string,
+  options: { generatedTargets?: Set<string>; severity?: Severity } = {},
+) {
   if (!href || href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:')) {
     return [];
   }
+  const severity = options.severity ?? 'error';
 
   const [targetPathPart, fragmentPart] = href.split('#');
   const resolvedTarget = targetPathPart
@@ -1529,13 +1574,13 @@ function validateLink(sourceRelPath: string, href: string) {
     : sourceRelPath;
 
   const absoluteTarget = path.join(ROOT_DIR, resolvedTarget);
-  if (resolvedTarget.startsWith('generated/')) {
+  if (resolvedTarget.startsWith('generated/') && options.generatedTargets?.has(resolvedTarget)) {
     return [];
   }
 
   if (!existsSync(absoluteTarget)) {
     return [{
-      severity: 'error' as Severity,
+      severity,
       code: 'broken-link',
       message: `Broken local link target: ${href} -> ${resolvedTarget}`,
     }];
@@ -1561,7 +1606,7 @@ function validateLink(sourceRelPath: string, href: string) {
 
   if (!anchors.has(fragmentAnchor)) {
     return [{
-      severity: 'error' as Severity,
+      severity,
       code: 'broken-link-anchor',
       message: `Broken local link anchor: ${href} -> ${resolvedTarget}#${fragmentPart}`,
     }];

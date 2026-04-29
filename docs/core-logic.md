@@ -2,7 +2,9 @@
 
 Status: Draft
 
-This file is the repository-level inference layer for Cassowary World. It defines causal expectations that technical documents should satisfy or explicitly defer.
+## Summary
+
+Cassowary World systems must satisfy explicit causal dependencies: biology shapes behavior, behavior enables technology, technology requires infrastructure, and infrastructure can support institutions. Preservation implies containers and storage practices; surplus implies measurement and authority rules; trade implies maintained routes and exchange institutions; domestication requires a prior ecological or behavioral bridge; timeline claims must not introduce systems before their prerequisites exist.
 
 ## Purpose
 

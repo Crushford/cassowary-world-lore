@@ -63,6 +63,38 @@ Check that committed indexes are current:
 npm run generate:indexes:check
 ```
 
+Run source Markdown linting:
+
+```sh
+npm run lint:md
+```
+
+Auto-fix supported Markdown lint issues:
+
+```sh
+npm run lint:md:fix
+```
+
+Run the full local check suite:
+
+```sh
+npm run lint
+```
+
+## Commit Hooks
+
+Lefthook installs a local `pre-commit` hook through the npm `prepare` script.
+
+On normal local `git commit`, the hook:
+
+1. runs `npm run lint:md:fix` on staged Markdown files outside `generated/` and `.obsidian/`
+2. re-stages fixed Markdown files
+3. runs `npm run generate:indexes:check`
+
+Generated Markdown is not linted directly. Regenerate it with `npm run generate:indexes`.
+
+Agents such as Claude Code will run this hook when they use normal local Git commits. Commits made with `--no-verify` or through non-local APIs can bypass local hooks.
+
 ## CI
 
 [generate-indexes.yml](../.github/workflows/generate-indexes.yml) runs on pull requests and pushes to `main`.
@@ -76,4 +108,4 @@ The workflow:
 
 ## Validation
 
-Review `generated/validation-report.md` after structural changes. It highlights missing summaries, invalid metadata labels, stale generated files, and other indexable documentation issues.
+Review `generated/validation-report.md` after structural changes. It highlights missing summaries, invalid metadata labels, broken local Markdown links, stale generated files, and other documentation issues.

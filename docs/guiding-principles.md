@@ -2,7 +2,9 @@
 
 Status: Draft v0.1
 
-This document is the working constitution of Cassowary World. New lore, technical documents, and story drafts should be tested against these principles before being treated as canon.
+## Summary
+
+Cassowary World is counterfactual natural history built from one early cassowary wing-claw divergence and no unexplained capability jumps. Civilization must emerge gradually from cassowary biology, Sahul ecology, food preservation, domestication partnerships, uneven technology, and institutions that follow from energy storage and transport constraints. Stories can reveal candidate facts, but canon is promoted only after those facts are explained, documented, and tested against these constraints.
 
 ## Core Definition
 
