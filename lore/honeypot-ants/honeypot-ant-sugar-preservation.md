@@ -56,7 +56,7 @@ The physical form of preserved sugar storage is described in [Pottery-Assisted A
 - [Honeypot Ant Yield and Surplus Capacity](honeypot-ant-yield-and-surplus-capacity.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
 - [Honeypot Ants](../../reference/species/honeypot-ants.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Honeypot Ant Nest Splitting](../divergences/honeypot-ant-nest-splitting.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)

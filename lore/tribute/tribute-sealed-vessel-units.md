@@ -52,7 +52,7 @@ The full visual and functional description of tribute jars — including their s
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
 - [Honeypot Ant Yield and Surplus Capacity](../honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [History and Timeline](../../generated/timeline-overview.md)

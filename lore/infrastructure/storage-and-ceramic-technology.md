@@ -29,7 +29,7 @@ This document answers how cassowary societies produce, standardize, seal, and re
 
 ## Context
 
-This infrastructure underlies [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md), [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md), and [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md). The baseline world-state constraints on climate, spoilage, and movement are anchored in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+This infrastructure underlies [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md), [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md), and [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md). The baseline world-state constraints on climate, spoilage, and movement are anchored in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 The important shift is that containers become administratively meaningful. Once a vessel can be recognized, sealed, counted, and trusted after transport, it becomes part of the surplus system itself rather than a neutral wrapper.
 
@@ -50,5 +50,5 @@ The important shift is that containers become administratively meaningful. Once 
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
 - [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../generated/open-questions.md)

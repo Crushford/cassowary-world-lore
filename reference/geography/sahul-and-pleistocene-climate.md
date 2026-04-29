@@ -2,7 +2,7 @@
 
 ## Summary
 
-This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baseline snapshot is [World State — ~2 MYA (Representative Glacial Maximum)](../world-state-2mya.md); this file supports that anchor rather than replacing it.
+This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baseline snapshot is [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../world-state-protohistoric-expansion-era.md); this file supports that anchor rather than replacing it.
 
 ## Metadata
 
@@ -32,5 +32,5 @@ Cassowary World uses these mechanisms to explain why productive zones, transport
 
 ## Related Documents
 
-- [World State — ~2 MYA (Representative Glacial Maximum)](../world-state-2mya.md)
+- [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../world-state-protohistoric-expansion-era.md)
 - [History and Timeline](../../generated/timeline-overview.md)

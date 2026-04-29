@@ -29,7 +29,7 @@ This document answers how cassowaries keep aphid and sap-feeder-host relationshi
 
 ## Context
 
-Aphid stabilization sits between [Orchard Lineage Management](../agriculture/orchard-lineage-management.md) and [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md). The real ecological baseline is described in [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md) and the host-tree baseline is in [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md). The world-state constraints are anchored in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+Aphid stabilization sits between [Orchard Lineage Management](../agriculture/orchard-lineage-management.md) and [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md). The real ecological baseline is described in [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md) and the host-tree baseline is in [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md). The world-state constraints are anchored in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 This system is not a general pest-control note. It exists because cassowary orchard systems need honeydew to remain predictable without forcing host trees into collapse. The important claim is not that sap-feeders are useful in the abstract; it is that managed sap-feeder-host relationships become a controllable input to later ant-based surplus systems.
 
@@ -51,5 +51,5 @@ The sap-feeder lineage framework in [Sap-Feeder Lineages and Honeydew Flow](sap-
 - [Regional Honeypot Ant Ecotypes](../honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../generated/open-questions.md)

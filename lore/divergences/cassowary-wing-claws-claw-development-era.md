@@ -1,4 +1,4 @@
-# Cassowary Wing-Claws ~12 MYA
+# Cassowary Wing-Claws — Claw Development Era
 
 ## Summary
 

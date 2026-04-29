@@ -53,5 +53,5 @@ The social function is different. Moa riding is military and logistical. Dromorn
 - [Dromornithidae](../../reference/megafauna/dromornithidae.md)
 - [Fire Incubation and Extended Juvenile Development](../biology/fire-incubation-and-extended-juvenile-development.md)
 - [Moa Domestication and Ridability](../transport/moa-domestication-and-ridability.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../99-open-questions.md)

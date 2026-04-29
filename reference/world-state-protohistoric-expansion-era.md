@@ -1,4 +1,4 @@
-# World State — ~2 MYA (Representative Glacial Maximum)
+# World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 Layer: Real-world reference
 
@@ -10,7 +10,7 @@ This is not a general reference for modern Earth. It is a time-specific baseline
 
 ## Metadata
 
-- Primary topic: World State — ~2 MYA (Representative Glacial Maximum)
+- Primary topic: World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 - Topics: geography, climate, Sahul, glacial maximum, sea level, refugia, movement corridors, megafauna, large predators, honeypot ants, aphids
 - Time periods: `~2 MYA`, `~2 MYA representative glacial maximum`
 - Regions: Sahul

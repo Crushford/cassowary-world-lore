@@ -31,7 +31,7 @@ This document defines how honeypot ant systems vary across Sahul environments. H
 
 ## Context
 
-This document builds on the real-world baselines in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md). The world-state geographic constraints are described in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+This document builds on the real-world baselines in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md). The world-state geographic constraints are described in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 The Cassowary World expansion is real but constrained. Dry-zone ant behaviour is biology. Wet-zone ant behaviour is managed ecology. The difference is important for understanding where the system is fragile and where it is robust.
 
@@ -192,5 +192,5 @@ These systems are geographically contingent. They exist during glacial maxima wh
 - [Orchard Lineage Management](../agriculture/orchard-lineage-management.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [History and Timeline](../../03-history-and-timeline.md)

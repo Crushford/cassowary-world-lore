@@ -51,7 +51,7 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 - [Tribute Seal Integrity and Authority Marks](tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Collection Counting and Enforcement](tribute-collection-counting-and-enforcement.md)
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
 - [History and Timeline](../../generated/timeline-overview.md)

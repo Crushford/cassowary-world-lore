@@ -30,7 +30,7 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 
 ## Context
 
-Honeypot ant orchard system management gives cassowary civilization a plausible alternative to grain-based surplus under the constraints described in [World State — ~2 MYA](../../reference/world-state-2mya.md). The real biological baseline is in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md); this file only tracks how cassowary management turns those baseline relationships into a surplus system.
+Honeypot ant orchard system management gives cassowary civilization a plausible alternative to grain-based surplus under the constraints described in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md). The real biological baseline is in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md); this file only tracks how cassowary management turns those baseline relationships into a surplus system.
 
 The important productive unit is not a single crop species. It is a managed relationship among orchard trees, sap-feeding insects, and ants that already store carbohydrates in replete workers. Cassowary management increases reliability by stabilizing host trees, sap-feeder populations, and colony conditions.
 
@@ -55,7 +55,7 @@ This orchard system management layer enables [Honeypot Ant Harvesting](honeypot-
 - [Honeypot Ants](../../reference/species/honeypot-ants.md)
 - [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Aphid Stabilization](../ecology/aphid-stabilization.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Orchard Lineage Management](../agriculture/orchard-lineage-management.md)
