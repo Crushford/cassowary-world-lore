@@ -11,8 +11,7 @@ This document answers how cassowaries preserve and adapt productive orchard tree
 - Topics: orchards, tree selection, propagation, regional adaptation, long-cycle agriculture, sap-flow hosts, tree roles
 - Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Canon Candidate
-- Related species: orchard trees, cassowaries, aphids and other sap-feeders, honeypot ants
+- Related species: orchard trees, cassowaries, aphids, honeypot ants
 - Related technologies: propagation, grafting, transplanting
 - Related institutions: orchard management, land continuity, lineage memory
 

@@ -10,7 +10,6 @@ This divergence file tracks the root change in cassowary wing-claw function. Aro
 - Primary topic: cassowary wing-claw divergence
 - Topics: cassowary anatomy, wing claws, manipulation, evolutionary divergence
 - Time periods: `~12 MYA`
-- Status: Canon
 - Related species: cassowaries
 
 ## What Changes

@@ -4,11 +4,11 @@ Generated summary bundle for documents in `reference/species`.
 
 ## Documents
 
-| Title                                                        | Status | Time Periods | Summary                                                                                                                  |
-| ------------------------------------------------------------ | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)     | Draft  |              | This reference explains real-world cassowary traits that matter for Cassowary World divergence and system design.        |
-| [Cockatoos](../../../reference/species/cockatoos.md)         | Draft  |              | This reference explains the real-world cockatoo traits likely to matter for future Cassowary World communication, par... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md) | Draft  |              | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
+| Title                                                        | Time Periods | Summary                                                                                                                  |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../../../reference/species/cassowaries.md)     |              | This reference explains real-world cassowary traits that matter for Cassowary World divergence and system design.        |
+| [Cockatoos](../../../reference/species/cockatoos.md)         |              | This reference explains the real-world cockatoo traits likely to matter for future Cassowary World communication, par... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md) |              | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
 
 ## Key Atomic Notes
 

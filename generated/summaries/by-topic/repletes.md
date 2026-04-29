@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Repletes`.
 
 ## Documents
 
-| Title                                                                             | Path                                          | Layer     | Status          | Time Periods                    | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------- | --------------------------------------------- | --------- | --------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | Canon Candidate | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference | Draft           |                                 | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
+| Title                                                                             | Path                                          | Layer     | Time Periods                    | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------- | --------------------------------------------- | --------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference |                                 | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
 
 ## Layer Breakdown
 

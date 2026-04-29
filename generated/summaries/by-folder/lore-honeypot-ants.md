@@ -4,11 +4,11 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 
 ## Documents
 
-| Title                                                                                                           | Status          | Time Periods                              | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                               | Canon Candidate | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | Canon Candidate | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
-| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)               | Canon Candidate | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
+| Title                                                                                                           | Time Periods                              | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                               | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
+| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)               | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
 
 ## Key Atomic Notes
 

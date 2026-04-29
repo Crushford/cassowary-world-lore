@@ -1,6 +1,6 @@
 # Indexing and Generated Files
 
-This repository commits generated Markdown indexes so canon, reference, lore, story, status, open-question, summary, topic, and time-period views are easy to inspect.
+This repository commits generated Markdown indexes so canon, reference, lore, story, open-question, summary, topic, and time-period views are easy to inspect.
 
 ## Generated Directory
 
@@ -15,7 +15,6 @@ Core generated views include:
 - `generated/validation-report.md`
 - `generated/topics.md`
 - `generated/layers/`
-- `generated/status/`
 - `generated/time/`
 - `generated/summaries/`
 
@@ -42,7 +41,7 @@ Contributor docs under `docs/` are not indexed as canon content by default. If a
 
 New content PRs should update source docs, then run the generator.
 
-- Canon status belongs in source doc `Status` metadata, not only in a manual index.
+- Canon inclusion is determined by committed source documents and their layer, not by draft/candidate labels.
 - Timeline data belongs in source doc `Time periods` metadata, not in a manual timeline.
 - Open questions belong in source doc `## Open Questions` sections, not in a manual global list.
 - Summaries, atomic notes, related documents, topics, regions, and cultures should be maintained in source docs so generated views stay useful.

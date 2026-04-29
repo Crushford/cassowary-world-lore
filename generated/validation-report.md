@@ -4,7 +4,6 @@
 - Topic indexes: 13
 - Time indexes: 12
 - Layer indexes: 4
-- Status indexes: 4
 - Errors: 0
 - Warnings: 0
 

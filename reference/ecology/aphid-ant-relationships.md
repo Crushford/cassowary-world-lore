@@ -9,7 +9,6 @@ This reference explains the real-world baseline for aphid-ant relationships and 
 - Layer: Real-world reference
 - Primary topic: aphid-ant relationships
 - Topics: aphids, ants, honeydew, mutualism, orchard ecology
-- Status: Draft
 
 ## Useful Baseline
 

@@ -11,7 +11,6 @@ This document answers how early cassowary tribute becomes measurable before weig
 - Topics: tribute, taxation, standardized vessels, volume measurement, preserved surplus
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related technologies: ceramic vessels, sealants, standard vessel forms
 - Related institutions: tribute, taxation, storage custody
 

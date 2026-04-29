@@ -1,7 +1,6 @@
 # World State — ~2 MYA (Representative Glacial Maximum)
 
 Layer: Real-world reference
-Status: Draft
 
 ## Summary
 

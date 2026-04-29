@@ -26,7 +26,6 @@ type ContentDoc = {
   layerRaw: string | null;
   layerCategory: LayerCategory;
   layerDerived: boolean;
-  status: string | null;
   summary: string;
   summarySource: 'section' | 'preamble' | 'missing';
   metadata: Map<string, string[]>;
@@ -82,7 +81,6 @@ const ALLOWED_TIME_LABEL_KEYS = new Map(ALLOWED_TIME_LABELS.map((label) => [norm
 
 const KNOWN_METADATA_LABELS = new Set([
   'Layer',
-  'Status',
   'Purpose',
   'Primary topic',
   'Topics',
@@ -310,7 +308,6 @@ async function parseDocument(relPath: string): Promise<ContentDoc> {
   const layerRaw = firstValue(metadata, 'Layer') ?? inferLayerRawFromPath(relPath);
   const layerCategory = inferLayerCategory(relPath, layerRaw);
   const layerDerived = !hasLabel(metadata, 'Layer');
-  const status = firstValue(metadata, 'Status');
 
   if (metadataProblems.length > 0) {
     // no-op placeholder, kept for symmetry if parsing gains structured warnings later
@@ -324,7 +321,6 @@ async function parseDocument(relPath: string): Promise<ContentDoc> {
     layerRaw,
     layerCategory,
     layerDerived,
-    status,
     summary,
     summarySource,
     metadata,
@@ -508,15 +504,6 @@ function validateLayerStructure(doc: ContentDoc, issues: ValidationIssue[]) {
     });
   }
 
-  if (!doc.status) {
-    issues.push({
-      severity: 'warning',
-      code: 'missing-status',
-      path: doc.relPath,
-      message: 'Missing Status metadata',
-    });
-  }
-
   if (!hasLabel(doc.metadata, 'Layer')) {
     issues.push({
       severity: 'warning',
@@ -539,14 +526,6 @@ function validateLayerStructure(doc: ContentDoc, issues: ValidationIssue[]) {
   }
 
   if (doc.layerCategory === 'story') {
-    if (!doc.status || !normalizeKey(doc.status).includes('non-canon')) {
-      issues.push({
-        severity: 'error',
-        code: 'story-not-marked-non-canon',
-        path: doc.relPath,
-        message: 'Story docs must be explicitly marked non-canon in Status metadata',
-      });
-    }
     return;
   }
 
@@ -586,21 +565,12 @@ function validateLayerStructure(doc: ContentDoc, issues: ValidationIssue[]) {
     });
   }
 
-  if (doc.status === 'Canon Candidate' && doc.timePeriods.length === 0) {
+  if (['divergence', 'lore'].includes(doc.layerCategory) && doc.timePeriods.length === 0) {
     issues.push({
       severity: 'error',
-      code: 'canon-candidate-missing-time-period',
+      code: 'source-doc-missing-time-period',
       path: doc.relPath,
-      message: 'Canon Candidate docs must include Time periods metadata',
-    });
-  }
-
-  if (doc.status === 'Canon' && doc.timePeriods.length === 0) {
-    issues.push({
-      severity: 'error',
-      code: 'canon-missing-time-period',
-      path: doc.relPath,
-      message: 'Canon docs must include Time periods metadata',
+      message: 'Lore and divergence docs must include Time periods metadata',
     });
   }
 }
@@ -611,12 +581,11 @@ function buildGeneratedPages(docs: ContentDoc[], issues: ValidationIssue[]): Pag
 
   const topicMap = groupByTopic(docs);
   const layerMap = groupByLayer(docs);
-  const statusMap = groupByStatus(docs);
   const timeMap = groupByTime(docs);
   const folderSummaryMap = groupBySummaryFolder(docs);
   const topicSummaryMap = groupByTopic(docs);
 
-  pages[path.posix.join(indexBase, 'README.md')] = renderGeneratedReadme(topicMap, layerMap, statusMap, timeMap, folderSummaryMap, topicSummaryMap);
+  pages[path.posix.join(indexBase, 'README.md')] = renderGeneratedReadme(topicMap, layerMap, timeMap, folderSummaryMap, topicSummaryMap);
   pages[path.posix.join(indexBase, 'content-index.md')] = renderContentIndex(docs);
   pages[path.posix.join(indexBase, 'canon-index.md')] = renderCanonIndex(docs);
   pages[path.posix.join(indexBase, 'open-questions.md')] = renderOpenQuestions(docs);
@@ -625,10 +594,6 @@ function buildGeneratedPages(docs: ContentDoc[], issues: ValidationIssue[]): Pag
 
   for (const [layer, layerDocs] of layerMap.entries()) {
     pages[path.posix.join(indexBase, 'layers', `${slugify(layer, false)}.md`)] = renderLayerPage(layer, layerDocs);
-  }
-
-  for (const [status, statusDocs] of statusMap.entries()) {
-    pages[path.posix.join(indexBase, 'status', `${slugify(status, false)}.md`)] = renderStatusPage(status, statusDocs);
   }
 
   for (const [label, timeDocs] of timeMap.entries()) {
@@ -705,16 +670,12 @@ async function removeStaleGeneratedFiles(pages: PageMap) {
 function renderGeneratedReadme(
   topicMap: Map<string, ContentDoc[]>,
   layerMap: Map<string, ContentDoc[]>,
-  statusMap: Map<string, ContentDoc[]>,
   timeMap: Map<string, ContentDoc[]>,
   folderSummaryMap: Map<string, ContentDoc[]>,
   topicSummaryMap: Map<string, ContentDoc[]>,
 ) {
   const layerLinks = Array.from(layerMap.keys())
     .map((layer) => `- [${layerDisplayName(layer as LayerCategory)}](layers/${slugify(layer, false)}.md)`);
-  const statusLinks = Array.from(statusMap.keys())
-    .sort((a, b) => a.localeCompare(b))
-    .map((status) => `- [${status}](status/${slugify(status, false)}.md)`);
   const timeLinks = Array.from(timeMap.keys())
     .sort((a, b) => timeLabelSort(a, b))
     .map((time) => `- [${time}](time/${slugify(time, true)}.md)`);
@@ -744,10 +705,6 @@ function renderGeneratedReadme(
     '',
     ...(layerLinks.length > 0 ? layerLinks : ['- No layer indexes were generated.']),
     '',
-    '## Status Indexes',
-    '',
-    ...(statusLinks.length > 0 ? statusLinks : ['- No status indexes were generated.']),
-    '',
     '## Time Indexes',
     '',
     ...(timeLinks.length > 0 ? timeLinks : ['- No time indexes were generated.']),
@@ -770,7 +727,6 @@ function renderContentIndex(docs: ContentDoc[]) {
   const rows = docs.map((doc) => [
     markdownLink(doc.title, repoRelativeLink('generated/content-index.md', doc.relPath)),
     escapeCell(layerDisplayName(doc.layerCategory)),
-    escapeCell(doc.status ?? ''),
     escapeCell(formatInlineList(doc.topics)),
     escapeCell(formatInlineList(doc.timePeriods)),
     escapeCell(shortSummary(doc.summary)),
@@ -783,7 +739,7 @@ function renderContentIndex(docs: ContentDoc[]) {
     'Deterministic overview of all scanned source docs.',
     '',
     renderTable(
-      ['Title', 'Layer', 'Status', 'Topics', 'Time Periods', 'Summary', 'Path'],
+      ['Title', 'Layer', 'Topics', 'Time Periods', 'Summary', 'Path'],
       rows,
     ),
   ].join('\n');
@@ -810,7 +766,7 @@ function renderTopicLookupPage(topicMap: Map<string, ContentDoc[]>) {
     lines.push(`## ${topic}`, '');
     lines.push(
       renderTable(
-        ['Title', 'Path', 'Layer', 'Status', 'Summary', 'Time Periods'],
+        ['Title', 'Path', 'Layer', 'Summary', 'Time Periods'],
         topicDocs
           .slice()
           .sort((a, b) => sortDocs(a, b))
@@ -818,7 +774,6 @@ function renderTopicLookupPage(topicMap: Map<string, ContentDoc[]>) {
             markdownLink(doc.title, repoRelativeLink('generated/topics.md', doc.relPath)),
             escapeCell(doc.relPath),
             escapeCell(layerDisplayName(doc.layerCategory)),
-            escapeCell(doc.status ?? ''),
             escapeCell(shortSummary(doc.summary)),
             escapeCell(formatInlineList(doc.timePeriods)),
           ]),
@@ -832,13 +787,10 @@ function renderTopicLookupPage(topicMap: Map<string, ContentDoc[]>) {
 
 function renderCanonIndex(docs: ContentDoc[]) {
   const sectionOrder = [
-    'Canon',
-    'Canon Candidates',
-    'Draft Systems',
     'Reference Baseline',
     'Divergences',
+    'Lore Systems',
     'Stories',
-    'Unstated Status',
   ];
   const buckets = new Map(sectionOrder.map((section) => [section, [] as ContentDoc[]]));
 
@@ -849,7 +801,7 @@ function renderCanonIndex(docs: ContentDoc[]) {
   const lines = [
     '# Canon Index',
     '',
-    'Generated canon-status view from source document metadata.',
+    'Generated confirmed-content view from committed source documents.',
     '',
   ];
 
@@ -861,12 +813,11 @@ function renderCanonIndex(docs: ContentDoc[]) {
       continue;
     }
     lines.push(renderTable(
-      ['Title', 'Path', 'Layer', 'Status', 'Time Periods', 'Summary'],
+      ['Title', 'Path', 'Layer', 'Time Periods', 'Summary'],
       sectionDocs.map((doc) => [
         markdownLink(doc.title, repoRelativeLink('generated/canon-index.md', doc.relPath)),
         escapeCell(doc.relPath),
         escapeCell(layerDisplayName(doc.layerCategory)),
-        escapeCell(doc.status ?? ''),
         escapeCell(formatInlineList(doc.timePeriods)),
         escapeCell(shortSummary(doc.summary)),
       ]),
@@ -934,12 +885,11 @@ function renderTimelineOverview(timeMap: Map<string, ContentDoc[]>) {
     const sortedDocs = timeDocs.slice().sort((a, b) => sortDocs(a, b));
     lines.push(`## ${timeLabel}`, '');
     lines.push(renderTable(
-      ['Title', 'Path', 'Layer', 'Status', 'Summary'],
+      ['Title', 'Path', 'Layer', 'Summary'],
       sortedDocs.map((doc) => [
         markdownLink(doc.title, repoRelativeLink('generated/timeline-overview.md', doc.relPath)),
         escapeCell(doc.relPath),
         escapeCell(layerDisplayName(doc.layerCategory)),
-        escapeCell(doc.status ?? ''),
         escapeCell(shortSummary(doc.summary)),
       ]),
     ));
@@ -969,35 +919,15 @@ function renderLayerPage(layer: string, docs: ContentDoc[]) {
       .map((doc) => [
         markdownLink(doc.title, repoRelativeLink(`generated/layers/${slugify(layer, false)}.md`, doc.relPath)),
         escapeCell(doc.relPath),
-        escapeCell(doc.status ?? ''),
         escapeCell(formatInlineList(doc.timePeriods)),
         escapeCell(shortSummary(doc.summary)),
       ]);
 
     sections.push('', `## ${folder}`);
-    sections.push(renderTable(['Title', 'Path', 'Status', 'Time Periods', 'Summary'], rows));
+    sections.push(renderTable(['Title', 'Path', 'Time Periods', 'Summary'], rows));
   }
 
   return sections.join('\n');
-}
-
-function renderStatusPage(status: string, docs: ContentDoc[]) {
-  const rows = docs
-    .slice()
-    .sort((a, b) => sortDocs(a, b))
-    .map((doc) => [
-      markdownLink(doc.title, repoRelativeLink(`generated/status/${slugify(status, false)}.md`, doc.relPath)),
-      escapeCell(doc.relPath),
-      escapeCell(layerDisplayName(doc.layerCategory)),
-      escapeCell(formatInlineList(doc.timePeriods)),
-      escapeCell(shortSummary(doc.summary)),
-    ]);
-
-  return [
-    `# Status Index: ${status}`,
-    '',
-    renderTable(['Title', 'Path', 'Layer', 'Time Periods', 'Summary'], rows),
-  ].join('\n');
 }
 
 function renderTimePage(timeLabel: string, docs: ContentDoc[]) {
@@ -1008,7 +938,6 @@ function renderTimePage(timeLabel: string, docs: ContentDoc[]) {
       markdownLink(doc.title, repoRelativeLink(`generated/time/${slugify(timeLabel, true)}.md`, doc.relPath)),
       escapeCell(doc.relPath),
       escapeCell(layerDisplayName(doc.layerCategory)),
-      escapeCell(doc.status ?? ''),
       escapeCell(shortSummary(doc.summary)),
       escapeCell(formatInlineList(doc.topics)),
     ]);
@@ -1016,7 +945,7 @@ function renderTimePage(timeLabel: string, docs: ContentDoc[]) {
   return [
     `# Time Index: ${timeLabel}`,
     '',
-    renderTable(['Title', 'Path', 'Layer', 'Status', 'Summary', 'Topics'], rows),
+    renderTable(['Title', 'Path', 'Layer', 'Summary', 'Topics'], rows),
   ].join('\n');
 }
 
@@ -1031,10 +960,9 @@ function renderFolderSummary(folder: string, docs: ContentDoc[]) {
     '## Documents',
     '',
     renderTable(
-      ['Title', 'Status', 'Time Periods', 'Summary'],
+      ['Title', 'Time Periods', 'Summary'],
       sortedDocs.map((doc) => [
         markdownLink(doc.title, repoRelativeLink(sourcePage, doc.relPath)),
-        escapeCell(doc.status ?? ''),
         escapeCell(formatInlineList(doc.timePeriods)),
         escapeCell(shortSummary(doc.summary)),
       ]),
@@ -1060,12 +988,11 @@ function renderTopicSummary(topic: string, docs: ContentDoc[]) {
     '## Documents',
     '',
     renderTable(
-      ['Title', 'Path', 'Layer', 'Status', 'Time Periods', 'Summary'],
+      ['Title', 'Path', 'Layer', 'Time Periods', 'Summary'],
       sortedDocs.map((doc) => [
         markdownLink(doc.title, repoRelativeLink(sourcePage, doc.relPath)),
         escapeCell(doc.relPath),
         escapeCell(layerDisplayName(doc.layerCategory)),
-        escapeCell(doc.status ?? ''),
         escapeCell(formatInlineList(doc.timePeriods)),
         escapeCell(shortSummary(doc.summary)),
       ]),
@@ -1126,7 +1053,6 @@ function renderValidationReport(issues: ValidationIssue[], docs: ContentDoc[], p
   const topicCount = topicMap.size;
   const timeCount = Object.keys(pages).filter((key) => key.includes('/time/')).length;
   const layerCount = Object.keys(pages).filter((key) => key.includes('/layers/')).length;
-  const statusCount = Object.keys(pages).filter((key) => key.includes('/status/')).length;
 
   const lines = [
     '# Validation Report',
@@ -1135,7 +1061,6 @@ function renderValidationReport(issues: ValidationIssue[], docs: ContentDoc[], p
     `- Topic indexes: ${topicCount}`,
     `- Time indexes: ${timeCount}`,
     `- Layer indexes: ${layerCount}`,
-    `- Status indexes: ${statusCount}`,
     `- Errors: ${errors.length}`,
     `- Warnings: ${warnings.length}`,
     '',
@@ -1189,17 +1114,6 @@ function groupByLayer(docs: ContentDoc[]) {
   return new Map(Array.from(map.entries()).sort(([left], [right]) => layerSortOrder(left) - layerSortOrder(right) || left.localeCompare(right)));
 }
 
-function groupByStatus(docs: ContentDoc[]) {
-  const map = new Map<string, ContentDoc[]>();
-  for (const doc of docs) {
-    const status = doc.status ?? 'Unstated';
-    const bucket = map.get(status) ?? [];
-    bucket.push(doc);
-    map.set(status, bucket);
-  }
-  return new Map(Array.from(map.entries()).sort(([left], [right]) => left.localeCompare(right)));
-}
-
 function groupByTime(docs: ContentDoc[]) {
   const map = new Map<string, ContentDoc[]>();
   for (const doc of docs) {
@@ -1233,10 +1147,7 @@ function canonIndexSection(doc: ContentDoc) {
   if (doc.layerCategory === 'reference') return 'Reference Baseline';
   if (doc.layerCategory === 'divergence') return 'Divergences';
   if (doc.layerCategory === 'story') return 'Stories';
-  if (doc.status === 'Canon') return 'Canon';
-  if (doc.status === 'Canon Candidate') return 'Canon Candidates';
-  if (doc.status === 'Draft') return 'Draft Systems';
-  return 'Unstated Status';
+  return 'Lore Systems';
 }
 
 function appendAtomicNotes(lines: string[], docs: ContentDoc[]) {
@@ -1804,10 +1715,6 @@ function parseTitleFromLines(lines: string[]) {
 
 function isPathLikeLinkTarget(target: string) {
   return target.includes('/') || target.endsWith('.md');
-}
-
-function canonicalizeStatus(status: string | null) {
-  return status ? status.trim() : 'Unstated';
 }
 
 async function writeGeneratedReadmeIfNeeded() {

@@ -1,7 +1,5 @@
 # CORE_LOGIC
 
-Status: Draft
-
 ## Summary
 
 Cassowary World systems must satisfy explicit causal dependencies: biology shapes behavior, behavior enables technology, technology requires infrastructure, and infrastructure can support institutions. Preservation implies containers and storage practices; surplus implies measurement and authority rules; trade implies maintained routes and exchange institutions; domestication requires a prior ecological or behavioral bridge; timeline claims must not introduce systems before their prerequisites exist.
@@ -10,7 +8,7 @@ Cassowary World systems must satisfy explicit causal dependencies: biology shape
 
 Use this file to test whether a claimed system implies other systems that must also exist, be deferred, or be marked as open questions.
 
-## Core Causal Rules (Working Draft)
+## Core Causal Rules
 
 1. Biology -> behavior -> technology -> infrastructure -> institutions
 2. Preservation capacity implies storage media, containers, and handling practices.
@@ -39,9 +37,9 @@ When a technical document introduces a system, contributors should check:
 
 ## Open Questions
 
-- Which systems are required before a first coherent timeline pass can be promoted beyond placeholder status?
+- Which systems are required before a first coherent timeline pass can move beyond placeholders?
 - How should preservation and storage milestones be placed relative to early tribute systems?
-- Which generated validation warnings should be promoted to errors after existing docs are cleaned up?
+- Which generated validation warnings should become errors after existing docs are cleaned up?
 
 ## Related Documents
 

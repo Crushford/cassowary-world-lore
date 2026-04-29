@@ -11,7 +11,6 @@ This document answers how cassowary agriculture can scale across Sahul by preser
 - Topics: agriculture, crop roles, orchard planning, regional substitution, functional classification
 - Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Draft
 - Related species: figs, macadamia, palms, lilly pillies, quandongs, cassowary plum lineages
 - Related technologies: grafting, transplanting, preservation planning
 - Related institutions: orchard lineage management, food preservation, tribute planning

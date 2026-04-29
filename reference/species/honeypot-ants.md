@@ -9,7 +9,6 @@ This reference explains the real-world baseline for honeypot ants that is useful
 - Layer: Real-world reference
 - Primary topic: honeypot ants
 - Topics: honeypot ants, repletes, liquid food storage, colony structure
-- Status: Draft
 
 ## Useful Baseline
 

@@ -9,7 +9,6 @@ This reference explains real-world cassowary traits that matter for Cassowary Wo
 - Layer: Real-world reference
 - Primary topic: cassowaries
 - Topics: cassowaries, anatomy, flightless birds, female territoriality, male parental care
-- Status: Draft
 
 ## Useful Baseline
 

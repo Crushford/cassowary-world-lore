@@ -11,7 +11,6 @@ This document answers how sealed tribute vessels carry trust and authority befor
 - Topics: tribute, seal marks, custody, tamper evidence, authority symbols
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related technologies: resin seals, wax seals, clay seals, ceramic lids, stamp objects
 - Related institutions: tribute, taxation, storage custody
 

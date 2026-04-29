@@ -11,7 +11,6 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Topics: tribute, custody, storage control, redistribution, political authority
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization
 - Related technologies: sealed vessels, cool storage, guarded storehouses
 

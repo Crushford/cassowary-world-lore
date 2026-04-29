@@ -21,13 +21,6 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Divergences](layers/divergence.md)
 - [Lore](layers/lore.md)
 
-## Status Indexes
-
-- [Canon](status/canon.md)
-- [Canon Candidate](status/canon-candidate.md)
-- [Draft](status/draft.md)
-- [Draft v0.1](status/draft-v0-1.md)
-
 ## Time Indexes
 
 - [~12 MYA](time/~12-mya.md)

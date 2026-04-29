@@ -1,10 +1,8 @@
 # Stories
 
-This folder stores exploratory narrative material for Cassowary World.
+This folder stores narrative material for Cassowary World.
 
-Stories are not canon by themselves.
-
-Narrative scenes may generate candidate facts, but those facts become canon only after evaluation and formalization in foundation, reference, divergence, lore, or timeline files.
+Narrative scenes may introduce proposed facts, but durable world mechanics should be evaluated and formalized in foundation, reference, divergence, lore, or timeline source docs.
 
 ## Subfolders
 

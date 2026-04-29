@@ -1,10 +1,8 @@
 # Guiding Principles
 
-Status: Draft v0.1
-
 ## Summary
 
-Cassowary World is counterfactual natural history built from one early cassowary wing-claw divergence and no unexplained capability jumps. Civilization must emerge gradually from cassowary biology, Sahul ecology, food preservation, domestication partnerships, uneven technology, and institutions that follow from energy storage and transport constraints. Stories can reveal candidate facts, but canon is promoted only after those facts are explained, documented, and tested against these constraints.
+Cassowary World is counterfactual natural history built from one early cassowary wing-claw divergence and no unexplained capability jumps. Civilization must emerge gradually from cassowary biology, Sahul ecology, food preservation, domestication partnerships, uneven technology, and institutions that follow from energy storage and transport constraints. Stories can reveal proposed facts, but durable world mechanics should be explained, documented, and tested against these constraints.
 
 ## Core Definition
 
@@ -120,7 +118,7 @@ The world should feel ordinary to inhabitants, even when extraordinary to reader
 
 Lore is not written once. It evolves.
 
-Stories generate candidate facts. Those facts are tested against guiding principles. Accepted facts become canon. Rejected facts should be documented as impossibilities or discarded ideas.
+Stories generate proposed facts. Those facts are tested against guiding principles. Accepted facts become source documentation. Rejected facts should be documented as impossibilities or discarded ideas.
 
 Cassowary World should grow like an organism, not like a fixed blueprint.
 

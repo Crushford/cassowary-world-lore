@@ -10,8 +10,7 @@ This document answers how cassowaries make honeypot ant reserves accessible and 
 - Layer: Cassowary World system
 - Topics: honeypot ants, repletes, nest localization, controlled harvest, colony management, nest-assist pots
 - Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
-- Regions: Sahul orchard ecologies — varies by ecotype
-- Status: Canon Candidate
+- Regions: Sahul orchard ecologies
 - Related species: cassowaries, honeypot ants
 - Related technologies: clay vessels, ceramic chambers, nest-assist pots, harvest bowls, pottery
 

@@ -11,7 +11,6 @@ This reference explains the climate and geography mechanisms behind Cassowary Wo
 - Topics: Sahul, Pleistocene climate, glacial cycles, land bridges, refugia, sea level
 - Time periods: `early Pleistocene glacial cycles`, `~2 MYA representative glacial maximum`
 - Regions: Sahul
-- Status: Draft
 
 ## Mechanisms
 

@@ -205,9 +205,9 @@ Source: `lore/tribute/tribute-storage-custody-and-redistribution.md`
 
 Source: `docs/core-logic.md`
 
-- Which systems are required before a first coherent timeline pass can be promoted beyond placeholder status?
+- Which systems are required before a first coherent timeline pass can move beyond placeholders?
 - How should preservation and storage milestones be placed relative to early tribute systems?
-- Which generated validation warnings should be promoted to errors after existing docs are cleaned up?
+- Which generated validation warnings should become errors after existing docs are cleaned up?
 
 ## World State — ~2 MYA (Representative Glacial Maximum)
 

@@ -4,12 +4,12 @@ Generated summary bundle for documents in `lore/tribute`.
 
 ## Documents
 
-| Title                                                                                                               | Status | Time Periods                             | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                               | Time Periods                             | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | ~3.2-2.8 MYA, ~2.7-2.3 MYA               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
 
 ## Key Atomic Notes
 

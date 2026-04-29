@@ -32,7 +32,7 @@ Every system must have ancestry.
 
 Agents must follow this pipeline.
 
-### 1. Exploration (Non-Canon)
+### 1. Exploration
 
 Exploratory content may be generated:
 
@@ -40,9 +40,7 @@ Exploratory content may be generated:
 - speculative systems
 - hypothetical scenarios
 
-These are NOT canon.
-
-Their purpose is to expose assumptions.
+Their purpose is to expose assumptions before they are formalized in reference, divergence, or lore docs.
 
 ### 2. Assumption Extraction
 
@@ -55,11 +53,11 @@ Examples:
 - roads or transport exist
 - political institutions exist
 
-Each assumption becomes a candidate canon item.
+Each assumption becomes a proposed fact to evaluate.
 
 ### 3. Evaluation
 
-Compare each candidate fact against:
+Compare each proposed fact against:
 
 - [Guiding Principles](guiding-principles.md)
 - existing foundation documents
@@ -78,7 +76,7 @@ Do not silently accept assumptions.
 
 ### 4. Lore Documentation
 
-Accepted or candidate systems must be formalized in the active layered knowledge system.
+Accepted or proposed systems must be formalized in the active layered knowledge system.
 
 Use the correct layer:
 
@@ -95,17 +93,18 @@ Lore system documents must explain:
 - what limits it
 - what it enables
 
-### 5. Canon Promotion
+### 5. Canon Inclusion
 
-Facts become canon only when documented in:
+Facts become repository canon when committed in:
 
 - foundation files
 - reference files
 - divergence files
 - lore files
-- or timeline files
+- story files
+- or generated timeline views derived from source metadata
 
-Stories are never canon by themselves.
+If a story introduces a durable world mechanic, extract that mechanic into the relevant reference, divergence, or lore document.
 
 ### 6. Timeline Integration
 
@@ -143,8 +142,8 @@ When an agent is asked to write a lore document about a subject, follow this pro
 2. For system lore, follow the focused Markdown structure used by the honeypot-ant and tribute lore files.
 3. Convert important canon-bearing content into Atomic Notes.
 4. Link the document to relevant reference, divergence, lore, foundation, and timeline docs.
-5. Mark uncertain claims with source document `Status` metadata.
-6. Record unresolved questions in the document's `Open Questions` section. The global open-question view is generated from those sections.
+5. Record uncertain claims in the document's `Open Questions` section.
+6. The global open-question view is generated from those sections.
 
 This is mandatory so lore docs stay consistent in style, structure, and canon-evaluation quality.
 
@@ -196,9 +195,8 @@ Highest authority:
 
 1. [Guiding Principles](guiding-principles.md)
 2. Foundation documents
-3. Canon reference, divergence, and lore documents
-4. Draft reference, divergence, and lore documents
-5. Stories and exploratory material
+3. Reference, divergence, lore, and story documents
+4. Generated views derived from source docs
 
 ## Editing Rules
 

@@ -11,7 +11,6 @@ This document answers how cassowary societies produce, standardize, seal, and re
 - Topics: ceramics, vessels, sealing, standardization, preservation infrastructure, nest-assist pots, tribute jars
 - Time periods: `~4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Canon Candidate
 - Related technologies: clay sourcing, firing, wax seals, resin seals, vessel standardization
 - Related institutions: storage, preservation, tribute, redistribution
 

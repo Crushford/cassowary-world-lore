@@ -11,7 +11,6 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Topics: honeypot ants, sugar preservation, preserved sugar paste, ceramic sealing, stored surplus, living storage, dead storage
 - Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Canon Candidate
 - Related species: cassowaries, honeypot ants
 - Related technologies: pottery, ceramic vessels, wax seals, resin seals, controlled heating, sun reduction
 - Related institutions: tribute, redistribution, trade, administrative specialization

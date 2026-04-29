@@ -4,11 +4,11 @@ Generated summary bundle for documents in `lore/infrastructure`.
 
 ## Documents
 
-| Title                                                                                                          | Status          | Time Periods                             | Summary                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md) | Canon Candidate | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
-| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)               | Canon Candidate | ~4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA         | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
-| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                       | Canon Candidate | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| Title                                                                                                          | Time Periods                             | Summary                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md) | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)               | ~4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA         | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                       | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
 
 ## Key Atomic Notes
 

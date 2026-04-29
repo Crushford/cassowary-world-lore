@@ -11,7 +11,6 @@ This document answers how early tribute is collected, counted, audited, and enfo
 - Topics: tribute, collection, counting, witnessed audit, enforcement, administrative specialization
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related institutions: tribute, taxation, redistribution, administrative specialization
 - Related technologies: sealed vessels, transport routes, storage racks, seal marks
 

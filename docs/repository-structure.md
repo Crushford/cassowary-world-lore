@@ -6,7 +6,7 @@ This document explains where Cassowary World material belongs and how the top-le
 
 Markdown in this repository defines canon. Other applications may render or consume the material, but source Markdown remains authoritative.
 
-Canon-bearing material belongs in foundation files, `reference/`, `lore/divergences/`, `lore/`, or timeline files. Stories can demonstrate systems but do not define canon by themselves.
+Canon-bearing material belongs in foundation files, `reference/`, `lore/divergences/`, `lore/`, or generated timeline views. Stories can demonstrate events and perspective; durable world mechanics should also be reflected in reference, divergence, or lore docs.
 
 ## Top-Level Layout
 
@@ -40,7 +40,7 @@ Generated authority views are rebuilt from source docs. Keep source metadata, at
 
 `lore/` defines Cassowary World systems that emerge from baseline reality plus divergences. System docs should explain mechanisms, constraints, consequences, institutions, technologies, and cultural processes.
 
-`stories/` stores exploratory scenes and narrative spikes. If story material introduces a useful world fact, extract it into a system doc or open question before treating it as canon.
+`stories/` stores scenes and narrative spikes. If story material introduces a durable world mechanic, extract it into a system doc or open question so generated reference views can surface it.
 
 ## Folder READMEs
 
@@ -48,16 +48,11 @@ Folder READMEs are local navigation pages. Keep them short and useful for browsi
 
 Do not place durable process rules only in folder READMEs. Move durable contributor guidance into `docs/` and link to it from folder READMEs when needed.
 
-## Canon Promotion
+## Canon Inclusion
 
-Canon status progresses through documented review, not narrative assertion.
+Committed source documents are treated as confirmed repository knowledge. The repository no longer uses draft/candidate categories.
 
-- `Draft` - exploratory, incomplete, or provisional
-- `Canon Candidate` - mechanistically defined and plausibly integrated
-- `Canon` - explicitly confirmed
-- `Deprecated` - retained for traceability but no longer active canon
-
-Active reference and lore systems should carry `Status` metadata in their source docs. [Canon Index](../generated/canon-index.md) is generated from that metadata.
+[Canon Index](../generated/canon-index.md) is generated from source document layers. Keep layer metadata, topics, time periods, related documents, atomic notes, and open questions current so the generated views remain useful.
 
 ## Working Style
 

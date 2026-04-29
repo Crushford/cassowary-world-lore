@@ -9,7 +9,6 @@ This reference explains the real-world cockatoo traits likely to matter for futu
 - Layer: Real-world reference
 - Primary topic: cockatoos
 - Topics: cockatoos, parrots, communication, social learning, animal partnership
-- Status: Draft
 
 ## Useful Baseline
 

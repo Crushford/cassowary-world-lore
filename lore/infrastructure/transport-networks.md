@@ -11,7 +11,6 @@ This document answers how maintained routes and movement nodes let cassowary soc
 - Topics: routes, movement, tribute, trade, maintenance, chokepoints
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Canon Candidate
 - Related technologies: path maintenance, river corridors, coastal routes, ridge lines
 - Related institutions: tribute, redistribution, regional integration
 

@@ -13,4 +13,4 @@ Before writing or revising canon-bearing material, check:
 - [Repository Structure](docs/repository-structure.md)
 - [Indexing and Generated Files](docs/indexing-and-generated-files.md)
 
-In short: do not invent arbitrary lore, do not silently promote story assumptions to canon, and explain every capability through biology, ecology, technology, or culture.
+In short: do not invent arbitrary lore, do not silently treat story assumptions as system mechanics, and explain every capability through biology, ecology, technology, or culture.

@@ -10,10 +10,9 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 - Layer: Cassowary World system
 - Topics: honeypot ants, aphid stabilization, orchard management, ecological domestication, sugar production, regional ecotypes
 - Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
-- Regions: Sahul orchard ecologies — savanna woodland, dryland margins, PNG and wet margins, upland refugia, coastal shelf
-- Status: Canon Candidate
-- Related species: cassowaries, honeypot ants, aphids and other sap-feeders, orchard trees
-- Related technologies: pottery, sealing materials, nest architecture
+- Regions: Sahul orchard ecologies
+- Related species: cassowaries, honeypot ants, aphids, sap-rich orchard trees
+- Related technologies: pottery, sealing materials
 - Related institutions: tribute, redistribution, administrative specialization
 
 ## Atomic Notes
