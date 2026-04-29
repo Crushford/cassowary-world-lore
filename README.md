@@ -4,60 +4,29 @@ This repository is the documentation and canon foundation for the **Cassowary Wo
 
 It is organized as a layered causal knowledge base: real-world reference defines the baseline, divergences define what changes, lore explains what emerges, and stories demonstrate systems without defining canon.
 
-## Purpose
+## Start Here
 
-- Store canon and story foundation notes for the Cassowary World
-- Preserve causal explanations for biological, ecological, technical, and institutional systems
-- Make canon status and system dependencies easier to audit and maintain
+- [Agent Instructions](docs/agent-instructions.md)
+- [Repository Structure](docs/repository-structure.md)
+- [Indexing and Generated Files](docs/indexing-and-generated-files.md)
+- [Maintenance Backlog](docs/maintenance-backlog.md)
 
-## Repository Structure
+## Canon Authorities
 
-- `principles/` - navigation for guiding philosophy and canon constraints
-- `docs/` - navigation for contributor-facing instructions and migration guides
-- `reference/` - real-world baseline and world-state documents
-- `lore/` - retrievable Cassowary World system docs and fundamental divergences
-- `stories/` - non-canon exploratory narrative material and spikes
-- `generated/` - committed deterministic indexes derived from the source docs
-- Root `*.md` files - foundation documents, canon index, open questions, and stable project-level references
-- `README.md` - repository overview
-- `AGENTS.md` - operating instructions for human/AI contributors
+- [Guiding Principles](GUIDING_PRINCIPLES.md)
+- [Core Logic](CORE_LOGIC.md)
+- [Canon Index](CANON_INDEX.md)
+- [Open Questions](99-open-questions.md)
+- [History and Timeline](03-history-and-timeline.md)
 
-## Current Foundation Docs
+## Knowledge Layers
 
-- `03-history-and-timeline.md`
-- `GUIDING_PRINCIPLES.md`
-- `CORE_LOGIC.md`
-- `CANON_INDEX.md`
-- `99-open-questions.md`
+- `reference/` defines real-world baseline and world-state constraints.
+- `lore/divergences/` defines deliberate changes from real-world history or biology.
+- `lore/` defines Cassowary World systems that emerge from those constraints and divergences.
+- `stories/` stores non-canon exploratory narrative material.
+- `generated/` stores committed deterministic indexes derived from source docs.
 
-## Active Knowledge Layers
+## Core Rule
 
-Active canon and canon candidates live in `reference/`, `lore/divergences/`, and `lore/`.
-
-`reference/` defines real-world baseline and world-state constraints. `lore/divergences/` defines deliberate changes from real-world history or biology. `lore/` defines the Cassowary World systems that emerge from those constraints and divergences.
-
-## Core Logic
-
-`CORE_LOGIC.md` is the inference layer for repository consistency. It captures causal rules and dependency expectations (for example, preservation implies storage infrastructure; storage infrastructure implies ownership and institutional handling).
-
-Lore documents should be checked against `CORE_LOGIC.md` to identify missing dependencies, contradictions, or required open questions.
-
-## Canon Promotion
-
-Canon status progresses through documented review, not narrative assertion.
-
-- `Draft` - exploratory, incomplete, or provisional
-- `Canon Candidate` - mechanistically defined and plausibly integrated
-- `Canon` - explicitly confirmed
-- `Deprecated` - retained for traceability but no longer active canon
-
-Active reference and lore systems should be tracked in `CANON_INDEX.md`.
-
-## Working Style
-
-- Keep root foundation docs stable until specific migration passes justify edits
-- Use `reference/` for real-world baseline, `lore/` for Cassowary World systems, and `stories/` for narrative exploration
-- Add dependency, timeline, and related-document links to lore docs where relevant
-- Keep `generated/` committed and in sync with source docs
-- Prefer updating existing files over creating many new ones
-- Use clear headings and structured Markdown
+Nothing exists in canon without explanation. Every capability must emerge through biological evolution, ecological interaction, technological development, or cultural processes.

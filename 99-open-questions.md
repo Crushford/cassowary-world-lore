@@ -96,4 +96,4 @@ This document tracks unresolved canon decisions and system gaps.
 
 - [Core Logic](CORE_LOGIC.md)
 - [Canon Index](CANON_INDEX.md)
-- [Lore Migration Guide](LORE_MIGRATION_GUIDE.md)
+- [Agent Instructions](docs/agent-instructions.md)

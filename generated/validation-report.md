@@ -1,12 +1,12 @@
 # Validation Report
 
-- Docs scanned: 50
-- Topic indexes: 21
+- Docs scanned: 33
+- Topic indexes: 9
 - Time indexes: 11
 - Layer indexes: 4
 - Status indexes: 6
 - Errors: 0
-- Warnings: 11
+- Warnings: 10
 
 ## Warnings
 
@@ -20,4 +20,3 @@
 - CANON_INDEX.md: Summary was derived from the preamble instead of a dedicated section (preamble) [summary-fallback]
 - CORE_LOGIC.md: Summary was derived from the preamble instead of a dedicated section (preamble) [summary-fallback]
 - GUIDING_PRINCIPLES.md: Summary was derived from the preamble instead of a dedicated section (preamble) [summary-fallback]
-- LORE_MIGRATION_GUIDE.md: No Summary section or intro paragraph was found [missing-summary]

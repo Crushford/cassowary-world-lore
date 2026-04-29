@@ -2,9 +2,11 @@
 
 This folder is the navigation layer for contributor-facing documentation.
 
-Current operating guides remain at the repository root for stability:
+## Active Guides
 
-- [Agent Instructions](../AGENTS.md)
-- [Lore Migration Guide](../LORE_MIGRATION_GUIDE.md)
+- [Agent Instructions](agent-instructions.md)
+- [Repository Structure](repository-structure.md)
+- [Indexing and Generated Files](indexing-and-generated-files.md)
+- [Maintenance Backlog](maintenance-backlog.md)
 
-Use these documents when writing, migrating, or reviewing Cassowary World canon.
+Use these documents when writing, maintaining, or reviewing Cassowary World canon.

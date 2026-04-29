@@ -12,5 +12,5 @@ Narrative scenes may generate candidate facts, but those facts become canon only
 
 ## Related Documents
 
-- [AGENTS](../AGENTS.md)
+- [Agent Instructions](../docs/agent-instructions.md)
 - [Open Questions](../99-open-questions.md)

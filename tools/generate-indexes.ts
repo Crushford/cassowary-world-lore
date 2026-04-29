@@ -67,7 +67,6 @@ const ROOT_DOC_ALLOWLIST = new Set([
   'CANON_INDEX.md',
   'CORE_LOGIC.md',
   'GUIDING_PRINCIPLES.md',
-  'LORE_MIGRATION_GUIDE.md',
 ]);
 const IGNORED_DIRS = new Set(['.git', 'generated', 'node_modules', 'archive', 'old']);
 
