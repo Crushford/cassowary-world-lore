@@ -2,25 +2,6 @@
 
 Generated from source document `Time periods` metadata.
 
-## ~2 MYA
-
-| Title                                                                                                                                 | Path                                                 | Layer     | Summary                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a... |
-
-## early Pleistocene glacial cycles
-
-| Title                                                                                    | Path                                                 | Layer     | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md) | reference/geography/sahul-and-pleistocene-climate.md | Reference | This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baselin... |
-
-## ~2 MYA representative glacial maximum
-
-| Title                                                                                                                                 | Path                                                 | Layer     | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baselin... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a...  |
-
 ## Claw Development Era
 
 | Title                                                                                                           | Path                                                          | Layer       | Summary                                                                                                                 |
@@ -239,16 +220,18 @@ Generated from source document `Time periods` metadata.
 
 ## Protohistoric Expansion Era
 
-| Title                                                                                                         | Path                                                        | Layer | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ |
-| [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                                   | lore/transport/first-new-zealand-arrival.md                 | Lore  | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
-| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md          | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
-| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                               | lore/transport/moa-mounted-warfare.md                       | Lore  | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
-| [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md)                 | lore/transport/sahul-new-zealand-maritime-contact.md        | Lore  | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
-| [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md) | lore/tribute/tribute-collection-counting-and-enforcement.md | Lore  | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | lore/tribute/tribute-seal-integrity-and-authority-marks.md  | Lore  | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Sealed Vessel Units](../lore/tribute/tribute-sealed-vessel-units.md)                                 | lore/tribute/tribute-sealed-vessel-units.md                 | Lore  | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
-| [Tribute Storage Custody and Redistribution](../lore/tribute/tribute-storage-custody-and-redistribution.md)   | lore/tribute/tribute-storage-custody-and-redistribution.md  | Lore  | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                                                 | Path                                                        | Layer     | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                                                           | lore/transport/first-new-zealand-arrival.md                 | Lore      | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                                             | lore/transport/moa-domestication-and-ridability.md          | Lore      | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
+| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                                                       | lore/transport/moa-mounted-warfare.md                       | Lore      | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md        | Reference | This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baselin... |
+| [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md)                                         | lore/transport/sahul-new-zealand-maritime-contact.md        | Lore      | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
+| [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)                         | lore/tribute/tribute-collection-counting-and-enforcement.md | Lore      | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                           | lore/tribute/tribute-seal-integrity-and-authority-marks.md  | Lore      | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../lore/tribute/tribute-sealed-vessel-units.md)                                                         | lore/tribute/tribute-sealed-vessel-units.md                 | Lore      | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../lore/tribute/tribute-storage-custody-and-redistribution.md)                           | lore/tribute/tribute-storage-custody-and-redistribution.md  | Lore      | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md        | Reference | This file describes the baseline Earth context for the main Cassowary World setting during the Protohistoric Expansio... |
 
 ### Key Atomic Notes
 

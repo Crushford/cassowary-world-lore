@@ -2,7 +2,7 @@
 
 - Docs scanned: 41
 - Topic indexes: 26
-- Time indexes: 7
+- Time indexes: 4
 - Layer indexes: 4
 - Errors: 0
 - Warnings: 37

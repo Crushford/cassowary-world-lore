@@ -4,7 +4,7 @@ Layer: Real-world reference
 
 ## Summary
 
-This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a glacial maximum snapshot used to constrain geography, climate, species, movement, settlement, and ecological systems.
+This file describes the baseline Earth context for the main Cassowary World setting during the Protohistoric Expansion Era. It represents a glacial maximum snapshot used to constrain geography, climate, species, movement, settlement, and ecological systems.
 
 This is not a general reference for modern Earth. It is a time-specific baseline for Cassowary World lore.
 
@@ -12,7 +12,7 @@ This is not a general reference for modern Earth. It is a time-specific baseline
 
 - Primary topic: World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 - Topics: geography, climate, Sahul, glacial maximum, sea level, refugia, movement corridors, megafauna, large predators, honeypot ants, aphids
-- Time periods: `~2 MYA`, `~2 MYA representative glacial maximum`
+- Era: Protohistoric Expansion Era
 - Regions: Sahul
 
 ## Core World Picture
@@ -31,8 +31,8 @@ This is not a general reference for modern Earth. It is a time-specific baseline
 - The Torres Strait area and Arafura Shelf support land connectivity between northern Australia and New Guinea.
 - The Gulf of Carpentaria is not equivalent to its modern marine form and may function as exposed lowland, basin, or seasonal wetland depending on local conditions.
 - Modern coastal geography should not be assumed for settlement, travel, or resource access.
-- Deep-water channels between Sahul and the Indonesian island chain persist even at glacial maximum sea levels. The westward crossing toward Indonesia remains a significant barrier at `~2 MYA`.
-- Cassowary expansion by `~2 MYA` does not include Indonesia or Southeast Asian island groups. The reason is not resolved; see [Open Questions](../99-open-questions.md).
+- Deep-water channels between Sahul and the Indonesian island chain persist even at glacial maximum sea levels. The westward crossing toward Indonesia remains a significant barrier during the Protohistoric Expansion Era.
+- Cassowary expansion during the Protohistoric Expansion Era does not include Indonesia or Southeast Asian island groups. The reason is not resolved; see [Open Questions](../99-open-questions.md).
 
 ## Climate
 
@@ -73,7 +73,7 @@ This file does not attempt a full species catalog.
 ## Open Questions
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
 
 ## Related Documents
