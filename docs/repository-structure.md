@@ -40,6 +40,24 @@ Generated authority views are rebuilt from source docs. Keep source metadata, at
 
 `lore/` defines Cassowary World systems that emerge from baseline reality plus divergences. System docs should explain mechanisms, constraints, consequences, institutions, technologies, and cultural processes.
 
+### Lore Subfolders
+
+Place a lore file in the subfolder that matches its primary subject domain:
+
+- `divergences/` — deliberate changes from real-world history or biology (one file per major divergence)
+- `biology/` — species-level biological mechanisms (anatomy, neurology, behaviour)
+- `ecology/` — ecological systems and inter-species interactions
+- `agriculture/` — domestication, cultivation, and orchard management
+- `infrastructure/` — physical technology: storage, ceramics, construction
+- `transport/` — movement networks and load-carrying systems
+- `frameworks/` — analytical or classification models used to understand the world
+- `honeypot-ants/` — content specific to honeypot ant biology, behaviour, or management
+- `tribute/` — political economy: tribute collection, custody, redistribution, and authority
+
+If a topic spans multiple domains, place the file where its *primary mechanism* lives and link to the other relevant folders from the `Related Documents` section.
+
+A new subfolder is appropriate when a topic is large enough to warrant its own domain and won't fit cleanly into an existing one. Before creating one, check whether an existing subfolder covers it. If you do add a subfolder, update the list above so the guidance stays current.
+
 `stories/` stores scenes and narrative spikes. If story material introduces a durable world mechanic, extract it into a system doc or open question so generated reference views can surface it.
 
 ## Folder READMEs
