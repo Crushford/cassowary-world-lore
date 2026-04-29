@@ -1,5 +1,0 @@
-# Time Index: ~12 MYA
-
-| Title                                                                                 | Path                                            | Layer       | Summary                                                                                                                  | Topics                                                                                               |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md) | lore/divergences/cassowary-wing-claws-12-mya.md | Divergences | This divergence file tracks the root change in cassowary wing-claw function. Around `~12 MYA`, rising predator pressu... | Cassowary Anatomy, Wing Claws, Manipulation, Evolutionary Divergence, Cassowary Wing-Claw Divergence |

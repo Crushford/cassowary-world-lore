@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Colony Management`.
 
 ## Documents
 
-| Title                                                                                                             | Path                                                          | Layer | Time Periods                              | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                 | lore/honeypot-ants/honeypot-ant-harvesting.md                 | Lore  | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
+| Title                                                                                                             | Path                                                          | Layer | Time Periods              | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                 | lore/honeypot-ants/honeypot-ant-harvesting.md                 | Lore  | Ecological Management Era | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md | Lore  | Ecological Management Era | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
 
 ## Layer Breakdown
 
@@ -37,7 +37,7 @@ No entries found.
 - Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
 - Nest-assist pots are living-system infrastructure: they remain in the orchard, embedded in the nest environment, and are not the same as tribute jars used for sugar storage and transport.
 - Harvest bowls or replete cups receive repletes or liquid reserve during controlled partial harvest. They are separate from nest-assist chambers.
-- In `4-3 MYA`, regional pottery-assisted proto-domestication shifts from opportunistic vessel placement toward intentional biasing of nest architecture.
+- Intentional pottery-assisted management of nest architecture begins in the Ecological Management Era; before this, clay vessels may be placed near ant nests opportunistically but without deliberate biasing of colony structure.
 - Orchard management and colony management integrate as harvesters plan ant storage around productive host-tree systems.
 - Sustainable harvest removes only part of a colony's reserve capacity while preserving enough for seasonal recovery and famine buffering.
 - Overharvest and political extraction pressure can reduce colony resilience or cause local collapse. The colony is the renewable resource; protecting colony viability is the same as protecting future yield.

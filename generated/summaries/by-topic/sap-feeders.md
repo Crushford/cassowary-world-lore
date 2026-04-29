@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Sap-Feeders`.
 
 ## Documents
 
-| Title                                                                                                   | Path                                                  | Layer | Time Periods                              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | lore/ecology/aphid-stabilization.md                   | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| Title                                                                                                   | Path                                                  | Layer | Time Periods              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | lore/ecology/aphid-stabilization.md                   | Lore  | Ecological Management Era | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore  | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Layer Breakdown
 

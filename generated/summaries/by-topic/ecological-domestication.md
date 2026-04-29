@@ -4,11 +4,11 @@ Generated summary bundle for docs tagged with `Ecological Domestication`.
 
 ## Documents
 
-| Title                                                                                                           | Path                                                         | Layer | Time Periods                              | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                             | lore/ecology/aphid-stabilization.md                          | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | lore/honeypot-ants/honeypot-ant-orchard-system-management.md | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)         | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md        | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| Title                                                                                                           | Path                                                         | Layer | Time Periods              | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                             | lore/ecology/aphid-stabilization.md                          | Lore  | Ecological Management Era | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | lore/honeypot-ants/honeypot-ant-orchard-system-management.md | Lore  | Ecological Management Era | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)         | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md        | Lore  | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Layer Breakdown
 
@@ -49,7 +49,7 @@ No entries found.
 
 - Honeypot ant orchard management turns orchard trees, aphids and other sap-feeders, and ant reserves into a linked surplus system rather than a simple harvest of wild colonies.
 - Cassowary intervention stabilizes host trees, sap-feeder populations, nest conditions, and harvest intensity as one production chain.
-- The system develops from opportunistic consumption in `~6-4 MYA`, repeated harvesting in `4-3 MYA`, early domestication in `~3-2.5 MYA`, and regional civilizational dependence in `~2.5-2 MYA`.
+- The system is preceded by opportunistic consumption (before the Fire and Extended Development Era) and repeated harvesting (Fire and Extended Development Era); intentional ecological management begins in the Ecological Management Era and reaches regional civilizational dependence in the Protohistoric Expansion Era.
 - Adoption remains uneven across Sahul because ecological variation, climate, and species distributions constrain where orchard-ant systems can persist and at what scale.
 - Long-term orchard stability is a prerequisite for reliable honeypot ant output.
 - Host-tree decline, sap-feeder loss, or climate stress can cascade into lower honeydew flow and reduced ant reserves.

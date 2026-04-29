@@ -3,9 +3,9 @@
 Grouped by folder.
 
 ## reference
-| Title                                                                                        | Path                          | Time Periods                                  | Summary                                                                                                                 |
-| -------------------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [World State — ~2 MYA (Representative Glacial Maximum)](../../reference/world-state-2mya.md) | reference/world-state-2mya.md | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a... |
+| Title                                                                                                                                    | Path                                                 | Time Periods                                  | Summary                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a... |
 
 ## reference/ecology
 | Title                                                                         | Path                                         | Time Periods | Summary                                                                                                                  |

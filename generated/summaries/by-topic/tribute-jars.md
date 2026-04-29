@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Tribute Jars`.
 
 ## Documents
 
-| Title                                                                                                            | Path                                                          | Layer | Time Periods                     | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA  | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
-| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | lore/infrastructure/storage-and-ceramic-technology.md         | Lore  | ~4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| Title                                                                                                            | Path                                                          | Layer | Time Periods              | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | Ecological Management Era | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
+| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | lore/infrastructure/storage-and-ceramic-technology.md         | Lore  | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
 
 ## Layer Breakdown
 

@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Custody`.
 
 ## Documents
 
-| Title                                                                                                             | Path                                                       | Layer | Time Periods                             | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md) | lore/tribute/tribute-seal-integrity-and-authority-marks.md | Lore  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md) | lore/tribute/tribute-storage-custody-and-redistribution.md | Lore  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                             | Path                                                       | Layer | Time Periods                | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md) | lore/tribute/tribute-seal-integrity-and-authority-marks.md | Lore  | Protohistoric Expansion Era | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md) | lore/tribute/tribute-storage-custody-and-redistribution.md | Lore  | Protohistoric Expansion Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
 
 ## Layer Breakdown
 
@@ -56,7 +56,7 @@ No entries found.
 - Control of centralized stored food creates enforcement power during scarcity.
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
-- Regional guarded storage centers and forwarded taxation networks emerge in `~2.2-1.8 MYA`.
+- Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
 
 ## Open Questions
 

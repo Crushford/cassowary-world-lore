@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Sap-Flow Hosts`.
 
 ## Documents
 
-| Title                                                                                   | Path                                            | Layer | Time Periods                              | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------- | ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)   | lore/agriculture/orchard-lineage-management.md  | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... |
-| [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md) | lore/agriculture/orchard-sugar-tree-lineages.md | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... |
+| Title                                                                                   | Path                                            | Layer | Time Periods              | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)   | lore/agriculture/orchard-lineage-management.md  | Lore  | Ecological Management Era | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... |
+| [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md) | lore/agriculture/orchard-sugar-tree-lineages.md | Lore  | Ecological Management Era | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... |
 
 ## Layer Breakdown
 

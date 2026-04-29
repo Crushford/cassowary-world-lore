@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Moas`.
 
 ## Documents
 
-| Title                                                                 | Path                                  | Layer     | Time Periods | Summary                                                                                                                  |
-| --------------------------------------------------------------------- | ------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | ~2.5-2 MYA   | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
-| [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference |              | This reference documents real-world moas as a baseline for Cassowary World lore. It covers their biology, ecology, an... |
+| Title                                                                 | Path                                  | Layer     | Time Periods                | Summary                                                                                                                  |
+| --------------------------------------------------------------------- | ------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | Protohistoric Expansion Era | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference |                             | This reference documents real-world moas as a baseline for Cassowary World lore. It covers their biology, ecology, an... |
 
 ## Layer Breakdown
 

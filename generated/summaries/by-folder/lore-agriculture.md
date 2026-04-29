@@ -4,10 +4,10 @@ Generated summary bundle for documents in `lore/agriculture`.
 
 ## Documents
 
-| Title                                                                                   | Time Periods                              | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)   | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... |
-| [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md) | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... |
+| Title                                                                                   | Time Periods              | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)   | Ecological Management Era | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... |
+| [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md) | Ecological Management Era | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... |
 
 ## Key Atomic Notes
 
@@ -48,7 +48,7 @@ Generated summary bundle for documents in `lore/agriculture`.
 - [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

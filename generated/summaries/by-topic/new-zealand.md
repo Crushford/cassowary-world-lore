@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `New Zealand`.
 
 ## Documents
 
-| Title                                                                                               | Path                                                 | Layer | Time Periods | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | lore/transport/first-new-zealand-arrival.md          | Lore  | ~2.5-2 MYA   | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
-| [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | lore/transport/sahul-new-zealand-maritime-contact.md | Lore  | ~2.5-2 MYA   | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
+| Title                                                                                               | Path                                                 | Layer | Time Periods                | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | lore/transport/first-new-zealand-arrival.md          | Lore  | Protohistoric Expansion Era | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
+| [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | lore/transport/sahul-new-zealand-maritime-contact.md | Lore  | Protohistoric Expansion Era | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
 
 ## Layer Breakdown
 
@@ -41,7 +41,7 @@ No entries found.
 - First arrival does not imply broad cassowary expansion outside the Sahul-New Zealand system.
 - Early New Zealand cassowary groups become isolated long enough to develop local lifeways and moa-handling traditions before reconnection.
 - Later trade routes connect Sahul societies to already-established New Zealand cassowary groups and managed moa lineages, not to an uninhabited island.
-- By `~2 MYA`, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
+- By the Protohistoric Expansion Era, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
 - The absence from Indonesia is established canon. The reason for that absence is not resolved.
 - Possible contributing factors include: deep-water channels toward the west that persist even at glacial maximum sea levels; dangerous open-sea crossing conditions; and the possibility that cassowary food systems and orchard crops do not establish well in the different ecologies of the Indonesian island chain. None of these is confirmed as the primary cause.
 

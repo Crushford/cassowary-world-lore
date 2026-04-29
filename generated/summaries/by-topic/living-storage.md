@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Living Storage`.
 
 ## Documents
 
-| Title                                                                                                            | Path                                                          | Layer | Time Periods                    | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                | lore/honeypot-ants/honeypot-ant-sugar-preservation.md         | Lore  | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
-| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
+| Title                                                                                                            | Path                                                          | Layer | Time Periods              | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                | lore/honeypot-ants/honeypot-ant-sugar-preservation.md         | Lore  | Ecological Management Era | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
+| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | Ecological Management Era | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
 
 ## Layer Breakdown
 
@@ -38,7 +38,7 @@ No entries found.
 - Harvested replete reserves are converted into transportable preserved sugar products using pottery, concentration, and sealing materials.
 - Processing generally opens repletes, removes debris, optionally adds regional ingredients, and concentrates liquid by heating or controlled sun reduction.
 - Sealed ceramic vessels with wax, resin, or similar barriers make preserved sugar products more durable and transportable than raw repletes or unprocessed honeydew.
-- Preserved sugar production becomes possible at larger scale during `4-3 MYA`, becomes regular stored calories in `~3-2.5 MYA`, and becomes a major tribute, ration, and trade medium in some regions in `~2.5-2 MYA`.
+- Preserved sugar production as a repeatable practice begins in the Ecological Management Era, becoming regular stored calories; it becomes a major tribute, ration, and trade medium in some regions in the Protohistoric Expansion Era.
 - Pottery and sealing technologies convert living biological storage into measurable administrative storage.
 - Large-scale preservation requires craft infrastructure: pottery, sealants, heat or sun-reduction practices, and coordinated labor.
 - Loss of preservation capacity reduces usable surplus even if ant colonies survive.

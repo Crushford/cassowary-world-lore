@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Fire Incubation`.
 
 ## Documents
 
-| Title                                                                                           | Path                                                 | Layer | Time Periods           | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore  | ~3-2.5 MYA, ~2.5-2 MYA | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
-| [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md) | lore/transport/moa-domestication-and-ridability.md   | Lore  | ~2.5-2 MYA             | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
+| Title                                                                                           | Path                                                 | Layer | Time Periods                | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore  | Ecological Management Era   | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
+| [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md) | lore/transport/moa-domestication-and-ridability.md   | Lore  | Protohistoric Expansion Era | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
 
 ## Layer Breakdown
 
