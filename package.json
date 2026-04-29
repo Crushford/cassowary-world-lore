@@ -4,6 +4,14 @@
   "type": "module",
   "scripts": {
     "generate:indexes": "node --experimental-strip-types tools/generate-indexes.ts",
-    "generate:indexes:check": "node --experimental-strip-types tools/generate-indexes.ts --check"
+    "generate:indexes:check": "node --experimental-strip-types tools/generate-indexes.ts --check",
+    "lint:md": "markdownlint-cli2",
+    "lint:md:fix": "markdownlint-cli2 --fix",
+    "lint": "npm run lint:md && npm run generate:indexes:check",
+    "prepare": "lefthook install"
+  },
+  "devDependencies": {
+    "lefthook": "^1.10.10",
+    "markdownlint-cli2": "^0.17.2"
   }
 }

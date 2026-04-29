@@ -10,7 +10,6 @@ This divergence file tracks the root change in cassowary wing-claw function. Aro
 - Primary topic: cassowary wing-claw divergence
 - Topics: cassowary anatomy, wing claws, manipulation, evolutionary divergence
 - Time periods: `~12 MYA`
-- Status: Canon
 - Related species: cassowaries
 
 ## What Changes
@@ -28,6 +27,12 @@ The divergence begins around `~12 MYA` in response to major predator pressure, i
 - Stronger wing claws provide an anatomical starting point for later manipulative forelimb evolution.
 - Improved chick clinging can alter parental care, juvenile survival, and developmental pressures.
 - Later tool use, transport, and institutions must trace back to this anatomical bridge rather than appearing suddenly.
+
+## Atomic Notes
+
+- Cassowary wing-claw divergence begins as stronger chick wing-claw function under predator pressure around `~12 MYA`.
+- The divergence changes the developmental importance of vestigial wing claws without granting sudden human-like hands.
+- Later manipulation, tool use, carrying, craft, storage, transport, and institutions must trace back to this anatomical bridge.
 
 ## Systems Depending On It
 
@@ -47,6 +52,6 @@ Do not reintroduce a later divergence date or treat the wing-claw adaptation as 
 ## Related Documents
 
 - [Cassowaries](../../reference/species/cassowaries.md)
-- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Guiding Principles](../../docs/guiding-principles.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../biology/cassowary-neurodevelopment-and-predator-management-transition.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

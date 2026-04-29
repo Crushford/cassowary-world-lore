@@ -11,7 +11,6 @@ This document answers how cassowary societies convert perishable orchard and ant
 - Topics: preservation, storage, surplus, sealed containers, cooled storage, redistribution
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Canon Candidate
 - Related technologies: pottery, ceramic vessels, sealing materials, cool storage, drying
 - Related institutions: tribute, redistribution, stored surplus, administrative specialization
 
@@ -46,4 +45,4 @@ The important shift is not "people store food." It is that storage becomes a rep
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
 - [Storage and Ceramic Technology](storage-and-ceramic-technology.md)
 - [Transport Networks](transport-networks.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

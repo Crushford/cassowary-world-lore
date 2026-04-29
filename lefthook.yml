@@ -1,0 +1,10 @@
+pre-commit:
+  commands:
+    markdownlint:
+      glob: "*.md"
+      exclude:
+        - "generated/**"
+        - ".obsidian/**"
+      run: npm run lint:md:fix -- {staged_files} && git add {staged_files}
+    generated-indexes:
+      run: npm run generate:indexes:check

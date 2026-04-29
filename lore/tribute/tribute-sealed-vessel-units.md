@@ -11,7 +11,6 @@ This document answers how early cassowary tribute becomes measurable before weig
 - Topics: tribute, taxation, standardized vessels, volume measurement, preserved surplus
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related technologies: ceramic vessels, sealants, standard vessel forms
 - Related institutions: tribute, taxation, storage custody
 
@@ -56,4 +55,4 @@ The full visual and functional description of tribute jars — including their s
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [History and Timeline](../../generated/timeline-overview.md)

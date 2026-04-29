@@ -1,7 +1,6 @@
 # World State — ~2 MYA (Representative Glacial Maximum)
 
 Layer: Real-world reference
-Status: Draft
 
 ## Summary
 
@@ -70,6 +69,12 @@ This file does not attempt a full species catalog.
 - Lore systems may reference more specific regional variations when needed.
 - Use this file to avoid accidental modern-world assumptions in geography, climate, species, and ecological constraints.
 - Lore systems should assume this world state unless a specific document explicitly justifies a local or temporal variation.
+
+## Open Questions
+
+- Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?
+- Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
 
 ## Related Documents
 

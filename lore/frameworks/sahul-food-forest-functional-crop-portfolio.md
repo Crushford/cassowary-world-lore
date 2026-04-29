@@ -11,7 +11,6 @@ This document answers how cassowary agriculture can scale across Sahul by preser
 - Topics: agriculture, crop roles, orchard planning, regional substitution, functional classification
 - Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Draft
 - Related species: figs, macadamia, palms, lilly pillies, quandongs, cassowary plum lineages
 - Related technologies: grafting, transplanting, preservation planning
 - Related institutions: orchard lineage management, food preservation, tribute planning
@@ -36,6 +35,7 @@ The important claim is that civilizational continuity can survive species substi
 ## Open Questions
 
 - Which species set is viable in the earliest domestication phase versus later institutional agriculture?
+- When does a functional crop-portfolio model become an explicit planning framework rather than local practice?
 - Which preservation methods pair best with each crop class?
 - Which crops become tribute staples rather than household staples?
 - How much of the system depends on active grafting versus managed wild stands?
@@ -46,5 +46,5 @@ The important claim is that civilizational continuity can survive species substi
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [History and Timeline](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)

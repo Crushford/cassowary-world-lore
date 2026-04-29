@@ -11,7 +11,6 @@ This document answers how sealed tribute vessels carry trust and authority befor
 - Topics: tribute, seal marks, custody, tamper evidence, authority symbols
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related technologies: resin seals, wax seals, clay seals, ceramic lids, stamp objects
 - Related institutions: tribute, taxation, storage custody
 
@@ -51,4 +50,4 @@ Seal integrity depends on [Tribute Sealed Vessel Units](tribute-sealed-vessel-un
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [History and Timeline](../../generated/timeline-overview.md)

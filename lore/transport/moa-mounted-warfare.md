@@ -11,7 +11,6 @@ This document explains how moas function as mounts and transport animals in Cass
 - Topics: moas, mounted warfare, transport, breeding, imperial logistics
 - Time periods: `~2.5-2 MYA`
 - Regions: Sahul and New Zealand-linked exchange routes
-- Status: Canon
 - Related species: moas, cassowaries
 - Related institutions: warfare, transport, breeding, imperial logistics
 
@@ -34,9 +33,5 @@ This is a system doc, not a divergence doc. The canon claim is that moas are use
 
 ## Related Documents
 
-- [Moa Domestication and Ridability](moa-domestication-and-ridability.md)
-- [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md)
-- [First New Zealand Arrival](first-new-zealand-arrival.md)
-- [Moas](../../reference/species/moas.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)
 - [Transport Networks](../infrastructure/transport-networks.md)

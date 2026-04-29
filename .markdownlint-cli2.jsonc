@@ -1,0 +1,12 @@
+{
+  "globs": [
+    "**/*.md",
+    "!generated/**",
+    "!.obsidian/**",
+    "!node_modules/**"
+  ],
+  "config": {
+    "default": false,
+    "MD047": true
+  }
+}

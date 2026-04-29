@@ -11,7 +11,6 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Topics: tribute, custody, storage control, redistribution, political authority
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization
 - Related technologies: sealed vessels, cool storage, guarded storehouses
 
@@ -41,6 +40,7 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 ## Open Questions
 
 - How much storage remains household-scale versus controlled by communal or political institutions?
+- How are ownership and storage rights formalized once surplus storage becomes politically important?
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
@@ -54,4 +54,4 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [History and Timeline](../../generated/timeline-overview.md)

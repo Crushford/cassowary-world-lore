@@ -11,7 +11,6 @@ This document answers how cassowary societies produce, standardize, seal, and re
 - Topics: ceramics, vessels, sealing, standardization, preservation infrastructure, nest-assist pots, tribute jars
 - Time periods: `~4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
-- Status: Canon Candidate
 - Related technologies: clay sourcing, firing, wax seals, resin seals, vessel standardization
 - Related institutions: storage, preservation, tribute, redistribution
 
@@ -40,6 +39,7 @@ The important shift is that containers become administratively meaningful. Once 
 
 - Which ceramic forms emerge first: nest-assist chambers, storage jars, or transport containers?
 - When does vessel standardization become important enough to require social enforcement?
+- What measurement or standardization systems are needed before tribute units become comparable across settlements?
 - Which sealants are regionally available and durable enough for preserved sugar storage?
 - How much container production is household craft versus specialist labor?
 
@@ -51,4 +51,4 @@ The important shift is that containers become administratively meaningful. Once 
 - [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

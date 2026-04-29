@@ -1,11 +1,14 @@
 # Cassowaries
 
-Layer: Real-world reference
-Status: Draft
-
 ## Summary
 
 This reference explains real-world cassowary traits that matter for Cassowary World divergence and system design.
+
+## Metadata
+
+- Layer: Real-world reference
+- Primary topic: cassowaries
+- Topics: cassowaries, anatomy, flightless birds, female territoriality, male parental care
 
 ## Useful Baseline
 
@@ -22,5 +25,5 @@ Cassowary World begins from this biological baseline and then introduces a contr
 ## Related Documents
 
 - [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md)
-- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Guiding Principles](../../docs/guiding-principles.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)

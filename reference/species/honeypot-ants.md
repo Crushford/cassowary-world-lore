@@ -1,11 +1,14 @@
 # Honeypot Ants
 
-Layer: Real-world reference
-Status: Draft
-
 ## Summary
 
 This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.
+
+## Metadata
+
+- Layer: Real-world reference
+- Primary topic: honeypot ants
+- Topics: honeypot ants, repletes, liquid food storage, colony structure
 
 ## Useful Baseline
 
@@ -36,5 +39,3 @@ Scalable colony propagation should reference the separate honeypot ant nest-spli
 - [Honeypot Ant Orchard System Management](../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Honeypot Ant Harvesting](../../lore/honeypot-ants/honeypot-ant-harvesting.md)
 - [Honeypot Ant Sugar Preservation](../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
-- [Regional Honeypot Ant Ecotypes](../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
-- [Honeypot Ant Yield and Surplus Capacity](../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md)

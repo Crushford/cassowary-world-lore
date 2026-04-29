@@ -1,7 +1,0 @@
-# Status Index: Canon
-
-| Title                                                                                 | Path                                            | Layer       | Time Periods | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md) | lore/divergences/cassowary-wing-claws-12-mya.md | Divergences | ~12 MYA      | This divergence file tracks the root change in cassowary wing-claw function. Around `~12 MYA`, rising predator pressu... |
-| [Honeypot Ant Nest Splitting](../../lore/divergences/honeypot-ant-nest-splitting.md)  | lore/divergences/honeypot-ant-nest-splitting.md | Divergences | ~3-2.5 MYA   | This divergence file tracks the Cassowary World change that makes one domesticated honeypot ant lineage more scalable... |
-| [Moa Mounted Warfare](../../lore/transport/moa-mounted-warfare.md)                    | lore/transport/moa-mounted-warfare.md           | Lore        | ~2.5-2 MYA   | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |

@@ -11,7 +11,6 @@ This document answers how cassowary cognition shifts during the `4-3 MYA` transi
 - Topics: cassowaries, neurodevelopment, juvenile learning, coalition logic, predator management
 - Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul inhabited ecologies
-- Status: Canon Candidate
 - Related species: cassowaries
 - Related institutions: apprenticeship, coalition leadership, territorial safety
 - Related technologies: fire use, tool sequences, coordinated patrols
@@ -46,5 +45,5 @@ The important claim is not that cassowaries become human-like. It is that cognit
 - [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [History and Timeline](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)

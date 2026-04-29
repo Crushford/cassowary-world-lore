@@ -11,7 +11,6 @@ This document answers how early tribute is collected, counted, audited, and enfo
 - Topics: tribute, collection, counting, witnessed audit, enforcement, administrative specialization
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
-- Status: Draft
 - Related institutions: tribute, taxation, redistribution, administrative specialization
 - Related technologies: sealed vessels, transport routes, storage racks, seal marks
 
@@ -39,6 +38,7 @@ The same repeated practices create administrative specialization. Counting, guar
 ## Open Questions
 
 - At what scale do memory-and-witness audit practices fail, requiring tally marks or other symbolic record systems?
+- What is the minimal set of institution docs needed to support early urbanization claims?
 - How many seal-recognition marks can be reliably managed with memory-and-witness systems before symbolic tallying becomes necessary?
 - How are mixed tribute goods handled before abstract cross-product accounting emerges?
 - How early do formal route-maintenance obligations appear?
@@ -54,4 +54,4 @@ The same repeated practices create administrative specialization. Counting, guar
 - [Transport Networks](../infrastructure/transport-networks.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [History and Timeline](../../generated/timeline-overview.md)
