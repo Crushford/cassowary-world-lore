@@ -10,7 +10,6 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Layer: Cassowary World system
 - Topics: tribute, custody, storage control, redistribution, political authority
 - Era: Protohistoric Expansion Era
-- Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization
 - Related technologies: sealed vessels, cool storage, guarded storehouses
@@ -28,7 +27,7 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Control of centralized stored food creates enforcement power during scarcity.
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
-- Regional guarded storage centers and forwarded taxation networks emerge in `~2.2-1.8 MYA`.
+- Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
 
 ## Context
 

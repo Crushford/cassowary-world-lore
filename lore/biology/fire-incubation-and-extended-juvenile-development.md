@@ -10,7 +10,6 @@ This document establishes fire-assisted egg incubation as a core cassowary domes
 - Primary topic: fire incubation and extended juvenile development
 - Topics: fire use, egg incubation, juvenile dependency, bird domestication, technology transfer
 - Era: Fire and Extended Development Era
-- Time periods: `4-3 MYA`, `~3-2.5 MYA`
 - Regions: Sahul inhabited ecologies; later transferred to New Zealand
 - Status: Canon Candidate
 - Related species: cassowaries, moas, dromornithids

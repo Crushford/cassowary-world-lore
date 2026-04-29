@@ -10,7 +10,6 @@ This document makes the pots and nest system visually and technically concrete. 
 - Primary topic: pottery-assisted ant nest architecture
 - Topics: ceramic chambers, nest-assist pots, harvest bowls, tribute jars, nest architecture, living storage, dead storage
 - Era: Ecological Management Era
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul — all ecotypes, with varying pot forms by region
 - Status: Canon Candidate
 - Related species: honeypot ants, cassowaries

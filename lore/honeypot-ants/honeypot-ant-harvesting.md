@@ -10,7 +10,6 @@ This document answers how cassowaries make honeypot ant reserves accessible and 
 - Layer: Cassowary World system
 - Topics: honeypot ants, repletes, nest localization, controlled harvest, colony management, nest-assist pots
 - Era: Ecological Management Era
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
 - Related species: cassowaries, honeypot ants
 - Related technologies: clay vessels, ceramic chambers, nest-assist pots, harvest bowls, pottery
@@ -22,7 +21,7 @@ This document answers how cassowaries make honeypot ant reserves accessible and 
 - Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
 - Nest-assist pots are living-system infrastructure: they remain in the orchard, embedded in the nest environment, and are not the same as tribute jars used for sugar storage and transport.
 - Harvest bowls or replete cups receive repletes or liquid reserve during controlled partial harvest. They are separate from nest-assist chambers.
-- Intentional pottery-assisted management of nest architecture begins in `~3-2.5 MYA`; before this, clay vessels may be placed near ant nests opportunistically but without deliberate biasing of colony structure.
+- Intentional pottery-assisted management of nest architecture begins in the Ecological Management Era; before this, clay vessels may be placed near ant nests opportunistically but without deliberate biasing of colony structure.
 - Orchard management and colony management integrate as harvesters plan ant storage around productive host-tree systems.
 - Sustainable harvest removes only part of a colony's reserve capacity while preserving enough for seasonal recovery and famine buffering.
 - Overharvest and political extraction pressure can reduce colony resilience or cause local collapse. The colony is the renewable resource; protecting colony viability is the same as protecting future yield.

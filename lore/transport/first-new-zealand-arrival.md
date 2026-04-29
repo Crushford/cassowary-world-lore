@@ -14,7 +14,6 @@ This document establishes that cassowaries reached New Zealand before the regula
 - Related species: cassowaries, moas
 - Related institutions: early coastal navigation, accidental displacement, founding populations
 - Era: Protohistoric Expansion Era
-- Time periods: `~2.5-2 MYA`
 
 ## Atomic Notes
 
@@ -27,7 +26,7 @@ This document establishes that cassowaries reached New Zealand before the regula
 - First arrival does not imply broad cassowary expansion outside the Sahul-New Zealand system.
 - Early New Zealand cassowary groups become isolated long enough to develop local lifeways and moa-handling traditions before reconnection.
 - Later trade routes connect Sahul societies to already-established New Zealand cassowary groups and managed moa lineages, not to an uninhabited island.
-- By `~2 MYA`, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
+- By the Protohistoric Expansion Era, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
 - The absence from Indonesia is established canon. The reason for that absence is not resolved.
 - Possible contributing factors include: deep-water channels toward the west that persist even at glacial maximum sea levels; dangerous open-sea crossing conditions; and the possibility that cassowary food systems and orchard crops do not establish well in the different ecologies of the Indonesian island chain. None of these is confirmed as the primary cause.
 

@@ -10,7 +10,6 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 - Layer: Cassowary World system
 - Topics: honeypot ants, aphid stabilization, orchard management, ecological domestication, sugar production, regional ecotypes
 - Era: Ecological Management Era
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
 - Related species: cassowaries, honeypot ants, aphids, sap-rich orchard trees
 - Related technologies: pottery, sealing materials
@@ -20,7 +19,7 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 
 - Honeypot ant orchard management turns orchard trees, aphids and other sap-feeders, and ant reserves into a linked surplus system rather than a simple harvest of wild colonies.
 - Cassowary intervention stabilizes host trees, sap-feeder populations, nest conditions, and harvest intensity as one production chain.
-- The system is preceded by opportunistic consumption (~6-4 MYA) and repeated harvesting (~4-3 MYA); intentional ecological management begins in `~3-2.5 MYA` and reaches regional civilizational dependence in `~2.5-2 MYA`.
+- The system is preceded by opportunistic consumption (before the Fire and Extended Development Era) and repeated harvesting (Fire and Extended Development Era); intentional ecological management begins in the Ecological Management Era and reaches regional civilizational dependence in the Protohistoric Expansion Era.
 - Adoption remains uneven across Sahul because ecological variation, climate, and species distributions constrain where orchard-ant systems can persist and at what scale.
 - Long-term orchard stability is a prerequisite for reliable honeypot ant output.
 - Host-tree decline, sap-feeder loss, or climate stress can cascade into lower honeydew flow and reduced ant reserves.

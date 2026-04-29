@@ -10,7 +10,6 @@ This document answers how early tribute is collected, counted, audited, and enfo
 - Layer: Cassowary World system
 - Topics: tribute, collection, counting, witnessed audit, enforcement, administrative specialization
 - Era: Protohistoric Expansion Era
-- Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
 - Related institutions: tribute, taxation, redistribution, administrative specialization
 - Related technologies: sealed vessels, transport routes, storage racks, seal marks

@@ -2,7 +2,7 @@
 
 ## Summary
 
-This document answers how cassowary cognition shifts during the `4-3 MYA` transition window from predator avoidance toward coordinated predator management without assuming a sudden leap to imperial-level intelligence.
+This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoidance toward coordinated predator management without assuming a sudden leap to imperial-level intelligence.
 
 ## Metadata
 
@@ -10,7 +10,6 @@ This document answers how cassowary cognition shifts during the `4-3 MYA` transi
 - Primary topic: cassowary neurodevelopment and predator management transition
 - Topics: cassowaries, neurodevelopment, juvenile learning, coalition logic, predator management
 - Era: Fire and Extended Development Era
-- Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul inhabited ecologies
 - Related species: cassowaries
 - Related institutions: apprenticeship, coalition leadership, territorial safety
@@ -22,7 +21,7 @@ This document answers how cassowary cognition shifts during the `4-3 MYA` transi
 - Early-maturing systems handle movement, balance, threat response, and basic vocalization.
 - Juvenile learning loads spatial memory, tool sequences, seasonal timing, individual recognition, and simple coalition logic.
 - Late executive integration is experience-dependent, uneven across individuals, and most relevant to leadership and long-term planning.
-- The `4-3 MYA` transition window lengthens juvenile dependence and increases the civilizational value of apprenticeship.
+- The Fire and Extended Development Era lengthens juvenile dependence and increases the civilizational value of apprenticeship.
 - Predator management emerges from coordinated group behavior before any individual becomes consistently dominant.
 - Adolescence acts as a coalition filter that stress-tests impulse control and social judgment.
 - Adult cognition improves slowly through continued integration rather than a single growth spurt.

@@ -10,7 +10,6 @@ This document defines how honeypot ant systems vary across Sahul environments. H
 - Primary topic: regional honeypot ant ecotypes
 - Topics: honeypot ants, regional ecology, orchard management, pottery, ecotypes, environmental constraints
 - Era: Ecological Management Era
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul — arid interior, savanna woodland, PNG and wet margins, upland refugia, coastal shelf
 - Status: Canon Candidate
 - Related species: honeypot ants, aphids and other sap-feeders, orchard trees
@@ -54,7 +53,7 @@ Dryland storage ants are the closest to real-world honeypot ant baseline behavio
 - Individual colonies may be culturally significant — sources of early discovery, prestige sugar, and desert-margin trade — without being economically equivalent to managed woodland systems.
 
 **Role in Cassowary World:**
-- Important for early discovery and opportunistic use from `~6-4 MYA`.
+- Important for early discovery and opportunistic use before the Fire and Extended Development Era.
 - Prestige and ceremonial sugar source even in later periods.
 - Desert-margin trade item and exchange token.
 - Not the foundation of civilisational-scale surplus; landscape productivity is too limited.
@@ -77,7 +76,7 @@ Savanna woodland systems are the best candidate for scalable early surplus. The 
 - Best candidate for regular village surplus, tribute production, and regional redistribution.
 
 **Role in Cassowary World:**
-- Core productive zone for tribute and redistribution from `~3-2.5 MYA` onward.
+- Core productive zone for tribute and redistribution from the Ecological Management Era onward.
 - Village-scale orchard-ant clusters drive most institutional surplus.
 - Regional trade in standard sealed vessels originates primarily in these zones.
 - Provides the ecological baseline for the honeypot ant contribution to early state formation.

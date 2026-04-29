@@ -76,11 +76,18 @@ const ALLOWED_TIME_LABELS = [
   '~2.2-1.8 MYA',
   'early Pleistocene glacial cycles',
   '~2 MYA representative glacial maximum',
+  'Claw Development Era',
+  'Fire and Extended Development Era',
+  'Ecological Management Era',
+  'Protohistoric Expansion Era',
+  'Agricultural and Civilisational Era',
+  'WTA Period',
 ];
 const ALLOWED_TIME_LABEL_KEYS = new Map(ALLOWED_TIME_LABELS.map((label) => [normalizeKey(label), label]));
 
 const KNOWN_METADATA_LABELS = new Set([
   'Layer',
+  'Era',
   'Purpose',
   'Primary topic',
   'Topics',
@@ -296,7 +303,9 @@ async function parseDocument(relPath: string): Promise<ContentDoc> {
     ...explicitTopics.map((topic) => displayTopicLabel(topic)),
     ...(titleTopic ? [displayTopicLabel(titleTopic)] : []),
   ]);
-  const timePeriods = uniqueStrings(listValue(metadata, 'Time periods'));
+  const rawTimePeriods = uniqueStrings(listValue(metadata, 'Time periods'));
+  const eraValue = firstValue(metadata, 'Era');
+  const timePeriods = rawTimePeriods.length > 0 ? rawTimePeriods : (eraValue ? [eraValue] : []);
   const regions = uniqueStrings(listValue(metadata, 'Regions'));
   const cultures = uniqueStrings(listValue(metadata, 'Cultures'));
   const relatedDocs = extractRelatedDocuments(sections.get('related documents') ?? []);
@@ -570,7 +579,7 @@ function validateLayerStructure(doc: ContentDoc, issues: ValidationIssue[]) {
       severity: 'error',
       code: 'source-doc-missing-time-period',
       path: doc.relPath,
-      message: 'Lore and divergence docs must include Time periods metadata',
+      message: 'Lore and divergence docs must include Era or Time periods metadata',
     });
   }
 }

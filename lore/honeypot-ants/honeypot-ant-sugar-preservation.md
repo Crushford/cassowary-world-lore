@@ -10,7 +10,6 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Layer: Cassowary World system
 - Topics: honeypot ants, sugar preservation, preserved sugar paste, ceramic sealing, stored surplus, living storage, dead storage
 - Era: Ecological Management Era
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
 - Related species: cassowaries, honeypot ants
 - Related technologies: pottery, ceramic vessels, wax seals, resin seals, controlled heating, sun reduction
@@ -24,7 +23,7 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Harvested replete reserves are converted into transportable preserved sugar products using pottery, concentration, and sealing materials.
 - Processing generally opens repletes, removes debris, optionally adds regional ingredients, and concentrates liquid by heating or controlled sun reduction.
 - Sealed ceramic vessels with wax, resin, or similar barriers make preserved sugar products more durable and transportable than raw repletes or unprocessed honeydew.
-- Preserved sugar production as a repeatable practice begins in `~3-2.5 MYA`, becoming regular stored calories; it becomes a major tribute, ration, and trade medium in some regions in `~2.5-2 MYA`.
+- Preserved sugar production as a repeatable practice begins in the Ecological Management Era, becoming regular stored calories; it becomes a major tribute, ration, and trade medium in some regions in the Protohistoric Expansion Era.
 - Pottery and sealing technologies convert living biological storage into measurable administrative storage.
 - Large-scale preservation requires craft infrastructure: pottery, sealants, heat or sun-reduction practices, and coordinated labor.
 - Loss of preservation capacity reduces usable surplus even if ant colonies survive.
