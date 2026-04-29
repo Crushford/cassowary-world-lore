@@ -6,10 +6,10 @@ Agents must follow the detailed operating rules in [Agent Instructions](docs/age
 
 Before writing or revising canon-bearing material, check:
 
-- [Guiding Principles](GUIDING_PRINCIPLES.md)
-- [Core Logic](CORE_LOGIC.md)
-- [Canon Index](CANON_INDEX.md)
-- [Open Questions](99-open-questions.md)
+- [Guiding Principles](docs/guiding-principles.md)
+- [Core Logic](docs/core-logic.md)
+- [Canon Index](generated/canon-index.md)
+- [Open Questions](generated/open-questions.md)
 - [Repository Structure](docs/repository-structure.md)
 - [Indexing and Generated Files](docs/indexing-and-generated-files.md)
 

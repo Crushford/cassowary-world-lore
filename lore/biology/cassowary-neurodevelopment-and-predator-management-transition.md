@@ -46,5 +46,5 @@ The important claim is not that cassowaries become human-like. It is that cognit
 - [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [History and Timeline](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)

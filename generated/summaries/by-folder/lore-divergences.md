@@ -27,12 +27,12 @@ Generated summary bundle for documents in `lore/divergences`.
 
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
-- [Guiding Principles](../../../GUIDING_PRINCIPLES.md)
+- [Guiding Principles](../../../docs/guiding-principles.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
 - [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
 - [Honeypot Ants](../../../reference/species/honeypot-ants.md)
-- [Open Questions](../../../99-open-questions.md)
+- [Open Questions](../../open-questions.md)
 
 ## Open Questions
 

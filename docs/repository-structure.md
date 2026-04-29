@@ -20,22 +20,17 @@ Canon-bearing material belongs in foundation files, `reference/`, `lore/divergen
 - `tools/` contains repository maintenance scripts.
 - `.github/workflows/` contains CI that validates generated files.
 
-## Foundation Documents
+## Foundation and Authority Documents
 
-The current root foundation and authority documents are:
+The current foundation and authority documents are:
 
-- [World Overview](../00-world-overview.md)
-- [Regions and Places](../01-regions-and-places.md)
-- [People, Cultures, and Factions](../02-people-cultures-and-factions.md)
-- [History and Timeline](../03-history-and-timeline.md)
-- [Rules of the World](../04-rules-of-the-world.md)
-- [Story Foundation](../05-story-foundation.md)
-- [Guiding Principles](../GUIDING_PRINCIPLES.md)
-- [Core Logic](../CORE_LOGIC.md)
-- [Canon Index](../CANON_INDEX.md)
-- [Open Questions](../99-open-questions.md)
+- [Guiding Principles](guiding-principles.md)
+- [Core Logic](core-logic.md)
+- [Canon Index](../generated/canon-index.md)
+- [Open Questions](../generated/open-questions.md)
+- [Timeline Overview](../generated/timeline-overview.md)
 
-Keep these stable unless a canon-focused change specifically requires editing them.
+Generated authority views are rebuilt from source docs. Keep source metadata, atomic notes, related documents, and open-question sections current instead of editing generated views manually.
 
 ## Active Knowledge Layers
 
@@ -62,7 +57,7 @@ Canon status progresses through documented review, not narrative assertion.
 - `Canon` - explicitly confirmed
 - `Deprecated` - retained for traceability but no longer active canon
 
-Active reference and lore systems should carry `Status` metadata in their source docs. [Canon Index](../CANON_INDEX.md) is generated from that metadata.
+Active reference and lore systems should carry `Status` metadata in their source docs. [Canon Index](../generated/canon-index.md) is generated from that metadata.
 
 ## Working Style
 

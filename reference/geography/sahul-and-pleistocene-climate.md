@@ -34,4 +34,4 @@ Cassowary World uses these mechanisms to explain why productive zones, transport
 ## Related Documents
 
 - [World State — ~2 MYA (Representative Glacial Maximum)](../world-state-2mya.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [History and Timeline](../../generated/timeline-overview.md)

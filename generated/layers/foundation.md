@@ -2,16 +2,8 @@
 
 Grouped by folder.
 
-## root
-| Title                                                                         | Path                               | Status            | Time Periods | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------- | ---------------------------------- | ----------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [00 World Overview](../../00-world-overview.md)                               | 00-world-overview.md               | Draft Placeholder |              | This placeholder was created during repository restructuring to preserve internal link integrity and provide a future... |
-| [01 Regions and Places](../../01-regions-and-places.md)                       | 01-regions-and-places.md           | Draft Placeholder |              | This placeholder was created during repository restructuring to preserve a future foundation-doc anchor.                 |
-| [02 People, Cultures, and Factions](../../02-people-cultures-and-factions.md) | 02-people-cultures-and-factions.md | Draft Placeholder |              | This placeholder was created during repository restructuring to preserve the planned foundation-doc sequence.            |
-| [04 Rules of the World](../../04-rules-of-the-world.md)                       | 04-rules-of-the-world.md           | Draft Placeholder |              | This placeholder was created during repository restructuring to preserve links and reserve a location for formal worl... |
-| [05 Story Foundation](../../05-story-foundation.md)                           | 05-story-foundation.md             | Draft Placeholder |              | This placeholder was created during repository restructuring to preserve the intended foundation-doc sequence.           |
-| [Canon Index](../../CANON_INDEX.md)                                           | CANON_INDEX.md                     |                   |              | This manual index has been replaced by the generated canon index.                                                        |
-| [CORE_LOGIC](../../CORE_LOGIC.md)                                             | CORE_LOGIC.md                      | Draft             |              | This file is the repository-level inference layer for Cassowary World. It defines causal expectations that technical...  |
-| [Guiding Principles](../../GUIDING_PRINCIPLES.md)                             | GUIDING_PRINCIPLES.md              | Draft v0.1        |              | This document is the working constitution of Cassowary World. New lore, technical documents, and story drafts should...  |
-| [History and Timeline](../../03-history-and-timeline.md)                      | 03-history-and-timeline.md         |                   |              | The timeline overview is now generated from source document metadata.                                                    |
-| [Open Questions](../../99-open-questions.md)                                  | 99-open-questions.md               |                   |              | Open questions are now generated from source document `## Open Questions` sections.                                      |
+## docs
+| Title                                                  | Path                       | Status     | Time Periods | Summary                                                                                                                 |
+| ------------------------------------------------------ | -------------------------- | ---------- | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| [CORE_LOGIC](../../docs/core-logic.md)                 | docs/core-logic.md         | Draft      |              | This file is the repository-level inference layer for Cassowary World. It defines causal expectations that technical... |
+| [Guiding Principles](../../docs/guiding-principles.md) | docs/guiding-principles.md | Draft v0.1 |              | This document is the working constitution of Cassowary World. New lore, technical documents, and story drafts should... |

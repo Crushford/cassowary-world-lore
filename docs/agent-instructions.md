@@ -61,7 +61,7 @@ Each assumption becomes a candidate canon item.
 
 Compare each candidate fact against:
 
-- [Guiding Principles](../GUIDING_PRINCIPLES.md)
+- [Guiding Principles](guiding-principles.md)
 - existing foundation documents
 - existing reference docs
 - existing divergence docs
@@ -111,13 +111,13 @@ Stories are never canon by themselves.
 
 Major systems must include approximate emergence periods.
 
-Add or update source document `Time periods` metadata so [History and Timeline](../03-history-and-timeline.md) and [Timeline Overview](../generated/timeline-overview.md) regenerate correctly.
+Add or update source document `Time periods` metadata so [Timeline Overview](../generated/timeline-overview.md) regenerates correctly.
 
 Civilization evolves gradually.
 
 ### 7. Record Uncertainty
 
-Unknowns must be recorded in source document `## Open Questions` sections so [Open Questions](../99-open-questions.md) and [generated/open-questions.md](../generated/open-questions.md) regenerate correctly.
+Unknowns must be recorded in source document `## Open Questions` sections so [Open Questions](../generated/open-questions.md) regenerates correctly.
 
 Do not invent answers to resolve uncertainty.
 
@@ -194,7 +194,7 @@ Prefer updating existing documents or adding focused lore files over creating br
 
 Highest authority:
 
-1. [Guiding Principles](../GUIDING_PRINCIPLES.md)
+1. [Guiding Principles](guiding-principles.md)
 2. Foundation documents
 3. Canon reference, divergence, and lore documents
 4. Draft reference, divergence, and lore documents

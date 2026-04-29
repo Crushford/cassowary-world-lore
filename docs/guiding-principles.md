@@ -136,6 +136,6 @@ It is anthropology through speculative evolution.
 
 ## Related Documents
 
-- [History and Timeline](03-history-and-timeline.md)
-- [Open Questions](99-open-questions.md)
-- [Canon Index](CANON_INDEX.md)
+- [History and Timeline](../generated/timeline-overview.md)
+- [Open Questions](../generated/open-questions.md)
+- [Canon Index](../generated/canon-index.md)

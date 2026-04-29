@@ -53,6 +53,6 @@ Do not reintroduce a later divergence date or treat the wing-claw adaptation as 
 ## Related Documents
 
 - [Cassowaries](../../reference/species/cassowaries.md)
-- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Guiding Principles](../../docs/guiding-principles.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../biology/cassowary-neurodevelopment-and-predator-management-transition.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

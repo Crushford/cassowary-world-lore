@@ -44,4 +44,4 @@ The important claim is not that cassowary societies "have roads." It is that mov
 - [Tribute Collection Counting and Enforcement](../tribute/tribute-collection-counting-and-enforcement.md)
 - [Tribute Storage Custody and Redistribution](../tribute/tribute-storage-custody-and-redistribution.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

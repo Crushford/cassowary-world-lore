@@ -13,7 +13,6 @@ Core generated views include:
 - `generated/open-questions.md`
 - `generated/timeline-overview.md`
 - `generated/validation-report.md`
-- `generated/orphans.md`
 - `generated/topics.md`
 - `generated/layers/`
 - `generated/status/`
@@ -22,7 +21,7 @@ Core generated views include:
 
 Do not hand-edit generated files. Update source docs or the generator, then regenerate.
 
-Do not manually maintain [Canon Index](../CANON_INDEX.md), [Open Questions](../99-open-questions.md), or [History and Timeline](../03-history-and-timeline.md). These root files are compatibility pointers to generated views.
+Do not manually maintain [Canon Index](../generated/canon-index.md), [Open Questions](../generated/open-questions.md), or [Timeline Overview](../generated/timeline-overview.md). These files are generated views.
 
 ## Generator
 

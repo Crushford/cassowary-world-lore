@@ -59,16 +59,8 @@ const ROOT_DIR = process.cwd();
 const GENERATED_DIR = path.join(ROOT_DIR, 'generated');
 const SCAN_DIRS = ['reference', 'lore', 'stories'];
 const ROOT_DOC_ALLOWLIST = new Set([
-  '00-world-overview.md',
-  '01-regions-and-places.md',
-  '02-people-cultures-and-factions.md',
-  '03-history-and-timeline.md',
-  '04-rules-of-the-world.md',
-  '05-story-foundation.md',
-  '99-open-questions.md',
-  'CANON_INDEX.md',
-  'CORE_LOGIC.md',
-  'GUIDING_PRINCIPLES.md',
+  'docs/core-logic.md',
+  'docs/guiding-principles.md',
 ]);
 const IGNORED_DIRS = new Set(['.git', 'generated', 'node_modules', 'archive', 'old']);
 
@@ -370,6 +362,7 @@ function validateDocs(docs: ContentDoc[]) {
     }
 
     validateLayerStructure(doc, issues);
+    validateDiscoverability(doc, issues);
 
     if (doc.timePeriods.length > 0) {
       for (const label of doc.timePeriods) {
@@ -442,6 +435,23 @@ function validateDocs(docs: ContentDoc[]) {
   }
 
   return issues;
+}
+
+function validateDiscoverability(doc: ContentDoc, issues: ValidationIssue[]) {
+  if (doc.layerCategory === 'foundation') {
+    return;
+  }
+
+  if (doc.topics.length > 0 || doc.timePeriods.length > 0 || doc.regions.length > 0 || doc.cultures.length > 0) {
+    return;
+  }
+
+  issues.push({
+    severity: 'warning',
+    code: 'orphaned-doc',
+    path: doc.relPath,
+    message: 'Doc has no extractable topic, time period, region, or culture metadata',
+  });
 }
 
 function validateLayerStructure(doc: ContentDoc, issues: ValidationIssue[]) {
@@ -571,7 +581,6 @@ function buildGeneratedPages(docs: ContentDoc[], issues: ValidationIssue[]): Pag
   pages[path.posix.join(indexBase, 'canon-index.md')] = renderCanonIndex(docs);
   pages[path.posix.join(indexBase, 'open-questions.md')] = renderOpenQuestions(docs);
   pages[path.posix.join(indexBase, 'timeline-overview.md')] = renderTimelineOverview(timeMap);
-  pages[path.posix.join(indexBase, 'orphans.md')] = renderOrphans(docs);
   pages[path.posix.join(indexBase, 'topics.md')] = renderTopicLookupPage(topicMap);
 
   for (const [layer, layerDocs] of layerMap.entries()) {
@@ -686,7 +695,6 @@ function renderGeneratedReadme(
     '- [Open Questions](open-questions.md)',
     '- [Timeline Overview](timeline-overview.md)',
     '- [Validation Report](validation-report.md)',
-    '- [Orphans](orphans.md)',
     '',
     '## Topic Indexes',
     '',
@@ -908,27 +916,6 @@ function renderTimelineOverview(timeMap: Map<string, ContentDoc[]>) {
   }
 
   return lines.join('\n').trimEnd();
-}
-
-function renderOrphans(docs: ContentDoc[]) {
-  const orphans = docs.filter((doc) => doc.topics.length === 0 && doc.timePeriods.length === 0 && doc.regions.length === 0 && doc.cultures.length === 0);
-  const rows = orphans.map((doc) => [
-    markdownLink(doc.title, repoRelativeLink('generated/orphans.md', doc.relPath)),
-    escapeCell(layerDisplayName(doc.layerCategory)),
-    escapeCell(doc.status ?? ''),
-    escapeCell(shortSummary(doc.summary)),
-    escapeCell(doc.relPath),
-  ]);
-
-  return [
-    '# Orphans',
-    '',
-    'Docs without extractable topic, time, region, or culture tags.',
-    '',
-    rows.length === 0
-      ? 'No orphaned docs were found.'
-      : renderTable(['Title', 'Layer', 'Status', 'Summary', 'Path'], rows),
-  ].join('\n');
 }
 
 function renderLayerPage(layer: string, docs: ContentDoc[]) {

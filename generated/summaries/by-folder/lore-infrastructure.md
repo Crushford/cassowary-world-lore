@@ -44,7 +44,7 @@ Generated summary bundle for documents in `lore/infrastructure`.
 
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
-- [Open Questions](../../../99-open-questions.md)
+- [Open Questions](../../open-questions.md)
 - [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)
 - [Transport Networks](../../../lore/infrastructure/transport-networks.md)
 - [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)

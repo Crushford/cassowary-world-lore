@@ -46,4 +46,4 @@ The important shift is not "people store food." It is that storage becomes a rep
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
 - [Storage and Ceramic Technology](storage-and-ceramic-technology.md)
 - [Transport Networks](transport-networks.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

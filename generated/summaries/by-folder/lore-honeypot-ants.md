@@ -52,7 +52,7 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 - [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)
 - [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
-- [History and Timeline](../../../03-history-and-timeline.md)
+- [History and Timeline](../../timeline-overview.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
 - [Honeypot Ant Nest Splitting](../../../lore/divergences/honeypot-ant-nest-splitting.md)
 - [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)

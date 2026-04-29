@@ -43,6 +43,6 @@ When a technical document introduces a system, contributors should check:
 
 ## Related Documents
 
-- [Guiding Principles](GUIDING_PRINCIPLES.md)
-- [Canon Index](CANON_INDEX.md)
-- [Open Questions](99-open-questions.md)
+- [Guiding Principles](guiding-principles.md)
+- [Canon Index](../generated/canon-index.md)
+- [Open Questions](../generated/open-questions.md)

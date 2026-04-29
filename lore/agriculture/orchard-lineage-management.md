@@ -55,4 +55,4 @@ This document does not claim a continent-scale crop system. It describes the slo
 - [Regional Honeypot Ant Ecotypes](../honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

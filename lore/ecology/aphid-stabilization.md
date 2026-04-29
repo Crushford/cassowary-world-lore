@@ -53,4 +53,4 @@ The sap-feeder lineage framework in [Sap-Feeder Lineages and Honeydew Flow](sap-
 - [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

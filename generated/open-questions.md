@@ -203,7 +203,7 @@ Source: `lore/tribute/tribute-storage-custody-and-redistribution.md`
 
 ### CORE_LOGIC
 
-Source: `CORE_LOGIC.md`
+Source: `docs/core-logic.md`
 
 - Which systems are required before a first coherent timeline pass can be promoted beyond placeholder status?
 - How should preservation and storage milestones be placed relative to early tribute systems?

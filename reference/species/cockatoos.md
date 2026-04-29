@@ -25,5 +25,5 @@ Future cockatoo lore should build on real cockatoo cognition, sociality, and com
 
 ## Related Documents
 
-- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
-- [Open Questions](../../99-open-questions.md)
+- [Guiding Principles](../../docs/guiding-principles.md)
+- [Open Questions](../../generated/open-questions.md)

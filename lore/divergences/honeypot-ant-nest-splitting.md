@@ -50,4 +50,4 @@ This divergence is relevant by `~3-2.5 MYA`, when managed ant production needs a
 - [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Honeypot Ant Harvesting](../honeypot-ants/honeypot-ant-harvesting.md)
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

@@ -9,7 +9,6 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Open Questions](open-questions.md)
 - [Timeline Overview](timeline-overview.md)
 - [Validation Report](validation-report.md)
-- [Orphans](orphans.md)
 
 ## Topic Indexes
 
@@ -27,9 +26,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Canon](status/canon.md)
 - [Canon Candidate](status/canon-candidate.md)
 - [Draft](status/draft.md)
-- [Draft Placeholder](status/draft-placeholder.md)
 - [Draft v0.1](status/draft-v0-1.md)
-- [Unstated](status/unstated.md)
 
 ## Time Indexes
 

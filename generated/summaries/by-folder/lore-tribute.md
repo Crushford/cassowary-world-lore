@@ -67,7 +67,7 @@ Generated summary bundle for documents in `lore/tribute`.
 ## Related Documents
 
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
-- [History and Timeline](../../../03-history-and-timeline.md)
+- [History and Timeline](../../timeline-overview.md)
 - [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
 - [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)
 - [Transport Networks](../../../lore/infrastructure/transport-networks.md)

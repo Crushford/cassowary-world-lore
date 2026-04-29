@@ -52,4 +52,4 @@ The important shift is that containers become administratively meaningful. Once 
 - [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

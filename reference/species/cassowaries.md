@@ -26,5 +26,5 @@ Cassowary World begins from this biological baseline and then introduces a contr
 ## Related Documents
 
 - [Cassowary Wing-Claws ~12 MYA](../../lore/divergences/cassowary-wing-claws-12-mya.md)
-- [Guiding Principles](../../GUIDING_PRINCIPLES.md)
+- [Guiding Principles](../../docs/guiding-principles.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)

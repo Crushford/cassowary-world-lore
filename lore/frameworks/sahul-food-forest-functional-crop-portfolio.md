@@ -47,5 +47,5 @@ The important claim is that civilizational continuity can survive species substi
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [World State — ~2 MYA](../../reference/world-state-2mya.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [History and Timeline](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)
