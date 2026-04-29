@@ -1,35 +1,13 @@
-# Topic Summary: Aphids
+# Folder Summary: lore/ecology
 
-Generated summary bundle for docs tagged with `Aphids`.
+Generated summary bundle for documents in `lore/ecology`.
 
 ## Documents
 
-| Title                                                                                                   | Path                                                  | Layer     | Time Periods                                  | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | lore/ecology/aphid-stabilization.md                   | Lore      | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA     | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                                               | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA     | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
-| [World State — ~2 MYA (Representative Glacial Maximum)](../../../reference/world-state-2mya.md)         | reference/world-state-2mya.md                         | Reference | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a...  |
-
-## Layer Breakdown
-
-### Reference
-
-- [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
-- [World State — ~2 MYA (Representative Glacial Maximum)](../../../reference/world-state-2mya.md)
-
-### Divergences
-
-No entries found.
-
-### Lore
-
-- [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)
-- [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
-
-### Stories
-
-No entries found.
+| Title                                                                                                   | Time Periods                              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Key Atomic Notes
 
@@ -56,6 +34,20 @@ No entries found.
 - Sap-feeder management is an intermediate layer between tree management and ant management. It cannot be separated from either.
 - Aphids are the canonical example in Cassowary World lore, but other sap-feeding insects — scale insects, treehoppers, mealybugs, and others — may fill equivalent roles in some regions or on some host trees.
 
+## Related Documents
+
+- [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)
+- [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
+- [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
+- [Open Questions](../../../99-open-questions.md)
+- [Open Questions](../../open-questions.md)
+- [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)
+- [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md)
+- [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
+- [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
+- [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)
+- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+
 ## Open Questions
 
 ### Aphid Stabilization
@@ -72,36 +64,3 @@ No entries found.
 - Which predators, parasites, fungi, and environmental conditions most strongly limit wet-tolerant lineages in wet-margin systems?
 - How is knowledge of specific sap-feeder lineages preserved and transmitted across generations without writing?
 - When does sap-feeder lineage management become institutionalised enough to be a form of property or inheritance?
-
-### World State — ~2 MYA (Representative Glacial Maximum)
-
-- Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?
-- Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
-
-## Related Topics
-
-- Ants
-- Aphid Stabilization
-- Aphid-Ant Relationships
-- Climate
-- Ecological Domestication
-- Geography
-- Glacial Maximum
-- Honeydew
-- Honeydew Flow
-- Honeypot Ants
-- Host-Tree Health
-- Large Predators
-- Lineage Selection
-- Megafauna
-- Movement Corridors
-- Mutualism
-- Orchard Ecology
-- Orchard Management
-- Refugia
-- Sahul
-- Sap-Feeder Lineages And Honeydew Flow Management
-- Sap-Feeders
-- Sea Level
-- World State — ~2 MYA (Representative Glacial Maximum)

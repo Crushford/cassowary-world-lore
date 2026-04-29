@@ -81,6 +81,9 @@ No entries found.
 - Proto-tribute through repeated seasonal vessel contributions appears in `~3.2-2.8 MYA`.
 - Standardized sealed vessel tribute appears in some core regions in `~2.7-2.3 MYA`.
 - Content heterogeneity, imperfect ceramic control, breakage, shape drift, and fill-line disputes limit trust in equal tribute units.
+- Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
+- Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
+- Nest-assist pots stay in the orchard and are managed by orchard keepers. Tribute jars travel between orchards, storage centres, and redistribution facilities, and are managed by tribute collectors and custodians.
 
 ### Tribute Storage Custody and Redistribution
 
