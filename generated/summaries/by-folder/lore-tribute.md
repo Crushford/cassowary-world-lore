@@ -1,0 +1,111 @@
+# Folder Summary: lore/tribute
+
+Generated summary bundle for documents in `lore/tribute`.
+
+## Documents
+
+| Title                                                                                                               | Status | Time Periods                             | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | Draft  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+
+## Key Atomic Notes
+
+### Tribute Collection Counting and Enforcement
+
+- Tribute collection is a transport-and-custody process built around standard vessels.
+- Households or local groups fill and seal tribute vessels after preservation cycles, then carry them during seasonal gathering windows.
+- Collection occurs at socially agreed nodes where vessels are counted and sorted through visible form, seal status, and public witnessing rather than abstract written accounts.
+- Selected tribute shares may be retained locally or forwarded to regional storage nodes.
+- Poor routes or seasonal access failures make tribute collection more local, episodic, and dependent on nearby storage nodes.
+- Intake practices combine sorting, custody seals, and stock rotation into one visible administrative routine.
+- Early tribute enforcement uses control of stored food, productive orchard zones, protected ant-management areas, and coalition dominance rather than specialized police forces.
+- Standardized vessels create recurring administrative labor in sealing, inspecting, guarding, sorting, rotating, collecting, and redistributing stored goods.
+- Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
+- Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
+
+### Tribute Seal Integrity and Authority Marks
+
+- A tribute vessel enters custody when it is filled to a recognized standard, closed, sealed, and visibly marked.
+- Closure materials and sealants may vary by region and period, but a trustworthy seal must visibly bind the vessel opening.
+- Opening or tampering with a sealed tribute vessel destroys or visibly disturbs the seal.
+- Authority marks impressed into outer seal material encode household, collection-node, storehouse, elite, or ritual custody without requiring writing.
+- Custody transitions can be witnessed through new seal impressions, allowing a jar to display custody history in visible layers.
+- Marks may be pressed with claws, carved seal tools, or prepared stamp objects.
+- Seal marks distinguish collector and storehouse custody during standardized sealed vessel tribute.
+- Seal trust depends on material durability under heat, humidity, storage conditions, and repeated handling.
+- False marks or imitation seals may emerge once tribute gains value.
+- Seal integrity becomes a state-capacity multiplier because it lets institutions trust stored goods after they leave producer control.
+
+### Tribute Sealed Vessel Units
+
+- Tribute obligations become administratively usable when they are expressed as counts of standardized physical units.
+- In early cassowary civilizations, the primary tribute unit is a sealed ceramic container filled with preserved sugar paste or related preserved foods.
+- Container volume precedes abstract weight measurement because repeatable vessel form can be visually compared without precision scales.
+- Vessel form, fill convention, and visible seals make quantity and custody legible even when contents vary.
+- Proto-tribute through repeated seasonal vessel contributions appears in `~3.2-2.8 MYA`.
+- Standardized sealed vessel tribute appears in some core regions in `~2.7-2.3 MYA`.
+- Content heterogeneity, imperfect ceramic control, breakage, shape drift, and fill-line disputes limit trust in equal tribute units.
+
+### Tribute Storage Custody and Redistribution
+
+- Tribute institutions emerge when sealed surplus moves from household storage into recognized custody.
+- Household storage keeps surplus dispersed, situational, and low-leverage because producers retain physical control.
+- Communal storage makes contributions publicly visible during seasonal gatherings while custody remains socially negotiated.
+- Vessel counting in communal storage creates comparative contribution norms and increases the power of hosts, guards, and witnesses.
+- Guarded storehouses or protected cool-storage sites shift power from producer possession toward controlled access.
+- Centralized custody enables rationing, delayed redistribution, and sanctions against noncompliant households.
+- Elite-, temple-, or court-controlled storage turns storage sites into authority centers where seal marks encode political hierarchy.
+- Producer claims and administrator release authority can coexist, creating tension between customary ownership and institutional custody.
+- Control of centralized stored food creates enforcement power during scarcity.
+- Priority redistribution can reward compliant households, allies, and dependents.
+- Coercive extraction without redistribution can collapse compliance coalitions.
+- Regional guarded storage centers and forwarded taxation networks emerge in `~2.2-1.8 MYA`.
+
+## Related Documents
+
+- [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
+- [History and Timeline](../../../03-history-and-timeline.md)
+- [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
+- [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)
+- [Transport Networks](../../../lore/infrastructure/transport-networks.md)
+- [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)
+- [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)
+- [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)
+- [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)
+- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+
+## Open Questions
+
+### Tribute Collection Counting and Enforcement
+
+- At what scale do memory-and-witness audit practices fail, requiring tally marks or other symbolic record systems?
+- What is the minimal set of institution docs needed to support early urbanization claims?
+- How many seal-recognition marks can be reliably managed with memory-and-witness systems before symbolic tallying becomes necessary?
+- How are mixed tribute goods handled before abstract cross-product accounting emerges?
+- How early do formal route-maintenance obligations appear?
+- What kinds of chokepoints become politically central?
+
+### Tribute Seal Integrity and Authority Marks
+
+- Which seal materials are durable enough in humid Sahul regions for multi-season custody?
+- How many seal-recognition marks can be reliably managed with memory-and-witness systems before symbolic tallying becomes necessary?
+- What loss rates from seal failure remain politically tolerable for centralized storage centers?
+- How common are false marks or imitation seals before later accounting systems emerge?
+
+### Tribute Sealed Vessel Units
+
+- What vessel volume ranges are most plausible for hand-carried tribute in cassowary anatomy and terrain conditions?
+- How many standardized vessel classes appear before later accounting systems?
+- How are mixed tribute contents normalized, if at all, before abstract accounting?
+- What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+
+### Tribute Storage Custody and Redistribution
+
+- How much storage remains household-scale versus controlled by communal or political institutions?
+- How are ownership and storage rights formalized once surplus storage becomes politically important?
+- At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
+- What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
+- Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?

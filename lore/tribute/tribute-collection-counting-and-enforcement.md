@@ -39,6 +39,7 @@ The same repeated practices create administrative specialization. Counting, guar
 ## Open Questions
 
 - At what scale do memory-and-witness audit practices fail, requiring tally marks or other symbolic record systems?
+- What is the minimal set of institution docs needed to support early urbanization claims?
 - How many seal-recognition marks can be reliably managed with memory-and-witness systems before symbolic tallying becomes necessary?
 - How are mixed tribute goods handled before abstract cross-product accounting emerges?
 - How early do formal route-maintenance obligations appear?

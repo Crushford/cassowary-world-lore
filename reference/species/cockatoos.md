@@ -1,11 +1,15 @@
 # Cockatoos
 
-Layer: Real-world reference
-Status: Draft
-
 ## Summary
 
 This reference explains the real-world cockatoo traits likely to matter for future Cassowary World communication, partnership, and ownership lore.
+
+## Metadata
+
+- Layer: Real-world reference
+- Primary topic: cockatoos
+- Topics: cockatoos, parrots, communication, social learning, animal partnership
+- Status: Draft
 
 ## Useful Baseline
 
@@ -23,4 +27,3 @@ Future cockatoo lore should build on real cockatoo cognition, sociality, and com
 
 - [Guiding Principles](../../GUIDING_PRINCIPLES.md)
 - [Open Questions](../../99-open-questions.md)
-

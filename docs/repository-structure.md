@@ -62,7 +62,7 @@ Canon status progresses through documented review, not narrative assertion.
 - `Canon` - explicitly confirmed
 - `Deprecated` - retained for traceability but no longer active canon
 
-Active reference and lore systems should be tracked in [Canon Index](../CANON_INDEX.md).
+Active reference and lore systems should carry `Status` metadata in their source docs. [Canon Index](../CANON_INDEX.md) is generated from that metadata.
 
 ## Working Style
 

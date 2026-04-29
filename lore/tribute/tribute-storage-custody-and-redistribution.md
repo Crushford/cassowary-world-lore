@@ -41,6 +41,7 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 ## Open Questions
 
 - How much storage remains household-scale versus controlled by communal or political institutions?
+- How are ownership and storage rights formalized once surplus storage becomes politically important?
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?

@@ -1,11 +1,17 @@
 # Sahul and Pleistocene Climate
 
-Layer: Real-world reference
-Status: Draft
-
 ## Summary
 
 This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baseline snapshot is [World State — ~2 MYA (Representative Glacial Maximum)](../world-state-2mya.md); this file supports that anchor rather than replacing it.
+
+## Metadata
+
+- Layer: Real-world reference
+- Primary topic: Sahul and Pleistocene climate
+- Topics: Sahul, Pleistocene climate, glacial cycles, land bridges, refugia, sea level
+- Time periods: `early Pleistocene glacial cycles`, `~2 MYA representative glacial maximum`
+- Regions: Sahul
+- Status: Draft
 
 ## Mechanisms
 
@@ -18,6 +24,12 @@ This reference explains the climate and geography mechanisms behind Cassowary Wo
 ## Relevance to Cassowary World
 
 Cassowary World uses these mechanisms to explain why productive zones, transport corridors, settlement patterns, and political centers are uneven. Lore docs should normally cite the world-state snapshot for baseline constraints and use this file when the mechanism behind those constraints matters.
+
+## Open Questions
+
+- How stable are New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
+- Which specific glacial maximum intervals around `~2 MYA` should be used as canonical geographic baselines for early expansion timelines?
+- How quickly do land-bridge openings and closures alter regional connectivity relative to institution-building timescales?
 
 ## Related Documents
 

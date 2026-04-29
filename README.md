@@ -30,3 +30,5 @@ It is organized as a layered causal knowledge base: real-world reference defines
 ## Core Rule
 
 Nothing exists in canon without explanation. Every capability must emerge through biological evolution, ecological interaction, technological development, or cultural processes.
+
+Generated files are query views, not source files. Root files such as `CANON_INDEX.md`, `99-open-questions.md`, and `03-history-and-timeline.md` remain as compatibility pointers to generated views.

@@ -38,10 +38,12 @@ type ContentDoc = {
   cultures: string[];
   relatedDocs: LinkRef[];
   atomicNotes: string[];
+  openQuestions: string[];
   headings: Heading[];
   localLinks: LinkRef[];
   hasSummarySection: boolean;
   hasMetadataSection: boolean;
+  hasOpenQuestionsSection: boolean;
 };
 
 type ValidationIssue = {
@@ -282,6 +284,7 @@ async function parseDocument(relPath: string): Promise<ContentDoc> {
   const cultures = uniqueStrings(listValue(metadata, 'Cultures'));
   const relatedDocs = extractRelatedDocuments(sections.get('related documents') ?? []);
   const atomicNotes = extractBullets(sections.get('atomic notes') ?? []);
+  const openQuestions = extractBullets(sections.get('open questions') ?? []);
   const summary = summaryFromSection || summaryFromPreamble;
   const summarySource = summaryFromSection ? 'section' : summaryFromPreamble ? 'preamble' : 'missing';
 
@@ -314,10 +317,12 @@ async function parseDocument(relPath: string): Promise<ContentDoc> {
     cultures,
     relatedDocs,
     atomicNotes,
+    openQuestions,
     headings,
     localLinks,
     hasSummarySection: sections.has('summary'),
     hasMetadataSection: sections.has('metadata'),
+    hasOpenQuestionsSection: sections.has('open questions'),
   };
 }
 
@@ -363,6 +368,8 @@ function validateDocs(docs: ContentDoc[]) {
         message: `Summary was derived from the preamble instead of a dedicated section (${doc.summarySource})`,
       });
     }
+
+    validateLayerStructure(doc, issues);
 
     if (doc.timePeriods.length > 0) {
       for (const label of doc.timePeriods) {
@@ -437,6 +444,117 @@ function validateDocs(docs: ContentDoc[]) {
   return issues;
 }
 
+function validateLayerStructure(doc: ContentDoc, issues: ValidationIssue[]) {
+  if (!['reference', 'divergence', 'lore', 'story'].includes(doc.layerCategory)) {
+    return;
+  }
+
+  if (!doc.hasMetadataSection) {
+    issues.push({
+      severity: 'warning',
+      code: 'missing-metadata-section',
+      path: doc.relPath,
+      message: 'Missing Metadata section',
+    });
+  }
+
+  if (!doc.status) {
+    issues.push({
+      severity: 'warning',
+      code: 'missing-status',
+      path: doc.relPath,
+      message: 'Missing Status metadata',
+    });
+  }
+
+  if (!hasLabel(doc.metadata, 'Layer')) {
+    issues.push({
+      severity: 'warning',
+      code: 'missing-layer',
+      path: doc.relPath,
+      message: 'Missing Layer metadata',
+    });
+  }
+
+  if (doc.layerCategory === 'reference') {
+    if (!doc.primaryTopic && doc.topics.length === 0) {
+      issues.push({
+        severity: 'warning',
+        code: 'lore-doc-missing-topic',
+        path: doc.relPath,
+        message: 'Missing Primary topic or Topics metadata',
+      });
+    }
+    return;
+  }
+
+  if (doc.layerCategory === 'story') {
+    if (!doc.status || !normalizeKey(doc.status).includes('non-canon')) {
+      issues.push({
+        severity: 'error',
+        code: 'story-not-marked-non-canon',
+        path: doc.relPath,
+        message: 'Story docs must be explicitly marked non-canon in Status metadata',
+      });
+    }
+    return;
+  }
+
+  if (doc.atomicNotes.length === 0) {
+    issues.push({
+      severity: 'warning',
+      code: 'missing-atomic-notes',
+      path: doc.relPath,
+      message: 'Missing Atomic Notes bullets',
+    });
+  }
+
+  if (doc.relatedDocs.length === 0) {
+    issues.push({
+      severity: 'warning',
+      code: 'missing-related-documents',
+      path: doc.relPath,
+      message: 'Missing Related Documents links',
+    });
+  }
+
+  if (!doc.hasOpenQuestionsSection) {
+    issues.push({
+      severity: 'warning',
+      code: 'missing-open-questions-section',
+      path: doc.relPath,
+      message: 'Missing Open Questions section',
+    });
+  }
+
+  if (doc.layerCategory === 'lore' && !doc.primaryTopic && doc.topics.length === 0) {
+    issues.push({
+      severity: 'warning',
+      code: 'lore-doc-missing-topic',
+      path: doc.relPath,
+      message: 'Missing Primary topic or Topics metadata',
+    });
+  }
+
+  if (doc.status === 'Canon Candidate' && doc.timePeriods.length === 0) {
+    issues.push({
+      severity: 'error',
+      code: 'canon-candidate-missing-time-period',
+      path: doc.relPath,
+      message: 'Canon Candidate docs must include Time periods metadata',
+    });
+  }
+
+  if (doc.status === 'Canon' && doc.timePeriods.length === 0) {
+    issues.push({
+      severity: 'error',
+      code: 'canon-missing-time-period',
+      path: doc.relPath,
+      message: 'Canon docs must include Time periods metadata',
+    });
+  }
+}
+
 function buildGeneratedPages(docs: ContentDoc[], issues: ValidationIssue[]): PageMap {
   const pages: PageMap = {};
   const indexBase = 'generated';
@@ -445,9 +563,14 @@ function buildGeneratedPages(docs: ContentDoc[], issues: ValidationIssue[]): Pag
   const layerMap = groupByLayer(docs);
   const statusMap = groupByStatus(docs);
   const timeMap = groupByTime(docs);
+  const folderSummaryMap = groupBySummaryFolder(docs);
+  const topicSummaryMap = groupByTopic(docs);
 
-  pages[path.posix.join(indexBase, 'README.md')] = renderGeneratedReadme(topicMap, layerMap, statusMap, timeMap);
+  pages[path.posix.join(indexBase, 'README.md')] = renderGeneratedReadme(topicMap, layerMap, statusMap, timeMap, folderSummaryMap, topicSummaryMap);
   pages[path.posix.join(indexBase, 'content-index.md')] = renderContentIndex(docs);
+  pages[path.posix.join(indexBase, 'canon-index.md')] = renderCanonIndex(docs);
+  pages[path.posix.join(indexBase, 'open-questions.md')] = renderOpenQuestions(docs);
+  pages[path.posix.join(indexBase, 'timeline-overview.md')] = renderTimelineOverview(timeMap);
   pages[path.posix.join(indexBase, 'orphans.md')] = renderOrphans(docs);
   pages[path.posix.join(indexBase, 'topics.md')] = renderTopicLookupPage(topicMap);
 
@@ -463,6 +586,15 @@ function buildGeneratedPages(docs: ContentDoc[], issues: ValidationIssue[]): Pag
     pages[path.posix.join(indexBase, 'time', `${slugify(label, true)}.md`)] = renderTimePage(label, timeDocs);
   }
 
+  for (const [folder, folderDocs] of folderSummaryMap.entries()) {
+    pages[path.posix.join(indexBase, 'summaries', 'by-folder', `${slugify(folder, true)}.md`)] = renderFolderSummary(folder, folderDocs);
+  }
+
+  for (const [topic, topicDocs] of topicSummaryMap.entries()) {
+    pages[path.posix.join(indexBase, 'summaries', 'by-topic', `${slugify(topic, true)}.md`)] = renderTopicSummary(topic, topicDocs);
+  }
+
+  pages[path.posix.join(indexBase, 'summaries', 'README.md')] = renderSummariesReadme(folderSummaryMap, topicSummaryMap);
   pages[path.posix.join(indexBase, 'validation-report.md')] = renderValidationReport(issues, docs, pages, topicMap);
 
   return pages;
@@ -526,6 +658,8 @@ function renderGeneratedReadme(
   layerMap: Map<string, ContentDoc[]>,
   statusMap: Map<string, ContentDoc[]>,
   timeMap: Map<string, ContentDoc[]>,
+  folderSummaryMap: Map<string, ContentDoc[]>,
+  topicSummaryMap: Map<string, ContentDoc[]>,
 ) {
   const layerLinks = Array.from(layerMap.keys())
     .map((layer) => `- [${layerDisplayName(layer as LayerCategory)}](layers/${slugify(layer, false)}.md)`);
@@ -535,6 +669,10 @@ function renderGeneratedReadme(
   const timeLinks = Array.from(timeMap.keys())
     .sort((a, b) => timeLabelSort(a, b))
     .map((time) => `- [${time}](time/${slugify(time, true)}.md)`);
+  const folderSummaryLinks = Array.from(folderSummaryMap.keys())
+    .map((folder) => `- [${folder}](summaries/by-folder/${slugify(folder, true)}.md)`);
+  const topicSummaryLinks = Array.from(topicSummaryMap.keys())
+    .map((topic) => `- [${topic}](summaries/by-topic/${slugify(topic, true)}.md)`);
 
   return [
     '# Generated Indexes',
@@ -544,6 +682,9 @@ function renderGeneratedReadme(
     '## Core Views',
     '',
     '- [Content Index](content-index.md)',
+    '- [Canon Index](canon-index.md)',
+    '- [Open Questions](open-questions.md)',
+    '- [Timeline Overview](timeline-overview.md)',
     '- [Validation Report](validation-report.md)',
     '- [Orphans](orphans.md)',
     '',
@@ -562,6 +703,18 @@ function renderGeneratedReadme(
     '## Time Indexes',
     '',
     ...(timeLinks.length > 0 ? timeLinks : ['- No time indexes were generated.']),
+    '',
+    '## Summary Bundles',
+    '',
+    '- [Summary Bundle Index](summaries/README.md)',
+    '',
+    '### By Folder',
+    '',
+    ...(folderSummaryLinks.length > 0 ? folderSummaryLinks : ['- No folder summary bundles were generated.']),
+    '',
+    '### By Topic',
+    '',
+    ...(topicSummaryLinks.length > 0 ? topicSummaryLinks : ['- No topic summary bundles were generated.']),
   ].join('\n');
 }
 
@@ -624,6 +777,134 @@ function renderTopicLookupPage(topicMap: Map<string, ContentDoc[]>) {
       ),
     );
     lines.push('');
+  }
+
+  return lines.join('\n').trimEnd();
+}
+
+function renderCanonIndex(docs: ContentDoc[]) {
+  const sectionOrder = [
+    'Canon',
+    'Canon Candidates',
+    'Draft Systems',
+    'Reference Baseline',
+    'Divergences',
+    'Stories',
+    'Unstated Status',
+  ];
+  const buckets = new Map(sectionOrder.map((section) => [section, [] as ContentDoc[]]));
+
+  for (const doc of docs.filter((item) => item.layerCategory !== 'foundation')) {
+    buckets.get(canonIndexSection(doc))?.push(doc);
+  }
+
+  const lines = [
+    '# Canon Index',
+    '',
+    'Generated canon-status view from source document metadata.',
+    '',
+  ];
+
+  for (const section of sectionOrder) {
+    const sectionDocs = (buckets.get(section) ?? []).slice().sort((a, b) => sortDocs(a, b));
+    lines.push(`## ${section}`, '');
+    if (sectionDocs.length === 0) {
+      lines.push('No entries found.', '');
+      continue;
+    }
+    lines.push(renderTable(
+      ['Title', 'Path', 'Layer', 'Status', 'Time Periods', 'Summary'],
+      sectionDocs.map((doc) => [
+        markdownLink(doc.title, repoRelativeLink('generated/canon-index.md', doc.relPath)),
+        escapeCell(doc.relPath),
+        escapeCell(layerDisplayName(doc.layerCategory)),
+        escapeCell(doc.status ?? ''),
+        escapeCell(formatInlineList(doc.timePeriods)),
+        escapeCell(shortSummary(doc.summary)),
+      ]),
+    ));
+    lines.push('');
+  }
+
+  return lines.join('\n').trimEnd();
+}
+
+function renderOpenQuestions(docs: ContentDoc[]) {
+  const questionDocs = docs
+    .filter((doc) => doc.openQuestions.length > 0)
+    .sort((a, b) => sortDocs(a, b));
+  const topicMap = new Map<string, ContentDoc[]>();
+
+  for (const doc of questionDocs) {
+    const topic = doc.primaryTopic ? displayTopicLabel(doc.primaryTopic) : doc.topics[0] ?? 'Uncategorised';
+    const bucket = topicMap.get(topic) ?? [];
+    bucket.push(doc);
+    topicMap.set(topic, bucket);
+  }
+
+  const lines = [
+    '# Open Questions',
+    '',
+    'Generated from `## Open Questions` sections across source docs.',
+    '',
+  ];
+
+  if (topicMap.size === 0) {
+    lines.push('No open questions were found.');
+    return lines.join('\n');
+  }
+
+  for (const [topic, topicDocs] of Array.from(topicMap.entries()).sort(([left], [right]) => left.localeCompare(right))) {
+    lines.push(`## ${topic}`, '');
+    for (const doc of uniqueDocs(topicDocs).sort((a, b) => sortDocs(a, b))) {
+      lines.push(`### ${doc.title}`, '');
+      lines.push(`Source: \`${doc.relPath}\``, '');
+      for (const question of doc.openQuestions) {
+        lines.push(`- ${question}`);
+      }
+      lines.push('');
+    }
+  }
+
+  return lines.join('\n').trimEnd();
+}
+
+function renderTimelineOverview(timeMap: Map<string, ContentDoc[]>) {
+  const lines = [
+    '# Timeline Overview',
+    '',
+    'Generated from source document `Time periods` metadata.',
+    '',
+  ];
+
+  if (timeMap.size === 0) {
+    lines.push('No timeline metadata was found.');
+    return lines.join('\n');
+  }
+
+  for (const [timeLabel, timeDocs] of timeMap.entries()) {
+    const sortedDocs = timeDocs.slice().sort((a, b) => sortDocs(a, b));
+    lines.push(`## ${timeLabel}`, '');
+    lines.push(renderTable(
+      ['Title', 'Path', 'Layer', 'Status', 'Summary'],
+      sortedDocs.map((doc) => [
+        markdownLink(doc.title, repoRelativeLink('generated/timeline-overview.md', doc.relPath)),
+        escapeCell(doc.relPath),
+        escapeCell(layerDisplayName(doc.layerCategory)),
+        escapeCell(doc.status ?? ''),
+        escapeCell(shortSummary(doc.summary)),
+      ]),
+    ));
+    lines.push('');
+
+    const notes = sortedDocs.flatMap((doc) => doc.atomicNotes.map((note) => ({ doc, note })));
+    if (notes.length > 0) {
+      lines.push('### Key Atomic Notes', '');
+      for (const { doc, note } of notes) {
+        lines.push(`- ${doc.title}: ${note}`);
+      }
+      lines.push('');
+    }
   }
 
   return lines.join('\n').trimEnd();
@@ -709,6 +990,106 @@ function renderTimePage(timeLabel: string, docs: ContentDoc[]) {
     `# Time Index: ${timeLabel}`,
     '',
     renderTable(['Title', 'Path', 'Layer', 'Status', 'Summary', 'Topics'], rows),
+  ].join('\n');
+}
+
+function renderFolderSummary(folder: string, docs: ContentDoc[]) {
+  const sourcePage = `generated/summaries/by-folder/${slugify(folder, true)}.md`;
+  const sortedDocs = docs.slice().sort((a, b) => sortDocs(a, b));
+  const lines = [
+    `# Folder Summary: ${folder}`,
+    '',
+    `Generated summary bundle for documents in \`${folder}\`.`,
+    '',
+    '## Documents',
+    '',
+    renderTable(
+      ['Title', 'Status', 'Time Periods', 'Summary'],
+      sortedDocs.map((doc) => [
+        markdownLink(doc.title, repoRelativeLink(sourcePage, doc.relPath)),
+        escapeCell(doc.status ?? ''),
+        escapeCell(formatInlineList(doc.timePeriods)),
+        escapeCell(shortSummary(doc.summary)),
+      ]),
+    ),
+    '',
+  ];
+
+  appendAtomicNotes(lines, sortedDocs);
+  appendRelatedDocuments(lines, sortedDocs, sourcePage);
+  appendOpenQuestions(lines, sortedDocs);
+
+  return lines.join('\n').trimEnd();
+}
+
+function renderTopicSummary(topic: string, docs: ContentDoc[]) {
+  const sourcePage = `generated/summaries/by-topic/${slugify(topic, true)}.md`;
+  const sortedDocs = docs.slice().sort((a, b) => sortDocs(a, b));
+  const lines = [
+    `# Topic Summary: ${topic}`,
+    '',
+    `Generated summary bundle for docs tagged with \`${topic}\`.`,
+    '',
+    '## Documents',
+    '',
+    renderTable(
+      ['Title', 'Path', 'Layer', 'Status', 'Time Periods', 'Summary'],
+      sortedDocs.map((doc) => [
+        markdownLink(doc.title, repoRelativeLink(sourcePage, doc.relPath)),
+        escapeCell(doc.relPath),
+        escapeCell(layerDisplayName(doc.layerCategory)),
+        escapeCell(doc.status ?? ''),
+        escapeCell(formatInlineList(doc.timePeriods)),
+        escapeCell(shortSummary(doc.summary)),
+      ]),
+    ),
+    '',
+    '## Layer Breakdown',
+    '',
+  ];
+
+  const layerGroups = groupByLayer(sortedDocs);
+  for (const layer of ['reference', 'divergence', 'lore', 'story'] as LayerCategory[]) {
+    const layerDocs = layerGroups.get(layer) ?? [];
+    lines.push(`### ${layerDisplayName(layer)}`, '');
+    if (layerDocs.length === 0) {
+      lines.push('No entries found.', '');
+      continue;
+    }
+    for (const doc of layerDocs.slice().sort((a, b) => sortDocs(a, b))) {
+      lines.push(`- ${markdownLink(doc.title, repoRelativeLink(sourcePage, doc.relPath))}`);
+    }
+    lines.push('');
+  }
+
+  appendAtomicNotes(lines, sortedDocs);
+  appendOpenQuestions(lines, sortedDocs);
+  appendRelatedTopics(lines, topic, sortedDocs);
+
+  return lines.join('\n').trimEnd();
+}
+
+function renderSummariesReadme(
+  folderSummaryMap: Map<string, ContentDoc[]>,
+  topicSummaryMap: Map<string, ContentDoc[]>,
+) {
+  const folderLinks = Array.from(folderSummaryMap.keys())
+    .map((folder) => `- [${folder}](by-folder/${slugify(folder, true)}.md)`);
+  const topicLinks = Array.from(topicSummaryMap.keys())
+    .map((topic) => `- [${topic}](by-topic/${slugify(topic, true)}.md)`);
+
+  return [
+    '# Summary Bundles',
+    '',
+    'Generated LLM-friendly context bundles derived from source docs.',
+    '',
+    '## By Folder',
+    '',
+    ...(folderLinks.length > 0 ? folderLinks : ['- No folder summary bundles were generated.']),
+    '',
+    '## By Topic',
+    '',
+    ...(topicLinks.length > 0 ? topicLinks : ['- No topic summary bundles were generated.']),
   ].join('\n');
 }
 
@@ -813,6 +1194,115 @@ function groupByFolder(docs: ContentDoc[]) {
     map.set(folder, bucket);
   }
   return new Map(Array.from(map.entries()).sort(([left], [right]) => left.localeCompare(right)));
+}
+
+function groupBySummaryFolder(docs: ContentDoc[]) {
+  const sourceDocs = docs.filter((doc) => ['reference', 'divergence', 'lore', 'story'].includes(doc.layerCategory));
+  const grouped = groupByFolder(sourceDocs);
+  return new Map(Array.from(grouped.entries()).filter(([, folderDocs]) => folderDocs.length >= 2));
+}
+
+function canonIndexSection(doc: ContentDoc) {
+  if (doc.layerCategory === 'reference') return 'Reference Baseline';
+  if (doc.layerCategory === 'divergence') return 'Divergences';
+  if (doc.layerCategory === 'story') return 'Stories';
+  if (doc.status === 'Canon') return 'Canon';
+  if (doc.status === 'Canon Candidate') return 'Canon Candidates';
+  if (doc.status === 'Draft') return 'Draft Systems';
+  return 'Unstated Status';
+}
+
+function appendAtomicNotes(lines: string[], docs: ContentDoc[]) {
+  const docsWithNotes = docs.filter((doc) => doc.atomicNotes.length > 0);
+  lines.push('## Key Atomic Notes', '');
+  if (docsWithNotes.length === 0) {
+    lines.push('No atomic notes found.', '');
+    return;
+  }
+
+  for (const doc of docsWithNotes) {
+    lines.push(`### ${doc.title}`, '');
+    for (const note of doc.atomicNotes) {
+      lines.push(`- ${note}`);
+    }
+    lines.push('');
+  }
+}
+
+function appendOpenQuestions(lines: string[], docs: ContentDoc[]) {
+  const docsWithQuestions = docs.filter((doc) => doc.openQuestions.length > 0);
+  lines.push('## Open Questions', '');
+  if (docsWithQuestions.length === 0) {
+    lines.push('No open questions found.', '');
+    return;
+  }
+
+  for (const doc of docsWithQuestions) {
+    lines.push(`### ${doc.title}`, '');
+    for (const question of doc.openQuestions) {
+      lines.push(`- ${question}`);
+    }
+    lines.push('');
+  }
+}
+
+function appendRelatedDocuments(lines: string[], docs: ContentDoc[], sourcePage: string) {
+  const links: string[] = [];
+  for (const doc of docs) {
+    for (const related of doc.relatedDocs) {
+      const target = resolveLocalHref(doc.relPath, related.href);
+      if (!target) {
+        continue;
+      }
+      links.push(`- ${markdownLink(related.text, repoRelativeLink(sourcePage, target))}`);
+    }
+  }
+
+  const uniqueLinks = uniqueStrings(links).sort((a, b) => a.localeCompare(b));
+  lines.push('## Related Documents', '');
+  if (uniqueLinks.length === 0) {
+    lines.push('No related documents found.', '');
+    return;
+  }
+  lines.push(...uniqueLinks, '');
+}
+
+function appendRelatedTopics(lines: string[], currentTopic: string, docs: ContentDoc[]) {
+  const topics = uniqueStrings(docs.flatMap((doc) => doc.topics).filter((topic) => topic !== currentTopic)).sort((a, b) => a.localeCompare(b));
+  lines.push('## Related Topics', '');
+  if (topics.length === 0) {
+    lines.push('No related topics found.', '');
+    return;
+  }
+
+  for (const topic of topics) {
+    lines.push(`- ${topic}`);
+  }
+  lines.push('');
+}
+
+function uniqueDocs(docs: ContentDoc[]) {
+  const seen = new Set<string>();
+  const result: ContentDoc[] = [];
+  for (const doc of docs) {
+    if (seen.has(doc.relPath)) {
+      continue;
+    }
+    seen.add(doc.relPath);
+    result.push(doc);
+  }
+  return result;
+}
+
+function resolveLocalHref(sourceRelPath: string, href: string) {
+  if (!href || href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:')) {
+    return null;
+  }
+  const [targetPathPart] = href.split('#');
+  if (!targetPathPart) {
+    return sourceRelPath;
+  }
+  return toPosix(path.posix.normalize(path.posix.join(path.posix.dirname(sourceRelPath), targetPathPart)));
 }
 
 function inferTopicFromDocument(relPath: string, title: string, metadata: Map<string, string[]>) {
@@ -1052,6 +1542,10 @@ function validateLink(sourceRelPath: string, href: string) {
     : sourceRelPath;
 
   const absoluteTarget = path.join(ROOT_DIR, resolvedTarget);
+  if (resolvedTarget.startsWith('generated/')) {
+    return [];
+  }
+
   if (!existsSync(absoluteTarget)) {
     return [{
       severity: 'error' as Severity,

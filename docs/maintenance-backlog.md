@@ -2,7 +2,7 @@
 
 This file tracks cross-document follow-up work and unresolved research tasks.
 
-Active reference, divergence, and lore files should keep their own `Open Questions` sections for canon consistency. Globally important unresolved canon issues belong in [Open Questions](../99-open-questions.md).
+Active reference, divergence, and lore files should keep their own `Open Questions` sections for canon consistency. [Open Questions](../99-open-questions.md) is generated from those source sections.
 
 ## Honeypot Ant Domestication and Sugar Preservation
 

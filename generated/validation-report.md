@@ -1,8 +1,8 @@
 # Validation Report
 
 - Docs scanned: 33
-- Topic indexes: 9
-- Time indexes: 11
+- Topic indexes: 13
+- Time indexes: 12
 - Layer indexes: 4
 - Status indexes: 6
 - Errors: 0

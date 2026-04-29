@@ -1,11 +1,15 @@
 # Cassowaries
 
-Layer: Real-world reference
-Status: Draft
-
 ## Summary
 
 This reference explains real-world cassowary traits that matter for Cassowary World divergence and system design.
+
+## Metadata
+
+- Layer: Real-world reference
+- Primary topic: cassowaries
+- Topics: cassowaries, anatomy, flightless birds, female territoriality, male parental care
+- Status: Draft
 
 ## Useful Baseline
 

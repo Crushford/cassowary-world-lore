@@ -29,6 +29,12 @@ The divergence begins around `~12 MYA` in response to major predator pressure, i
 - Improved chick clinging can alter parental care, juvenile survival, and developmental pressures.
 - Later tool use, transport, and institutions must trace back to this anatomical bridge rather than appearing suddenly.
 
+## Atomic Notes
+
+- Cassowary wing-claw divergence begins as stronger chick wing-claw function under predator pressure around `~12 MYA`.
+- The divergence changes the developmental importance of vestigial wing claws without granting sudden human-like hands.
+- Later manipulation, tool use, carrying, craft, storage, transport, and institutions must trace back to this anatomical bridge.
+
 ## Systems Depending On It
 
 - Later cassowary manipulation and object handling.

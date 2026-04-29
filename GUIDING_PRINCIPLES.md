@@ -132,7 +132,7 @@ It is anthropology through speculative evolution.
 
 - Use it to evaluate new reference, divergence, lore, and story-derived canon proposals
 - Cite relevant principles in lore docs and canon proposals
-- Add ambiguities or unresolved interpretations to `99-open-questions.md`
+- Add ambiguities or unresolved interpretations to source document `## Open Questions` sections so the generated open-question view stays current.
 
 ## Related Documents
 

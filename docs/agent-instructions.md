@@ -111,13 +111,13 @@ Stories are never canon by themselves.
 
 Major systems must include approximate emergence periods.
 
-Update [History and Timeline](../03-history-and-timeline.md).
+Add or update source document `Time periods` metadata so [History and Timeline](../03-history-and-timeline.md) and [Timeline Overview](../generated/timeline-overview.md) regenerate correctly.
 
 Civilization evolves gradually.
 
 ### 7. Record Uncertainty
 
-Unknowns must be recorded in [Open Questions](../99-open-questions.md).
+Unknowns must be recorded in source document `## Open Questions` sections so [Open Questions](../99-open-questions.md) and [generated/open-questions.md](../generated/open-questions.md) regenerate correctly.
 
 Do not invent answers to resolve uncertainty.
 
@@ -139,12 +139,12 @@ Focus on mechanisms, not narrative.
 
 When an agent is asked to write a lore document about a subject, follow this procedure:
 
-1. Identify whether the material belongs in `reference/`, `lore/divergences/`, `lore/`, `stories/`, or `99-open-questions.md`.
+1. Identify whether the material belongs in `reference/`, `lore/divergences/`, `lore/`, `stories/`, or a source document `Open Questions` section.
 2. For system lore, follow the focused Markdown structure used by the honeypot-ant and tribute lore files.
 3. Convert important canon-bearing content into Atomic Notes.
 4. Link the document to relevant reference, divergence, lore, foundation, and timeline docs.
-5. Mark uncertain claims as `Draft` or `Canon Candidate`.
-6. Record unresolved questions in the document's `Open Questions` section and in `99-open-questions.md` when globally important.
+5. Mark uncertain claims with source document `Status` metadata.
+6. Record unresolved questions in the document's `Open Questions` section. The global open-question view is generated from those sections.
 
 This is mandatory so lore docs stay consistent in style, structure, and canon-evaluation quality.
 
@@ -210,6 +210,8 @@ Maintain cross-document consistency.
 
 Use clear headings and structured Markdown.
 Use Markdown links in `Related Documents` sections, not plain path text.
+
+Generated files are deterministic views over source docs. Do not hand-edit generated files; update source docs and run the generator.
 
 ## Long-Term Objective
 

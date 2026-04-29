@@ -1,11 +1,15 @@
 # Aphid-Ant Relationships
 
-Layer: Real-world reference
-Status: Draft
-
 ## Summary
 
 This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by Cassowary World orchard and honeypot ant lore.
+
+## Metadata
+
+- Layer: Real-world reference
+- Primary topic: aphid-ant relationships
+- Topics: aphids, ants, honeydew, mutualism, orchard ecology
+- Status: Draft
 
 ## Useful Baseline
 

@@ -27,6 +27,12 @@ This divergence is relevant by `~3-2.5 MYA`, when managed ant production needs a
 - Regional expansion of ant-based sugar systems can rely on colony replication instead of only colony defense.
 - Lore that depends on colony propagation should reference this divergence rather than assuming baseline behavior.
 
+## Atomic Notes
+
+- Honeypot ant nest splitting is a Cassowary World divergence in one domesticated lineage, not an assumed real-world honeypot ant baseline.
+- The divergence gives managed ant production a scalable propagation path by `~3-2.5 MYA`.
+- Lore that depends on colony replication should reference this divergence rather than treating all honeypot ants as naturally portable.
+
 ## Systems Depending On It
 
 - Honeypot ant orchard expansion where new managed colonies must be propagated.

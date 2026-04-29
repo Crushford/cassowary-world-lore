@@ -35,6 +35,12 @@ When a technical document introduces a system, contributors should check:
 - Tribute/taxation institutional mechanisms
 - Transport network infrastructure and maintenance
 
+## Open Questions
+
+- Which systems are required before a first coherent timeline pass can be promoted beyond placeholder status?
+- How should preservation and storage milestones be placed relative to early tribute systems?
+- Which generated validation warnings should be promoted to errors after existing docs are cleaned up?
+
 ## Related Documents
 
 - [Guiding Principles](GUIDING_PRINCIPLES.md)

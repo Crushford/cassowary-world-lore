@@ -11,5 +11,6 @@ Before writing or revising canon-bearing material, check:
 - [Canon Index](CANON_INDEX.md)
 - [Open Questions](99-open-questions.md)
 - [Repository Structure](docs/repository-structure.md)
+- [Indexing and Generated Files](docs/indexing-and-generated-files.md)
 
 In short: do not invent arbitrary lore, do not silently promote story assumptions to canon, and explain every capability through biology, ecology, technology, or culture.

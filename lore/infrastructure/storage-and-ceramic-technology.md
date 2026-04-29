@@ -40,6 +40,7 @@ The important shift is that containers become administratively meaningful. Once 
 
 - Which ceramic forms emerge first: nest-assist chambers, storage jars, or transport containers?
 - When does vessel standardization become important enough to require social enforcement?
+- What measurement or standardization systems are needed before tribute units become comparable across settlements?
 - Which sealants are regionally available and durable enough for preserved sugar storage?
 - How much container production is household craft versus specialist labor?
 

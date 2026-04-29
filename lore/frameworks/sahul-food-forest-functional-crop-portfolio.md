@@ -36,6 +36,7 @@ The important claim is that civilizational continuity can survive species substi
 ## Open Questions
 
 - Which species set is viable in the earliest domestication phase versus later institutional agriculture?
+- When does a functional crop-portfolio model become an explicit planning framework rather than local practice?
 - Which preservation methods pair best with each crop class?
 - Which crops become tribute staples rather than household staples?
 - How much of the system depends on active grafting versus managed wild stands?
