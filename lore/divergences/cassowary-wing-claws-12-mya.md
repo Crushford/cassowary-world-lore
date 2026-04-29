@@ -9,6 +9,7 @@ This divergence file tracks the root change in cassowary wing-claw function. Aro
 - Layer: Fundamental divergence
 - Primary topic: cassowary wing-claw divergence
 - Topics: cassowary anatomy, wing claws, manipulation, evolutionary divergence
+- Era: Claw Development Era
 - Time periods: `~12 MYA`
 - Related species: cassowaries
 

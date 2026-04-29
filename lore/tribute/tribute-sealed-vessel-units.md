@@ -9,6 +9,7 @@ This document answers how early cassowary tribute becomes measurable before weig
 - Primary topic: tribute sealed vessel units
 - Layer: Cassowary World system
 - Topics: tribute, taxation, standardized vessels, volume measurement, preserved surplus
+- Era: Protohistoric Expansion Era
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`
 - Regions: some core regions of Sahul
 - Related technologies: ceramic vessels, sealants, standard vessel forms

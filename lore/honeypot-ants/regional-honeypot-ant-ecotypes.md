@@ -9,7 +9,8 @@ This document defines how honeypot ant systems vary across Sahul environments. H
 - Layer: Cassowary World system
 - Primary topic: regional honeypot ant ecotypes
 - Topics: honeypot ants, regional ecology, orchard management, pottery, ecotypes, environmental constraints
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
+- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul — arid interior, savanna woodland, PNG and wet margins, upland refugia, coastal shelf
 - Status: Canon Candidate
 - Related species: honeypot ants, aphids and other sap-feeders, orchard trees

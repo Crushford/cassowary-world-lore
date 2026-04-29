@@ -9,6 +9,7 @@ This document covers the rare practice of dromornithid egg capture, chick rearin
 - Layer: Cassowary World system
 - Primary topic: dromornithid prestige handling
 - Topics: dromornithids, prestige animals, elite practice, fire incubation, danger handling, political theatre
+- Era: Ecological Management Era
 - Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul, dromornithid-inhabited ecologies
 - Status: Draft

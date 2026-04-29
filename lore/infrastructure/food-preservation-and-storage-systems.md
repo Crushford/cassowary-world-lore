@@ -9,6 +9,7 @@ This document answers how cassowary societies convert perishable orchard and ant
 - Layer: Cassowary World system
 - Primary topic: food preservation and storage systems
 - Topics: preservation, storage, surplus, sealed containers, cooled storage, redistribution
+- Era: Ecological Management Era
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: Sahul orchard ecologies
 - Related technologies: pottery, ceramic vessels, sealing materials, cool storage, drying

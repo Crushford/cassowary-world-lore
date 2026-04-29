@@ -9,7 +9,8 @@ This document defines tree roles used in honeydew and sugar production without o
 - Layer: Cassowary World system
 - Primary topic: orchard sugar tree lineages
 - Topics: orchard trees, sap-flow hosts, honeydew production, fruit-and-sap trees, nurse canopy, grafting, lineage management
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
+- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies — regional variation is expected and planned for
 - Status: Canon Candidate
 - Related species: orchard trees, cassowaries, aphids and other sap-feeders, honeypot ants

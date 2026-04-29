@@ -9,6 +9,7 @@ This document explains how moas function as mounts and transport animals in Cass
 - Layer: Cassowary World system
 - Primary topic: moa mounted warfare
 - Topics: moas, mounted warfare, transport, breeding, imperial logistics
+- Era: Protohistoric Expansion Era
 - Time periods: `~2.5-2 MYA`
 - Regions: Sahul and New Zealand-linked exchange routes
 - Related species: moas, cassowaries

@@ -9,7 +9,8 @@ This document defines aphid and sap-feeder types as managed functional lineages 
 - Layer: Cassowary World system
 - Primary topic: sap-feeder lineages and honeydew flow management
 - Topics: aphids, sap-feeders, honeydew, orchard management, ecological domestication, lineage selection
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
+- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies — functional roles vary by region
 - Status: Canon Candidate
 - Related species: aphids, other sap-feeding insects, orchard trees, honeypot ants, cassowaries

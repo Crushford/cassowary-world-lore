@@ -9,6 +9,7 @@ This document answers how sealed tribute vessels carry trust and authority befor
 - Primary topic: tribute seal integrity and authority marks
 - Layer: Cassowary World system
 - Topics: tribute, seal marks, custody, tamper evidence, authority symbols
+- Era: Protohistoric Expansion Era
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
 - Related technologies: resin seals, wax seals, clay seals, ceramic lids, stamp objects

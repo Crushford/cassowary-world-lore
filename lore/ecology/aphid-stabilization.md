@@ -9,7 +9,8 @@ This document answers how cassowaries keep aphid and sap-feeder-host relationshi
 - Layer: Cassowary World system
 - Primary topic: aphid stabilization
 - Topics: aphids, sap-feeders, orchard management, honeydew flow, ecological domestication, host-tree health
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
+- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
 - Related species: cassowaries, aphids, orchard trees, honeypot ants
 - Related institutions: orchard management, surplus production

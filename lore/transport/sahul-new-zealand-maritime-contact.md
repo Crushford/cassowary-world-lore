@@ -9,6 +9,7 @@ This document covers the later regular contact and trade between Sahul societies
 - Layer: Cassowary World system
 - Primary topic: Sahul-New Zealand maritime trade and contact
 - Topics: maritime trade, moa import, New Zealand, Sahul empire, route knowledge, seasonal navigation
+- Era: Protohistoric Expansion Era
 - Time periods: `~2.5-2 MYA`
 - Regions: Sahul coastal systems, New Zealand, open ocean crossing
 - Status: Canon Candidate

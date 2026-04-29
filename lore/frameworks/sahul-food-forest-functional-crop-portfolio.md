@@ -9,6 +9,7 @@ This document answers how cassowary agriculture can scale across Sahul by preser
 - Layer: Cassowary World system
 - Primary topic: Sahul food forest functional crop portfolio
 - Topics: agriculture, crop roles, orchard planning, regional substitution, functional classification
+- Era: Ecological Management Era
 - Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies
 - Related species: figs, macadamia, palms, lilly pillies, quandongs, cassowary plum lineages

@@ -9,7 +9,8 @@ This document answers yield without false precision. Honeypot ant civilisation w
 - Layer: Cassowary World system
 - Primary topic: honeypot ant yield and surplus capacity
 - Topics: yield, surplus, orchard clusters, tribute districts, colony management, qualitative modelling
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
+- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul orchard ecologies, ecotype-dependent
 - Status: Canon Candidate
 - Related species: honeypot ants, orchard trees, sap-feeders

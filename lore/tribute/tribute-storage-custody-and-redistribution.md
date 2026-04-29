@@ -9,6 +9,7 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Primary topic: tribute storage custody and redistribution
 - Layer: Cassowary World system
 - Topics: tribute, custody, storage control, redistribution, political authority
+- Era: Protohistoric Expansion Era
 - Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - Regions: some core regions of Sahul
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization

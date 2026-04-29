@@ -9,6 +9,7 @@ This divergence file tracks the Cassowary World change that makes one domesticat
 - Layer: Fundamental divergence
 - Primary topic: honeypot ant nest splitting
 - Topics: honeypot ants, domestication, nest propagation, scalable sugar production
+- Era: Ecological Management Era
 - Time periods: `~3-2.5 MYA`
 - Related species: honeypot ants, cassowaries
 

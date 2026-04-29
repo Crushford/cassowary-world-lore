@@ -9,6 +9,7 @@ This document answers how cassowary cognition shifts during the `4-3 MYA` transi
 - Layer: Cassowary World system
 - Primary topic: cassowary neurodevelopment and predator management transition
 - Topics: cassowaries, neurodevelopment, juvenile learning, coalition logic, predator management
+- Era: Fire and Extended Development Era
 - Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
 - Regions: Sahul inhabited ecologies
 - Related species: cassowaries

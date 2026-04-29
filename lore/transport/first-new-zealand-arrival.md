@@ -13,6 +13,7 @@ This document establishes that cassowaries reached New Zealand before the regula
 - Status: Draft
 - Related species: cassowaries, moas
 - Related institutions: early coastal navigation, accidental displacement, founding populations
+- Era: Protohistoric Expansion Era
 - Time periods: `~2.5-2 MYA`
 
 ## Atomic Notes
