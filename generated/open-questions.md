@@ -219,7 +219,7 @@ Source: `lore/honeypot-ants/regional-honeypot-ant-ecotypes.md`
 Source: `reference/geography/sahul-and-pleistocene-climate.md`
 
 - How stable are New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
-- Which specific glacial maximum intervals around `~2 MYA` should be used as canonical geographic baselines for early expansion timelines?
+- Which specific glacial maximum intervals during the Protohistoric Expansion Era should be used as canonical geographic baselines for early expansion timelines?
 - How quickly do land-bridge openings and closures alter regional connectivity relative to institution-building timescales?
 
 ## Sahul food forest functional crop portfolio
@@ -343,5 +343,5 @@ Source: `docs/core-logic.md`
 Source: `reference/world-state-protohistoric-expansion-era.md`
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?

@@ -9,7 +9,7 @@ This reference explains the climate and geography mechanisms behind Cassowary Wo
 - Layer: Real-world reference
 - Primary topic: Sahul and Pleistocene climate
 - Topics: Sahul, Pleistocene climate, glacial cycles, land bridges, refugia, sea level
-- Time periods: `early Pleistocene glacial cycles`, `~2 MYA representative glacial maximum`
+- Era: Protohistoric Expansion Era
 - Regions: Sahul
 
 ## Mechanisms
@@ -27,7 +27,7 @@ Cassowary World uses these mechanisms to explain why productive zones, transport
 ## Open Questions
 
 - How stable are New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
-- Which specific glacial maximum intervals around `~2 MYA` should be used as canonical geographic baselines for early expansion timelines?
+- Which specific glacial maximum intervals during the Protohistoric Expansion Era should be used as canonical geographic baselines for early expansion timelines?
 - How quickly do land-bridge openings and closures alter regional connectivity relative to institution-building timescales?
 
 ## Related Documents

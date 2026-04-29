@@ -3,9 +3,9 @@
 Grouped by folder.
 
 ## reference
-| Title                                                                                                                                    | Path                                                 | Time Periods                                  | Summary                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a... |
+| Title                                                                                                                                    | Path                                                 | Time Periods                | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Protohistoric Expansion Era | This file describes the baseline Earth context for the main Cassowary World setting during the Protohistoric Expansio... |
 
 ## reference/ecology
 | Title                                                                         | Path                                         | Time Periods | Summary                                                                                                                  |
@@ -14,9 +14,9 @@ Grouped by folder.
 | [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)   | reference/ecology/sap-feeding-host-trees.md  |              | This reference establishes the real-world baseline for trees and plants that can support sap-feeding insect populatio... |
 
 ## reference/geography
-| Title                                                                                       | Path                                                 | Time Periods                                                            | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../../reference/geography/sahul-and-pleistocene-climate.md) | reference/geography/sahul-and-pleistocene-climate.md | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baselin... |
+| Title                                                                                       | Path                                                 | Time Periods                | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Sahul and Pleistocene Climate](../../reference/geography/sahul-and-pleistocene-climate.md) | reference/geography/sahul-and-pleistocene-climate.md | Protohistoric Expansion Era | This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baselin... |
 
 ## reference/material-culture
 | Title                                                                                                      | Path                                                            | Time Periods | Summary                                                                                                                 |
