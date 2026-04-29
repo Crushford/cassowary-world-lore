@@ -4,10 +4,10 @@ Generated summary bundle for documents in `lore/ecology`.
 
 ## Documents
 
-| Title                                                                                                   | Time Periods                              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| Title                                                                                                   | Time Periods              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | Ecological Management Era | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Key Atomic Notes
 
@@ -46,7 +46,7 @@ Generated summary bundle for documents in `lore/ecology`.
 - [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

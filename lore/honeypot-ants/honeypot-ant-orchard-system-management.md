@@ -9,7 +9,7 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 - Primary topic: honeypot ant orchard system management
 - Layer: Cassowary World system
 - Topics: honeypot ants, aphid stabilization, orchard management, ecological domestication, sugar production, regional ecotypes
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul orchard ecologies
 - Related species: cassowaries, honeypot ants, aphids, sap-rich orchard trees
 - Related technologies: pottery, sealing materials
@@ -19,7 +19,7 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 
 - Honeypot ant orchard management turns orchard trees, aphids and other sap-feeders, and ant reserves into a linked surplus system rather than a simple harvest of wild colonies.
 - Cassowary intervention stabilizes host trees, sap-feeder populations, nest conditions, and harvest intensity as one production chain.
-- The system develops from opportunistic consumption in `~6-4 MYA`, repeated harvesting in `4-3 MYA`, early domestication in `~3-2.5 MYA`, and regional civilizational dependence in `~2.5-2 MYA`.
+- The system is preceded by opportunistic consumption (before the Fire and Extended Development Era) and repeated harvesting (Fire and Extended Development Era); intentional ecological management begins in the Ecological Management Era and reaches regional civilizational dependence in the Protohistoric Expansion Era.
 - Adoption remains uneven across Sahul because ecological variation, climate, and species distributions constrain where orchard-ant systems can persist and at what scale.
 - Long-term orchard stability is a prerequisite for reliable honeypot ant output.
 - Host-tree decline, sap-feeder loss, or climate stress can cascade into lower honeydew flow and reduced ant reserves.
@@ -30,7 +30,7 @@ This document answers how cassowaries maintain the orchard, aphid, and honeypot 
 
 ## Context
 
-Honeypot ant orchard system management gives cassowary civilization a plausible alternative to grain-based surplus under the constraints described in [World State — ~2 MYA](../../reference/world-state-2mya.md). The real biological baseline is in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md); this file only tracks how cassowary management turns those baseline relationships into a surplus system.
+Honeypot ant orchard system management gives cassowary civilization a plausible alternative to grain-based surplus under the constraints described in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md). The real biological baseline is in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md); this file only tracks how cassowary management turns those baseline relationships into a surplus system.
 
 The important productive unit is not a single crop species. It is a managed relationship among orchard trees, sap-feeding insects, and ants that already store carbohydrates in replete workers. Cassowary management increases reliability by stabilizing host trees, sap-feeder populations, and colony conditions.
 
@@ -55,7 +55,7 @@ This orchard system management layer enables [Honeypot Ant Harvesting](honeypot-
 - [Honeypot Ants](../../reference/species/honeypot-ants.md)
 - [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Aphid Stabilization](../ecology/aphid-stabilization.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Orchard Lineage Management](../agriculture/orchard-lineage-management.md)

@@ -9,7 +9,7 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Primary topic: honeypot ant sugar preservation
 - Layer: Cassowary World system
 - Topics: honeypot ants, sugar preservation, preserved sugar paste, ceramic sealing, stored surplus, living storage, dead storage
-- Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul orchard ecologies
 - Related species: cassowaries, honeypot ants
 - Related technologies: pottery, ceramic vessels, wax seals, resin seals, controlled heating, sun reduction
@@ -23,7 +23,7 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Harvested replete reserves are converted into transportable preserved sugar products using pottery, concentration, and sealing materials.
 - Processing generally opens repletes, removes debris, optionally adds regional ingredients, and concentrates liquid by heating or controlled sun reduction.
 - Sealed ceramic vessels with wax, resin, or similar barriers make preserved sugar products more durable and transportable than raw repletes or unprocessed honeydew.
-- Preserved sugar production becomes possible at larger scale during `4-3 MYA`, becomes regular stored calories in `~3-2.5 MYA`, and becomes a major tribute, ration, and trade medium in some regions in `~2.5-2 MYA`.
+- Preserved sugar production as a repeatable practice begins in the Ecological Management Era, becoming regular stored calories; it becomes a major tribute, ration, and trade medium in some regions in the Protohistoric Expansion Era.
 - Pottery and sealing technologies convert living biological storage into measurable administrative storage.
 - Large-scale preservation requires craft infrastructure: pottery, sealants, heat or sun-reduction practices, and coordinated labor.
 - Loss of preservation capacity reduces usable surplus even if ant colonies survive.
@@ -56,7 +56,7 @@ The physical form of preserved sugar storage is described in [Pottery-Assisted A
 - [Honeypot Ant Yield and Surplus Capacity](honeypot-ant-yield-and-surplus-capacity.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
 - [Honeypot Ants](../../reference/species/honeypot-ants.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Honeypot Ant Nest Splitting](../divergences/honeypot-ant-nest-splitting.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)

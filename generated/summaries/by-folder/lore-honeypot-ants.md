@@ -4,14 +4,14 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 
 ## Documents
 
-| Title                                                                                                             | Time Periods                              | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                 | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)   | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
-| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                 | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
-| [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
-| [Managed Ant Lineages](../../../lore/honeypot-ants/managed-ant-lineages.md)                                       | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA           | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
-| [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                   | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
+| Title                                                                                                             | Time Periods              | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                 | Ecological Management Era | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)   | Ecological Management Era | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
+| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                 | Ecological Management Era | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
+| [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | Ecological Management Era | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
+| [Managed Ant Lineages](../../../lore/honeypot-ants/managed-ant-lineages.md)                                       | Ecological Management Era | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
+| [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                   | Ecological Management Era | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
 
 ## Key Atomic Notes
 
@@ -22,7 +22,7 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 - Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
 - Nest-assist pots are living-system infrastructure: they remain in the orchard, embedded in the nest environment, and are not the same as tribute jars used for sugar storage and transport.
 - Harvest bowls or replete cups receive repletes or liquid reserve during controlled partial harvest. They are separate from nest-assist chambers.
-- In `4-3 MYA`, regional pottery-assisted proto-domestication shifts from opportunistic vessel placement toward intentional biasing of nest architecture.
+- Intentional pottery-assisted management of nest architecture begins in the Ecological Management Era; before this, clay vessels may be placed near ant nests opportunistically but without deliberate biasing of colony structure.
 - Orchard management and colony management integrate as harvesters plan ant storage around productive host-tree systems.
 - Sustainable harvest removes only part of a colony's reserve capacity while preserving enough for seasonal recovery and famine buffering.
 - Overharvest and political extraction pressure can reduce colony resilience or cause local collapse. The colony is the renewable resource; protecting colony viability is the same as protecting future yield.
@@ -33,7 +33,7 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 
 - Honeypot ant orchard management turns orchard trees, aphids and other sap-feeders, and ant reserves into a linked surplus system rather than a simple harvest of wild colonies.
 - Cassowary intervention stabilizes host trees, sap-feeder populations, nest conditions, and harvest intensity as one production chain.
-- The system develops from opportunistic consumption in `~6-4 MYA`, repeated harvesting in `4-3 MYA`, early domestication in `~3-2.5 MYA`, and regional civilizational dependence in `~2.5-2 MYA`.
+- The system is preceded by opportunistic consumption (before the Fire and Extended Development Era) and repeated harvesting (Fire and Extended Development Era); intentional ecological management begins in the Ecological Management Era and reaches regional civilizational dependence in the Protohistoric Expansion Era.
 - Adoption remains uneven across Sahul because ecological variation, climate, and species distributions constrain where orchard-ant systems can persist and at what scale.
 - Long-term orchard stability is a prerequisite for reliable honeypot ant output.
 - Host-tree decline, sap-feeder loss, or climate stress can cascade into lower honeydew flow and reduced ant reserves.
@@ -50,7 +50,7 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 - Harvested replete reserves are converted into transportable preserved sugar products using pottery, concentration, and sealing materials.
 - Processing generally opens repletes, removes debris, optionally adds regional ingredients, and concentrates liquid by heating or controlled sun reduction.
 - Sealed ceramic vessels with wax, resin, or similar barriers make preserved sugar products more durable and transportable than raw repletes or unprocessed honeydew.
-- Preserved sugar production becomes possible at larger scale during `4-3 MYA`, becomes regular stored calories in `~3-2.5 MYA`, and becomes a major tribute, ration, and trade medium in some regions in `~2.5-2 MYA`.
+- Preserved sugar production as a repeatable practice begins in the Ecological Management Era, becoming regular stored calories; it becomes a major tribute, ration, and trade medium in some regions in the Protohistoric Expansion Era.
 - Pottery and sealing technologies convert living biological storage into measurable administrative storage.
 - Large-scale preservation requires craft infrastructure: pottery, sealants, heat or sun-reduction practices, and coordinated labor.
 - Loss of preservation capacity reduces usable surplus even if ant colonies survive.
@@ -121,7 +121,7 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 - [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)
 - [Transport Networks](../../../lore/infrastructure/transport-networks.md)
 - [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

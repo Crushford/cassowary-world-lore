@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Honeydew`.
 
 ## Documents
 
-| Title                                                                                                   | Path                                                  | Layer     | Time Periods                              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                                           | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| Title                                                                                                   | Path                                                  | Layer     | Time Periods              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                           | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Layer Breakdown
 

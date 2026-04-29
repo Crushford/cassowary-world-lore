@@ -32,4 +32,4 @@ Cassowary World orchard systems depend on identifying, preserving, and managing 
 - [Aphid Stabilization](../../lore/ecology/aphid-stabilization.md)
 - [Regional Honeypot Ant Ecotypes](../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
-- [World State — ~2 MYA](../world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)

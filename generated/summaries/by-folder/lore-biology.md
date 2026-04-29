@@ -4,10 +4,10 @@ Generated summary bundle for documents in `lore/biology`.
 
 ## Documents
 
-| Title                                                                                                                                                   | Time Periods                    | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowary cognition shifts during the `4-3 MYA` transition window from predator avoidance t... |
-| [Fire Incubation and Extended Juvenile Development](../../../lore/biology/fire-incubation-and-extended-juvenile-development.md)                         | 4-3 MYA, ~3-2.5 MYA             | This document establishes fire-assisted egg incubation as a core cassowary domestic technology and explains how it ma... |
+| Title                                                                                                                                                   | Time Periods                      | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | Fire and Extended Development Era | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... |
+| [Fire Incubation and Extended Juvenile Development](../../../lore/biology/fire-incubation-and-extended-juvenile-development.md)                         | Fire and Extended Development Era | This document establishes fire-assisted egg incubation as a core cassowary domestic technology and explains how it ma... |
 
 ## Key Atomic Notes
 
@@ -17,7 +17,7 @@ Generated summary bundle for documents in `lore/biology`.
 - Early-maturing systems handle movement, balance, threat response, and basic vocalization.
 - Juvenile learning loads spatial memory, tool sequences, seasonal timing, individual recognition, and simple coalition logic.
 - Late executive integration is experience-dependent, uneven across individuals, and most relevant to leadership and long-term planning.
-- The `4-3 MYA` transition window lengthens juvenile dependence and increases the civilizational value of apprenticeship.
+- The Fire and Extended Development Era lengthens juvenile dependence and increases the civilizational value of apprenticeship.
 - Predator management emerges from coordinated group behavior before any individual becomes consistently dominant.
 - Adolescence acts as a coalition filter that stress-tests impulse control and social judgment.
 - Adult cognition improves slowly through continued integration rather than a single growth spurt.
@@ -38,7 +38,7 @@ Generated summary bundle for documents in `lore/biology`.
 
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
-- [Cassowary Wing-Claws ~12 MYA](../../../lore/divergences/cassowary-wing-claws-12-mya.md)
+- [Cassowary Wing-Claws — Claw Development Era](../../../lore/divergences/cassowary-wing-claws-claw-development-era.md)
 - [Core Logic](../../../CORE_LOGIC.md)
 - [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
@@ -46,7 +46,7 @@ Generated summary bundle for documents in `lore/biology`.
 - [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
 - [Moas](../../../reference/species/moas.md)
 - [Open Questions](../../open-questions.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

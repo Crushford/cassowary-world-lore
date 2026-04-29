@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Surplus`.
 
 ## Documents
 
-| Title                                                                                                             | Path                                                          | Layer | Time Periods                              | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)    | lore/infrastructure/food-preservation-and-storage-systems.md  | Lore  | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA  | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
-| [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md | Lore  | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
+| Title                                                                                                             | Path                                                          | Layer | Time Periods              | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)    | lore/infrastructure/food-preservation-and-storage-systems.md  | Lore  | Ecological Management Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md | Lore  | Ecological Management Era | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
 
 ## Layer Breakdown
 

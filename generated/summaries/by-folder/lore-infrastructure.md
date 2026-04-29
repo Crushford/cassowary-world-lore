@@ -4,12 +4,12 @@ Generated summary bundle for documents in `lore/infrastructure`.
 
 ## Documents
 
-| Title                                                                                                            | Time Periods                             | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)   | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
-| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA          | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
-| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | ~4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA         | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
-| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                         | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| Title                                                                                                            | Time Periods              | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)   | Ecological Management Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | Ecological Management Era | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
+| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                         | Ecological Management Era | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
 
 ## Key Atomic Notes
 
@@ -75,7 +75,7 @@ Generated summary bundle for documents in `lore/infrastructure`.
 - [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)
 - [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

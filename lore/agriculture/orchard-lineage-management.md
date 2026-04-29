@@ -9,7 +9,7 @@ This document answers how cassowaries preserve and adapt productive orchard tree
 - Layer: Cassowary World system
 - Primary topic: orchard lineage management
 - Topics: orchards, tree selection, propagation, regional adaptation, long-cycle agriculture, sap-flow hosts, tree roles
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul orchard ecologies
 - Related species: orchard trees, cassowaries, aphids, honeypot ants
 - Related technologies: propagation, grafting, transplanting
@@ -32,7 +32,7 @@ This document answers how cassowaries preserve and adapt productive orchard tree
 
 ## Context
 
-Orchard lineage management is the upstream agricultural layer for [Aphid Stabilization](../ecology/aphid-stabilization.md) and [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md). The real-world baseline for local geography and climate constraints is described in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+Orchard lineage management is the upstream agricultural layer for [Aphid Stabilization](../ecology/aphid-stabilization.md) and [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md). The real-world baseline for local geography and climate constraints is described in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 This document does not claim a continent-scale crop system. It describes the slower practice of keeping productive tree roles continuous across changing ecologies so later surplus systems have stable hosts and predictable orchard structure.
 
@@ -53,5 +53,5 @@ This document does not claim a continent-scale crop system. It describes the slo
 - [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Regional Honeypot Ant Ecotypes](../honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../generated/open-questions.md)

@@ -8,7 +8,7 @@ Use this layer for concise constraint-focused background, not encyclopedia cover
 
 ## Core References
 
-- [World State — ~2 MYA](world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](world-state-protohistoric-expansion-era.md)
 - [Sahul and Pleistocene Climate](geography/sahul-and-pleistocene-climate.md)
 - [Cassowaries](species/cassowaries.md)
 - [Cockatoos](species/cockatoos.md)

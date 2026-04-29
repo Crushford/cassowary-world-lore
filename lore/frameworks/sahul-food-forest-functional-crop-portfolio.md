@@ -9,7 +9,7 @@ This document answers how cassowary agriculture can scale across Sahul by preser
 - Layer: Cassowary World system
 - Primary topic: Sahul food forest functional crop portfolio
 - Topics: agriculture, crop roles, orchard planning, regional substitution, functional classification
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul orchard ecologies
 - Related species: figs, macadamia, palms, lilly pillies, quandongs, cassowary plum lineages
 - Related technologies: grafting, transplanting, preservation planning
@@ -28,7 +28,7 @@ This document answers how cassowary agriculture can scale across Sahul by preser
 
 ## Context
 
-This framework sits on top of [Orchard Lineage Management](../agriculture/orchard-lineage-management.md), [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md), and [World State — ~2 MYA](../../reference/world-state-2mya.md). It is not a claim that cassowaries begin with a continent-scale agricultural master plan. It is a planning abstraction for copying ecological roles across different Sahul regions while keeping surplus systems compatible.
+This framework sits on top of [Orchard Lineage Management](../agriculture/orchard-lineage-management.md), [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md), and [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md). It is not a claim that cassowaries begin with a continent-scale agricultural master plan. It is a planning abstraction for copying ecological roles across different Sahul regions while keeping surplus systems compatible.
 
 The important claim is that civilizational continuity can survive species substitution. That makes agriculture legible for planning and tribute even when climate zones, soils, and available lineages differ.
 
@@ -45,6 +45,6 @@ The important claim is that civilizational continuity can survive species substi
 - [Orchard Lineage Management](../agriculture/orchard-lineage-management.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [History and Timeline](../../generated/timeline-overview.md)
 - [Open Questions](../../generated/open-questions.md)

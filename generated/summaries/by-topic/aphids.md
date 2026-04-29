@@ -4,19 +4,19 @@ Generated summary bundle for docs tagged with `Aphids`.
 
 ## Documents
 
-| Title                                                                                                   | Path                                                  | Layer     | Time Periods                                  | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | lore/ecology/aphid-stabilization.md                   | Lore      | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA     | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                                               | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA     | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
-| [World State — ~2 MYA (Representative Glacial Maximum)](../../../reference/world-state-2mya.md)         | reference/world-state-2mya.md                         | Reference | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a...  |
+| Title                                                                                                                                       | Path                                                  | Layer     | Time Periods                                  | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                                                         | lore/ecology/aphid-stabilization.md                   | Lore      | Ecological Management Era                     | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                                                            | reference/ecology/aphid-ant-relationships.md          | Reference |                                               | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)                                     | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | Ecological Management Era                     | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md  | Reference | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a...  |
 
 ## Layer Breakdown
 
 ### Reference
 
 - [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
-- [World State — ~2 MYA (Representative Glacial Maximum)](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ### Divergences
 
@@ -73,7 +73,7 @@ No entries found.
 - How is knowledge of specific sap-feeder lineages preserved and transmitted across generations without writing?
 - When does sap-feeder lineage management become institutionalised enough to be a form of property or inheritance?
 
-### World State — ~2 MYA (Representative Glacial Maximum)
+### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
 - Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?
@@ -104,4 +104,4 @@ No entries found.
 - Sap-Feeder Lineages And Honeydew Flow Management
 - Sap-Feeders
 - Sea Level
-- World State — ~2 MYA (Representative Glacial Maximum)
+- World State — Protohistoric Expansion Era (Representative Glacial Maximum)

@@ -9,7 +9,7 @@ This document explains how moa domestication develops in New Zealand and how rid
 - Layer: Cassowary World system
 - Primary topic: moa domestication and ridability mechanism
 - Topics: moa domestication, egg capture, fire incubation, imprinting, captive breeding, ridability, selection, harnessing
-- Time periods: pre-trade isolation period, `~2.5-2 MYA`
+- Era: Protohistoric Expansion Era
 - Regions: New Zealand (origin), later Sahul
 - Status: Canon Candidate
 - Related species: moas, cassowaries

@@ -23,7 +23,7 @@ No atomic notes found.
 - [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

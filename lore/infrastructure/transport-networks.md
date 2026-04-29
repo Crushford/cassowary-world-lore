@@ -9,7 +9,7 @@ This document answers how maintained routes and movement nodes let cassowary soc
 - Layer: Cassowary World system
 - Primary topic: transport networks
 - Topics: routes, movement, tribute, trade, maintenance, chokepoints
-- Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul orchard ecologies
 - Related technologies: path maintenance, river corridors, coastal routes, ridge lines
 - Related institutions: tribute, redistribution, regional integration
@@ -26,7 +26,7 @@ This document answers how maintained routes and movement nodes let cassowary soc
 
 ## Context
 
-Transport networks connect [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md) to [Tribute Collection Counting and Enforcement](../tribute/tribute-collection-counting-and-enforcement.md) and [Tribute Storage Custody and Redistribution](../tribute/tribute-storage-custody-and-redistribution.md). The geographic constraints that shape routes are anchored in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+Transport networks connect [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md) to [Tribute Collection Counting and Enforcement](../tribute/tribute-collection-counting-and-enforcement.md) and [Tribute Storage Custody and Redistribution](../tribute/tribute-storage-custody-and-redistribution.md). The geographic constraints that shape routes are anchored in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 The important claim is not that cassowary societies "have roads." It is that movement becomes organized around maintained corridors and nodes once preserved surplus, tribute, and regional coordination make route upkeep worth the labor.
 
@@ -42,5 +42,5 @@ The important claim is not that cassowary societies "have roads." It is that mov
 - [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute Collection Counting and Enforcement](../tribute/tribute-collection-counting-and-enforcement.md)
 - [Tribute Storage Custody and Redistribution](../tribute/tribute-storage-custody-and-redistribution.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../generated/open-questions.md)

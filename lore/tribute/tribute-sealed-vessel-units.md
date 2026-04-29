@@ -9,7 +9,7 @@ This document answers how early cassowary tribute becomes measurable before weig
 - Primary topic: tribute sealed vessel units
 - Layer: Cassowary World system
 - Topics: tribute, taxation, standardized vessels, volume measurement, preserved surplus
-- Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`
+- Era: Protohistoric Expansion Era
 - Regions: some core regions of Sahul
 - Related technologies: ceramic vessels, sealants, standard vessel forms
 - Related institutions: tribute, taxation, storage custody
@@ -20,8 +20,8 @@ This document answers how early cassowary tribute becomes measurable before weig
 - In early cassowary civilizations, the primary tribute unit is a sealed ceramic container filled with preserved sugar paste or related preserved foods.
 - Container volume precedes abstract weight measurement because repeatable vessel form can be visually compared without precision scales.
 - Vessel form, fill convention, and visible seals make quantity and custody legible even when contents vary.
-- Proto-tribute through repeated seasonal vessel contributions appears in `~3.2-2.8 MYA`.
-- Standardized sealed vessel tribute appears in some core regions in `~2.7-2.3 MYA`.
+- Proto-tribute through repeated seasonal vessel contributions appears in the Ecological Management Era.
+- Standardized sealed vessel tribute appears in some core regions in the Protohistoric Expansion Era.
 - Content heterogeneity, imperfect ceramic control, breakage, shape drift, and fill-line disputes limit trust in equal tribute units.
 - Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
 - Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
@@ -52,7 +52,7 @@ The full visual and functional description of tribute jars — including their s
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
 - [Honeypot Ant Yield and Surplus Capacity](../honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [History and Timeline](../../generated/timeline-overview.md)

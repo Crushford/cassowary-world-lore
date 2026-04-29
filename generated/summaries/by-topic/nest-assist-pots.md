@@ -4,11 +4,11 @@ Generated summary bundle for docs tagged with `Nest-Assist Pots`.
 
 ## Documents
 
-| Title                                                                                                            | Path                                                          | Layer | Time Periods                     | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                | lore/honeypot-ants/honeypot-ant-harvesting.md                 | Lore  | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA  | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA  | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
-| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | lore/infrastructure/storage-and-ceramic-technology.md         | Lore  | ~4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| Title                                                                                                            | Path                                                          | Layer | Time Periods              | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                | lore/honeypot-ants/honeypot-ant-harvesting.md                 | Lore  | Ecological Management Era | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | Ecological Management Era | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
+| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | lore/infrastructure/storage-and-ceramic-technology.md         | Lore  | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
 
 ## Layer Breakdown
 
@@ -39,7 +39,7 @@ No entries found.
 - Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
 - Nest-assist pots are living-system infrastructure: they remain in the orchard, embedded in the nest environment, and are not the same as tribute jars used for sugar storage and transport.
 - Harvest bowls or replete cups receive repletes or liquid reserve during controlled partial harvest. They are separate from nest-assist chambers.
-- In `4-3 MYA`, regional pottery-assisted proto-domestication shifts from opportunistic vessel placement toward intentional biasing of nest architecture.
+- Intentional pottery-assisted management of nest architecture begins in the Ecological Management Era; before this, clay vessels may be placed near ant nests opportunistically but without deliberate biasing of colony structure.
 - Orchard management and colony management integrate as harvesters plan ant storage around productive host-tree systems.
 - Sustainable harvest removes only part of a colony's reserve capacity while preserving enough for seasonal recovery and famine buffering.
 - Overharvest and political extraction pressure can reduce colony resilience or cause local collapse. The colony is the renewable resource; protecting colony viability is the same as protecting future yield.

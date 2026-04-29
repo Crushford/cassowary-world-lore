@@ -4,12 +4,12 @@ Generated summary bundle for documents in `lore/tribute`.
 
 ## Documents
 
-| Title                                                                                                               | Time Periods                             | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | ~3.2-2.8 MYA, ~2.7-2.3 MYA               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | ~3.2-2.8 MYA, ~2.7-2.3 MYA, ~2.2-1.8 MYA | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                               | Time Periods                | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | Protohistoric Expansion Era | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | Protohistoric Expansion Era | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | Protohistoric Expansion Era | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | Protohistoric Expansion Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
 
 ## Key Atomic Notes
 
@@ -45,8 +45,8 @@ Generated summary bundle for documents in `lore/tribute`.
 - In early cassowary civilizations, the primary tribute unit is a sealed ceramic container filled with preserved sugar paste or related preserved foods.
 - Container volume precedes abstract weight measurement because repeatable vessel form can be visually compared without precision scales.
 - Vessel form, fill convention, and visible seals make quantity and custody legible even when contents vary.
-- Proto-tribute through repeated seasonal vessel contributions appears in `~3.2-2.8 MYA`.
-- Standardized sealed vessel tribute appears in some core regions in `~2.7-2.3 MYA`.
+- Proto-tribute through repeated seasonal vessel contributions appears in the Ecological Management Era.
+- Standardized sealed vessel tribute appears in some core regions in the Protohistoric Expansion Era.
 - Content heterogeneity, imperfect ceramic control, breakage, shape drift, and fill-line disputes limit trust in equal tribute units.
 - Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
 - Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
@@ -65,7 +65,7 @@ Generated summary bundle for documents in `lore/tribute`.
 - Control of centralized stored food creates enforcement power during scarcity.
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
-- Regional guarded storage centers and forwarded taxation networks emerge in `~2.2-1.8 MYA`.
+- Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
 
 ## Related Documents
 
@@ -80,7 +80,7 @@ Generated summary bundle for documents in `lore/tribute`.
 - [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)
 - [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)
-- [World State — ~2 MYA](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 

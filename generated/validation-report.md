@@ -2,7 +2,7 @@
 
 - Docs scanned: 41
 - Topic indexes: 26
-- Time indexes: 12
+- Time indexes: 7
 - Layer indexes: 4
 - Errors: 0
 - Warnings: 37
@@ -45,4 +45,4 @@
 - lore/transport/moa-domestication-and-ridability.md: Broken local link target: ../../99-open-questions.md -> 99-open-questions.md [broken-link]
 - lore/transport/sahul-new-zealand-maritime-contact.md: Broken local link target: ../../03-history-and-timeline.md -> 03-history-and-timeline.md [broken-link]
 - lore/transport/sahul-new-zealand-maritime-contact.md: Broken local link target: ../../99-open-questions.md -> 99-open-questions.md [broken-link]
-- reference/world-state-2mya.md: Broken local link target: ../99-open-questions.md -> 99-open-questions.md [broken-link]
+- reference/world-state-protohistoric-expansion-era.md: Broken local link target: ../99-open-questions.md -> 99-open-questions.md [broken-link]

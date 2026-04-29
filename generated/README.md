@@ -23,18 +23,13 @@ This directory contains deterministic Markdown views derived from the hand-autho
 
 ## Time Indexes
 
-- [~12 MYA](time/~12-mya.md)
-- [~6-4 MYA](time/~6-4-mya.md)
-- [~4-3 MYA](time/~4-3-mya.md)
-- [4-3 MYA](time/4-3-mya.md)
-- [~3-2.5 MYA](time/~3-2-5-mya.md)
-- [~2.5-2 MYA](time/~2-5-2-mya.md)
 - [~2 MYA](time/~2-mya.md)
-- [~3.2-2.8 MYA](time/~3-2-2-8-mya.md)
-- [~2.7-2.3 MYA](time/~2-7-2-3-mya.md)
-- [~2.2-1.8 MYA](time/~2-2-1-8-mya.md)
 - [early Pleistocene glacial cycles](time/early-pleistocene-glacial-cycles.md)
 - [~2 MYA representative glacial maximum](time/~2-mya-representative-glacial-maximum.md)
+- [Claw Development Era](time/claw-development-era.md)
+- [Fire and Extended Development Era](time/fire-and-extended-development-era.md)
+- [Ecological Management Era](time/ecological-management-era.md)
+- [Protohistoric Expansion Era](time/protohistoric-expansion-era.md)
 
 ## Summary Bundles
 

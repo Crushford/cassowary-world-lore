@@ -26,9 +26,9 @@ Source: `lore/biology/cassowary-neurodevelopment-and-predator-management-transit
 
 ## Cassowary Wing-Claw Divergence
 
-### Cassowary Wing-Claws ~12 MYA
+### Cassowary Wing-Claws — Claw Development Era
 
-Source: `lore/divergences/cassowary-wing-claws-12-mya.md`
+Source: `lore/divergences/cassowary-wing-claws-claw-development-era.md`
 
 - What anatomical pathway connects chick clinging claws to later load-bearing manipulation?
 - Which intermediate stages need technical documentation?
@@ -336,11 +336,11 @@ Source: `docs/core-logic.md`
 - How should preservation and storage milestones be placed relative to early tribute systems?
 - Which generated validation warnings should become errors after existing docs are cleaned up?
 
-## World State — ~2 MYA (Representative Glacial Maximum)
+## World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
-### World State — ~2 MYA (Representative Glacial Maximum)
+### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
-Source: `reference/world-state-2mya.md`
+Source: `reference/world-state-protohistoric-expansion-era.md`
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
 - Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?

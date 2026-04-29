@@ -4,12 +4,12 @@ Generated summary bundle for documents in `lore/transport`.
 
 ## Documents
 
-| Title                                                                                               | Time Periods | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | ~2.5-2 MYA   | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
-| [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)     | ~2.5-2 MYA   | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
-| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)                               | ~2.5-2 MYA   | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
-| [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | ~2.5-2 MYA   | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
+| Title                                                                                               | Time Periods                | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | Protohistoric Expansion Era | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
+| [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)     | Protohistoric Expansion Era | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
+| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)                               | Protohistoric Expansion Era | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | Protohistoric Expansion Era | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
 
 ## Key Atomic Notes
 
@@ -24,7 +24,7 @@ Generated summary bundle for documents in `lore/transport`.
 - First arrival does not imply broad cassowary expansion outside the Sahul-New Zealand system.
 - Early New Zealand cassowary groups become isolated long enough to develop local lifeways and moa-handling traditions before reconnection.
 - Later trade routes connect Sahul societies to already-established New Zealand cassowary groups and managed moa lineages, not to an uninhabited island.
-- By `~2 MYA`, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
+- By the Protohistoric Expansion Era, cassowary expansion reaches New Zealand but does not reach Indonesia or other Southeast Asian island groups.
 - The absence from Indonesia is established canon. The reason for that absence is not resolved.
 - Possible contributing factors include: deep-water channels toward the west that persist even at glacial maximum sea levels; dangerous open-sea crossing conditions; and the possibility that cassowary food systems and orchard crops do not establish well in the different ecologies of the Indonesian island chain. None of these is confirmed as the primary cause.
 

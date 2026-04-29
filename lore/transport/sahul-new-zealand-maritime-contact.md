@@ -9,7 +9,7 @@ This document covers the later regular contact and trade between Sahul societies
 - Layer: Cassowary World system
 - Primary topic: Sahul-New Zealand maritime trade and contact
 - Topics: maritime trade, moa import, New Zealand, Sahul empire, route knowledge, seasonal navigation
-- Time periods: `~2.5-2 MYA`
+- Era: Protohistoric Expansion Era
 - Regions: Sahul coastal systems, New Zealand, open ocean crossing
 - Status: Canon Candidate
 - Related species: cassowaries, moas
@@ -34,7 +34,7 @@ The trade is not easy and not frequent. It requires coordinated effort, seasonal
 ## Limits
 
 - Do not treat this route as proof of general Sahul maritime capability or global exploration.
-- Do not shorten the development time. The route requires institutional maturity that emerges in the `~3-2.5 MYA` window or later.
+- Do not shorten the development time. The route requires institutional maturity that emerges in the Ecological Management Era or later.
 - Do not assume moas arrive in Sahul tame. They arrive managed, but still require integration into Sahul breeding and handling systems.
 
 ## Open Questions

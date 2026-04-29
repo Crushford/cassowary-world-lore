@@ -9,7 +9,7 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Primary topic: tribute storage custody and redistribution
 - Layer: Cassowary World system
 - Topics: tribute, custody, storage control, redistribution, political authority
-- Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
+- Era: Protohistoric Expansion Era
 - Regions: some core regions of Sahul
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization
 - Related technologies: sealed vessels, cool storage, guarded storehouses
@@ -27,7 +27,7 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Control of centralized stored food creates enforcement power during scarcity.
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
-- Regional guarded storage centers and forwarded taxation networks emerge in `~2.2-1.8 MYA`.
+- Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
 
 ## Context
 
@@ -51,7 +51,7 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 - [Tribute Seal Integrity and Authority Marks](tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Collection Counting and Enforcement](tribute-collection-counting-and-enforcement.md)
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
 - [History and Timeline](../../generated/timeline-overview.md)

@@ -34,7 +34,7 @@ Dromornithids are native megafauna present in Sahul during the cassowary civiliz
 
 ## Related Documents
 
-- [World State — ~2 MYA](../world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
 - [Cassowaries](../species/cassowaries.md)
 - [Moas](../species/moas.md)
 - [Dromornithid Prestige Handling](../../lore/domestication/dromornithid-prestige-handling.md)

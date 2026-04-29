@@ -1,15 +1,15 @@
-# Cassowary Wing-Claws ~12 MYA
+# Cassowary Wing-Claws — Claw Development Era
 
 ## Summary
 
-This divergence file tracks the root change in cassowary wing-claw function. Around `~12 MYA`, rising predator pressure selects for stronger functional claws on cassowary vestigial wings. The adaptation begins as a defensive evolutionary response and later supports manipulation.
+This divergence file tracks the root change in cassowary wing-claw function. During the Claw Development Era, rising predator pressure selects for stronger functional claws on cassowary vestigial wings. The adaptation begins as a defensive evolutionary response and later supports manipulation.
 
 ## Metadata
 
 - Layer: Fundamental divergence
 - Primary topic: cassowary wing-claw divergence
 - Topics: cassowary anatomy, wing claws, manipulation, evolutionary divergence
-- Time periods: `~12 MYA`
+- Era: Claw Development Era
 - Related species: cassowaries
 
 ## What Changes
@@ -20,7 +20,7 @@ This differs from real cassowaries by making the vestigial wing-claw system more
 
 ## When
 
-The divergence begins around `~12 MYA` in response to major predator pressure, including marsupial-lion-like predators.
+The divergence begins during the Claw Development Era in response to major predator pressure, including marsupial-lion-like predators.
 
 ## Capabilities Enabled
 
@@ -30,7 +30,7 @@ The divergence begins around `~12 MYA` in response to major predator pressure, i
 
 ## Atomic Notes
 
-- Cassowary wing-claw divergence begins as stronger chick wing-claw function under predator pressure around `~12 MYA`.
+- Cassowary wing-claw divergence begins as stronger chick wing-claw function under predator pressure during the Claw Development Era.
 - The divergence changes the developmental importance of vestigial wing claws without granting sudden human-like hands.
 - Later manipulation, tool use, carrying, craft, storage, transport, and institutions must trace back to this anatomical bridge.
 

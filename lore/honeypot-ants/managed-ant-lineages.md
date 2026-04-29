@@ -9,7 +9,7 @@ This document defines ant lineages selected for different environments and manag
 - Layer: Cassowary World system
 - Primary topic: managed honeypot ant lineages
 - Topics: honeypot ants, lineage selection, chamber tolerance, replete storage, humidity tolerance, harvest recovery, regional management
-- Time periods: `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul — dryland, savanna woodland, PNG and wet margins, upland, coastal
 - Status: Canon Candidate
 - Related species: honeypot ants, cassowaries

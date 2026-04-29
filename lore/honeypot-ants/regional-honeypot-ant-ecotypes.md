@@ -9,7 +9,7 @@ This document defines how honeypot ant systems vary across Sahul environments. H
 - Layer: Cassowary World system
 - Primary topic: regional honeypot ant ecotypes
 - Topics: honeypot ants, regional ecology, orchard management, pottery, ecotypes, environmental constraints
-- Time periods: `~6-4 MYA`, `4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul — arid interior, savanna woodland, PNG and wet margins, upland refugia, coastal shelf
 - Status: Canon Candidate
 - Related species: honeypot ants, aphids and other sap-feeders, orchard trees
@@ -31,7 +31,7 @@ This document defines how honeypot ant systems vary across Sahul environments. H
 
 ## Context
 
-This document builds on the real-world baselines in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md). The world-state geographic constraints are described in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+This document builds on the real-world baselines in [Honeypot Ants](../../reference/species/honeypot-ants.md), [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md), and [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md). The world-state geographic constraints are described in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 The Cassowary World expansion is real but constrained. Dry-zone ant behaviour is biology. Wet-zone ant behaviour is managed ecology. The difference is important for understanding where the system is fragile and where it is robust.
 
@@ -53,7 +53,7 @@ Dryland storage ants are the closest to real-world honeypot ant baseline behavio
 - Individual colonies may be culturally significant — sources of early discovery, prestige sugar, and desert-margin trade — without being economically equivalent to managed woodland systems.
 
 **Role in Cassowary World:**
-- Important for early discovery and opportunistic use from `~6-4 MYA`.
+- Important for early discovery and opportunistic use before the Fire and Extended Development Era.
 - Prestige and ceremonial sugar source even in later periods.
 - Desert-margin trade item and exchange token.
 - Not the foundation of civilisational-scale surplus; landscape productivity is too limited.
@@ -76,7 +76,7 @@ Savanna woodland systems are the best candidate for scalable early surplus. The 
 - Best candidate for regular village surplus, tribute production, and regional redistribution.
 
 **Role in Cassowary World:**
-- Core productive zone for tribute and redistribution from `~3-2.5 MYA` onward.
+- Core productive zone for tribute and redistribution from the Ecological Management Era onward.
 - Village-scale orchard-ant clusters drive most institutional surplus.
 - Regional trade in standard sealed vessels originates primarily in these zones.
 - Provides the ecological baseline for the honeypot ant contribution to early state formation.
@@ -192,5 +192,5 @@ These systems are geographically contingent. They exist during glacial maxima wh
 - [Orchard Lineage Management](../agriculture/orchard-lineage-management.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [History and Timeline](../../03-history-and-timeline.md)

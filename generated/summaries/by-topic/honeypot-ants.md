@@ -4,23 +4,23 @@ Generated summary bundle for docs tagged with `Honeypot Ants`.
 
 ## Documents
 
-| Title                                                                                                           | Path                                                         | Layer       | Time Periods                                  | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                               | lore/honeypot-ants/honeypot-ant-harvesting.md                | Lore        | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA               | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ant Nest Splitting](../../../lore/divergences/honeypot-ant-nest-splitting.md)                         | lore/divergences/honeypot-ant-nest-splitting.md              | Divergences | ~3-2.5 MYA                                    | This divergence file tracks the Cassowary World change that makes one domesticated honeypot ant lineage more scalable... |
-| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | lore/honeypot-ants/honeypot-ant-orchard-system-management.md | Lore        | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA     | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
-| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)               | lore/honeypot-ants/honeypot-ant-sugar-preservation.md        | Lore        | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA               | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                                                    | reference/species/honeypot-ants.md                           | Reference   |                                               | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
-| [Managed Ant Lineages](../../../lore/honeypot-ants/managed-ant-lineages.md)                                     | lore/honeypot-ants/managed-ant-lineages.md                   | Lore        | 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA               | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
-| [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                 | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore        | ~6-4 MYA, 4-3 MYA, ~3-2.5 MYA, ~2.5-2 MYA     | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
-| [World State — ~2 MYA (Representative Glacial Maximum)](../../../reference/world-state-2mya.md)                 | reference/world-state-2mya.md                                | Reference   | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a...  |
+| Title                                                                                                                                       | Path                                                         | Layer       | Time Periods                                  | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)                                                           | lore/honeypot-ants/honeypot-ant-harvesting.md                | Lore        | Ecological Management Era                     | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ant Nest Splitting](../../../lore/divergences/honeypot-ant-nest-splitting.md)                                                     | lore/divergences/honeypot-ant-nest-splitting.md              | Divergences | Ecological Management Era                     | This divergence file tracks the Cassowary World change that makes one domesticated honeypot ant lineage more scalable... |
+| [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)                             | lore/honeypot-ants/honeypot-ant-orchard-system-management.md | Lore        | Ecological Management Era                     | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
+| [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                                           | lore/honeypot-ants/honeypot-ant-sugar-preservation.md        | Lore        | Ecological Management Era                     | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                                                                                | reference/species/honeypot-ants.md                           | Reference   |                                               | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
+| [Managed Ant Lineages](../../../lore/honeypot-ants/managed-ant-lineages.md)                                                                 | lore/honeypot-ants/managed-ant-lineages.md                   | Lore        | Ecological Management Era                     | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
+| [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                                             | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore        | Ecological Management Era                     | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md         | Reference   | ~2 MYA, ~2 MYA representative glacial maximum | This file describes the baseline Earth context for the main Cassowary World setting around `~2 MYA`. It represents a...  |
 
 ## Layer Breakdown
 
 ### Reference
 
 - [Honeypot Ants](../../../reference/species/honeypot-ants.md)
-- [World State — ~2 MYA (Representative Glacial Maximum)](../../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ### Divergences
 
@@ -47,7 +47,7 @@ No entries found.
 - Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
 - Nest-assist pots are living-system infrastructure: they remain in the orchard, embedded in the nest environment, and are not the same as tribute jars used for sugar storage and transport.
 - Harvest bowls or replete cups receive repletes or liquid reserve during controlled partial harvest. They are separate from nest-assist chambers.
-- In `4-3 MYA`, regional pottery-assisted proto-domestication shifts from opportunistic vessel placement toward intentional biasing of nest architecture.
+- Intentional pottery-assisted management of nest architecture begins in the Ecological Management Era; before this, clay vessels may be placed near ant nests opportunistically but without deliberate biasing of colony structure.
 - Orchard management and colony management integrate as harvesters plan ant storage around productive host-tree systems.
 - Sustainable harvest removes only part of a colony's reserve capacity while preserving enough for seasonal recovery and famine buffering.
 - Overharvest and political extraction pressure can reduce colony resilience or cause local collapse. The colony is the renewable resource; protecting colony viability is the same as protecting future yield.
@@ -57,14 +57,14 @@ No entries found.
 ### Honeypot Ant Nest Splitting
 
 - Honeypot ant nest splitting is a Cassowary World divergence in one domesticated lineage, not an assumed real-world honeypot ant baseline.
-- The divergence gives managed ant production a scalable propagation path by `~3-2.5 MYA`.
+- The divergence gives managed ant production a scalable propagation path by the Ecological Management Era.
 - Lore that depends on colony replication should reference this divergence rather than treating all honeypot ants as naturally portable.
 
 ### Honeypot Ant Orchard System Management
 
 - Honeypot ant orchard management turns orchard trees, aphids and other sap-feeders, and ant reserves into a linked surplus system rather than a simple harvest of wild colonies.
 - Cassowary intervention stabilizes host trees, sap-feeder populations, nest conditions, and harvest intensity as one production chain.
-- The system develops from opportunistic consumption in `~6-4 MYA`, repeated harvesting in `4-3 MYA`, early domestication in `~3-2.5 MYA`, and regional civilizational dependence in `~2.5-2 MYA`.
+- The system is preceded by opportunistic consumption (before the Fire and Extended Development Era) and repeated harvesting (Fire and Extended Development Era); intentional ecological management begins in the Ecological Management Era and reaches regional civilizational dependence in the Protohistoric Expansion Era.
 - Adoption remains uneven across Sahul because ecological variation, climate, and species distributions constrain where orchard-ant systems can persist and at what scale.
 - Long-term orchard stability is a prerequisite for reliable honeypot ant output.
 - Host-tree decline, sap-feeder loss, or climate stress can cascade into lower honeydew flow and reduced ant reserves.
@@ -81,7 +81,7 @@ No entries found.
 - Harvested replete reserves are converted into transportable preserved sugar products using pottery, concentration, and sealing materials.
 - Processing generally opens repletes, removes debris, optionally adds regional ingredients, and concentrates liquid by heating or controlled sun reduction.
 - Sealed ceramic vessels with wax, resin, or similar barriers make preserved sugar products more durable and transportable than raw repletes or unprocessed honeydew.
-- Preserved sugar production becomes possible at larger scale during `4-3 MYA`, becomes regular stored calories in `~3-2.5 MYA`, and becomes a major tribute, ration, and trade medium in some regions in `~2.5-2 MYA`.
+- Preserved sugar production as a repeatable practice begins in the Ecological Management Era, becoming regular stored calories; it becomes a major tribute, ration, and trade medium in some regions in the Protohistoric Expansion Era.
 - Pottery and sealing technologies convert living biological storage into measurable administrative storage.
 - Large-scale preservation requires craft infrastructure: pottery, sealants, heat or sun-reduction practices, and coordinated labor.
 - Loss of preservation capacity reduces usable surplus even if ant colonies survive.
@@ -158,7 +158,7 @@ No entries found.
 - What is the earliest period at which wet-margin ceramic nest management becomes technically viable?
 - How much does regional ant lineage selection require active selective breeding versus repeated preference for colonies that survive and recover well?
 
-### World State — ~2 MYA (Representative Glacial Maximum)
+### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
 - Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under `~2 MYA` climate conditions?
@@ -213,4 +213,4 @@ No entries found.
 - Stored Surplus
 - Sugar Preservation
 - Sugar Production
-- World State — ~2 MYA (Representative Glacial Maximum)
+- World State — Protohistoric Expansion Era (Representative Glacial Maximum)

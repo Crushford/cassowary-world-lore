@@ -9,7 +9,7 @@ This document covers the rare practice of dromornithid egg capture, chick rearin
 - Layer: Cassowary World system
 - Primary topic: dromornithid prestige handling
 - Topics: dromornithids, prestige animals, elite practice, fire incubation, danger handling, political theatre
-- Time periods: `~3-2.5 MYA`, `~2.5-2 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul, dromornithid-inhabited ecologies
 - Status: Draft
 - Related species: dromornithids, cassowaries
@@ -39,7 +39,7 @@ The social function is different. Moa riding is military and logistical. Dromorn
 - Do not treat dromornithid handling as equivalent to moa domestication. The scale, mechanism, and outcome differ.
 - Riding, if mentioned, must remain explicitly ceremonial, rare, elite, and uncertain.
 - Do not assume all dromornithid genera are equally suitable for even limited handling. Species and temperament variation applies.
-- Confirm which dromornithid genera are present in the `~2 MYA` world-state window before specifying species in narrative.
+- Confirm which dromornithid genera are present in the Protohistoric Expansion Era world-state before specifying species in narrative.
 
 ## Open Questions
 
@@ -53,5 +53,5 @@ The social function is different. Moa riding is military and logistical. Dromorn
 - [Dromornithidae](../../reference/megafauna/dromornithidae.md)
 - [Fire Incubation and Extended Juvenile Development](../biology/fire-incubation-and-extended-juvenile-development.md)
 - [Moa Domestication and Ridability](../transport/moa-domestication-and-ridability.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../99-open-questions.md)

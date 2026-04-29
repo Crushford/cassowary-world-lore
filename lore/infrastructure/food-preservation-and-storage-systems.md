@@ -9,7 +9,7 @@ This document answers how cassowary societies convert perishable orchard and ant
 - Layer: Cassowary World system
 - Primary topic: food preservation and storage systems
 - Topics: preservation, storage, surplus, sealed containers, cooled storage, redistribution
-- Time periods: `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
+- Era: Ecological Management Era
 - Regions: Sahul orchard ecologies
 - Related technologies: pottery, ceramic vessels, sealing materials, cool storage, drying
 - Related institutions: tribute, redistribution, stored surplus, administrative specialization
@@ -25,7 +25,7 @@ This document answers how cassowary societies convert perishable orchard and ant
 
 ## Context
 
-This system sits between [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md) and [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md). The world-state constraints that shape spoilage, transport, and storage are anchored in [World State — ~2 MYA](../../reference/world-state-2mya.md).
+This system sits between [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md) and [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md). The world-state constraints that shape spoilage, transport, and storage are anchored in [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md).
 
 The important shift is not "people store food." It is that storage becomes a repeatable infrastructure layer with measurable containers, controlled loss rates, and political consequences. Once surplus can outlast a season, it can support redistribution, tribute, specialist labor, and broader institutional control.
 
@@ -42,7 +42,7 @@ The important shift is not "people store food." It is that storage becomes a rep
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
 - [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Storage Custody and Redistribution](../tribute/tribute-storage-custody-and-redistribution.md)
-- [World State — ~2 MYA](../../reference/world-state-2mya.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Storage and Ceramic Technology](storage-and-ceramic-technology.md)
 - [Transport Networks](transport-networks.md)
 - [Open Questions](../../generated/open-questions.md)

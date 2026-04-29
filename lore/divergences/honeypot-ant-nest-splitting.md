@@ -9,7 +9,7 @@ This divergence file tracks the Cassowary World change that makes one domesticat
 - Layer: Fundamental divergence
 - Primary topic: honeypot ant nest splitting
 - Topics: honeypot ants, domestication, nest propagation, scalable sugar production
-- Time periods: `~3-2.5 MYA`
+- Era: Ecological Management Era
 - Related species: honeypot ants, cassowaries
 
 ## What Changes
@@ -18,7 +18,7 @@ One domesticated honeypot ant lineage can split and propagate nests in a way tha
 
 ## When
 
-This divergence is relevant by `~3-2.5 MYA`, when managed ant production needs a scalable propagation path beyond local colony protection.
+This divergence is relevant by the Ecological Management Era, when managed ant production needs a scalable propagation path beyond local colony protection.
 
 ## Immediate Effect
 
@@ -29,7 +29,7 @@ This divergence is relevant by `~3-2.5 MYA`, when managed ant production needs a
 ## Atomic Notes
 
 - Honeypot ant nest splitting is a Cassowary World divergence in one domesticated lineage, not an assumed real-world honeypot ant baseline.
-- The divergence gives managed ant production a scalable propagation path by `~3-2.5 MYA`.
+- The divergence gives managed ant production a scalable propagation path by the Ecological Management Era.
 - Lore that depends on colony replication should reference this divergence rather than treating all honeypot ants as naturally portable.
 
 ## Systems Depending On It
