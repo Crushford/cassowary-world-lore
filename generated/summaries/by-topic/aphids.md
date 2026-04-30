@@ -4,12 +4,12 @@ Generated summary bundle for docs tagged with `Aphids`.
 
 ## Documents
 
-| Title                                                                                                                                       | Path                                                  | Layer     | Time Periods                | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                                                         | lore/ecology/aphid-stabilization.md                   | Lore      | Ecological Management Era   | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                                                            | reference/ecology/aphid-ant-relationships.md          | Reference |                             | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)                                     | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | Ecological Management Era   | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md  | Reference | Protohistoric Expansion Era | This file describes the baseline Earth context for the main Cassowary World setting during the Protohistoric Expansio... |
+| Title                                                                                                                                       | Path                                                  | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                                                         | lore/ecology/aphid-stabilization.md                   | Lore      | Ecological Management Era                                                                            | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                                                            | reference/ecology/aphid-ant-relationships.md          | Reference |                                                                                                      | Real-world baseline for aphid-ant and sap-feeder-ant mutualisms. Defines how these relationships function, what limit... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)                                     | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | Ecological Management Era                                                                            | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md  | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
 
@@ -65,6 +65,11 @@ No entries found.
 - Which predators, parasites, and seasonal conditions matter most in different regions?
 - How much of the system is active management versus repeated selection of favorable orchard ecologies?
 
+### Aphid-Ant Relationships
+
+- Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
+- What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
+
 ### Sap-Feeder Lineages and Honeydew Flow
 
 - Which sap-feeding insects besides aphids are plausible honeydew partners in different Sahul regions?
@@ -76,7 +81,7 @@ No entries found.
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md) climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
 
 ## Related Topics

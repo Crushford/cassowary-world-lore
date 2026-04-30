@@ -1,6 +1,6 @@
-# Topic Summary: Sea Level
+# Topic Summary: Movement Corridors
 
-Generated summary bundle for docs tagged with `Sea Level`.
+Generated summary bundle for docs tagged with `Movement Corridors`.
 
 ## Documents
 
@@ -57,9 +57,9 @@ No atomic notes found.
 - Land Bridges
 - Large Predators
 - Megafauna
-- Movement Corridors
 - Pleistocene climate
 - Refugia
 - Sahul
 - Sahul and Pleistocene climate
+- Sea Level
 - World State — Protohistoric Expansion Era (Representative Glacial Maximum)

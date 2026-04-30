@@ -6,7 +6,7 @@ Generated summary bundle for docs tagged with `Honeydew`.
 
 | Title                                                                                                   | Path                                                  | Layer     | Time Periods              | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                           | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
+| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                           | Real-world baseline for aphid-ant and sap-feeder-ant mutualisms. Defines how these relationships function, what limit... |
 | [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Layer Breakdown
@@ -40,6 +40,11 @@ No entries found.
 - Aphids are the canonical example in Cassowary World lore, but other sap-feeding insects — scale insects, treehoppers, mealybugs, and others — may fill equivalent roles in some regions or on some host trees.
 
 ## Open Questions
+
+### Aphid-Ant Relationships
+
+- Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
+- What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
 
 ### Sap-Feeder Lineages and Honeydew Flow
 

@@ -30,7 +30,7 @@ This document makes the pots and nest system visually and technically concrete. 
 
 ## Context
 
-This document builds on the real-world material baseline in [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md) and the harvesting system in [Honeypot Ant Harvesting](../honeypot-ants/honeypot-ant-harvesting.md). It also connects the pottery infrastructure to [Storage and Ceramic Technology](storage-and-ceramic-technology.md) and [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md).
+This document builds on the material baseline in [Ceramic Vessels and Nest Chambers](ceramic-vessels-and-nest-chambers.md) and the harvesting system in [Honeypot Ant Harvesting](../honeypot-ants/honeypot-ant-harvesting.md). It also connects the pottery infrastructure to [Storage and Ceramic Technology](storage-and-ceramic-technology.md) and [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md).
 
 The critical distinction in this document is between vessels that serve the living nest (nest-assist pots) and vessels that hold extracted dead surplus (tribute jars). Both matter; they serve completely different functions and should not be conflated in visualisation, description, or institutional analysis.
 
@@ -195,5 +195,5 @@ This distinction matters for:
 - [Storage and Ceramic Technology](storage-and-ceramic-technology.md)
 - [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
-- [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
+- [Ceramic Vessels and Nest Chambers](ceramic-vessels-and-nest-chambers.md)
 - [History and Timeline](../../03-history-and-timeline.md)

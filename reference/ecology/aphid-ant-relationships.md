@@ -2,35 +2,64 @@
 
 ## Summary
 
-This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by Cassowary World orchard and honeypot ant lore.
+Real-world baseline for aphid-ant and sap-feeder-ant mutualisms. Defines how these relationships function, what limits them, and what constraints any managed honeydew system must obey.
 
 ## Metadata
 
-- Layer: Real-world reference
 - Primary topic: aphid-ant relationships
-- Topics: aphids, ants, honeydew, mutualism, orchard ecology
+- Layer: Real-world reference
+- Topics: aphids, ants, honeydew, mutualism, orchard ecology, sap-feeders
+- Regions: Global; functionally relevant to Sahul
+- Related species: honeypot ants, aphids, scale insects, treehoppers, mealybugs
 
-## Useful Baseline
+## Core Reality
 
-- Aphids and other sap-feeding insects (scale insects, treehoppers, mealybugs, and others) feed on plant sap by piercing plant tissue and extracting phloem or xylem fluid.
-- Plant sap is nutrient-imbalanced, often rich in sugars but poor in essential amino acids. Sap-feeders may therefore consume large volumes of sap and excrete much of the sugar content as liquid waste, called honeydew.
-- Honeydew is sugar-rich and can be a significant energy source for ants and other insects that collect it.
-- Some ant species have evolved mutualistic relationships with sap-feeders: the ants collect honeydew and in return protect sap-feeders from predators, parasitoids, and competing insects.
-- Ant protection can significantly increase sap-feeder population density, because predation pressure is one of the main forces limiting sap-feeder numbers in unmanaged conditions.
-- High sap-feeder density increases honeydew output in the short term but can weaken or severely damage host plants. Feeding pressure from dense sap-feeder populations can stunt growth, kill branches, or kill host trees entirely.
-- Productive honeydew systems therefore require a balance: enough sap-feeders to maintain meaningful sugar flow, but not so many that host trees decline and long-term honeydew production collapses.
-- The mutualism is not stable by default. Disruption of ant colonies, introduction of effective predators or parasitoids, seasonal stress on host plants, or climate shifts can all destabilise the relationship.
-- Similar mutualisms operate with many different sap-feeding insects, not only aphids. In Cassowary World, "aphid" is the canonical example, but other sap-feeders may fill similar roles in different regions or on different host trees.
+- Aphids and other sap-feeding insects (scale insects, treehoppers, mealybugs) feed on plant sap by piercing plant tissue and extracting phloem or xylem fluid.
+- Plant sap is nutrient-imbalanced, rich in sugars but poor in essential amino acids. Sap-feeders consume large volumes and excrete much of the sugar content as liquid waste called honeydew.
+- Honeydew is sugar-rich and a significant energy source for ants and other insects that collect it.
+- Some ant species have evolved mutualistic relationships with sap-feeders: ants collect honeydew and in return protect sap-feeders from predators, parasitoids, and competing insects.
+- Ant protection can significantly increase sap-feeder population density by reducing predation, one of the main forces limiting sap-feeder numbers in unmanaged conditions.
+- High sap-feeder density increases honeydew output in the short term but can weaken or kill host plants. Dense populations can stunt growth, kill branches, or kill host trees entirely.
+- The mutualism is not stable by default. Disruption of ant colonies, effective predators or parasitoids, seasonal stress on host plants, or climate shifts can all destabilise it.
+- Similar mutualisms operate across many different sap-feeding insect genera. "Aphid" is a commonly cited example, but other sap-feeders fill equivalent roles in different regions and on different host trees.
 
-## Cassowary World Implications
+## Constraints
 
-Cassowary World does not invent aphids, honeydew, or ant-aphid mutualism. Its lore begins when cassowaries manage orchard conditions and sap-feeder populations to make honeydew flow more predictable and sustainable for managed honeypot ant colonies. The management target is stable flow, not maximum sap-feeder density.
+- Maximum honeydew output and long-term system health are in direct tension: optimising for peak yield degrades host plants and collapses future flow.
+- Stable honeydew flow requires maintaining three variables simultaneously: host plant health, sap-feeder density below damaging thresholds, and ant colony continuity.
+- Ant colony disruption destabilises the mutualism immediately; sap-feeder populations lose protection and decline rapidly under predation.
+- Honeydew flow is not constant. Flow peaks track plant flush timing and seasonal cycles; low periods require either storage or alternative food sources.
+- Loss of any one component — host plant, sap-feeder population, or ant colony — breaks the system.
+- Parasitoids and specialist sap-feeder predators can overwhelm ant protection if they establish in sufficient density.
+
+## System Implications
+
+- Stable honeydew systems require active management targeting plant condition, sap-feeder density, and ant colony health as separate variables.
+- Flow variability across seasons forces dependence on stored reserves or supplementary food sources during low periods.
+- Long-term productivity requires prioritising host plant survival over short-term yield maximisation.
+- Landscape-scale honeydew output depends on host plant population density and health, not just the performance of individual colonies or sap-feeder patches.
+- Moving the mutualism into new habitats requires confirming that suitable host plants, appropriate sap-feeder species, and compatible ant species are all present or can be established.
+
+## Known Variability
+
+- The mutualism operates across many sap-feeder genera and ant genera; not all combinations are equally stable or productive.
+- Regional climate, host plant species, and seasonal patterns affect the balance point between sap-feeder productivity and host plant stress.
+- Seasonality shifts optimal management conditions across the year; practices suited to flush periods differ from those suited to dry or rest periods.
+- Parasitoid and predator pressure varies by region and habitat, affecting how much protection ant presence provides.
+
+## Open Questions
+
+- Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
+- What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
 
 ## Related Documents
 
 - [Honeypot Ants](../species/honeypot-ants.md)
 - [Sap-Feeding Host Trees](sap-feeding-host-trees.md)
+- [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
+
+## Used By Lore
+
 - [Aphid Stabilization](../../lore/ecology/aphid-stabilization.md)
 - [Sap-Feeder Lineages and Honeydew Flow](../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Honeypot Ant Orchard System Management](../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
-- [Regional Honeypot Ant Ecotypes](../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)

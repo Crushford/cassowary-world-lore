@@ -7,7 +7,7 @@ Generated summary bundle for docs tagged with `Moas`.
 | Title                                                                 | Path                                  | Layer     | Time Periods                | Summary                                                                                                                  |
 | --------------------------------------------------------------------- | ------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | Protohistoric Expansion Era | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
-| [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference |                             | This reference documents real-world moas as a baseline for Cassowary World lore. It covers their biology, ecology, an... |
+| [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference |                             | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Layer Breakdown
 
@@ -44,10 +44,22 @@ No entries found.
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
 
+### Moas
+
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
+- What is the documented degree of male parental care in moas, and how does it compare across species?
+
 ## Related Topics
 
 - Breeding
+- Extinct Species
+- Flightless Birds
+- Herbivores
 - Imperial Logistics
+- Megafauna
 - Moa Mounted Warfare
 - Mounted Warfare
+- New Zealand
+- Ratites
+- Sexual Dimorphism
 - Transport

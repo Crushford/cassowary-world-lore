@@ -13,6 +13,24 @@ Source: `lore/ecology/aphid-stabilization.md`
 - Which predators, parasites, and seasonal conditions matter most in different regions?
 - How much of the system is active management versus repeated selection of favorable orchard ecologies?
 
+## Aphid-Ant Relationships
+
+### Aphid-Ant Relationships
+
+Source: `reference/ecology/aphid-ant-relationships.md`
+
+- Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
+- What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
+
+## Cassowaries
+
+### Cassowaries
+
+Source: `reference/species/cassowaries.md`
+
+- What is the spatial extent of cassowary ancestral range during early Pleistocene glacial maxima, particularly during rainforest contraction?
+- How does male parental care behaviour interact with female territorial behaviour to shape settlement density constraints?
+
 ## Cassowary Neurodevelopment And Predator Management Transition
 
 ### Cassowary Neurodevelopment and Predator Management Transition
@@ -33,6 +51,24 @@ Source: `lore/divergences/cassowary-wing-claws-claw-development-era.md`
 - What anatomical pathway connects chick clinging claws to later load-bearing manipulation?
 - Which intermediate stages need technical documentation?
 
+## Ceramic Vessels And Nest Chambers
+
+### Ceramic Vessels and Nest Chambers
+
+Source: `lore/infrastructure/ceramic-vessels-and-nest-chambers.md`
+
+- What is the minimum reliable firing temperature achievable in Sahul contexts for producing low-permeability storage vessels?
+- Which local sealant materials in Sahul ecologies are effective for sealing fired clay at the relevant time window?
+
+## Cockatoos
+
+### Cockatoos
+
+Source: `reference/species/cockatoos.md`
+
+- Which cockatoo species are confirmed as Sahul residents during the ~2 MYA representative window, and which are relevant to the northern Australian and New Guinea range?
+- What is the upper bound of cockatoo object manipulation complexity under natural conditions, and how does this vary by species?
+
 ## Dromornithid Prestige Handling
 
 ### Dromornithid Prestige Handling
@@ -43,6 +79,15 @@ Source: `lore/domestication/dromornithid-prestige-handling.md`
 - Which dromornithid lineages, if any, were small, calm, or socially tolerant enough for even limited ceremonial handling?
 - How geographically widespread is dromornithid handling across Sahul societies, and which regions have documented access?
 - Does the practice spread through trade in specialist knowledge, or does it develop independently in multiple locations?
+
+## Dromornithidae
+
+### Dromornithidae
+
+Source: `reference/megafauna/dromornithidae.md`
+
+- Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
+- What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
 
 ## Fire Incubation And Extended Juvenile Development
 
@@ -78,6 +123,15 @@ Source: `lore/infrastructure/food-preservation-and-storage-systems.md`
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+
+## Haast's eagle
+
+### Haast's Eagle
+
+Source: `reference/predators/haasts-eagle.md`
+
+- What specific vigilance and grouping behaviours in moa lineages are directly attributable to Haast's eagle predation pressure versus other factors?
+- Did North Island moa populations show measurably different behavioural patterns from South Island populations in the absence of equivalent aerial predation?
 
 ## Honeypot Ant Harvesting
 
@@ -133,6 +187,15 @@ Source: `lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md`
 - Which ecotype produces the most stable inter-annual yield for tribute reliability?
 - How does yield respond to political extraction pressure beyond sustainable harvest levels?
 
+## Honeypot Ants
+
+### Honeypot Ants
+
+Source: `reference/species/honeypot-ants.md`
+
+- Which honeypot ant genera are confirmed present in northern Sahul and New Guinea during the ~2 MYA representative window?
+- What is the natural range of replete counts per colony for relevant Sahul lineages under seasonal conditions?
+
 ## Managed Honeypot Ant Lineages
 
 ### Managed Ant Lineages
@@ -165,6 +228,15 @@ Source: `lore/transport/moa-mounted-warfare.md`
 
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
+
+## Moas
+
+### Moas
+
+Source: `reference/species/moas.md`
+
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
+- What is the documented degree of male parental care in moas, and how does it compare across species?
 
 ## Orchard Lineage Management
 
@@ -218,8 +290,8 @@ Source: `lore/honeypot-ants/regional-honeypot-ant-ecotypes.md`
 
 Source: `reference/geography/sahul-and-pleistocene-climate.md`
 
-- How stable are New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
-- Which specific glacial maximum intervals during the Protohistoric Expansion Era should be used as canonical geographic baselines for early expansion timelines?
+- How stable are specific New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
+- Which exposed shelf and coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
 - How quickly do land-bridge openings and closures alter regional connectivity relative to institution-building timescales?
 
 ## Sahul food forest functional crop portfolio
@@ -255,6 +327,15 @@ Source: `lore/ecology/sap-feeder-lineages-and-honeydew-flow.md`
 - Which predators, parasites, fungi, and environmental conditions most strongly limit wet-tolerant lineages in wet-margin systems?
 - How is knowledge of specific sap-feeder lineages preserved and transmitted across generations without writing?
 - When does sap-feeder lineage management become institutionalised enough to be a form of property or inheritance?
+
+## Sap-Feeding Host Trees
+
+### Sap-Feeding Host Trees
+
+Source: `reference/ecology/sap-feeding-host-trees.md`
+
+- Which tree lineages in Sahul rainforest and forest-margin ecologies show the combination of high sap sugar content, high sap-feeder tolerance, and fast recovery required for sustained management?
+- How does canopy fragmentation during glacial dry periods affect the viability of managed honeydew systems in specific Sahul regions?
 
 ## Storage And Ceramic Technology
 
@@ -343,5 +424,5 @@ Source: `docs/core-logic.md`
 Source: `reference/world-state-protohistoric-expansion-era.md`
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md) climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?

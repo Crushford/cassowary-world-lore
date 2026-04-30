@@ -4,16 +4,19 @@ Generated summary bundle for docs tagged with `New Zealand`.
 
 ## Documents
 
-| Title                                                                                               | Path                                                 | Layer | Time Periods                | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | lore/transport/first-new-zealand-arrival.md          | Lore  | Protohistoric Expansion Era | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
-| [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | lore/transport/sahul-new-zealand-maritime-contact.md | Lore  | Protohistoric Expansion Era | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
+| Title                                                                                               | Path                                                 | Layer     | Time Periods                | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | lore/transport/first-new-zealand-arrival.md          | Lore      | Protohistoric Expansion Era | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
+| [Haast's Eagle](../../../reference/predators/haasts-eagle.md)                                       | reference/predators/haasts-eagle.md                  | Reference |                             | Real-world baseline for Haast's eagle as the top aerial predator of New Zealand and the primary predation pressure on... |
+| [Moas](../../../reference/species/moas.md)                                                          | reference/species/moas.md                            | Reference |                             | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | lore/transport/sahul-new-zealand-maritime-contact.md | Lore      | Protohistoric Expansion Era | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
 
 ## Layer Breakdown
 
 ### Reference
 
-No entries found.
+- [Haast's Eagle](../../../reference/predators/haasts-eagle.md)
+- [Moas](../../../reference/species/moas.md)
 
 ### Divergences
 
@@ -66,6 +69,16 @@ No entries found.
 - Why did cassowaries reach New Zealand but not Indonesia or Southeast Asia? Is it crossing distance and sea conditions, ecological incompatibility (crops, food systems), danger, or some combination?
 - Does the deep-water channel barrier toward Indonesia fully explain the westward limit, or are other factors involved?
 
+### Haast's Eagle
+
+- What specific vigilance and grouping behaviours in moa lineages are directly attributable to Haast's eagle predation pressure versus other factors?
+- Did North Island moa populations show measurably different behavioural patterns from South Island populations in the absence of equivalent aerial predation?
+
+### Moas
+
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
+- What is the documented degree of male parental care in moas, and how does it compare across species?
+
 ### Sahul-New Zealand Maritime Contact
 
 - What is the minimum institutional capacity required to sustain a Sahul-New Zealand crossing?
@@ -74,15 +87,28 @@ No entries found.
 
 ## Related Topics
 
+- Aerial Predation
+- Apex Predators
+- Birds Of Prey
+- Extinct Species
 - first cassowary arrival in New Zealand
 - First Settlement
+- Flightless Birds
+- Haast's eagle
+- Herbivores
 - Isolation
 - Maritime Contact
 - Maritime Trade
+- Megafauna
 - Migration
 - Moa Encounter
 - Moa Import
+- Moa Predation
+- Moas
+- Predators
+- Ratites
 - Route Knowledge
 - Sahul empire
 - Sahul-New Zealand maritime trade and contact
 - Seasonal Navigation
+- Sexual Dimorphism
