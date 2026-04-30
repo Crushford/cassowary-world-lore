@@ -4,16 +4,17 @@ Generated summary bundle for docs tagged with `Sap-Feeders`.
 
 ## Documents
 
-| Title                                                                                                   | Path                                                  | Layer | Time Periods              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | lore/ecology/aphid-stabilization.md                   | Lore  | Ecological Management Era | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore  | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| Title                                                                                                   | Path                                                  | Layer     | Time Periods              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)                                     | lore/ecology/aphid-stabilization.md                   | Lore      | Ecological Management Era | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)                        | reference/ecology/aphid-ant-relationships.md          | Reference |                           | Real-world baseline for aphid-ant and sap-feeder-ant mutualisms. Defines how these relationships function, what limit... |
+| [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore      | Ecological Management Era | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
 
 ## Layer Breakdown
 
 ### Reference
 
-No entries found.
+- [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
 
 ### Divergences
 
@@ -62,6 +63,11 @@ No entries found.
 - Which predators, parasites, and seasonal conditions matter most in different regions?
 - How much of the system is active management versus repeated selection of favorable orchard ecologies?
 
+### Aphid-Ant Relationships
+
+- Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
+- What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
+
 ### Sap-Feeder Lineages and Honeydew Flow
 
 - Which sap-feeding insects besides aphids are plausible honeydew partners in different Sahul regions?
@@ -72,12 +78,16 @@ No entries found.
 
 ## Related Topics
 
+- Ants
 - Aphid Stabilization
+- Aphid-Ant Relationships
 - Aphids
 - Ecological Domestication
 - Honeydew
 - Honeydew Flow
 - Host-Tree Health
 - Lineage Selection
+- Mutualism
+- Orchard Ecology
 - Orchard Management
 - Sap-Feeder Lineages And Honeydew Flow Management

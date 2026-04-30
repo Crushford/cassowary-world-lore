@@ -6,8 +6,8 @@ Generated summary bundle for documents in `reference/ecology`.
 
 | Title                                                                            | Time Periods | Summary                                                                                                                  |
 | -------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md) |              | This reference explains the real-world baseline for aphid-ant relationships and sap-feeder honeydew systems used by C... |
-| [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)   |              | This reference establishes the real-world baseline for trees and plants that can support sap-feeding insect populatio... |
+| [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md) |              | Real-world baseline for aphid-ant and sap-feeder-ant mutualisms. Defines how these relationships function, what limit... |
+| [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)   |              | Real-world baseline for trees and plants that support sap-feeding insect populations. Defines the functional traits t... |
 
 ## Key Atomic Notes
 
@@ -15,16 +15,19 @@ No atomic notes found.
 
 ## Related Documents
 
-- [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)
 - [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
-- [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Honeypot Ants](../../../reference/species/honeypot-ants.md)
-- [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md)
-- [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)
-- [Sap-Feeder Lineages and Honeydew Flow](../../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
 - [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)
 - [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 
-No open questions found.
+### Aphid-Ant Relationships
+
+- Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
+- What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
+
+### Sap-Feeding Host Trees
+
+- Which tree lineages in Sahul rainforest and forest-margin ecologies show the combination of high sap sugar content, high sap-feeder tolerance, and fast recovery required for sustained management?
+- How does canopy fragmentation during glacial dry periods affect the viability of managed honeydew systems in specific Sahul regions?

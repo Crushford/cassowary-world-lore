@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Repletes`.
 
 ## Documents
 
-| Title                                                                             | Path                                          | Layer     | Time Periods              | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------- | --------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | Ecological Management Era | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference |                           | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
+| Title                                                                             | Path                                          | Layer     | Time Periods                | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------- | --------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | Ecological Management Era   | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference | Protohistoric Expansion Era | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
 
 ## Layer Breakdown
 
@@ -52,8 +52,14 @@ No entries found.
 - Which predators, parasites, or pathogens most strongly threaten harvested colonies?
 - How much labor is required to inspect, harvest, and replace vessel-contained storage clusters across a managed orchard cluster?
 
+### Honeypot Ants
+
+- Which honeypot ant genera are confirmed present in northern Sahul and New Guinea during the ~2 MYA representative window?
+- What is the natural range of replete counts per colony for relevant Sahul lineages under seasonal conditions?
+
 ## Related Topics
 
+- Arid Ecology
 - Colony Management
 - Colony Structure
 - Controlled Harvest

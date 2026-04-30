@@ -6,7 +6,7 @@ Generated summary bundle for docs tagged with `Cassowaries`.
 
 | Title                                                                                                                                                   | Path                                                                          | Layer     | Time Periods                      | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                                | reference/species/cassowaries.md                                              | Reference |                                   | This reference explains real-world cassowary traits that matter for Cassowary World divergence and system design.        |
+| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                                | reference/species/cassowaries.md                                              | Reference | Protohistoric Expansion Era       | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
 | [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md | Lore      | Fire and Extended Development Era | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... |
 
 ## Layer Breakdown
@@ -43,6 +43,11 @@ No entries found.
 
 ## Open Questions
 
+### Cassowaries
+
+- What is the spatial extent of cassowary ancestral range during early Pleistocene glacial maxima, particularly during rainforest contraction?
+- How does male parental care behaviour interact with female territorial behaviour to shape settlement density constraints?
+
 ### Cassowary Neurodevelopment and Predator Management Transition
 
 - What anatomical model supports late executive integration without destabilizing balance or thermoregulation?
@@ -57,7 +62,9 @@ No entries found.
 - Coalition Logic
 - Female Territoriality
 - Flightless Birds
+- Frugivory
 - Juvenile Learning
 - Male Parental Care
 - Neurodevelopment
 - Predator Management
+- Sahul

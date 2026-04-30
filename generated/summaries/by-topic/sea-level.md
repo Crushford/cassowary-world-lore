@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Sea Level`.
 
 ## Documents
 
-| Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | Protohistoric Expansion Era | This reference explains the climate and geography mechanisms behind Cassowary World's Sahul setting. The main baselin... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | Protohistoric Expansion Era | This file describes the baseline Earth context for the main Cassowary World setting during the Protohistoric Expansio... |
+| Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum                              | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
 
 ## Layer Breakdown
 
@@ -36,8 +36,8 @@ No atomic notes found.
 
 ### Sahul and Pleistocene Climate
 
-- How stable are New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
-- Which specific glacial maximum intervals during the Protohistoric Expansion Era should be used as canonical geographic baselines for early expansion timelines?
+- How stable are specific New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
+- Which exposed shelf and coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
 - How quickly do land-bridge openings and closures alter regional connectivity relative to institution-building timescales?
 
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)

@@ -4,12 +4,12 @@ Generated summary bundle for documents in `reference/species`.
 
 ## Documents
 
-| Title                                                        | Time Periods | Summary                                                                                                                  |
-| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)     |              | This reference explains real-world cassowary traits that matter for Cassowary World divergence and system design.        |
-| [Cockatoos](../../../reference/species/cockatoos.md)         |              | This reference explains the real-world cockatoo traits likely to matter for future Cassowary World communication, par... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md) |              | This reference explains the real-world baseline for honeypot ants that is useful for Cassowary World lore.               |
-| [Moas](../../../reference/species/moas.md)                   |              | This reference documents real-world moas as a baseline for Cassowary World lore. It covers their biology, ecology, an... |
+| Title                                                        | Time Periods                | Summary                                                                                                                  |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../../../reference/species/cassowaries.md)     | Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Cockatoos](../../../reference/species/cockatoos.md)         |                             | Real-world baseline for cockatoo biology, cognition, and social behaviour. Defines the capabilities and constraints r... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md) | Protohistoric Expansion Era | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
+| [Moas](../../../reference/species/moas.md)                   | Protohistoric Expansion Era | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Key Atomic Notes
 
@@ -18,21 +18,30 @@ No atomic notes found.
 ## Related Documents
 
 - [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
-- [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
-- [Cassowary Wing-Claws — Claw Development Era](../../../lore/divergences/cassowary-wing-claws-claw-development-era.md)
+- [Cassowaries](../../../reference/species/cassowaries.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
-- [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)
-- [Guiding Principles](../../../docs/guiding-principles.md)
 - [Haast's Eagle](../../../reference/predators/haasts-eagle.md)
-- [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
-- [Honeypot Ant Nest Splitting](../../../lore/divergences/honeypot-ant-nest-splitting.md)
-- [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
-- [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
-- [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
-- [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)
-- [Open Questions](../../open-questions.md)
 - [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
 
-No open questions found.
+### Cassowaries
+
+- What is the spatial extent of cassowary ancestral range during early Pleistocene glacial maxima, particularly during rainforest contraction?
+- How does male parental care behaviour interact with female territorial behaviour to shape settlement density constraints?
+
+### Cockatoos
+
+- Which cockatoo species are confirmed as Sahul residents during the ~2 MYA representative window, and which are relevant to the northern Australian and New Guinea range?
+- What is the upper bound of cockatoo object manipulation complexity under natural conditions, and how does this vary by species?
+
+### Honeypot Ants
+
+- Which honeypot ant genera are confirmed present in northern Sahul and New Guinea during the ~2 MYA representative window?
+- What is the natural range of replete counts per colony for relevant Sahul lineages under seasonal conditions?
+
+### Moas
+
+- Which moa species ranges overlapped with early cassowary expansion pathways from Sahul into New Zealand in Cassowary World?
+- What is the documented degree of male parental care in moas, and how does it compare across species?

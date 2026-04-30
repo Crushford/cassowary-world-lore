@@ -1,13 +1,11 @@
-# Topic Summary: Sahul
+# Topic Summary: Movement Corridors
 
-Generated summary bundle for docs tagged with `Sahul`.
+Generated summary bundle for docs tagged with `Movement Corridors`.
 
 ## Documents
 
 | Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                    | reference/species/cassowaries.md                     | Reference | Protohistoric Expansion Era                                                                          | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference | ~2 MYA representative glacial maximum                                                                | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
 | [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum                              | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
 
@@ -15,8 +13,6 @@ Generated summary bundle for docs tagged with `Sahul`.
 
 ### Reference
 
-- [Cassowaries](../../../reference/species/cassowaries.md)
-- [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
 - [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)
 - [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md)
 
@@ -38,16 +34,6 @@ No atomic notes found.
 
 ## Open Questions
 
-### Cassowaries
-
-- What is the spatial extent of cassowary ancestral range during early Pleistocene glacial maxima, particularly during rainforest contraction?
-- How does male parental care behaviour interact with female territorial behaviour to shape settlement density constraints?
-
-### Dromornithidae
-
-- Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
-- What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
-
 ### Sahul and Pleistocene Climate
 
 - How stable are specific New Guinea and Australian rainforest refugia locations across repeated early Pleistocene glacial cycles?
@@ -62,28 +48,18 @@ No atomic notes found.
 
 ## Related Topics
 
-- Anatomy
 - Aphids
-- Cassowaries
 - Climate
-- Dromornithidae
-- Extinct Species
-- Female Territoriality
-- Flightless Birds
-- Frugivory
 - Geography
-- Giant Flightless Birds
 - Glacial Cycles
 - Glacial Maximum
-- Herbivores
 - Honeypot Ants
 - Land Bridges
 - Large Predators
-- Male Parental Care
 - Megafauna
-- Movement Corridors
 - Pleistocene climate
 - Refugia
+- Sahul
 - Sahul and Pleistocene climate
 - Sea Level
 - World State — Protohistoric Expansion Era (Representative Glacial Maximum)
