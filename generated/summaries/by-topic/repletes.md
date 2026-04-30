@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Repletes`.
 
 ## Documents
 
-| Title                                                                             | Path                                          | Layer     | Time Periods                                                          | Summary                                                                                                                  |
-| --------------------------------------------------------------------------------- | --------------------------------------------- | --------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | Ecological Management Era                                             | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
+| Title                                                                             | Path                                          | Layer     | Time Periods              | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------- | --------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | Ecological Management Era | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference |                           | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
 
 ## Layer Breakdown
 

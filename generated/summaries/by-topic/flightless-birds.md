@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Flightless Birds`.
 
 ## Documents
 
-| Title                                                    | Path                             | Layer     | Time Periods                                                          | Summary                                                                                                                  |
-| -------------------------------------------------------- | -------------------------------- | --------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md) | reference/species/cassowaries.md | Reference | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Moas](../../../reference/species/moas.md)               | reference/species/moas.md        | Reference | ~2 MYA, Protohistoric Expansion Era                                   | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| Title                                                    | Path                             | Layer     | Time Periods | Summary                                                                                                                  |
+| -------------------------------------------------------- | -------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../../../reference/species/cassowaries.md) | reference/species/cassowaries.md | Reference |              | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Moas](../../../reference/species/moas.md)               | reference/species/moas.md        | Reference |              | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Layer Breakdown
 
@@ -41,7 +41,7 @@ No atomic notes found.
 
 ### Moas
 
-- Which moa species ranges overlapped with early cassowary expansion pathways from Sahul into New Zealand in Cassowary World?
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
 - What is the documented degree of male parental care in moas, and how does it compare across species?
 
 ## Related Topics

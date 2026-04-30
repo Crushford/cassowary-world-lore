@@ -9,7 +9,6 @@ Real-world baseline for cassowary biology, anatomy, and ecology. Defines the phy
 - Primary topic: cassowaries
 - Layer: Real-world reference
 - Topics: cassowaries, anatomy, flightless birds, female territoriality, male parental care, frugivory, Sahul
-- Time periods: ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era
 - Regions: Sahul (New Guinea, northeastern Australia, nearby islands)
 
 ## Core Reality
@@ -46,7 +45,7 @@ Real-world baseline for cassowary biology, anatomy, and ecology. Defines the phy
 ## Known Variability
 
 - Three extant species vary in size, plumage, and habitat preference: southern cassowary (*Casuarius casuarius*) is largest; dwarf cassowary (*C. bennetti*) is smallest.
-- Extinct relatives and ancestral species extended the cassowary lineage back through Sahul's prehistory; the ~12 MYA divergence point in Cassowary World is a fictional modification of this real lineage.
+- Extinct relatives and ancestral species extended the cassowary lineage back through Sahul's prehistory.
 - Individual temperament varies; some individuals are more tolerant of proximity than others.
 - Habitat use varies with altitude; cassowaries occupy both lowland rainforest and highland forest zones.
 

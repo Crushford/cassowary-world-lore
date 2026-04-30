@@ -4,12 +4,12 @@ Generated summary bundle for documents in `reference/species`.
 
 ## Documents
 
-| Title                                                        | Time Periods                                                          | Summary                                                                                                                  |
-| ------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)     | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Cockatoos](../../../reference/species/cockatoos.md)         |                                                                       | Real-world baseline for cockatoo biology, cognition, and social behaviour. Defines the capabilities and constraints r... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md) | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
-| [Moas](../../../reference/species/moas.md)                   | ~2 MYA, Protohistoric Expansion Era                                   | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| Title                                                        | Time Periods | Summary                                                                                                                  |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../../../reference/species/cassowaries.md)     |              | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Cockatoos](../../../reference/species/cockatoos.md)         |              | Real-world baseline for cockatoo biology, cognition, and social behaviour. Defines the capabilities and constraints r... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md) |              | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
+| [Moas](../../../reference/species/moas.md)                   |              | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Key Atomic Notes
 
@@ -43,5 +43,5 @@ No atomic notes found.
 
 ### Moas
 
-- Which moa species ranges overlapped with early cassowary expansion pathways from Sahul into New Zealand in Cassowary World?
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
 - What is the documented degree of male parental care in moas, and how does it compare across species?

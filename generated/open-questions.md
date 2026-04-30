@@ -235,7 +235,7 @@ Source: `lore/transport/moa-mounted-warfare.md`
 
 Source: `reference/species/moas.md`
 
-- Which moa species ranges overlapped with early cassowary expansion pathways from Sahul into New Zealand in Cassowary World?
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
 - What is the documented degree of male parental care in moas, and how does it compare across species?
 
 ## Orchard Lineage Management

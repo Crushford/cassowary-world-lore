@@ -6,8 +6,8 @@ Generated summary bundle for docs tagged with `Megafauna`.
 
 | Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference | ~2 MYA, ~2 MYA representative glacial maximum                                                        | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Moas](../../../reference/species/moas.md)                                                                                                  | reference/species/moas.md                            | Reference | ~2 MYA, Protohistoric Expansion Era                                                                  | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference |                                                                                                      | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Moas](../../../reference/species/moas.md)                                                                                                  | reference/species/moas.md                            | Reference |                                                                                                      | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
@@ -43,7 +43,7 @@ No atomic notes found.
 
 ### Moas
 
-- Which moa species ranges overlapped with early cassowary expansion pathways from Sahul into New Zealand in Cassowary World?
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
 - What is the documented degree of male parental care in moas, and how does it compare across species?
 
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)

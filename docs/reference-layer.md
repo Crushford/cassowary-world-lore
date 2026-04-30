@@ -81,19 +81,36 @@ Every reference doc must include:
 - Primary topic: <topic>
 - Layer: Real-world reference
 - Topics: <comma-separated tags>
-- Time periods: <real-world time anchors first>
 - Regions: <geographic scope>
 - Related species: <if applicable>
 ```
 
-**Time periods** must use allowed labels only. Real-world time labels take priority:
+**Time periods are optional and must only be included when time changes the constraints.**
+
+Include `Time periods` when the document describes:
+
+- climate cycles or glacial variation (time changes ecology and movement)
+- sea level changes (time changes geography)
+- habitat expansion, contraction, or fragmentation across time
+- a time-specific world-state snapshot
+- emergence or extinction boundaries where the timing affects system availability
+
+Do not include `Time periods` for:
+
+- stable animal biology baselines (cassowaries, moas, honeypot ants, Haast's eagle, dromornithids)
+- ecological relationships that are not time-bounded
+- documents where the only justification is "this species existed at this time"
+
+When time periods are included, use only allowed real-world labels:
 
 - `~12 MYA`, `~6-4 MYA`, `~4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`, `~2 MYA`
 - `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
 - `early Pleistocene glacial cycles`
 - `~2 MYA representative glacial maximum`
 
-Cassowary World era labels are secondary. Do not use only a Cassowary World era name as the time period for a reference doc. Include a real-world anchor first.
+Cassowary World era labels may be added to world-state documents only, not to species or ecology documents.
+
+**Default: no time period.** Reference documents should be timeless constraint baselines unless time materially changes the system.
 
 ## Style Rules
 

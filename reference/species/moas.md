@@ -9,7 +9,6 @@ Real-world baseline for moas as extinct flightless birds of New Zealand. Defines
 - Primary topic: moas
 - Layer: Real-world reference
 - Topics: megafauna, flightless birds, New Zealand, herbivores, ratites, extinct species, sexual dimorphism
-- Time periods: ~2 MYA, Protohistoric Expansion Era
 - Regions: New Zealand
 - Related species: cassowaries, emus, ostriches (ratite relatives); Haast's eagle (primary predator)
 
@@ -49,7 +48,7 @@ Real-world baseline for moas as extinct flightless birds of New Zealand. Defines
 
 ## Open Questions
 
-- Which moa species ranges overlapped with early cassowary expansion pathways from Sahul into New Zealand in Cassowary World?
+- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
 - What is the documented degree of male parental care in moas, and how does it compare across species?
 
 ## Related Documents

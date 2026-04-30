@@ -9,7 +9,6 @@ Real-world baseline for Haast's eagle as the top aerial predator of New Zealand 
 - Primary topic: Haast's eagle
 - Layer: Real-world reference
 - Topics: predators, birds of prey, New Zealand, moa predation, apex predators, aerial predation
-- Time periods: ~2 MYA, Protohistoric Expansion Era
 - Regions: New Zealand (South Island primary)
 - Related species: moas (primary prey)
 

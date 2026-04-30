@@ -9,7 +9,6 @@ Real-world baseline for honeypot ant biology, colony structure, and the ecologic
 - Primary topic: honeypot ants
 - Layer: Real-world reference
 - Topics: honeypot ants, repletes, liquid food storage, colony structure, arid ecology
-- Time periods: ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era
 - Regions: Arid and semi-arid zones globally; Sahul specifically
 - Related species: aphids, sap-feeding insects (mutualism partners)
 
