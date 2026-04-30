@@ -2,14 +2,23 @@
 
 ## Summary
 
-Real-world material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities can and cannot do, and why nest-assist chambers and storage vessels require different forms.
+Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities can and cannot do, and why nest-assist chambers and storage vessels require different forms.
 
 ## Metadata
 
 - Primary topic: ceramic vessels and nest chambers
-- Layer: Real-world reference
+- Layer: Cassowary World system
 - Topics: ceramics, fired clay, containers, material culture, storage, nest architecture
-- Regions: Not region-specific
+- Era: Ecological Management Era
+- Regions: Sahul
+
+## Atomic Notes
+
+- Fired clay vessels are durable, shapeable containers that can serve as nest chambers, harvest tools, or sealed storage — but not all three; vessel form determines function.
+- Nest-assist chambers and sealed storage jars are incompatible vessel types; conflating them produces vessels that fail at both functions.
+- Standardised vessel volume does not emerge from pottery making alone; it requires deliberate production standardisation.
+- Sealing quality depends on firing temperature and sealant; low-temperature vessels are permeable and unsuitable for liquid storage.
+- Ceramic breakage is a real operational constraint, not a marginal risk; fragility limits how far and reliably ceramic infrastructure can extend.
 
 ## Core Reality
 
@@ -22,7 +31,7 @@ Real-world material baseline for fired clay vessels as shaped, durable container
 
 ## Constraints
 
-- Nest-assist chambers and tribute storage jars require incompatible shape profiles: nest-assist chambers require rough exteriors, stable placement, repeated access, and proximity to living systems; storage jars require smooth or marked exteriors, reliable seals, standardised volume, and portability. A single vessel form cannot optimise for both.
+- Nest-assist chambers and storage jars require incompatible shape profiles: nest-assist chambers require rough exteriors, stable placement, repeated access, and proximity to living systems; storage jars require smooth or marked exteriors, reliable seals, standardised volume, and portability. A single vessel form cannot optimise for both.
 - Ceramic cavity dimensions must match the dimensional requirements of the biological system they serve; wrong sizes reduce or negate utility.
 - Sealing quality depends on firing temperature, clay composition, and sealant choice; inadequate firing produces permeable vessels unsuitable for liquid storage.
 - Vessel breakage risk must be managed in transport and placement; fragility imposes constraints on how far and how reliably ceramic infrastructure can extend.
@@ -48,5 +57,8 @@ Real-world material baseline for fired clay vessels as shaped, durable container
 
 ## Related Documents
 
-- [Honeypot Ants](../species/honeypot-ants.md)
-- [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
+- [Pottery-Assisted Ant Nest Architecture](pottery-assisted-ant-nest-architecture.md)
+- [Storage and Ceramic Technology](storage-and-ceramic-technology.md)
+- [Honeypot Ant Harvesting](../honeypot-ants/honeypot-ant-harvesting.md)
+- [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
+- [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)

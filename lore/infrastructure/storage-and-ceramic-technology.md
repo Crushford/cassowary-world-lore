@@ -33,7 +33,7 @@ This infrastructure underlies [Food Preservation and Storage Systems](food-prese
 
 The important shift is that containers become administratively meaningful. Once a vessel can be recognized, sealed, counted, and trusted after transport, it becomes part of the surplus system itself rather than a neutral wrapper.
 
-[Pottery-Assisted Ant Nest Architecture](pottery-assisted-ant-nest-architecture.md) describes the full taxonomy of vessel classes in the ant orchard system: nest-assist pots, harvest bowls, household jars, tribute jars, and estate vessels. The real-world material baseline for why ceramic chambers work as nest architecture is in [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md).
+[Pottery-Assisted Ant Nest Architecture](pottery-assisted-ant-nest-architecture.md) describes the full taxonomy of vessel classes in the ant orchard system: nest-assist pots, harvest bowls, household jars, tribute jars, and estate vessels. The material baseline for why ceramic chambers work as nest architecture is in [Ceramic Vessels and Nest Chambers](ceramic-vessels-and-nest-chambers.md).
 
 ## Open Questions
 
@@ -49,6 +49,6 @@ The important shift is that containers become administratively meaningful. Once 
 - [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
 - [Tribute Seal Integrity and Authority Marks](../tribute/tribute-seal-integrity-and-authority-marks.md)
-- [Ceramic Vessels and Nest Chambers](../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
+- [Ceramic Vessels and Nest Chambers](ceramic-vessels-and-nest-chambers.md)
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Open Questions](../../generated/open-questions.md)

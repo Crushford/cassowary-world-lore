@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Flightless Birds`.
 
 ## Documents
 
-| Title                                                    | Path                             | Layer     | Time Periods                | Summary                                                                                                                  |
-| -------------------------------------------------------- | -------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md) | reference/species/cassowaries.md | Reference | Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Moas](../../../reference/species/moas.md)               | reference/species/moas.md        | Reference | Protohistoric Expansion Era | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| Title                                                    | Path                             | Layer     | Time Periods                                                          | Summary                                                                                                                  |
+| -------------------------------------------------------- | -------------------------------- | --------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../../../reference/species/cassowaries.md) | reference/species/cassowaries.md | Reference | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Moas](../../../reference/species/moas.md)               | reference/species/moas.md        | Reference | ~2 MYA, Protohistoric Expansion Era                                   | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Layer Breakdown
 

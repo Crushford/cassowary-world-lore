@@ -9,7 +9,7 @@ Real-world baseline for the Dromornithidae, a family of extinct giant flightless
 - Primary topic: Dromornithidae
 - Layer: Real-world reference
 - Topics: megafauna, giant flightless birds, Sahul, herbivores, extinct species
-- Time periods: ~2 MYA representative glacial maximum
+- Time periods: ~2 MYA, ~2 MYA representative glacial maximum
 - Regions: Sahul (Australia and New Guinea)
 - Related species: cassowaries (coexisting, distinct lineage); moas (phylogenetically distant)
 
@@ -55,3 +55,7 @@ Real-world baseline for the Dromornithidae, a family of extinct giant flightless
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
 - [Cassowaries](../species/cassowaries.md)
 - [Moas](../species/moas.md)
+
+## Used By Lore
+
+- [Dromornithid Prestige Handling](../../lore/domestication/dromornithid-prestige-handling.md)

@@ -57,3 +57,9 @@ Real-world baseline for aphid-ant and sap-feeder-ant mutualisms. Defines how the
 - [Honeypot Ants](../species/honeypot-ants.md)
 - [Sap-Feeding Host Trees](sap-feeding-host-trees.md)
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
+
+## Used By Lore
+
+- [Aphid Stabilization](../../lore/ecology/aphid-stabilization.md)
+- [Sap-Feeder Lineages and Honeydew Flow](../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)
+- [Honeypot Ant Orchard System Management](../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)

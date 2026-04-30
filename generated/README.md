@@ -23,6 +23,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 
 ## Time Indexes
 
+- [~2 MYA](time/~2-mya.md)
 - [early Pleistocene glacial cycles](time/early-pleistocene-glacial-cycles.md)
 - [~2 MYA representative glacial maximum](time/~2-mya-representative-glacial-maximum.md)
 - [Claw Development Era](time/claw-development-era.md)

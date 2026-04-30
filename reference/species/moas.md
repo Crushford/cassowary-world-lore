@@ -9,7 +9,7 @@ Real-world baseline for moas as extinct flightless birds of New Zealand. Defines
 - Primary topic: moas
 - Layer: Real-world reference
 - Topics: megafauna, flightless birds, New Zealand, herbivores, ratites, extinct species, sexual dimorphism
-- Time periods: Protohistoric Expansion Era
+- Time periods: ~2 MYA, Protohistoric Expansion Era
 - Regions: New Zealand
 - Related species: cassowaries, emus, ostriches (ratite relatives); Haast's eagle (primary predator)
 
@@ -57,3 +57,9 @@ Real-world baseline for moas as extinct flightless birds of New Zealand. Defines
 - [Haast's Eagle](../predators/haasts-eagle.md)
 - [Dromornithidae](../megafauna/dromornithidae.md)
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
+
+## Used By Lore
+
+- [Moa Domestication and Ridability](../../lore/transport/moa-domestication-and-ridability.md)
+- [First New Zealand Arrival](../../lore/transport/first-new-zealand-arrival.md)
+- [Moa Mounted Warfare](../../lore/transport/moa-mounted-warfare.md)

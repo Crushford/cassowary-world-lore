@@ -9,7 +9,7 @@ Real-world baseline for cassowary biology, anatomy, and ecology. Defines the phy
 - Primary topic: cassowaries
 - Layer: Real-world reference
 - Topics: cassowaries, anatomy, flightless birds, female territoriality, male parental care, frugivory, Sahul
-- Time periods: Protohistoric Expansion Era
+- Time periods: ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era
 - Regions: Sahul (New Guinea, northeastern Australia, nearby islands)
 
 ## Core Reality
@@ -59,3 +59,9 @@ Real-world baseline for cassowary biology, anatomy, and ecology. Defines the phy
 
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
 - [Dromornithidae](../megafauna/dromornithidae.md)
+
+## Used By Lore
+
+- [Cassowary Wing-Claws — Claw Development Era](../../lore/divergences/cassowary-wing-claws-claw-development-era.md)
+- [Cassowary Neurodevelopment and Predator Management Transition](../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
+- [Fire Incubation and Extended Juvenile Development](../../lore/biology/fire-incubation-and-extended-juvenile-development.md)

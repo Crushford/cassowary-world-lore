@@ -2,12 +2,24 @@
 
 Generated from source document `Time periods` metadata.
 
+## ~2 MYA
+
+| Title                                                      | Path                                  | Layer     | Summary                                                                                                                  |
+| ---------------------------------------------------------- | ------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../reference/species/cassowaries.md)         | reference/species/cassowaries.md      | Reference | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Dromornithidae](../reference/megafauna/dromornithidae.md) | reference/megafauna/dromornithidae.md | Reference | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Haast's Eagle](../reference/predators/haasts-eagle.md)    | reference/predators/haasts-eagle.md   | Reference | Real-world baseline for Haast's eagle as the top aerial predator of New Zealand and the primary predation pressure on... |
+| [Honeypot Ants](../reference/species/honeypot-ants.md)     | reference/species/honeypot-ants.md    | Reference | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
+| [Moas](../reference/species/moas.md)                       | reference/species/moas.md             | Reference | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+
 ## early Pleistocene glacial cycles
 
 | Title                                                                                                                                 | Path                                                 | Layer     | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../reference/species/cassowaries.md)                                                                                    | reference/species/cassowaries.md                     | Reference | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Honeypot Ants](../reference/species/honeypot-ants.md)                                                                                | reference/species/honeypot-ants.md                   | Reference | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
 | [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## ~2 MYA representative glacial maximum
 
@@ -15,7 +27,7 @@ Generated from source document `Time periods` metadata.
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Dromornithidae](../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
 | [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Claw Development Era
 
@@ -61,6 +73,7 @@ Generated from source document `Time periods` metadata.
 | Title                                                                                                            | Path                                                           | Layer       | Summary                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Aphid Stabilization](../lore/ecology/aphid-stabilization.md)                                                    | lore/ecology/aphid-stabilization.md                            | Lore        | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Ceramic Vessels and Nest Chambers](../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)                 | lore/infrastructure/ceramic-vessels-and-nest-chambers.md       | Lore        | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
 | [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md)                        | lore/domestication/dromornithid-prestige-handling.md           | Lore        | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
 | [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)         | lore/infrastructure/food-preservation-and-storage-systems.md   | Lore        | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
 | [Honeypot Ant Harvesting](../lore/honeypot-ants/honeypot-ant-harvesting.md)                                      | lore/honeypot-ants/honeypot-ant-harvesting.md                  | Lore        | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
@@ -90,6 +103,11 @@ Generated from source document `Time periods` metadata.
 - Aphid Stabilization: Climate shifts can break aphid-host stability and cascade into lower honeydew flow for honeypot ant systems.
 - Aphid Stabilization: Aphid stabilization is an intermediate dependency between orchard lineage management and honeypot-ant reserve production.
 - Aphid Stabilization: Different sap-feeder lineages have different management requirements. [Sap-Feeder Lineages and Honeydew Flow](sap-feeder-lineages-and-honeydew-flow.md) defines the functional categories used in Cassowary World orchards.
+- Ceramic Vessels and Nest Chambers: Fired clay vessels are durable, shapeable containers that can serve as nest chambers, harvest tools, or sealed storage — but not all three; vessel form determines function.
+- Ceramic Vessels and Nest Chambers: Nest-assist chambers and sealed storage jars are incompatible vessel types; conflating them produces vessels that fail at both functions.
+- Ceramic Vessels and Nest Chambers: Standardised vessel volume does not emerge from pottery making alone; it requires deliberate production standardisation.
+- Ceramic Vessels and Nest Chambers: Sealing quality depends on firing temperature and sealant; low-temperature vessels are permeable and unsuitable for liquid storage.
+- Ceramic Vessels and Nest Chambers: Ceramic breakage is a real operational constraint, not a marginal risk; fragility limits how far and reliably ceramic infrastructure can extend.
 - Dromornithid Prestige Handling: Some Sahul cassowary societies experiment with dromornithid egg capture, chick rearing, and juvenile handling.
 - Dromornithid Prestige Handling: This is enabled by the same fire-assisted incubation knowledge developed in cassowary domestic life and applied to moa domestication in New Zealand.
 - Dromornithid Prestige Handling: Dromornithids are not primarily sought for meat, routine egg production, or general transport.
@@ -249,7 +267,7 @@ Generated from source document `Time periods` metadata.
 | [Tribute Seal Integrity and Authority Marks](../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                           | lore/tribute/tribute-seal-integrity-and-authority-marks.md  | Lore      | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
 | [Tribute Sealed Vessel Units](../lore/tribute/tribute-sealed-vessel-units.md)                                                         | lore/tribute/tribute-sealed-vessel-units.md                 | Lore      | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
 | [Tribute Storage Custody and Redistribution](../lore/tribute/tribute-storage-custody-and-redistribution.md)                           | lore/tribute/tribute-storage-custody-and-redistribution.md  | Lore      | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md        | Reference | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md        | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ### Key Atomic Notes
 

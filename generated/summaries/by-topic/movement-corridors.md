@@ -7,7 +7,7 @@ Generated summary bundle for docs tagged with `Movement Corridors`.
 | Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum                              | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
 
@@ -43,7 +43,7 @@ No atomic notes found.
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md) climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
 
 ## Related Topics

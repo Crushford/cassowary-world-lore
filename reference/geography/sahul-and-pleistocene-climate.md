@@ -58,3 +58,8 @@ Real-world baseline for the climate and geography mechanisms that shaped Sahul a
 ## Related Documents
 
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
+
+## Used By Lore
+
+- [First New Zealand Arrival](../../lore/transport/first-new-zealand-arrival.md)
+- [Sahul-New Zealand Maritime Contact](../../lore/transport/sahul-new-zealand-maritime-contact.md)

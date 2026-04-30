@@ -56,3 +56,8 @@ Real-world baseline for trees and plants that support sap-feeding insect populat
 - [Aphid-Ant Relationships](aphid-ant-relationships.md)
 - [Honeypot Ants](../species/honeypot-ants.md)
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
+
+## Used By Lore
+
+- [Orchard Sugar Tree Lineages](../../lore/agriculture/orchard-sugar-tree-lineages.md)
+- [Sap-Feeder Lineages and Honeydew Flow](../../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)

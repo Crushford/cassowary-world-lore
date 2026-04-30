@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Herbivores`.
 
 ## Documents
 
-| Title                                                            | Path                                  | Layer     | Time Periods                          | Summary                                                                                                                  |
-| ---------------------------------------------------------------- | ------------------------------------- | --------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md) | reference/megafauna/dromornithidae.md | Reference | ~2 MYA representative glacial maximum | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Moas](../../../reference/species/moas.md)                       | reference/species/moas.md             | Reference | Protohistoric Expansion Era           | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| Title                                                            | Path                                  | Layer     | Time Periods                                  | Summary                                                                                                                  |
+| ---------------------------------------------------------------- | ------------------------------------- | --------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md) | reference/megafauna/dromornithidae.md | Reference | ~2 MYA, ~2 MYA representative glacial maximum | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Moas](../../../reference/species/moas.md)                       | reference/species/moas.md             | Reference | ~2 MYA, Protohistoric Expansion Era           | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Layer Breakdown
 

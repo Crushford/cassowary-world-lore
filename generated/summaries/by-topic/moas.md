@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Moas`.
 
 ## Documents
 
-| Title                                                                 | Path                                  | Layer     | Time Periods                | Summary                                                                                                                  |
-| --------------------------------------------------------------------- | ------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | Protohistoric Expansion Era | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
-| [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference | Protohistoric Expansion Era | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| Title                                                                 | Path                                  | Layer     | Time Periods                        | Summary                                                                                                                  |
+| --------------------------------------------------------------------- | ------------------------------------- | --------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | Protohistoric Expansion Era         | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference | ~2 MYA, Protohistoric Expansion Era | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Layer Breakdown
 

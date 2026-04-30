@@ -4,12 +4,12 @@ Generated summary bundle for documents in `reference/species`.
 
 ## Documents
 
-| Title                                                        | Time Periods                | Summary                                                                                                                  |
-| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)     | Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Cockatoos](../../../reference/species/cockatoos.md)         |                             | Real-world baseline for cockatoo biology, cognition, and social behaviour. Defines the capabilities and constraints r... |
-| [Honeypot Ants](../../../reference/species/honeypot-ants.md) | Protohistoric Expansion Era | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
-| [Moas](../../../reference/species/moas.md)                   | Protohistoric Expansion Era | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| Title                                                        | Time Periods                                                          | Summary                                                                                                                  |
+| ------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowaries](../../../reference/species/cassowaries.md)     | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Cockatoos](../../../reference/species/cockatoos.md)         |                                                                       | Real-world baseline for cockatoo biology, cognition, and social behaviour. Defines the capabilities and constraints r... |
+| [Honeypot Ants](../../../reference/species/honeypot-ants.md) | ~2 MYA, early Pleistocene glacial cycles, Protohistoric Expansion Era | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
+| [Moas](../../../reference/species/moas.md)                   | ~2 MYA, Protohistoric Expansion Era                                   | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Key Atomic Notes
 

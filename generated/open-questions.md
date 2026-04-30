@@ -55,7 +55,7 @@ Source: `lore/divergences/cassowary-wing-claws-claw-development-era.md`
 
 ### Ceramic Vessels and Nest Chambers
 
-Source: `reference/material-culture/ceramic-vessels-and-nest-chambers.md`
+Source: `lore/infrastructure/ceramic-vessels-and-nest-chambers.md`
 
 - What is the minimum reliable firing temperature achievable in Sahul contexts for producing low-permeability storage vessels?
 - Which local sealant materials in Sahul ecologies are effective for sealing fired clay at the relevant time window?
@@ -424,5 +424,5 @@ Source: `docs/core-logic.md`
 Source: `reference/world-state-protohistoric-expansion-era.md`
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md) climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?

@@ -6,12 +6,21 @@ Generated summary bundle for documents in `lore/infrastructure`.
 
 | Title                                                                                                            | Time Periods              | Summary                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)           | Ecological Management Era | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
 | [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)   | Ecological Management Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
 | [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | Ecological Management Era | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
 | [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
 | [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                         | Ecological Management Era | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
 
 ## Key Atomic Notes
+
+### Ceramic Vessels and Nest Chambers
+
+- Fired clay vessels are durable, shapeable containers that can serve as nest chambers, harvest tools, or sealed storage — but not all three; vessel form determines function.
+- Nest-assist chambers and sealed storage jars are incompatible vessel types; conflating them produces vessels that fail at both functions.
+- Standardised vessel volume does not emerge from pottery making alone; it requires deliberate production standardisation.
+- Sealing quality depends on firing temperature and sealant; low-temperature vessels are permeable and unsuitable for liquid storage.
+- Ceramic breakage is a real operational constraint, not a marginal risk; fragility limits how far and reliably ceramic infrastructure can extend.
 
 ### Food Preservation and Storage Systems
 
@@ -59,7 +68,7 @@ Generated summary bundle for documents in `lore/infrastructure`.
 
 ## Related Documents
 
-- [Ceramic Vessels and Nest Chambers](../../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
+- [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [History and Timeline](../../../03-history-and-timeline.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
@@ -78,6 +87,11 @@ Generated summary bundle for documents in `lore/infrastructure`.
 - [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
+
+### Ceramic Vessels and Nest Chambers
+
+- What is the minimum reliable firing temperature achievable in Sahul contexts for producing low-permeability storage vessels?
+- Which local sealant materials in Sahul ecologies are effective for sealing fired clay at the relevant time window?
 
 ### Food Preservation and Storage Systems
 

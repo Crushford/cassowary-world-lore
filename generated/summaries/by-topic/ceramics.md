@@ -4,16 +4,16 @@ Generated summary bundle for docs tagged with `Ceramics`.
 
 ## Documents
 
-| Title                                                                                                         | Path                                                            | Layer     | Time Periods              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Ceramic Vessels and Nest Chambers](../../../reference/material-culture/ceramic-vessels-and-nest-chambers.md) | reference/material-culture/ceramic-vessels-and-nest-chambers.md | Reference |                           | Real-world material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic...  |
-| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)              | lore/infrastructure/storage-and-ceramic-technology.md           | Lore      | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| Title                                                                                                  | Path                                                     | Layer | Time Periods              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md) | lore/infrastructure/ceramic-vessels-and-nest-chambers.md | Lore  | Ecological Management Era | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
+| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)       | lore/infrastructure/storage-and-ceramic-technology.md    | Lore  | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
 
 ## Layer Breakdown
 
 ### Reference
 
-- [Ceramic Vessels and Nest Chambers](../../../reference/material-culture/ceramic-vessels-and-nest-chambers.md)
+No entries found.
 
 ### Divergences
 
@@ -21,6 +21,7 @@ No entries found.
 
 ### Lore
 
+- [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)
 - [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)
 
 ### Stories
@@ -28,6 +29,14 @@ No entries found.
 No entries found.
 
 ## Key Atomic Notes
+
+### Ceramic Vessels and Nest Chambers
+
+- Fired clay vessels are durable, shapeable containers that can serve as nest chambers, harvest tools, or sealed storage — but not all three; vessel form determines function.
+- Nest-assist chambers and sealed storage jars are incompatible vessel types; conflating them produces vessels that fail at both functions.
+- Standardised vessel volume does not emerge from pottery making alone; it requires deliberate production standardisation.
+- Sealing quality depends on firing temperature and sealant; low-temperature vessels are permeable and unsuitable for liquid storage.
+- Ceramic breakage is a real operational constraint, not a marginal risk; fragility limits how far and reliably ceramic infrastructure can extend.
 
 ### Storage and Ceramic Technology
 

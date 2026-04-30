@@ -2,7 +2,7 @@
 
 ## Summary
 
-A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing a glacial maximum. Defines the geography, climate, species, and ecological constraints that all lore set in this era must obey.
+A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md), representing a glacial maximum. Defines the geography, climate, species, and ecological constraints that all lore set in this era must obey.
 
 ## Metadata
 
@@ -58,7 +58,7 @@ A time-specific baseline snapshot of real-world Earth conditions during the Prot
 ## Open Questions
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md) climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
 
 ## Related Documents
@@ -68,3 +68,8 @@ A time-specific baseline snapshot of real-world Earth conditions during the Prot
 - [Honeypot Ants](species/honeypot-ants.md)
 - [Dromornithidae](megafauna/dromornithidae.md)
 - [Moas](species/moas.md)
+
+## Used By Lore
+
+- [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
+- [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)

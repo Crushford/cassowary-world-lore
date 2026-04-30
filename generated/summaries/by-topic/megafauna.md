@@ -6,9 +6,9 @@ Generated summary bundle for docs tagged with `Megafauna`.
 
 | Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference | ~2 MYA representative glacial maximum                                                                | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Moas](../../../reference/species/moas.md)                                                                                                  | reference/species/moas.md                            | Reference | Protohistoric Expansion Era                                                                          | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the Protohistoric Expansion Era, representing... |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference | ~2 MYA, ~2 MYA representative glacial maximum                                                        | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Moas](../../../reference/species/moas.md)                                                                                                  | reference/species/moas.md                            | Reference | ~2 MYA, Protohistoric Expansion Era                                                                  | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
 
@@ -49,7 +49,7 @@ No atomic notes found.
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
-- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under Protohistoric Expansion Era climate conditions?
+- Which upland, volcanic, or river-corridor regions provide the earliest continuous agricultural viability under [Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md) climate conditions?
 - Which exposed land corridors create durable transport chokepoints rather than short-lived seasonal routes?
 
 ## Related Topics
