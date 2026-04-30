@@ -1,22 +1,20 @@
-# Topic Summary: Extinct Species
+# Topic Summary: Quinkana
 
-Generated summary bundle for docs tagged with `Extinct Species`.
+Generated summary bundle for docs tagged with `Quinkana`.
 
 ## Documents
 
 | Title                                                                                      | Path                                               | Layer     | Time Periods                                                            | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                           | reference/megafauna/dromornithidae.md              | Reference |                                                                         | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
 | [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md) | reference/megafauna/extinct-sahul-fauna-catalog.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
-| [Moas](../../../reference/species/moas.md)                                                 | reference/species/moas.md                          | Reference |                                                                         | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)       | reference/ecology/predator-systems-of-sahul.md     | Reference |                                                                         | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
 
 ## Layer Breakdown
 
 ### Reference
 
-- [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
 - [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
-- [Moas](../../../reference/species/moas.md)
+- [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)
 
 ### Divergences
 
@@ -36,43 +34,39 @@ No atomic notes found.
 
 ## Open Questions
 
-### Dromornithidae
-
-- Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
-- What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
-
 ### Extinct Sahul Fauna Catalog
 
 - Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
 - What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
 - Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
 
-### Moas
+### Predator Systems of Sahul
 
-- Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
-- What is the documented degree of male parental care in moas, and how does it compare across species?
+- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
+- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
+- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
 
 ## Related Topics
 
+- Apex Predator
 - Catalog
+- Crocodile
 - Diprotodon
-- Dromornithidae
 - early Pleistocene
 - Extinct Sahul fauna catalog
-- Flightless Birds
+- Extinct Species
 - Genyornis
-- Giant Flightless Birds
-- Herbivores
+- Marsupial Lion
 - Megafauna
 - Megalania
-- Moas
-- New Zealand
+- Mesopredator
 - Palorchestes
+- Predator Guild
+- Predator systems of Sahul
+- Predators
 - Procoptodon
-- Quinkana
-- Ratites
 - Sahul
-- Sexual Dimorphism
+- Thylacine
 - Thylacoleo
 - Zaglossus
 - Zygomaturus

@@ -8,12 +8,14 @@ Generated summary bundle for docs tagged with `Cassowaries`.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Cassowaries](../../../reference/species/cassowaries.md)                                                                                                | reference/species/cassowaries.md                                              | Reference |                                   | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
 | [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md | Lore      | Fire and Extended Development Era | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... |
+| [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md)                                                | reference/ecology/forest-refugia-and-arboreal-species.md                      | Reference | early Pleistocene glacial cycles  | Real-world baseline for how rainforest contracts into isolated refugia during glacial maxima and what constraints thi... |
 
 ## Layer Breakdown
 
 ### Reference
 
 - [Cassowaries](../../../reference/species/cassowaries.md)
+- [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md)
 
 ### Divergences
 
@@ -55,16 +57,32 @@ No entries found.
 - Which behaviors emerge first: mobbing, den targeting, coordinated fire use, or territorial patrol systems?
 - How much of late executive development depends on father-led apprenticeship versus wider coalition training?
 
+### Forest Refugia and Arboreal Species
+
+- Which specific upland zones in northeastern Queensland functioned as continuous refugia across multiple consecutive early Pleistocene glacial maxima?
+- What was the minimum corridor width along river systems between New Guinea highland zones and northeastern Australian highland zones that was sufficient to maintain gene flow for cassowary-like large frugivores?
+
 ## Related Topics
 
 - Anatomy
+- Arboreal Species
 - Cassowary Neurodevelopment And Predator Management Transition
 - Coalition Logic
+- Connectivity
 - Female Territoriality
 - Flightless Birds
+- Forest Refugia
+- Forest refugia and arboreal species
 - Frugivory
+- Gene Flow
+- Glacial Contraction
 - Juvenile Learning
 - Male Parental Care
 - Neurodevelopment
+- New Guinea highlands
+- Possums
 - Predator Management
+- Queensland rainforest
+- Rainforest
 - Sahul
+- Tree Kangaroos

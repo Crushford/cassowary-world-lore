@@ -22,6 +22,15 @@ Source: `reference/ecology/aphid-ant-relationships.md`
 - Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
 - What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
 
+## Browsing, grazing, and habitat mosaic
+
+### Browsing, Grazing, and Habitat Mosaic
+
+Source: `reference/ecology/browsing-grazing-and-habitat-mosaic.md`
+
+- What was the typical patch size and edge-to-interior ratio in northern Sahul monsoon woodland during the ~2 MYA glacial maximum period?
+- How did the interaction between fire and megaherbivore browsing differ in northern Australian monsoon woodland versus New Guinea lowland zones with different fire regimes?
+
 ## Cassowaries
 
 ### Cassowaries
@@ -89,6 +98,26 @@ Source: `reference/megafauna/dromornithidae.md`
 - Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
 - What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
 
+## Early Pleistocene Sahul ecosystems
+
+### Early Pleistocene Sahul Ecosystems
+
+Source: `reference/ecology/early-pleistocene-sahul-ecosystems.md`
+
+- What was the precise extent of continuous rainforest canopy in northern Sahul during the ~2 MYA representative glacial maximum?
+- How did the productivity and extent of New Guinea highland grasslands (nothofagus zones) vary with glacial intensity?
+- Which river systems in northern Sahul maintained permanent flow through glacial maxima, and what was their corridor width for forest species?
+
+## Extinct Sahul fauna catalog
+
+### Extinct Sahul Fauna Catalog
+
+Source: `reference/megafauna/extinct-sahul-fauna-catalog.md`
+
+- Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
+- What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
+- Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
+
 ## Fire Incubation And Extended Juvenile Development
 
 ### Fire Incubation and Extended Juvenile Development
@@ -123,6 +152,15 @@ Source: `lore/infrastructure/food-preservation-and-storage-systems.md`
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+
+## Forest refugia and arboreal species
+
+### Forest Refugia and Arboreal Species
+
+Source: `reference/ecology/forest-refugia-and-arboreal-species.md`
+
+- Which specific upland zones in northeastern Queensland functioned as continuous refugia across multiple consecutive early Pleistocene glacial maxima?
+- What was the minimum corridor width along river systems between New Guinea highland zones and northeastern Australian highland zones that was sufficient to maintain gene flow for cassowary-like large frugivores?
 
 ## Haast's eagle
 
@@ -196,6 +234,16 @@ Source: `reference/species/honeypot-ants.md`
 - Which honeypot ant genera are confirmed present in northern Sahul and New Guinea during the ~2 MYA representative window?
 - What is the natural range of replete counts per colony for relevant Sahul lineages under seasonal conditions?
 
+## Large herbivore landscape pressure
+
+### Large Herbivore Landscape Pressure
+
+Source: `reference/megafauna/large-herbivore-landscape-pressure.md`
+
+- What was the typical ranging distance from permanent water for Diprotodon-scale animals in northern Sahul woodland during the dry season?
+- How rapidly did browse-pressure shift plant community composition toward unpalatable species in zones with sustained high megaherbivore density?
+- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of Diprotodon-scale animals?
+
 ## Managed Honeypot Ant Lineages
 
 ### Managed Ant Lineages
@@ -207,6 +255,35 @@ Source: `lore/honeypot-ants/managed-ant-lineages.md`
 - Which specific real-world ant genera are the best biological candidates for each functional lineage class?
 - How mobile are managed lineages across ecotypes? Can chamber-friendly orchard ants be moved from savanna woodland to wet-margin environments without long re-adaptation?
 - When does control of elite ant lineages become a formalised institutional or property claim?
+
+## Marine life around early Pleistocene Sahul
+
+### Marine Life Around Early Pleistocene Sahul
+
+Source: `reference/ecology/marine-life-around-early-pleistocene-sahul.md`
+
+- Where were the major exposed reef platforms along the glacial-maximum northern Sahul coastline, and how accessible were they at low tide?
+- What was the extent of seagrass beds in the exposed Arafura Shelf zone during the ~2 MYA glacial maximum, and what dugong densities did they support?
+- Which early Pleistocene coastal zones along northern Sahul had the highest intertidal shellfish density per unit shoreline?
+
+## Megafauna and landscape pressure
+
+### Megafauna and Landscape Pressure
+
+Source: `reference/ecology/megafauna-and-landscape-pressure.md`
+
+- What was the population density of major megafauna species in productive northern Sahul zones during the ~2 MYA representative period?
+- How far from permanent water did megafauna ranging zones extend during the dry season in arid and semi-arid zones?
+- What was the spatial scale of trampling and disturbance zones around permanent waterholes used by Diprotodon-scale animals?
+
+## Missing animal groups in Sahul
+
+### Missing Animal Groups in Sahul
+
+Source: `reference/biogeography/missing-animal-groups-in-sahul.md`
+
+- Which specific ecological functions performed by ungulates in Eurasian systems were most significantly absent from Sahul, and which marsupial analogues came closest to filling them?
+- Did the absence of large manipulative mammals (elephants, apes) affect the distribution or accessibility of food resources in ways that later shaped the evolution of Sahul's fauna?
 
 ## Moa Domestication And Ridability Mechanism
 
@@ -272,6 +349,16 @@ Source: `lore/infrastructure/pottery-assisted-ant-nest-architecture.md`
 - How long do nest-assist pots last before cracking, clogging with organic matter, or being abandoned by colonies?
 - What materials are used for tribute jar seals across different Sahul regions with different access to resins, waxes, and clay?
 
+## Predator systems of Sahul
+
+### Predator Systems of Sahul
+
+Source: `reference/ecology/predator-systems-of-sahul.md`
+
+- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
+- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
+- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
+
 ## Regional Honeypot Ant Ecotypes
 
 ### Regional Honeypot Ant Ecotypes
@@ -306,6 +393,16 @@ Source: `lore/frameworks/sahul-food-forest-functional-crop-portfolio.md`
 - Which crops become tribute staples rather than household staples?
 - How much of the system depends on active grafting versus managed wild stands?
 
+## Sahul predator roles
+
+### Sahul Predator Roles
+
+Source: `reference/predators/sahul-predator-roles.md`
+
+- Did Thylacoleo depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with Thylacoleo presence?
+- What was the realistic prey size range for Megalania given conservative body mass estimates, and how much overlap did it have with Thylacoleo's prey base?
+- Which specific predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect predator range?
+
 ## Sahul-New Zealand maritime trade and contact
 
 ### Sahul-New Zealand Maritime Contact
@@ -336,6 +433,16 @@ Source: `reference/ecology/sap-feeding-host-trees.md`
 
 - Which tree lineages in Sahul rainforest and forest-margin ecologies show the combination of high sap sugar content, high sap-feeder tolerance, and fast recovery required for sustained management?
 - How does canopy fragmentation during glacial dry periods affect the viability of managed honeydew systems in specific Sahul regions?
+
+## Sea level and Sahul connectivity
+
+### Sea Level and Sahul Connectivity
+
+Source: `reference/geography/sea-level-and-sahul-connectivity.md`
+
+- What was the extent of exposed shelf land in the Arafura region during the ~2 MYA representative glacial maximum, and how productive were those exposed areas?
+- Did the Gulf of Carpentaria basin form a freshwater lake during the ~2 MYA glacial maximum, and how did that affect regional fauna distribution?
+- Which shelf zones remained above sea level across multiple consecutive glacial maxima, providing habitat continuity beyond a single cycle?
 
 ## Storage And Ceramic Technology
 
