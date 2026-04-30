@@ -32,6 +32,6 @@ No atomic notes found.
 
 ### Sahul Predator Roles
 
-- Did Thylacoleo depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with Thylacoleo presence?
-- What was the realistic prey size range for Megalania given conservative body mass estimates, and how much overlap did it have with Thylacoleo's prey base?
+- Did thylacoleonid predators depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with apex predator presence?
+- What was the realistic prey size range for the large varanid lineage at ~2 MYA given conservative body mass estimates?
 - Which specific predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect predator range?

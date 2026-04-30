@@ -1,6 +1,6 @@
-# Topic Summary: Megalania
+# Topic Summary: Thylacoleonids
 
-Generated summary bundle for docs tagged with `Megalania`.
+Generated summary bundle for docs tagged with `Thylacoleonids`.
 
 ## Documents
 
@@ -59,6 +59,7 @@ No atomic notes found.
 - Large Varanid
 - Marsupial Lion
 - Megafauna
+- Megalania
 - Mesopredator
 - Palorchestes
 - Predator Guild
@@ -67,6 +68,5 @@ No atomic notes found.
 - Quinkana
 - Sahul
 - Thylacine
-- Thylacoleonids
 - Zaglossus
 - Zygomaturus

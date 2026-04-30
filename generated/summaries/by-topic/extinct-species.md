@@ -43,9 +43,9 @@ No atomic notes found.
 
 ### Extinct Sahul Fauna Catalog
 
-- Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
-- What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
-- Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
 
 ### Moas
 
@@ -55,12 +55,12 @@ No atomic notes found.
 ## Related Topics
 
 - Catalog
-- Diprotodon
+- Diprotodontids
 - Dromornithidae
+- Dromornithids
 - early Pleistocene
 - Extinct Sahul fauna catalog
 - Flightless Birds
-- Genyornis
 - Giant Flightless Birds
 - Herbivores
 - Megafauna
@@ -68,11 +68,11 @@ No atomic notes found.
 - Moas
 - New Zealand
 - Palorchestes
-- Procoptodon
 - Quinkana
 - Ratites
 - Sahul
 - Sexual Dimorphism
-- Thylacoleo
+- Thylacine
+- Thylacoleonids
 - Zaglossus
 - Zygomaturus

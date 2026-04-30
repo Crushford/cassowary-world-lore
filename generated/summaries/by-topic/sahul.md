@@ -58,15 +58,15 @@ No atomic notes found.
 
 ### Extinct Sahul Fauna Catalog
 
-- Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
-- What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
-- Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
 
 ### Predator Systems of Sahul
 
-- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
-- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
-- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
+- Was the thylacoleonid predator at ~2 MYA Thylacoleo carnifex or an earlier lineage member, and how did body mass differ?
+- What was the actual body mass of the large varanid predator at ~2 MYA, and how does this constrain prey size range?
+- Which large terrestrial predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect their range?
 
 ### Sahul and Pleistocene Climate
 
@@ -76,8 +76,8 @@ No atomic notes found.
 
 ### Sahul Predator Roles
 
-- Did Thylacoleo depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with Thylacoleo presence?
-- What was the realistic prey size range for Megalania given conservative body mass estimates, and how much overlap did it have with Thylacoleo's prey base?
+- Did thylacoleonid predators depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with apex predator presence?
+- What was the realistic prey size range for the large varanid lineage at ~2 MYA given conservative body mass estimates?
 - Which specific predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect predator range?
 
 ### Sea Level and Sahul Connectivity
@@ -105,8 +105,9 @@ No atomic notes found.
 - Climate
 - Corridors
 - Crocodile
-- Diprotodon
+- Diprotodontids
 - Dromornithidae
+- Dromornithids
 - early Pleistocene
 - Extinct Sahul fauna catalog
 - Extinct Species
@@ -114,7 +115,6 @@ No atomic notes found.
 - Female Territoriality
 - Flightless Birds
 - Frugivory
-- Genyornis
 - Geography
 - Giant Flightless Birds
 - Glacial Cycles
@@ -124,6 +124,7 @@ No atomic notes found.
 - Honeypot Ants
 - Land Bridges
 - Large Predators
+- Large Varanid
 - Male Parental Care
 - Marsupial Lion
 - Megafauna
@@ -137,7 +138,6 @@ No atomic notes found.
 - Predator systems of Sahul
 - Predators
 - Prey Behaviour
-- Procoptodon
 - Quinkana
 - Refugia
 - Sahul and Pleistocene climate
@@ -145,7 +145,7 @@ No atomic notes found.
 - Sea Level
 - Sea level and Sahul connectivity
 - Thylacine
-- Thylacoleo
+- Thylacoleonids
 - Torres Strait
 - Trophic Structure
 - Wallace Line

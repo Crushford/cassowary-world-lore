@@ -53,7 +53,6 @@ Real-world baseline for how differential browsing and grazing pressure by large 
 ## Related Documents
 
 - [Megafauna and Landscape Pressure](megafauna-and-landscape-pressure.md)
-- [Large Herbivore Landscape Pressure](../megafauna/large-herbivore-landscape-pressure.md)
 - [Forest Refugia and Arboreal Species](forest-refugia-and-arboreal-species.md)
 - [Early Pleistocene Sahul Ecosystems](early-pleistocene-sahul-ecosystems.md)
 - [Cassowaries](../species/cassowaries.md)

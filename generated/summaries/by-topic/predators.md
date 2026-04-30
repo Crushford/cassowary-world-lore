@@ -41,9 +41,9 @@ No atomic notes found.
 
 ### Predator Systems of Sahul
 
-- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
-- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
-- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
+- Was the thylacoleonid predator at ~2 MYA Thylacoleo carnifex or an earlier lineage member, and how did body mass differ?
+- What was the actual body mass of the large varanid predator at ~2 MYA, and how does this constrain prey size range?
+- Which large terrestrial predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect their range?
 
 ## Related Topics
 
@@ -53,6 +53,7 @@ No atomic notes found.
 - Birds Of Prey
 - Crocodile
 - Haast's eagle
+- Large Varanid
 - Marsupial Lion
 - Megalania
 - Mesopredator
@@ -63,4 +64,4 @@ No atomic notes found.
 - Quinkana
 - Sahul
 - Thylacine
-- Thylacoleo
+- Thylacoleonids

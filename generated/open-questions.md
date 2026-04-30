@@ -114,9 +114,9 @@ Source: `reference/ecology/early-pleistocene-sahul-ecosystems.md`
 
 Source: `reference/megafauna/extinct-sahul-fauna-catalog.md`
 
-- Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
-- What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
-- Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
 
 ## Fire Incubation And Extended Juvenile Development
 
@@ -234,16 +234,6 @@ Source: `reference/species/honeypot-ants.md`
 - Which honeypot ant genera are confirmed present in northern Sahul and New Guinea during the ~2 MYA representative window?
 - What is the natural range of replete counts per colony for relevant Sahul lineages under seasonal conditions?
 
-## Large herbivore landscape pressure
-
-### Large Herbivore Landscape Pressure
-
-Source: `reference/megafauna/large-herbivore-landscape-pressure.md`
-
-- What was the typical ranging distance from permanent water for Diprotodon-scale animals in northern Sahul woodland during the dry season?
-- How rapidly did browse-pressure shift plant community composition toward unpalatable species in zones with sustained high megaherbivore density?
-- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of Diprotodon-scale animals?
-
 ## Managed Honeypot Ant Lineages
 
 ### Managed Ant Lineages
@@ -272,9 +262,9 @@ Source: `reference/ecology/marine-life-around-early-pleistocene-sahul.md`
 
 Source: `reference/ecology/megafauna-and-landscape-pressure.md`
 
-- What was the population density of major megafauna species in productive northern Sahul zones during the ~2 MYA representative period?
-- How far from permanent water did megafauna ranging zones extend during the dry season in arid and semi-arid zones?
-- What was the spatial scale of trampling and disturbance zones around permanent waterholes used by Diprotodon-scale animals?
+- What was the population density of major megaherbivore grades in productive northern Sahul zones during the ~2 MYA representative period?
+- How far from permanent water did ranging zones extend during the dry season for animals at Diprotodon-grade body mass?
+- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of megaherbivore-grade animals?
 
 ## Missing animal groups in Sahul
 
@@ -355,9 +345,9 @@ Source: `lore/infrastructure/pottery-assisted-ant-nest-architecture.md`
 
 Source: `reference/ecology/predator-systems-of-sahul.md`
 
-- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
-- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
-- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
+- Was the thylacoleonid predator at ~2 MYA Thylacoleo carnifex or an earlier lineage member, and how did body mass differ?
+- What was the actual body mass of the large varanid predator at ~2 MYA, and how does this constrain prey size range?
+- Which large terrestrial predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect their range?
 
 ## Regional Honeypot Ant Ecotypes
 
@@ -399,8 +389,8 @@ Source: `lore/frameworks/sahul-food-forest-functional-crop-portfolio.md`
 
 Source: `reference/predators/sahul-predator-roles.md`
 
-- Did Thylacoleo depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with Thylacoleo presence?
-- What was the realistic prey size range for Megalania given conservative body mass estimates, and how much overlap did it have with Thylacoleo's prey base?
+- Did thylacoleonid predators depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with apex predator presence?
+- What was the realistic prey size range for the large varanid lineage at ~2 MYA given conservative body mass estimates?
 - Which specific predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect predator range?
 
 ## Sahul-New Zealand maritime trade and contact

@@ -4,11 +4,10 @@ Generated summary bundle for documents in `reference/megafauna`.
 
 ## Documents
 
-| Title                                                                                                    | Time Periods                                                            | Summary                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                         |                                                                         | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)               | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
-| [Large Herbivore Landscape Pressure](../../../reference/megafauna/large-herbivore-landscape-pressure.md) |                                                                         | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |
+| Title                                                                                      | Time Periods                                                            | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                           |                                                                         | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md) | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
 
 ## Key Atomic Notes
 
@@ -16,11 +15,8 @@ No atomic notes found.
 
 ## Related Documents
 
-- [Browsing, Grazing, and Habitat Mosaic](../../../reference/ecology/browsing-grazing-and-habitat-mosaic.md)
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
-- [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
-- [Large Herbivore Landscape Pressure](../../../reference/megafauna/large-herbivore-landscape-pressure.md)
 - [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)
 - [Missing Animal Groups in Sahul](../../../reference/biogeography/missing-animal-groups-in-sahul.md)
 - [Moas](../../../reference/species/moas.md)
@@ -36,12 +32,6 @@ No atomic notes found.
 
 ### Extinct Sahul Fauna Catalog
 
-- Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
-- What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
-- Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
-
-### Large Herbivore Landscape Pressure
-
-- What was the typical ranging distance from permanent water for Diprotodon-scale animals in northern Sahul woodland during the dry season?
-- How rapidly did browse-pressure shift plant community composition toward unpalatable species in zones with sustained high megaherbivore density?
-- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of Diprotodon-scale animals?
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?

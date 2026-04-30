@@ -34,18 +34,10 @@ Back-of-book style index of topics with at least two references.
 
 ## Browsing
 
-| Title                                                                                                | Path                                                      | Layer     | Summary                                                                                                                  | Time Periods |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Browsing, Grazing, and Habitat Mosaic](../reference/ecology/browsing-grazing-and-habitat-mosaic.md) | reference/ecology/browsing-grazing-and-habitat-mosaic.md  | Reference | Real-world baseline for how differential browsing and grazing pressure by large herbivores creates and maintains habi... |              |
-| [Large Herbivore Landscape Pressure](../reference/megafauna/large-herbivore-landscape-pressure.md)   | reference/megafauna/large-herbivore-landscape-pressure.md | Reference | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)         | reference/ecology/megafauna-and-landscape-pressure.md     | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |              |
-
-## Carrying Capacity
-
-| Title                                                                                              | Path                                                      | Layer     | Summary                                                                                                                  | Time Periods |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Large Herbivore Landscape Pressure](../reference/megafauna/large-herbivore-landscape-pressure.md) | reference/megafauna/large-herbivore-landscape-pressure.md | Reference | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)       | reference/ecology/megafauna-and-landscape-pressure.md     | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |              |
+| Title                                                                                                | Path                                                     | Layer     | Summary                                                                                                                  | Time Periods |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [Browsing, Grazing, and Habitat Mosaic](../reference/ecology/browsing-grazing-and-habitat-mosaic.md) | reference/ecology/browsing-grazing-and-habitat-mosaic.md | Reference | Real-world baseline for how differential browsing and grazing pressure by large herbivores creates and maintains habi... |              |
+| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)         | reference/ecology/megafauna-and-landscape-pressure.md    | Reference | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |              |
 
 ## Cassowaries
 
@@ -88,7 +80,14 @@ Back-of-book style index of topics with at least two references.
 | Title                                                                                                | Path                                                     | Layer     | Summary                                                                                                                  | Time Periods |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Browsing, Grazing, and Habitat Mosaic](../reference/ecology/browsing-grazing-and-habitat-mosaic.md) | reference/ecology/browsing-grazing-and-habitat-mosaic.md | Reference | Real-world baseline for how differential browsing and grazing pressure by large herbivores creates and maintains habi... |              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)         | reference/ecology/megafauna-and-landscape-pressure.md    | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |              |
+| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)         | reference/ecology/megafauna-and-landscape-pressure.md    | Reference | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |              |
+
+## Dromornithids
+
+| Title                                                                                     | Path                                                 | Layer     | Summary                                                                                                                  | Time Periods                                                            |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore      | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... | Ecological Management Era                                               |
+| [Extinct Sahul Fauna Catalog](../reference/megafauna/extinct-sahul-fauna-catalog.md)      | reference/megafauna/extinct-sahul-fauna-catalog.md   | Reference | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum |
 
 ## Ecological Domestication
 
@@ -129,10 +128,10 @@ Back-of-book style index of topics with at least two references.
 
 ## Grazing
 
-| Title                                                                                                | Path                                                      | Layer     | Summary                                                                                                                  | Time Periods |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Browsing, Grazing, and Habitat Mosaic](../reference/ecology/browsing-grazing-and-habitat-mosaic.md) | reference/ecology/browsing-grazing-and-habitat-mosaic.md  | Reference | Real-world baseline for how differential browsing and grazing pressure by large herbivores creates and maintains habi... |              |
-| [Large Herbivore Landscape Pressure](../reference/megafauna/large-herbivore-landscape-pressure.md)   | reference/megafauna/large-herbivore-landscape-pressure.md | Reference | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |              |
+| Title                                                                                                | Path                                                     | Layer     | Summary                                                                                                                  | Time Periods |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [Browsing, Grazing, and Habitat Mosaic](../reference/ecology/browsing-grazing-and-habitat-mosaic.md) | reference/ecology/browsing-grazing-and-habitat-mosaic.md | Reference | Real-world baseline for how differential browsing and grazing pressure by large herbivores creates and maintains habi... |              |
+| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)         | reference/ecology/megafauna-and-landscape-pressure.md    | Reference | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |              |
 
 ## Herbivores
 
@@ -188,16 +187,9 @@ Back-of-book style index of topics with at least two references.
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | [Dromornithidae](../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                 | Reference | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |                                                                                                      |
 | [Extinct Sahul Fauna Catalog](../reference/megafauna/extinct-sahul-fauna-catalog.md)                                                  | reference/megafauna/extinct-sahul-fauna-catalog.md    | Reference | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum                              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)                                          | reference/ecology/megafauna-and-landscape-pressure.md | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |                                                                                                      |
+| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)                                          | reference/ecology/megafauna-and-landscape-pressure.md | Reference | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |                                                                                                      |
 | [Moas](../reference/species/moas.md)                                                                                                  | reference/species/moas.md                             | Reference | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |                                                                                                      |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md  | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era |
-
-## Megaherbivore
-
-| Title                                                                                              | Path                                                      | Layer     | Summary                                                                                                                  | Time Periods |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Large Herbivore Landscape Pressure](../reference/megafauna/large-herbivore-landscape-pressure.md) | reference/megafauna/large-herbivore-landscape-pressure.md | Reference | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)       | reference/ecology/megafauna-and-landscape-pressure.md     | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |              |
 
 ## Megalania
 
@@ -367,19 +359,19 @@ Back-of-book style index of topics with at least two references.
 | [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)    | lore/infrastructure/food-preservation-and-storage-systems.md  | Lore  | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... | Ecological Management Era |
 | [Honeypot Ant Yield and Surplus Capacity](../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md | Lore  | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... | Ecological Management Era |
 
-## Thylacoleo
+## Thylacine
 
 | Title                                                                                | Path                                               | Layer     | Summary                                                                                                                  | Time Periods                                                            |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | [Extinct Sahul Fauna Catalog](../reference/megafauna/extinct-sahul-fauna-catalog.md) | reference/megafauna/extinct-sahul-fauna-catalog.md | Reference | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum |
 | [Predator Systems of Sahul](../reference/ecology/predator-systems-of-sahul.md)       | reference/ecology/predator-systems-of-sahul.md     | Reference | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |                                                                         |
 
-## Trampling
+## Thylacoleonids
 
-| Title                                                                                              | Path                                                      | Layer     | Summary                                                                                                                  | Time Periods |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Large Herbivore Landscape Pressure](../reference/megafauna/large-herbivore-landscape-pressure.md) | reference/megafauna/large-herbivore-landscape-pressure.md | Reference | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)       | reference/ecology/megafauna-and-landscape-pressure.md     | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |              |
+| Title                                                                                | Path                                               | Layer     | Summary                                                                                                                  | Time Periods                                                            |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [Extinct Sahul Fauna Catalog](../reference/megafauna/extinct-sahul-fauna-catalog.md) | reference/megafauna/extinct-sahul-fauna-catalog.md | Reference | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum |
+| [Predator Systems of Sahul](../reference/ecology/predator-systems-of-sahul.md)       | reference/ecology/predator-systems-of-sahul.md     | Reference | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |                                                                         |
 
 ## Tribute
 
@@ -397,13 +389,6 @@ Back-of-book style index of topics with at least two references.
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
 | [Pottery-Assisted Ant Nest Architecture](../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  | Ecological Management Era |
 | [Storage and Ceramic Technology](../lore/infrastructure/storage-and-ceramic-technology.md)                 | lore/infrastructure/storage-and-ceramic-technology.md         | Lore  | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... | Ecological Management Era |
-
-## Vegetation Structure
-
-| Title                                                                                              | Path                                                      | Layer     | Summary                                                                                                                  | Time Periods |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Large Herbivore Landscape Pressure](../reference/megafauna/large-herbivore-landscape-pressure.md) | reference/megafauna/large-herbivore-landscape-pressure.md | Reference | Real-world baseline for the specific mechanisms through which large herbivores — particularly marsupial megaherbivore... |              |
-| [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)       | reference/ecology/megafauna-and-landscape-pressure.md     | Reference | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |              |
 
 ## Wallace Line
 

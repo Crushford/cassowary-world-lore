@@ -11,7 +11,7 @@ Generated summary bundle for documents in `reference/ecology`.
 | [Early Pleistocene Sahul Ecosystems](../../../reference/ecology/early-pleistocene-sahul-ecosystems.md)                 | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | Real-world baseline for the major ecosystem types present across Sahul during the early Pleistocene (~2 MYA). Defines... |
 | [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md)               | early Pleistocene glacial cycles                                        | Real-world baseline for how rainforest contracts into isolated refugia during glacial maxima and what constraints thi... |
 | [Marine Life Around Early Pleistocene Sahul](../../../reference/ecology/marine-life-around-early-pleistocene-sahul.md) | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | Real-world baseline for the marine and coastal ecosystems surrounding Sahul during the early Pleistocene. Defines the... |
-| [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)                     |                                                                         | Real-world baseline for how large-bodied herbivores and omnivores impose physical, ecological, and behavioural pressu... |
+| [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)                     |                                                                         | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |
 | [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)                                   |                                                                         | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
 | [Sap-Feeding Host Trees](../../../reference/ecology/sap-feeding-host-trees.md)                                         |                                                                         | Real-world baseline for trees and plants that support sap-feeding insect populations. Defines the functional traits t... |
 
@@ -29,7 +29,6 @@ No atomic notes found.
 - [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
 - [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md)
 - [Honeypot Ants](../../../reference/species/honeypot-ants.md)
-- [Large Herbivore Landscape Pressure](../../../reference/megafauna/large-herbivore-landscape-pressure.md)
 - [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)
 - [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)
 - [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)
@@ -69,15 +68,15 @@ No atomic notes found.
 
 ### Megafauna and Landscape Pressure
 
-- What was the population density of major megafauna species in productive northern Sahul zones during the ~2 MYA representative period?
-- How far from permanent water did megafauna ranging zones extend during the dry season in arid and semi-arid zones?
-- What was the spatial scale of trampling and disturbance zones around permanent waterholes used by Diprotodon-scale animals?
+- What was the population density of major megaherbivore grades in productive northern Sahul zones during the ~2 MYA representative period?
+- How far from permanent water did ranging zones extend during the dry season for animals at Diprotodon-grade body mass?
+- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of megaherbivore-grade animals?
 
 ### Predator Systems of Sahul
 
-- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
-- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
-- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
+- Was the thylacoleonid predator at ~2 MYA Thylacoleo carnifex or an earlier lineage member, and how did body mass differ?
+- What was the actual body mass of the large varanid predator at ~2 MYA, and how does this constrain prey size range?
+- Which large terrestrial predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect their range?
 
 ### Sap-Feeding Host Trees
 

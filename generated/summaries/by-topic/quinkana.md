@@ -36,26 +36,27 @@ No atomic notes found.
 
 ### Extinct Sahul Fauna Catalog
 
-- Which dromornithid genera were present in northern Sahul during the ~2 MYA representative window?
-- What was the actual body mass of large Megalania individuals, and how does this affect prey size estimates?
-- Was Procoptodon or a direct ancestor present at ~2 MYA, or is this lineage better represented by earlier macropod taxa?
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
 
 ### Predator Systems of Sahul
 
-- What was the geographic range of Thylacoleo during the ~2 MYA representative window, and was it present in New Guinea?
-- Did Megalania (Varanus priscus) and Thylacoleo compete directly for large prey, and how did this partition prey species across habitats?
-- What was the actual body mass of large Megalania individuals, and how does this affect estimates of prey size and kill frequency?
+- Was the thylacoleonid predator at ~2 MYA Thylacoleo carnifex or an earlier lineage member, and how did body mass differ?
+- What was the actual body mass of the large varanid predator at ~2 MYA, and how does this constrain prey size range?
+- Which large terrestrial predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect their range?
 
 ## Related Topics
 
 - Apex Predator
 - Catalog
 - Crocodile
-- Diprotodon
+- Diprotodontids
+- Dromornithids
 - early Pleistocene
 - Extinct Sahul fauna catalog
 - Extinct Species
-- Genyornis
+- Large Varanid
 - Marsupial Lion
 - Megafauna
 - Megalania
@@ -64,9 +65,8 @@ No atomic notes found.
 - Predator Guild
 - Predator systems of Sahul
 - Predators
-- Procoptodon
 - Sahul
 - Thylacine
-- Thylacoleo
+- Thylacoleonids
 - Zaglossus
 - Zygomaturus
