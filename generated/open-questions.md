@@ -22,6 +22,15 @@ Source: `reference/ecology/aphid-ant-relationships.md`
 - Which sap-feeder genera in Sahul produce the most stable mutualism with honeypot ant lineages under repeated seasonal cycling?
 - What is the maximum sustainable sap-feeder density for key Sahul host tree species before plant decline becomes irreversible?
 
+## Browsing, grazing, and habitat mosaic
+
+### Browsing, Grazing, and Habitat Mosaic
+
+Source: `reference/ecology/browsing-grazing-and-habitat-mosaic.md`
+
+- What was the typical patch size and edge-to-interior ratio in northern Sahul monsoon woodland during the ~2 MYA glacial maximum period?
+- How did the interaction between fire and megaherbivore browsing differ in northern Australian monsoon woodland versus New Guinea lowland zones with different fire regimes?
+
 ## Cassowaries
 
 ### Cassowaries
@@ -89,6 +98,26 @@ Source: `reference/megafauna/dromornithidae.md`
 - Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
 - What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
 
+## Early Pleistocene Sahul ecosystems
+
+### Early Pleistocene Sahul Ecosystems
+
+Source: `reference/ecology/early-pleistocene-sahul-ecosystems.md`
+
+- What was the precise extent of continuous rainforest canopy in northern Sahul during the ~2 MYA representative glacial maximum?
+- How did the productivity and extent of New Guinea highland grasslands (nothofagus zones) vary with glacial intensity?
+- Which river systems in northern Sahul maintained permanent flow through glacial maxima, and what was their corridor width for forest species?
+
+## Extinct Sahul fauna catalog
+
+### Extinct Sahul Fauna Catalog
+
+Source: `reference/megafauna/extinct-sahul-fauna-catalog.md`
+
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
+
 ## Fire Incubation And Extended Juvenile Development
 
 ### Fire Incubation and Extended Juvenile Development
@@ -123,6 +152,15 @@ Source: `lore/infrastructure/food-preservation-and-storage-systems.md`
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+
+## Forest refugia and arboreal species
+
+### Forest Refugia and Arboreal Species
+
+Source: `reference/ecology/forest-refugia-and-arboreal-species.md`
+
+- Which specific upland zones in northeastern Queensland functioned as continuous refugia across multiple consecutive early Pleistocene glacial maxima?
+- What was the minimum corridor width along river systems between New Guinea highland zones and northeastern Australian highland zones that was sufficient to maintain gene flow for cassowary-like large frugivores?
 
 ## Haast's eagle
 
@@ -208,6 +246,35 @@ Source: `lore/honeypot-ants/managed-ant-lineages.md`
 - How mobile are managed lineages across ecotypes? Can chamber-friendly orchard ants be moved from savanna woodland to wet-margin environments without long re-adaptation?
 - When does control of elite ant lineages become a formalised institutional or property claim?
 
+## Marine life around early Pleistocene Sahul
+
+### Marine Life Around Early Pleistocene Sahul
+
+Source: `reference/ecology/marine-life-around-early-pleistocene-sahul.md`
+
+- Where were the major exposed reef platforms along the glacial-maximum northern Sahul coastline, and how accessible were they at low tide?
+- What was the extent of seagrass beds in the exposed Arafura Shelf zone during the ~2 MYA glacial maximum, and what dugong densities did they support?
+- Which early Pleistocene coastal zones along northern Sahul had the highest intertidal shellfish density per unit shoreline?
+
+## Megafauna and landscape pressure
+
+### Megafauna and Landscape Pressure
+
+Source: `reference/ecology/megafauna-and-landscape-pressure.md`
+
+- What was the population density of major megaherbivore grades in productive northern Sahul zones during the ~2 MYA representative period?
+- How far from permanent water did ranging zones extend during the dry season for animals at Diprotodon-grade body mass?
+- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of megaherbivore-grade animals?
+
+## Missing animal groups in Sahul
+
+### Missing Animal Groups in Sahul
+
+Source: `reference/biogeography/missing-animal-groups-in-sahul.md`
+
+- Which specific ecological functions performed by ungulates in Eurasian systems were most significantly absent from Sahul, and which marsupial analogues came closest to filling them?
+- Did the absence of large manipulative mammals (elephants, apes) affect the distribution or accessibility of food resources in ways that later shaped the evolution of Sahul's fauna?
+
 ## Moa Domestication And Ridability Mechanism
 
 ### Moa Domestication and Ridability
@@ -272,6 +339,16 @@ Source: `lore/infrastructure/pottery-assisted-ant-nest-architecture.md`
 - How long do nest-assist pots last before cracking, clogging with organic matter, or being abandoned by colonies?
 - What materials are used for tribute jar seals across different Sahul regions with different access to resins, waxes, and clay?
 
+## Predator systems of Sahul
+
+### Predator Systems of Sahul
+
+Source: `reference/ecology/predator-systems-of-sahul.md`
+
+- Was the thylacoleonid predator at ~2 MYA Thylacoleo carnifex or an earlier lineage member, and how did body mass differ?
+- What was the actual body mass of the large varanid predator at ~2 MYA, and how does this constrain prey size range?
+- Which large terrestrial predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect their range?
+
 ## Regional Honeypot Ant Ecotypes
 
 ### Regional Honeypot Ant Ecotypes
@@ -306,6 +383,16 @@ Source: `lore/frameworks/sahul-food-forest-functional-crop-portfolio.md`
 - Which crops become tribute staples rather than household staples?
 - How much of the system depends on active grafting versus managed wild stands?
 
+## Sahul predator roles
+
+### Sahul Predator Roles
+
+Source: `reference/predators/sahul-predator-roles.md`
+
+- Did thylacoleonid predators depress thylacine density through mesopredator suppression, and if so, how did thylacine density and range vary with apex predator presence?
+- What was the realistic prey size range for the large varanid lineage at ~2 MYA given conservative body mass estimates?
+- Which specific predators were present in New Guinea versus mainland Australia during the ~2 MYA window, and did Torres Strait connectivity affect predator range?
+
 ## Sahul-New Zealand maritime trade and contact
 
 ### Sahul-New Zealand Maritime Contact
@@ -336,6 +423,16 @@ Source: `reference/ecology/sap-feeding-host-trees.md`
 
 - Which tree lineages in Sahul rainforest and forest-margin ecologies show the combination of high sap sugar content, high sap-feeder tolerance, and fast recovery required for sustained management?
 - How does canopy fragmentation during glacial dry periods affect the viability of managed honeydew systems in specific Sahul regions?
+
+## Sea level and Sahul connectivity
+
+### Sea Level and Sahul Connectivity
+
+Source: `reference/geography/sea-level-and-sahul-connectivity.md`
+
+- What was the extent of exposed shelf land in the Arafura region during the ~2 MYA representative glacial maximum, and how productive were those exposed areas?
+- Did the Gulf of Carpentaria basin form a freshwater lake during the ~2 MYA glacial maximum, and how did that affect regional fauna distribution?
+- Which shelf zones remained above sea level across multiple consecutive glacial maxima, providing habitat continuity beyond a single cycle?
 
 ## Storage And Ceramic Technology
 

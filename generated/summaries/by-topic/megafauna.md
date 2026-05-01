@@ -4,17 +4,21 @@ Generated summary bundle for docs tagged with `Megafauna`.
 
 ## Documents
 
-| Title                                                                                                                                       | Path                                                 | Layer     | Time Periods                                                                                         | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                | Reference |                                                                                                      | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Moas](../../../reference/species/moas.md)                                                                                                  | reference/species/moas.md                            | Reference |                                                                                                      | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
+| Title                                                                                                                                       | Path                                                  | Layer     | Time Periods                | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                 | Reference |                             | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)                                                  | reference/megafauna/extinct-sahul-fauna-catalog.md    | Reference |                             | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
+| [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)                                          | reference/ecology/megafauna-and-landscape-pressure.md | Reference |                             | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |
+| [Moas](../../../reference/species/moas.md)                                                                                                  | reference/species/moas.md                             | Reference |                             | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md  | Reference | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
 
 ### Reference
 
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
+- [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
+- [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)
 - [Moas](../../../reference/species/moas.md)
 - [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md)
 
@@ -41,6 +45,18 @@ No atomic notes found.
 - Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
 - What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
 
+### Extinct Sahul Fauna Catalog
+
+- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
+- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
+- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
+
+### Megafauna and Landscape Pressure
+
+- What was the population density of major megaherbivore grades in productive northern Sahul zones during the ~2 MYA representative period?
+- How far from permanent water did ranging zones extend during the dry season for animals at Diprotodon-grade body mass?
+- What is the spatial radius of significant trampling impact around a permanent waterhole used by a population of megaherbivore-grade animals?
+
 ### Moas
 
 - Which moa species inhabited New Zealand's North Island versus South Island, and how did their ranges and densities vary with climate and habitat?
@@ -55,22 +71,45 @@ No atomic notes found.
 ## Related Topics
 
 - Aphids
+- Browsing
+- Carrying Capacity
+- Catalog
 - Climate
+- Diprotodontids
+- Disturbance Ecology
 - Dromornithidae
+- Dromornithids
+- early Pleistocene
+- Extinct Sahul fauna catalog
 - Extinct Species
 - Flightless Birds
 - Geography
 - Giant Flightless Birds
 - Glacial Maximum
+- Grazing
 - Herbivores
 - Honeypot Ants
+- Landscape Pressure
 - Large Predators
+- Megafauna and landscape pressure
+- Megaherbivore
+- Megalania
 - Moas
 - Movement Corridors
 - New Zealand
+- Palorchestes
+- Quinkana
 - Ratites
 - Refugia
 - Sahul
 - Sea Level
 - Sexual Dimorphism
+- Thylacine
+- Thylacoleonids
+- Trampling
+- Vegetation Structure
+- Wallowing
+- Waterhole Dynamics
 - World State — Protohistoric Expansion Era (Representative Glacial Maximum)
+- Zaglossus
+- Zygomaturus

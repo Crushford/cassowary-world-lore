@@ -64,18 +64,6 @@ const ROOT_DOC_ALLOWLIST = new Set([
 const IGNORED_DIRS = new Set(['.git', '.obsidian', 'generated', 'node_modules', 'archive', 'old']);
 
 const ALLOWED_TIME_LABELS = [
-  '~12 MYA',
-  '~6-4 MYA',
-  '~4-3 MYA',
-  '4-3 MYA',
-  '~3-2.5 MYA',
-  '~2.5-2 MYA',
-  '~2 MYA',
-  '~3.2-2.8 MYA',
-  '~2.7-2.3 MYA',
-  '~2.2-1.8 MYA',
-  'early Pleistocene glacial cycles',
-  '~2 MYA representative glacial maximum',
   'Claw Development Era',
   'Fire and Extended Development Era',
   'Ecological Management Era',
@@ -98,6 +86,9 @@ const KNOWN_METADATA_LABELS = new Set([
   'Related technologies',
   'Related institutions',
   'Related documents',
+  'Real-world period',
+  'Real-world anchor',
+  'Reference window',
 ]);
 const METADATA_LABEL_CANONICAL = new Map(Array.from(KNOWN_METADATA_LABELS, (label) => [normalizeKey(label), label] as const));
 const MIN_TOPIC_DOCS = 2;

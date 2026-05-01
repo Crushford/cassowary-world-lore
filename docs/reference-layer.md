@@ -85,32 +85,23 @@ Every reference doc must include:
 - Related species: <if applicable>
 ```
 
-**Time periods are optional and must only be included when time changes the constraints.**
+**Time Metadata Rule**
 
-Include `Time periods` when the document describes:
+The `Time periods` field is reserved for Cassowary World timeline labels that should appear in generated timeline indexes.
 
-- climate cycles or glacial variation (time changes ecology and movement)
-- sea level changes (time changes geography)
-- habitat expansion, contraction, or fragmentation across time
-- a time-specific world-state snapshot
-- emergence or extinction boundaries where the timing affects system availability
+Do not put real-world geological periods, dates, or research windows in `Time periods`.
 
-Do not include `Time periods` for:
+Use these fields instead when needed:
 
-- stable animal biology baselines (cassowaries, moas, honeypot ants, Haast's eagle, dromornithids)
-- ecological relationships that are not time-bounded
-- documents where the only justification is "this species existed at this time"
+- `Real-world period: Early Pleistocene`
+- `Real-world anchor: ~2 MYA`
+- `Reference window: representative glacial maximum`
 
-When time periods are included, use only allowed real-world labels:
+These fields describe the reference context but do not generate timeline sections.
 
-- `~12 MYA`, `~6-4 MYA`, `~4-3 MYA`, `~3-2.5 MYA`, `~2.5-2 MYA`, `~2 MYA`
-- `~3.2-2.8 MYA`, `~2.7-2.3 MYA`, `~2.2-1.8 MYA`
-- `early Pleistocene glacial cycles`
-- `~2 MYA representative glacial maximum`
+Cassowary World era labels (`Protohistoric Expansion Era`, etc.) may be added to world-state documents only, not to species or ecology documents.
 
-Cassowary World era labels may be added to world-state documents only, not to species or ecology documents.
-
-**Default: no time period.** Reference documents should be timeless constraint baselines unless time materially changes the system.
+**Default: no time period.** Reference documents should be timeless constraint baselines unless they are world-state snapshots tied to a Cassowary World era.
 
 ## Style Rules
 

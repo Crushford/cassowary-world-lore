@@ -2,20 +2,6 @@
 
 Generated from source document `Time periods` metadata.
 
-## early Pleistocene glacial cycles
-
-| Title                                                                                                                                 | Path                                                 | Layer     | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
-
-## ~2 MYA representative glacial maximum
-
-| Title                                                                                                                                 | Path                                                 | Layer     | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md | Reference | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
-
 ## Claw Development Era
 
 | Title                                                                                                           | Path                                                          | Layer       | Summary                                                                                                                 |

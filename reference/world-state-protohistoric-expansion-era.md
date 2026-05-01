@@ -9,7 +9,10 @@ A time-specific baseline snapshot of real-world Earth conditions during the [Pro
 - Primary topic: World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 - Layer: Real-world reference
 - Topics: geography, climate, Sahul, glacial maximum, sea level, refugia, movement corridors, megafauna, large predators, honeypot ants, aphids
-- Time periods: early Pleistocene glacial cycles, ~2 MYA representative glacial maximum, Protohistoric Expansion Era
+- Time periods: Protohistoric Expansion Era
+- Real-world period: Early Pleistocene
+- Real-world anchor: ~2 MYA
+- Reference window: representative glacial maximum
 - Regions: Sahul (Australia, New Guinea, Tasmania, exposed continental shelves)
 
 ## Core Reality

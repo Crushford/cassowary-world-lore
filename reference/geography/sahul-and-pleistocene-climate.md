@@ -9,7 +9,9 @@ Real-world baseline for the climate and geography mechanisms that shaped Sahul a
 - Primary topic: Sahul and Pleistocene climate
 - Layer: Real-world reference
 - Topics: Sahul, Pleistocene climate, glacial cycles, land bridges, refugia, sea level, movement corridors
-- Time periods: early Pleistocene glacial cycles, ~2 MYA representative glacial maximum
+- Real-world period: Early Pleistocene
+- Real-world anchor: ~2 MYA
+- Reference window: representative glacial maximum
 - Regions: Sahul (Australia, New Guinea, Tasmania, exposed continental shelves)
 
 ## Core Reality
