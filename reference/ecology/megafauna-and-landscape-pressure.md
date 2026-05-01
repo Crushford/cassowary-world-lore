@@ -66,3 +66,8 @@ Real-world baseline for how large-bodied herbivores impose physical and ecologic
 - [Browsing, Grazing, and Habitat Mosaic](browsing-grazing-and-habitat-mosaic.md)
 - [Early Pleistocene Sahul Ecosystems](early-pleistocene-sahul-ecosystems.md)
 - [Predator Systems of Sahul](predator-systems-of-sahul.md)
+
+## Used By Lore
+
+- [Diprotodontid Domestication and Working Lineages](../../lore/domestication/diprotodontid-domestication-and-working-lineages.md)
+- [Diprotodontid Haulage and Road Economics](../../lore/transport/diprotodontid-haulage-and-road-economics.md)

@@ -14,7 +14,7 @@ This document explains how moa domestication develops in New Zealand and how rid
 - Status: Canon Candidate
 - Related species: moas, cassowaries
 - Related technologies: fire incubation, harness design, captive breeding, route management
-- Related institutions: New Zealand moa-handling traditions, imperial moa breeding, mounted warfare
+- Related institutions: New Zealand moa-handling traditions, imperial moa breeding, mounted warfare, haulage systems
 
 ## Atomic Notes
 
@@ -29,6 +29,7 @@ This document explains how moa domestication develops in New Zealand and how rid
 - Wild adult moas are not assumed to be rideable. Ridability requires generations of managed selection.
 - Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch and does not abandon Sahul-native giant goose mount traditions where those already exist.
 - Moas remain moas. They do not become horse-like. Their capabilities, speeds, temperament range, and ecological requirements reflect a large ratite under managed but not infinitely plastic selection.
+- Moa and giant goose mounts provide movement and military roles that differ from slow diprotodontid haulage.
 
 ## Context
 
@@ -38,6 +39,8 @@ The pathway is: fire incubation → egg capture and chick rearing → imprinting
 
 Battlefield and warfare use belongs in [Moa Mounted Warfare](moa-mounted-warfare.md). This document focuses on the domestication mechanism.
 
+Moa mounts are not the heavy-haul foundation for road economics. That role belongs to diprotodontid working lineages where they exist. Moas can support riding, elite movement, and some transport, but bulk tribute movement and road-based freight require a different animal system.
+
 ## Limits
 
 - Do not treat all moas as rideable. The ridable lineages are the product of specific selection histories.
@@ -45,6 +48,7 @@ Battlefield and warfare use belongs in [Moa Mounted Warfare](moa-mounted-warfare
 - Do not treat this mechanism as instant or low-effort. Generations of selection are required.
 - Do not claim moas become horse-equivalents. Their capabilities remain those of a large managed ratite.
 - Do not treat moa domestication as the only large-bird mount tradition. Sahul-native giant goose lineages may support separate regional mounted systems.
+- Do not treat moas as replacements for diprotodontid haulage. Speed, riding, and bulk draft power remain separate transport roles.
 
 ## Open Questions
 
@@ -62,6 +66,7 @@ Battlefield and warfare use belongs in [Moa Mounted Warfare](moa-mounted-warfare
 - [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md)
 - [Fire Incubation and Extended Juvenile Development](../biology/fire-incubation-and-extended-juvenile-development.md)
 - [Giant Goose Domestication and Ridability](../domestication/giant-goose-domestication-and-ridability.md)
+- [Diprotodontid Haulage and Road Economics](diprotodontid-haulage-and-road-economics.md)
 - [Moas](../../reference/species/moas.md)
 - [Haast's Eagle](../../reference/predators/haasts-eagle.md)
 - [History and Timeline](../../03-history-and-timeline.md)

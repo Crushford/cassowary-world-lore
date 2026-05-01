@@ -78,6 +78,31 @@ Source: `reference/species/cockatoos.md`
 - Which cockatoo species are confirmed as Sahul residents during the ~2 MYA representative window, and which are relevant to the northern Australian and New Guinea range?
 - What is the upper bound of cockatoo object manipulation complexity under natural conditions, and how does this vary by species?
 
+## Diprotodontid Domestication And Working Lineages
+
+### Diprotodontid Domestication and Working Lineages
+
+Source: `lore/domestication/diprotodontid-domestication-and-working-lineages.md`
+
+- What breeding success rate is plausible for controlled diprotodontid lineages under cassowary management?
+- Which Sahul regions support true working lineages versus only occasional taming?
+- How do thylacoleonid, varanid, crocodilian, and thylacine predators shape juvenile intervention and herd protection?
+- Are mature working animals owned by institutions, handler lineages, route authorities, storage centers, or private elite households?
+- Which harness, sled, drag, or cart-like systems emerge first under cassowary anatomy and available materials?
+- How does diprotodontid water dependency shape road placement and political control over wells, waterholes, wetlands, and river crossings?
+
+## Diprotodontid Haulage And Road Economics
+
+### Diprotodontid Haulage and Road Economics
+
+Source: `lore/transport/diprotodontid-haulage-and-road-economics.md`
+
+- Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
+- Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
+- Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
+- How much does heavy haulage change tribute volume before writing and formal accounting exist?
+- Which regions develop WTA-style trade systems first?
+
 ## Dromornithid Prestige Handling
 
 ### Dromornithid Prestige Handling
@@ -153,6 +178,7 @@ Source: `lore/infrastructure/food-preservation-and-storage-systems.md`
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+- How does heavy haulage change acceptable vessel size, batch movement, and storage-node spacing?
 
 ## Forest refugia and arboreal species
 
@@ -313,6 +339,7 @@ Source: `lore/transport/moa-mounted-warfare.md`
 - How does Sahul breeding continue the selection work begun in New Zealand?
 - Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
 - Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
+- How do mounted bird units coordinate with slow diprotodontid haulage in campaign logistics?
 
 ## Moas
 
@@ -474,6 +501,7 @@ Source: `lore/infrastructure/transport-networks.md`
 - How early do formal route-maintenance obligations appear?
 - Which chokepoints become stable political centers?
 - How much transport is seasonal versus year-round?
+- When do maintained routes become road-like enough to support heavy diprotodontid haulage?
 
 ## Tribute Collection Counting And Enforcement
 
@@ -487,6 +515,7 @@ Source: `lore/tribute/tribute-collection-counting-and-enforcement.md`
 - How are mixed tribute goods handled before abstract cross-product accounting emerges?
 - How early do formal route-maintenance obligations appear?
 - What kinds of chokepoints become politically central?
+- How does heavy haulage change collection-node spacing and forwarded tribute volume?
 
 ## Tribute Seal Integrity And Authority Marks
 
@@ -509,6 +538,7 @@ Source: `lore/tribute/tribute-sealed-vessel-units.md`
 - How many standardized vessel classes appear before later accounting systems?
 - How are mixed tribute contents normalized, if at all, before abstract accounting?
 - What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+- Does heavy haulage encourage larger vessel classes, or does breakage keep vessel size conservative?
 
 ## Tribute Storage Custody And Redistribution
 
@@ -521,6 +551,7 @@ Source: `lore/tribute/tribute-storage-custody-and-redistribution.md`
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
+- How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
 
 ## Uncategorised
 

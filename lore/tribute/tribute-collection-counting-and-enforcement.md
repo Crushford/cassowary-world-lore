@@ -8,11 +8,12 @@ This document answers how early tribute is collected, counted, audited, and enfo
 
 - Primary topic: tribute collection counting and enforcement
 - Layer: Cassowary World system
-- Topics: tribute, collection, counting, witnessed audit, enforcement, administrative specialization
+- Topics: tribute, collection, counting, witnessed audit, enforcement, administrative specialization, bulk transport
 - Era: Protohistoric Expansion Era
+- Time periods: Protohistoric Expansion Era, Early History Era
 - Regions: some core regions of Sahul
 - Related institutions: tribute, taxation, redistribution, administrative specialization
-- Related technologies: sealed vessels, transport routes, storage racks, seal marks
+- Related technologies: sealed vessels, transport routes, storage racks, seal marks, haulage roads
 
 ## Atomic Notes
 
@@ -26,6 +27,7 @@ This document answers how early tribute is collected, counted, audited, and enfo
 - Standardized vessels create recurring administrative labor in sealing, inspecting, guarding, sorting, rotating, collecting, and redistributing stored goods.
 - Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
 - Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
+- Diprotodontid haulage later increases how much tribute can be forwarded beyond local collection nodes.
 
 ## Context
 
@@ -35,6 +37,8 @@ This system depends on [Tribute Sealed Vessel Units](tribute-sealed-vessel-units
 
 The same repeated practices create administrative specialization. Counting, guarding, sealing, rotating, and coordinating redistribution are recurring tasks before literate bureaucracy exists.
 
+In the [Early History Era](../../generated/time/early-history-era.md), diprotodontid haulage extends this system without replacing it. Vessels still need visible counting, seal inspection, custody transfer, and witnesses. Heavy animals change the volume and range of movement by making it practical to forward more sealed vessels from local nodes to regional storage centers.
+
 ## Open Questions
 
 - At what scale do memory-and-witness audit practices fail, requiring tally marks or other symbolic record systems?
@@ -43,6 +47,7 @@ The same repeated practices create administrative specialization. Counting, guar
 - How are mixed tribute goods handled before abstract cross-product accounting emerges?
 - How early do formal route-maintenance obligations appear?
 - What kinds of chokepoints become politically central?
+- How does heavy haulage change collection-node spacing and forwarded tribute volume?
 
 ## Related Documents
 
@@ -52,6 +57,7 @@ The same repeated practices create administrative specialization. Counting, guar
 - [Honeypot Ant Sugar Preservation](../honeypot-ants/honeypot-ant-sugar-preservation.md)
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
+- [Diprotodontid Haulage and Road Economics](../transport/diprotodontid-haulage-and-road-economics.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [History and Timeline](../../generated/timeline-overview.md)

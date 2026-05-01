@@ -60,6 +60,7 @@ No entries found.
 - Moa mounted warfare does not require the absence of giant goose mounted warfare. The two systems occupy different logistical and military niches.
 - Giant goose mounts are Sahul-native, regional, lineage-specific, and tied to local breeding and ecological constraints.
 - Moa imports are valuable because New Zealand lineages may offer different size, temperament, endurance, terrain performance, or institutional standardisation.
+- Moa mounted warfare remains distinct from diprotodontid haulage. Moas move riders and selected loads; diprotodontids move bulk goods slowly through road systems.
 
 ## Open Questions
 
@@ -79,11 +80,13 @@ No entries found.
 - How does Sahul breeding continue the selection work begun in New Zealand?
 - Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
 - Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
+- How do mounted bird units coordinate with slow diprotodontid haulage in campaign logistics?
 
 ## Related Topics
 
 - Breeding
 - Captive Breeding
+- Diprotodontid Haulage
 - Dromornithids
 - Egg Capture
 - Fire Incubation

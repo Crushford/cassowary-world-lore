@@ -77,6 +77,7 @@ No entries found.
 - Wild adult moas are not assumed to be rideable. Ridability requires generations of managed selection.
 - Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch and does not abandon Sahul-native giant goose mount traditions where those already exist.
 - Moas remain moas. They do not become horse-like. Their capabilities, speeds, temperament range, and ecological requirements reflect a large ratite under managed but not infinitely plastic selection.
+- Moa and giant goose mounts provide movement and military roles that differ from slow diprotodontid haulage.
 
 ## Open Questions
 

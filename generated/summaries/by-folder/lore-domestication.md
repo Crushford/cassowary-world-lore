@@ -4,12 +4,28 @@ Generated summary bundle for documents in `lore/domestication`.
 
 ## Documents
 
-| Title                                                                                                               | Time Periods              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)                     | Ecological Management Era | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
-| [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md) | Ecological Management Era | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... |
+| Title                                                                                                                               | Time Periods                                                                                                 | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
+| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)                                     | Ecological Management Era                                                                                    | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
+| [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md)                 | Ecological Management Era                                                                                    | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... |
 
 ## Key Atomic Notes
+
+### Diprotodontid Domestication and Working Lineages
+
+- Diprotodontid domestication begins with observation, not capture.
+- Early cassowaries do not impose systematic hunting pressure because their food base is primarily fruit, preserved sugar, and managed forest resources.
+- Repeated non-predatory proximity lets cassowaries learn diprotodontid movement, waterhole timing, feeding routes, and stress signals.
+- Juvenile intervention creates the behavioural bridge, but it is slower and less reliable than bird imprinting.
+- Early managed animals are tamed individuals, not domestic lineages.
+- Diprotodontid work begins before controlled breeding, through restrained and trained individuals used for clearing, dragging, and path work.
+- True domestication begins only when calmer individuals can be selected and bred across generations.
+- Diprotodontid working lineages are slow, powerful, water-dependent, expensive, and institutionally valuable.
+- Heavy haulage in the Early History Era makes durable roads economically worthwhile.
+- Political control over trained animals, breeding herds, handlers, and water access becomes economic power.
+- Diprotodontids are not cavalry, fast transport, primary food animals, or household livestock.
+- Loss of trained animals disrupts transport, tribute movement, and regional redistribution because they cannot be quickly replaced.
 
 ### Dromornithid Prestige Handling
 
@@ -46,18 +62,35 @@ Generated summary bundle for documents in `lore/domestication`.
 ## Related Documents
 
 - [Cassowaries](../../../reference/species/cassowaries.md)
+- [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
 - [Core Logic](../../../docs/core-logic.md)
+- [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md)
+- [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)
 - [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
 - [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
 - [Fire Incubation and Extended Juvenile Development](../../../lore/biology/fire-incubation-and-extended-juvenile-development.md)
+- [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md)
+- [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)
 - [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
 - [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)
 - [Open Questions](../../../99-open-questions.md)
+- [Transport Networks](../../../lore/infrastructure/transport-networks.md)
+- [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)
+- [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)
 - [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ## Open Questions
+
+### Diprotodontid Domestication and Working Lineages
+
+- What breeding success rate is plausible for controlled diprotodontid lineages under cassowary management?
+- Which Sahul regions support true working lineages versus only occasional taming?
+- How do thylacoleonid, varanid, crocodilian, and thylacine predators shape juvenile intervention and herd protection?
+- Are mature working animals owned by institutions, handler lineages, route authorities, storage centers, or private elite households?
+- Which harness, sled, drag, or cart-like systems emerge first under cassowary anatomy and available materials?
+- How does diprotodontid water dependency shape road placement and political control over wells, waterholes, wetlands, and river crossings?
 
 ### Dromornithid Prestige Handling
 

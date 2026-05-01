@@ -8,11 +8,12 @@ This document answers how stored tribute becomes political power. It focuses on 
 
 - Primary topic: tribute storage custody and redistribution
 - Layer: Cassowary World system
-- Topics: tribute, custody, storage control, redistribution, political authority
+- Topics: tribute, custody, storage control, redistribution, political authority, bulk transport
 - Era: Protohistoric Expansion Era
+- Time periods: Protohistoric Expansion Era, Early History Era
 - Regions: some core regions of Sahul
 - Related institutions: tribute, taxation, storage custody, redistribution, administrative specialization
-- Related technologies: sealed vessels, cool storage, guarded storehouses
+- Related technologies: sealed vessels, cool storage, guarded storehouses, heavy haulage
 
 ## Atomic Notes
 
@@ -28,6 +29,7 @@ This document answers how stored tribute becomes political power. It focuses on 
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
 - Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
+- Diprotodontid haulage later expands the practical catchment area of storage centers where roads and water access support heavy transport.
 
 ## Context
 
@@ -37,6 +39,8 @@ The shift from household storage to communal storage to guarded storage changes 
 
 This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vessel-units.md) and [Tribute Seal Integrity and Authority Marks](tribute-seal-integrity-and-authority-marks.md). It feeds into [Tribute Collection Counting and Enforcement](tribute-collection-counting-and-enforcement.md), where repeated intake and redistribution produce administrative roles.
 
+In the [Early History Era](../../generated/time/early-history-era.md), diprotodontid haulage makes larger storage centers more viable by lowering the cost of moving sealed vessels, construction materials, and preserved food between nodes. This increases the political value of roads, route authorities, water access, and trained working animals.
+
 ## Open Questions
 
 - How much storage remains household-scale versus controlled by communal or political institutions?
@@ -44,6 +48,7 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
+- How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
 
 ## Related Documents
 
@@ -54,4 +59,5 @@ This custody system depends on [Tribute Sealed Vessel Units](tribute-sealed-vess
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
+- [Diprotodontid Haulage and Road Economics](../transport/diprotodontid-haulage-and-road-economics.md)
 - [History and Timeline](../../generated/timeline-overview.md)

@@ -8,10 +8,11 @@ This document answers how early cassowary tribute becomes measurable before weig
 
 - Primary topic: tribute sealed vessel units
 - Layer: Cassowary World system
-- Topics: tribute, taxation, standardized vessels, volume measurement, preserved surplus
+- Topics: tribute, taxation, standardized vessels, volume measurement, preserved surplus, bulk transport
 - Era: Protohistoric Expansion Era
+- Time periods: Protohistoric Expansion Era, Early History Era
 - Regions: some core regions of Sahul
-- Related technologies: ceramic vessels, sealants, standard vessel forms
+- Related technologies: ceramic vessels, sealants, standard vessel forms, haulage systems
 - Related institutions: tribute, taxation, storage custody
 
 ## Atomic Notes
@@ -26,6 +27,7 @@ This document answers how early cassowary tribute becomes measurable before weig
 - Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
 - Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
 - Nest-assist pots stay in the orchard and are managed by orchard keepers. Tribute jars travel between orchards, storage centres, and redistribution facilities, and are managed by tribute collectors and custodians.
+- Diprotodontid haulage later allows larger batches of sealed vessels to move between collection nodes and storage centers.
 
 ## Context
 
@@ -37,12 +39,15 @@ These units feed directly into [Tribute Seal Integrity and Authority Marks](trib
 
 The full visual and functional description of tribute jars — including their shape, seal materials, authority marks, and distinction from nest-assist infrastructure — is in [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md). [Honeypot Ant Yield and Surplus Capacity](../honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md) explains why tribute vessel counts represent district-level aggregation, not single-colony output.
 
+In the [Early History Era](../../generated/time/early-history-era.md), diprotodontid haulage changes batch size rather than the basic accounting unit. Sealed vessels remain countable physical units, but more of them can be moved together where roads, water stops, and working animals are available.
+
 ## Open Questions
 
 - What vessel volume ranges are most plausible for hand-carried tribute in cassowary anatomy and terrain conditions?
 - How many standardized vessel classes appear before later accounting systems?
 - How are mixed tribute contents normalized, if at all, before abstract accounting?
 - What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+- Does heavy haulage encourage larger vessel classes, or does breakage keep vessel size conservative?
 
 ## Related Documents
 
@@ -55,4 +60,5 @@ The full visual and functional description of tribute jars — including their s
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
+- [Diprotodontid Haulage and Road Economics](../transport/diprotodontid-haulage-and-road-economics.md)
 - [History and Timeline](../../generated/timeline-overview.md)

@@ -8,7 +8,7 @@ This document explains how moas function as imported mounts and transport animal
 
 - Layer: Cassowary World system
 - Primary topic: moa mounted warfare
-- Topics: moas, mounted warfare, transport, breeding, imperial logistics, giant geese
+- Topics: moas, mounted warfare, transport, breeding, imperial logistics, giant geese, diprotodontid haulage
 - Era: Protohistoric Expansion Era
 - Regions: Sahul and New Zealand-linked exchange routes
 - Related species: moas, cassowaries, giant geese, dromornithids
@@ -24,6 +24,7 @@ This document explains how moas function as imported mounts and transport animal
 - Moa mounted warfare does not require the absence of giant goose mounted warfare. The two systems occupy different logistical and military niches.
 - Giant goose mounts are Sahul-native, regional, lineage-specific, and tied to local breeding and ecological constraints.
 - Moa imports are valuable because New Zealand lineages may offer different size, temperament, endurance, terrain performance, or institutional standardisation.
+- Moa mounted warfare remains distinct from diprotodontid haulage. Moas move riders and selected loads; diprotodontids move bulk goods slowly through road systems.
 
 ## Context
 
@@ -33,15 +34,19 @@ Moa mounted warfare develops in a world where some Sahul societies may already u
 
 The practical distinction is logistical. Giant geese are local or regional mounts where their breeding ecology supports them. Moas become importable prestige, transport, and warfare animals where imperial institutions can maintain trade, breeding, training, and redistribution. In some regions the systems compete. In others they complement each other: giant geese provide local mounted forces, while moas support elite, long-distance, or institutionally standardised units.
 
+Diprotodontids occupy a separate economic niche. They are too slow and heavy for cavalry, but they can move bulk loads that mounted birds cannot. A mature transport system can therefore contain three different animal roles: giant geese for regional speed and warfare, moas for imported mount traditions, and diprotodontids for road-based haulage.
+
 ## Open Questions
 
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
 - Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
 - Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
+- How do mounted bird units coordinate with slow diprotodontid haulage in campaign logistics?
 
 ## Related Documents
 
 - [Open Questions](../../generated/open-questions.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
 - [Giant Goose Domestication and Ridability](../domestication/giant-goose-domestication-and-ridability.md)
+- [Diprotodontid Haulage and Road Economics](diprotodontid-haulage-and-road-economics.md)

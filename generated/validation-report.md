@@ -1,16 +1,17 @@
 # Validation Report
 
-- Docs scanned: 52
-- Topic indexes: 58
-- Time indexes: 4
+- Docs scanned: 54
+- Topic indexes: 63
+- Time indexes: 5
 - Layer indexes: 4
 - Errors: 0
-- Warnings: 27
+- Warnings: 29
 
 ## Warnings
 
 - lore/agriculture/orchard-sugar-tree-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/biology/fire-incubation-and-extended-juvenile-development.md: Unexpected metadata label: Status [unknown-metadata-label]
+- lore/domestication/diprotodontid-domestication-and-working-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/domestication/dromornithid-prestige-handling.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/domestication/giant-goose-domestication-and-ridability.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/ecology/sap-feeder-lineages-and-honeydew-flow.md: Unexpected metadata label: Status [unknown-metadata-label]
@@ -18,6 +19,7 @@
 - lore/honeypot-ants/managed-ant-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/honeypot-ants/regional-honeypot-ant-ecotypes.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/infrastructure/pottery-assisted-ant-nest-architecture.md: Unexpected metadata label: Status [unknown-metadata-label]
+- lore/transport/diprotodontid-haulage-and-road-economics.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/transport/first-new-zealand-arrival.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/transport/moa-domestication-and-ridability.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/transport/sahul-new-zealand-maritime-contact.md: Unexpected metadata label: Status [unknown-metadata-label]

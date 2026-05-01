@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Custody`.
 
 ## Documents
 
-| Title                                                                                                             | Path                                                       | Layer | Time Periods                | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md) | lore/tribute/tribute-seal-integrity-and-authority-marks.md | Lore  | Protohistoric Expansion Era | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md) | lore/tribute/tribute-storage-custody-and-redistribution.md | Lore  | Protohistoric Expansion Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                             | Path                                                       | Layer | Time Periods                                   | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md) | lore/tribute/tribute-seal-integrity-and-authority-marks.md | Lore  | Protohistoric Expansion Era                    | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md) | lore/tribute/tribute-storage-custody-and-redistribution.md | Lore  | Protohistoric Expansion Era, Early History Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
 
 ## Layer Breakdown
 
@@ -57,6 +57,7 @@ No entries found.
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
 - Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
+- Diprotodontid haulage later expands the practical catchment area of storage centers where roads and water access support heavy transport.
 
 ## Open Questions
 
@@ -74,10 +75,12 @@ No entries found.
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
+- How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
 
 ## Related Topics
 
 - Authority Symbols
+- Bulk Transport
 - Political Authority
 - Redistribution
 - Seal Marks

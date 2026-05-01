@@ -16,7 +16,7 @@ The claim is not that all dromornithids become domestic animals. The claim is th
 - Status: Canon Candidate
 - Related species: cassowaries, dromornithids, moas
 - Related technologies: fire incubation, chick rearing, food processing, route training, harness design
-- Related institutions: handler lineages, prestige economies, transport systems, breeding traditions, mounted warfare
+- Related institutions: handler lineages, prestige economies, transport systems, breeding traditions, mounted warfare, haulage systems
 
 ## Atomic Notes
 
@@ -98,6 +98,8 @@ By the time cassowaries reach New Zealand or exchange knowledge with New Zealand
 
 This also explains why moas remain valuable after giant goose warfare exists. Giant goose mounts are Sahul-native but unevenly distributed, lineage-specific, and tied to local nesting grounds and ecological constraints. Moa lineages develop separately in New Zealand and may offer different size, temperament, endurance, terrain, or institutional advantages. Moa import does not replace giant goose mounted warfare; it adds another mount tradition with a different logistical and military niche.
 
+Diprotodontid haulage adds a third transport category. Giant geese are faster regional mounts and military animals where selected lineages exist. Diprotodontids are slow heavy-haul animals for bulk loads, road economics, and tribute movement. The two systems complement each other rather than competing for the same role.
+
 ## Limits
 
 - Not all giant goose species or lineages become rideable.
@@ -110,6 +112,7 @@ This also explains why moas remain valuable after giant goose warfare exists. Gi
 - Mounted warfare requires additional selection for stress tolerance, formation tolerance, wound tolerance, and recovery after panic.
 - Giant geese do not become horse-equivalents. Their gait, heat tolerance, feeding needs, stress responses, social behaviour, and ecological range remain avian and lineage-specific.
 - Giant goose warfare remains most plausible as regional mounted scouting, courier movement, raiding, pursuit, elite shock display, and limited battlefield use, not universal heavy cavalry.
+- Giant geese are not heavy haulage animals. Bulk tribute and road-based freight belong to diprotodontid systems where those animals can be supported.
 - Dromornithid prestige handling, semi-domestication, ceremonial control, and true domestication are separate categories unless future reference work supports merging them.
 - No named dromornithid genus should be treated as the default rideable giant goose until the reference-layer species and timeline questions are resolved.
 
@@ -132,4 +135,6 @@ This also explains why moas remain valuable after giant goose warfare exists. Gi
 - [Dromornithid Prestige Handling](dromornithid-prestige-handling.md)
 - [Moa Domestication and Ridability](../transport/moa-domestication-and-ridability.md)
 - [Moa Mounted Warfare](../transport/moa-mounted-warfare.md)
+- [Diprotodontid Domestication and Working Lineages](diprotodontid-domestication-and-working-lineages.md)
+- [Diprotodontid Haulage and Road Economics](../transport/diprotodontid-haulage-and-road-economics.md)
 - [Core Logic](../../docs/core-logic.md)

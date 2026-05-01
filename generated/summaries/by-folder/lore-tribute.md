@@ -4,12 +4,12 @@ Generated summary bundle for documents in `lore/tribute`.
 
 ## Documents
 
-| Title                                                                                                               | Time Periods                | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | Protohistoric Expansion Era | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | Protohistoric Expansion Era | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | Protohistoric Expansion Era | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | Protohistoric Expansion Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                               | Time Periods                                   | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md) | Protohistoric Expansion Era, Early History Era | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)   | Protohistoric Expansion Era                    | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                 | Protohistoric Expansion Era, Early History Era | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)   | Protohistoric Expansion Era, Early History Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
 
 ## Key Atomic Notes
 
@@ -25,6 +25,7 @@ Generated summary bundle for documents in `lore/tribute`.
 - Standardized vessels create recurring administrative labor in sealing, inspecting, guarding, sorting, rotating, collecting, and redistributing stored goods.
 - Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
 - Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
+- Diprotodontid haulage later increases how much tribute can be forwarded beyond local collection nodes.
 
 ### Tribute Seal Integrity and Authority Marks
 
@@ -51,6 +52,7 @@ Generated summary bundle for documents in `lore/tribute`.
 - Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
 - Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
 - Nest-assist pots stay in the orchard and are managed by orchard keepers. Tribute jars travel between orchards, storage centres, and redistribution facilities, and are managed by tribute collectors and custodians.
+- Diprotodontid haulage later allows larger batches of sealed vessels to move between collection nodes and storage centers.
 
 ### Tribute Storage Custody and Redistribution
 
@@ -66,9 +68,11 @@ Generated summary bundle for documents in `lore/tribute`.
 - Priority redistribution can reward compliant households, allies, and dependents.
 - Coercive extraction without redistribution can collapse compliance coalitions.
 - Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
+- Diprotodontid haulage later expands the practical catchment area of storage centers where roads and water access support heavy transport.
 
 ## Related Documents
 
+- [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [History and Timeline](../../timeline-overview.md)
 - [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
@@ -92,6 +96,7 @@ Generated summary bundle for documents in `lore/tribute`.
 - How are mixed tribute goods handled before abstract cross-product accounting emerges?
 - How early do formal route-maintenance obligations appear?
 - What kinds of chokepoints become politically central?
+- How does heavy haulage change collection-node spacing and forwarded tribute volume?
 
 ### Tribute Seal Integrity and Authority Marks
 
@@ -106,6 +111,7 @@ Generated summary bundle for documents in `lore/tribute`.
 - How many standardized vessel classes appear before later accounting systems?
 - How are mixed tribute contents normalized, if at all, before abstract accounting?
 - What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+- Does heavy haulage encourage larger vessel classes, or does breakage keep vessel size conservative?
 
 ### Tribute Storage Custody and Redistribution
 
@@ -114,3 +120,4 @@ Generated summary bundle for documents in `lore/tribute`.
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
+- How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
