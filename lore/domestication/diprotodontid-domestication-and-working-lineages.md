@@ -71,6 +71,8 @@ Cassowaries begin intervening around vulnerable juveniles. Intervention may incl
 
 This is the mammalian equivalent of an imprinting bridge, but it is slower and less reliable than bird imprinting. Juvenile diprotodontids already have maternal dependence, fear responses, and species-specific social expectations. Habituation requires repeated feeding, calm proximity, restraint tolerance, and protection over long periods.
 
+Juvenile intervention is most plausible with older pouch-independent juveniles, not pouch young or highly dependent newborns. Pouch young and newborns require continuous maternal physiology that cassowaries cannot replicate, making survival rates negligible and intervention biologically implausible at that stage.
+
 Key idea: juvenile familiarity creates the first behavioural bridge, but it does not create domestication.
 
 ### Stage 4 — Managed Taming and Individual Training

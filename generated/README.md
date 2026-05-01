@@ -44,6 +44,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [lore/infrastructure](summaries/by-folder/lore-infrastructure.md)
 - [lore/transport](summaries/by-folder/lore-transport.md)
 - [lore/tribute](summaries/by-folder/lore-tribute.md)
+- [reference](summaries/by-folder/reference.md)
 - [reference/ecology](summaries/by-folder/reference-ecology.md)
 - [reference/geography](summaries/by-folder/reference-geography.md)
 - [reference/megafauna](summaries/by-folder/reference-megafauna.md)
@@ -115,3 +116,4 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Tribute](summaries/by-topic/tribute.md)
 - [Tribute Jars](summaries/by-topic/tribute-jars.md)
 - [Wallace Line](summaries/by-topic/wallace-line.md)
+- [Working Animals](summaries/by-topic/working-animals.md)

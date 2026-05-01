@@ -4,17 +4,18 @@ Generated summary bundle for docs tagged with `Haulage`.
 
 ## Documents
 
-| Title                                                                                                                               | Path                                                                   | Layer | Time Periods                                                                                                 | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore  | Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
-| [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)                     | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
-| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore  | Ecological Management Era, Early History Era                                                                 | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| Title                                                                                                                               | Path                                                                   | Layer     | Time Periods                                                                                                 | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore      | Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
+| [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)                     | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore      | Protohistoric Expansion Era, Early History Era                                                               | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
+| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore      | Ecological Management Era, Early History Era                                                                 | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| [World State — Early History Era](../../../reference/world-state-early-history-era.md)                                              | reference/world-state-early-history-era.md                             | Reference | Early History Era                                                                                            | Early History Era is the period when story-facing institutions such as WTA-style trade, maintained roads, large stora... |
 
 ## Layer Breakdown
 
 ### Reference
 
-No entries found.
+- [World State — Early History Era](../../../reference/world-state-early-history-era.md)
 
 ### Divergences
 
@@ -81,6 +82,7 @@ No entries found.
 
 ### Diprotodontid Haulage and Road Economics
 
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
 - Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
 - Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
@@ -95,6 +97,12 @@ No entries found.
 - How much transport is seasonal versus year-round?
 - When do maintained routes become road-like enough to support heavy diprotodontid haulage?
 
+### World State — Early History Era
+
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
+- Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
+- How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
+
 ## Related Topics
 
 - Bulk Transport
@@ -107,12 +115,16 @@ No entries found.
 - Maintenance
 - Movement
 - Redistribution
+- Regional Politics
 - Roads
 - Route Maintenance
 - Routes
+- Storage
 - Taming
 - Trade
+- Trade Systems
 - Transport Economics
 - Transport Networks
 - Tribute
 - Working Animals
+- World State — Early History Era

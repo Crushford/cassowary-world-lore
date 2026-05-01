@@ -13,6 +13,7 @@ Generated LLM-friendly context bundles derived from source docs.
 - [lore/infrastructure](by-folder/lore-infrastructure.md)
 - [lore/transport](by-folder/lore-transport.md)
 - [lore/tribute](by-folder/lore-tribute.md)
+- [reference](by-folder/reference.md)
 - [reference/ecology](by-folder/reference-ecology.md)
 - [reference/geography](by-folder/reference-geography.md)
 - [reference/megafauna](by-folder/reference-megafauna.md)
@@ -84,3 +85,4 @@ Generated LLM-friendly context bundles derived from source docs.
 - [Tribute](by-topic/tribute.md)
 - [Tribute Jars](by-topic/tribute-jars.md)
 - [Wallace Line](by-topic/wallace-line.md)
+- [Working Animals](by-topic/working-animals.md)

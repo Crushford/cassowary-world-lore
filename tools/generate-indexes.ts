@@ -83,6 +83,7 @@ const KNOWN_METADATA_LABELS = new Set([
   'Time periods',
   'Regions',
   'Cultures',
+  'Status',
   'Related species',
   'Related technologies',
   'Related institutions',

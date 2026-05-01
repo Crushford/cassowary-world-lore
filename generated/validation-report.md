@@ -1,28 +1,14 @@
 # Validation Report
 
-- Docs scanned: 54
-- Topic indexes: 63
+- Docs scanned: 55
+- Topic indexes: 64
 - Time indexes: 5
 - Layer indexes: 4
 - Errors: 0
-- Warnings: 29
+- Warnings: 15
 
 ## Warnings
 
-- lore/agriculture/orchard-sugar-tree-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/biology/fire-incubation-and-extended-juvenile-development.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/domestication/diprotodontid-domestication-and-working-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/domestication/dromornithid-prestige-handling.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/domestication/giant-goose-domestication-and-ridability.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/ecology/sap-feeder-lineages-and-honeydew-flow.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/honeypot-ants/managed-ant-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/honeypot-ants/regional-honeypot-ant-ecotypes.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/infrastructure/pottery-assisted-ant-nest-architecture.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/transport/diprotodontid-haulage-and-road-economics.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/transport/first-new-zealand-arrival.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/transport/moa-domestication-and-ridability.md: Unexpected metadata label: Status [unknown-metadata-label]
-- lore/transport/sahul-new-zealand-maritime-contact.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/agriculture/orchard-sugar-tree-lineages.md: Broken local link target: ../../99-open-questions.md -> 99-open-questions.md [broken-link]
 - lore/biology/fire-incubation-and-extended-juvenile-development.md: Broken local link target: ../../CORE_LOGIC.md -> CORE_LOGIC.md [broken-link]
 - lore/domestication/dromornithid-prestige-handling.md: Broken local link target: ../../99-open-questions.md -> 99-open-questions.md [broken-link]

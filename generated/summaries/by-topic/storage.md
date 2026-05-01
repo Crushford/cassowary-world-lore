@@ -4,16 +4,17 @@ Generated summary bundle for docs tagged with `Storage`.
 
 ## Documents
 
-| Title                                                                                                          | Path                                                         | Layer | Time Periods                                 | Summary                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)         | lore/infrastructure/ceramic-vessels-and-nest-chambers.md     | Lore  | Ecological Management Era                    | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md) | lore/infrastructure/food-preservation-and-storage-systems.md | Lore  | Ecological Management Era, Early History Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| Title                                                                                                          | Path                                                         | Layer     | Time Periods                                 | Summary                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)         | lore/infrastructure/ceramic-vessels-and-nest-chambers.md     | Lore      | Ecological Management Era                    | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md) | lore/infrastructure/food-preservation-and-storage-systems.md | Lore      | Ecological Management Era, Early History Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [World State — Early History Era](../../../reference/world-state-early-history-era.md)                         | reference/world-state-early-history-era.md                   | Reference | Early History Era                            | Early History Era is the period when story-facing institutions such as WTA-style trade, maintained roads, large stora... |
 
 ## Layer Breakdown
 
 ### Reference
 
-No entries found.
+- [World State — Early History Era](../../../reference/world-state-early-history-era.md)
 
 ### Divergences
 
@@ -63,6 +64,12 @@ No entries found.
 - How much preservation infrastructure is household-scale versus institutionally controlled?
 - How does heavy haulage change acceptable vessel size, batch movement, and storage-node spacing?
 
+### World State — Early History Era
+
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
+- Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
+- How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
+
 ## Related Topics
 
 - Bulk Transport
@@ -72,9 +79,16 @@ No entries found.
 - Cooled Storage
 - Fired Clay
 - Food Preservation And Storage Systems
+- Haulage
 - Material Culture
 - Nest Architecture
 - Preservation
 - Redistribution
+- Regional Politics
+- Roads
 - Sealed Containers
 - Surplus
+- Trade Systems
+- Tribute
+- Working Animals
+- World State — Early History Era

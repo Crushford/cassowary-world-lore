@@ -97,6 +97,7 @@ Source: `lore/domestication/diprotodontid-domestication-and-working-lineages.md`
 
 Source: `lore/transport/diprotodontid-haulage-and-road-economics.md`
 
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
 - Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
 - Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
@@ -562,6 +563,16 @@ Source: `docs/core-logic.md`
 - Which systems are required before a first coherent timeline pass can move beyond placeholders?
 - How should preservation and storage milestones be placed relative to early tribute systems?
 - Which generated validation warnings should become errors after existing docs are cleaned up?
+
+## World State — Early History Era
+
+### World State — Early History Era
+
+Source: `reference/world-state-early-history-era.md`
+
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
+- Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
+- How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
 
 ## World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
