@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Dromornithids`.
 
 ## Documents
 
-| Title                                                                                           | Path                                                 | Layer     | Time Periods                                                            | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore      | Ecological Management Era                                               | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)      | reference/megafauna/extinct-sahul-fauna-catalog.md   | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
+| Title                                                                                           | Path                                                 | Layer     | Time Periods              | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore      | Ecological Management Era | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)      | reference/megafauna/extinct-sahul-fauna-catalog.md   | Reference |                           | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
 
 ## Layer Breakdown
 

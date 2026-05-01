@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Thylacoleonids`.
 
 ## Documents
 
-| Title                                                                                      | Path                                               | Layer     | Time Periods                                                            | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md) | reference/megafauna/extinct-sahul-fauna-catalog.md | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
-| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)       | reference/ecology/predator-systems-of-sahul.md     | Reference |                                                                         | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
+| Title                                                                                      | Path                                               | Layer     | Time Periods | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md) | reference/megafauna/extinct-sahul-fauna-catalog.md | Reference |              | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
+| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)       | reference/ecology/predator-systems-of-sahul.md     | Reference |              | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
 
 ## Layer Breakdown
 

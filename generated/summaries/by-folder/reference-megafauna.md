@@ -4,10 +4,10 @@ Generated summary bundle for documents in `reference/megafauna`.
 
 ## Documents
 
-| Title                                                                                      | Time Periods                                                            | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                           |                                                                         | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md) | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
+| Title                                                                                      | Time Periods | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                           |              | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md) |              | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
 
 ## Key Atomic Notes
 

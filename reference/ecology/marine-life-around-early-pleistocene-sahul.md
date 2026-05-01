@@ -9,7 +9,9 @@ Real-world baseline for the marine and coastal ecosystems surrounding Sahul duri
 - Primary topic: Marine life around early Pleistocene Sahul
 - Layer: Real-world reference
 - Topics: marine ecology, coastal resources, reef systems, dugong, sea turtle, shellfish, estuarine ecology, mangroves, coastal access, sea level
-- Time periods: early Pleistocene glacial cycles, ~2 MYA representative glacial maximum
+- Real-world period: Early Pleistocene
+- Real-world anchor: ~2 MYA
+- Reference window: representative glacial maximum
 - Regions: Sahul coastal margins, Indo-Pacific coral reef systems, northern Australian coast, New Guinea coast
 
 ## Core Reality

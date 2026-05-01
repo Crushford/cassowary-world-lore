@@ -4,10 +4,10 @@ Generated summary bundle for documents in `reference/geography`.
 
 ## Documents
 
-| Title                                                                                                | Time Periods                                                            | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)       | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md) | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
+| Title                                                                                                | Time Periods | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)       |              | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
+| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md) |              | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
 
 ## Key Atomic Notes
 

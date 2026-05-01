@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Biogeography`.
 
 ## Documents
 
-| Title                                                                                                | Path                                                     | Layer     | Time Periods                                                            | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Missing Animal Groups in Sahul](../../../reference/biogeography/missing-animal-groups-in-sahul.md)  | reference/biogeography/missing-animal-groups-in-sahul.md | Reference |                                                                         | Real-world baseline for the major animal groups absent from Sahul that were present on other continents. Defines the...  |
-| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md) | reference/geography/sea-level-and-sahul-connectivity.md  | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
+| Title                                                                                                | Path                                                     | Layer     | Time Periods | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Missing Animal Groups in Sahul](../../../reference/biogeography/missing-animal-groups-in-sahul.md)  | reference/biogeography/missing-animal-groups-in-sahul.md | Reference |              | Real-world baseline for the major animal groups absent from Sahul that were present on other continents. Defines the...  |
+| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md) | reference/geography/sea-level-and-sahul-connectivity.md  | Reference |              | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
 
 ## Layer Breakdown
 

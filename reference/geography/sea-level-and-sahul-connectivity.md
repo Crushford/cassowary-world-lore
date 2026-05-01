@@ -9,7 +9,9 @@ Real-world baseline for sea level variation across early Pleistocene glacial cyc
 - Primary topic: Sea level and Sahul connectivity
 - Layer: Real-world reference
 - Topics: sea level, glacial maximum, land bridges, Sahul, Torres Strait, Arafura Shelf, Bass Strait, Wallace Line, biogeography, corridors
-- Time periods: early Pleistocene glacial cycles, ~2 MYA representative glacial maximum
+- Real-world period: Early Pleistocene
+- Real-world anchor: ~2 MYA
+- Reference window: representative glacial maximum
 - Regions: Sahul (Australia, New Guinea, Tasmania, continental shelves), Sundaland, Indonesian island chain
 
 ## Core Reality

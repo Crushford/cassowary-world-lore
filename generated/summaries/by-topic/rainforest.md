@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Rainforest`.
 
 ## Documents
 
-| Title                                                                                                    | Path                                                     | Layer     | Time Periods                                                            | Summary                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Early Pleistocene Sahul Ecosystems](../../../reference/ecology/early-pleistocene-sahul-ecosystems.md)   | reference/ecology/early-pleistocene-sahul-ecosystems.md  | Reference | early Pleistocene glacial cycles, ~2 MYA representative glacial maximum | Real-world baseline for the major ecosystem types present across Sahul during the early Pleistocene (~2 MYA). Defines... |
-| [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md) | reference/ecology/forest-refugia-and-arboreal-species.md | Reference | early Pleistocene glacial cycles                                        | Real-world baseline for how rainforest contracts into isolated refugia during glacial maxima and what constraints thi... |
+| Title                                                                                                    | Path                                                     | Layer     | Time Periods | Summary                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Early Pleistocene Sahul Ecosystems](../../../reference/ecology/early-pleistocene-sahul-ecosystems.md)   | reference/ecology/early-pleistocene-sahul-ecosystems.md  | Reference |              | Real-world baseline for the major ecosystem types present across Sahul during the early Pleistocene (~2 MYA). Defines... |
+| [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md) | reference/ecology/forest-refugia-and-arboreal-species.md | Reference |              | Real-world baseline for how rainforest contracts into isolated refugia during glacial maxima and what constraints thi... |
 
 ## Layer Breakdown
 

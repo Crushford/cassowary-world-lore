@@ -9,7 +9,8 @@ Real-world baseline for how rainforest contracts into isolated refugia during gl
 - Primary topic: Forest refugia and arboreal species
 - Layer: Real-world reference
 - Topics: forest refugia, glacial contraction, rainforest, arboreal species, tree kangaroos, possums, cassowaries, New Guinea highlands, Queensland rainforest, gene flow, connectivity
-- Time periods: early Pleistocene glacial cycles
+- Real-world period: Early Pleistocene
+- Reference window: glacial cycles
 - Regions: Sahul (Australia, New Guinea, northeastern Queensland, New Guinea highlands)
 - Related species: Dendrolagus (tree kangaroos — arboreal macropods), Phalanger and Spilocuscus (cuscus — arboreal phalangerids), Pseudocheiridae (ringtail possums — arboreal folivores), cassowaries, Casuarius
 

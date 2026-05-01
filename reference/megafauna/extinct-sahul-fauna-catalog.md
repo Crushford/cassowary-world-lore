@@ -9,7 +9,9 @@ A structured catalog of major extinct Sahul fauna, with ecological role, body si
 - Primary topic: Extinct Sahul fauna catalog
 - Layer: Real-world reference
 - Topics: megafauna, extinct species, catalog, diprotodontids, Zygomaturus, Palorchestes, thylacoleonids, Megalania, Quinkana, thylacine, dromornithids, Zaglossus, Sahul, early Pleistocene
-- Time periods: early Pleistocene glacial cycles, ~2 MYA representative glacial maximum
+- Real-world period: Early Pleistocene
+- Real-world anchor: ~2 MYA
+- Reference window: representative glacial maximum
 - Regions: Sahul (Australia, New Guinea)
 
 ## Core Reality

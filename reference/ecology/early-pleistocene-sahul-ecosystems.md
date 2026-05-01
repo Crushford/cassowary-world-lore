@@ -9,7 +9,9 @@ Real-world baseline for the major ecosystem types present across Sahul during th
 - Primary topic: Early Pleistocene Sahul ecosystems
 - Layer: Real-world reference
 - Topics: ecosystems, biomes, vegetation zones, rainforest, savanna, woodland, wetlands, glacial ecology, habitat distribution
-- Time periods: early Pleistocene glacial cycles, ~2 MYA representative glacial maximum
+- Real-world period: Early Pleistocene
+- Real-world anchor: ~2 MYA
+- Reference window: representative glacial maximum
 - Regions: Sahul (Australia, New Guinea, Tasmania, exposed continental shelves)
 
 ## Core Reality
