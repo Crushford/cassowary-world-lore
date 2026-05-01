@@ -32,7 +32,7 @@ Generated summary bundle for documents in `lore/biology`.
 - Longer juvenile dependency under domestic conditions supports extended learning, social transmission, and the acquisition of technical skills.
 - Fire incubation knowledge transfers to eggs taken from other bird species.
 - Bird chicks do not require milk. Stolen or opportunistically collected eggs from other species can be incubated and raised by cassowary households using existing fire and food-processing infrastructure.
-- This mechanism makes later moa domestication in New Zealand plausible and rare dromornithid prestige handling in Sahul possible.
+- This mechanism makes giant goose domestication in Sahul, later moa domestication in New Zealand, and rare dromornithid prestige handling possible.
 
 ## Related Documents
 
@@ -42,6 +42,7 @@ Generated summary bundle for documents in `lore/biology`.
 - [Core Logic](../../../CORE_LOGIC.md)
 - [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
+- [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md)
 - [History and Timeline](../../timeline-overview.md)
 - [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
 - [Moas](../../../reference/species/moas.md)
@@ -63,3 +64,4 @@ Generated summary bundle for documents in `lore/biology`.
 - How does fire incubation interact with the cassowary neurodevelopment transition timeline?
 - How much longer can egg and juvenile development plausibly extend under domestic fire and food-processing conditions compared to wild nesting?
 - Which bird species are incubated first, and what drives early choices?
+- Which Sahul giant bird lineages cross from chick rearing into true domestication rather than prestige handling?

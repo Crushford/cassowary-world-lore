@@ -6,7 +6,7 @@ Generated summary bundle for docs tagged with `Moas`.
 
 | Title                                                                 | Path                                  | Layer     | Time Periods                | Summary                                                                                                                  |
 | --------------------------------------------------------------------- | ------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | Protohistoric Expansion Era | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | Protohistoric Expansion Era | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... |
 | [Moas](../../../reference/species/moas.md)                            | reference/species/moas.md             | Reference |                             | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |
 
 ## Layer Breakdown
@@ -36,6 +36,9 @@ No entries found.
 - Cassowaries ride moas in Sahul, so the system must support mount use in practice.
 - The ridability mechanism is addressed in [Moa Domestication and Ridability](moa-domestication-and-ridability.md) as a Canon Candidate. It remains under review but is no longer entirely absent.
 - Moas arrive in Sahul from New Zealand via the maritime contact system described in [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md), as already-managed lineages rather than wild captures.
+- Moa mounted warfare does not require the absence of giant goose mounted warfare. The two systems occupy different logistical and military niches.
+- Giant goose mounts are Sahul-native, regional, lineage-specific, and tied to local breeding and ecological constraints.
+- Moa imports are valuable because New Zealand lineages may offer different size, temperament, endurance, terrain performance, or institutional standardisation.
 
 ## Open Questions
 
@@ -43,6 +46,8 @@ No entries found.
 
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
+- Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
+- Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
 
 ### Moas
 
@@ -54,6 +59,7 @@ No entries found.
 - Breeding
 - Extinct Species
 - Flightless Birds
+- Giant Geese
 - Herbivores
 - Imperial Logistics
 - Megafauna

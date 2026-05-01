@@ -39,6 +39,13 @@ Back-of-book style index of topics with at least two references.
 | [Browsing, Grazing, and Habitat Mosaic](../reference/ecology/browsing-grazing-and-habitat-mosaic.md) | reference/ecology/browsing-grazing-and-habitat-mosaic.md | Reference | Real-world baseline for how differential browsing and grazing pressure by large herbivores creates and maintains habi... |              |
 | [Megafauna and Landscape Pressure](../reference/ecology/megafauna-and-landscape-pressure.md)         | reference/ecology/megafauna-and-landscape-pressure.md    | Reference | Real-world baseline for how large-bodied herbivores impose physical and ecological pressure on landscapes. Defines th... |              |
 
+## Captive Breeding
+
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md             | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
+
 ## Cassowaries
 
 | Title                                                                                                                                             | Path                                                                          | Layer     | Summary                                                                                                                  | Time Periods                      |
@@ -84,10 +91,12 @@ Back-of-book style index of topics with at least two references.
 
 ## Dromornithids
 
-| Title                                                                                     | Path                                                 | Layer     | Summary                                                                                                                  | Time Periods              |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore      | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... | Ecological Management Era |
-| [Extinct Sahul Fauna Catalog](../reference/megafauna/extinct-sahul-fauna-catalog.md)      | reference/megafauna/extinct-sahul-fauna-catalog.md   | Reference | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |                           |
+| Title                                                                                                         | Path                                                           | Layer     | Summary                                                                                                                  | Time Periods              |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md)                     | lore/domestication/dromornithid-prestige-handling.md           | Lore      | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... | Ecological Management Era |
+| [Dromornithidae](../reference/megafauna/dromornithidae.md)                                                    | reference/megafauna/dromornithidae.md                          | Reference | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |                           |
+| [Extinct Sahul Fauna Catalog](../reference/megafauna/extinct-sahul-fauna-catalog.md)                          | reference/megafauna/extinct-sahul-fauna-catalog.md             | Reference | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |                           |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore      | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era |
 
 ## Ecological Domestication
 
@@ -96,6 +105,13 @@ Back-of-book style index of topics with at least two references.
 | [Aphid Stabilization](../lore/ecology/aphid-stabilization.md)                                             | lore/ecology/aphid-stabilization.md                          | Lore  | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... | Ecological Management Era |
 | [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | lore/honeypot-ants/honeypot-ant-orchard-system-management.md | Lore  | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... | Ecological Management Era |
 | [Sap-Feeder Lineages and Honeydew Flow](../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)         | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md        | Lore  | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... | Ecological Management Era |
+
+## Egg Capture
+
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md             | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
 
 ## Extinct Species
 
@@ -107,10 +123,11 @@ Back-of-book style index of topics with at least two references.
 
 ## Fire Incubation
 
-| Title                                                                                     | Path                                                 | Layer | Summary                                                                                                                  | Time Periods                |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md) | lore/domestication/dromornithid-prestige-handling.md | Lore  | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... | Ecological Management Era   |
-| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md) | lore/transport/moa-domestication-and-ridability.md   | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md)                     | lore/domestication/dromornithid-prestige-handling.md           | Lore  | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... | Ecological Management Era   |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md             | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
 
 ## Flightless Birds
 
@@ -118,6 +135,14 @@ Back-of-book style index of topics with at least two references.
 | -------------------------------------------------- | -------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Cassowaries](../reference/species/cassowaries.md) | reference/species/cassowaries.md | Reference | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |              |
 | [Moas](../reference/species/moas.md)               | reference/species/moas.md        | Reference | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |              |
+
+## Giant Geese
+
+| Title                                                                                                         | Path                                                           | Layer     | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Dromornithidae](../reference/megafauna/dromornithidae.md)                                                    | reference/megafauna/dromornithidae.md                          | Reference | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |                             |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore      | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                               | lore/transport/moa-mounted-warfare.md                          | Lore      | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... | Protohistoric Expansion Era |
 
 ## Glacial Maximum
 
@@ -160,6 +185,13 @@ Back-of-book style index of topics with at least two references.
 | [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                                             | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore        | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... | Ecological Management Era   |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md         | Reference   | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... | Protohistoric Expansion Era |
 
+## Imprinting
+
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md             | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
+
 ## Land Bridges
 
 | Title                                                                                          | Path                                                    | Layer     | Summary                                                                                                                  | Time Periods |
@@ -169,10 +201,11 @@ Back-of-book style index of topics with at least two references.
 
 ## Lineage Selection
 
-| Title                                                                                             | Path                                                  | Layer | Summary                                                                                                                  | Time Periods              |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [Managed Ant Lineages](../lore/honeypot-ants/managed-ant-lineages.md)                             | lore/honeypot-ants/managed-ant-lineages.md            | Lore  | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... | Ecological Management Era |
-| [Sap-Feeder Lineages and Honeydew Flow](../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md) | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md | Lore  | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... | Ecological Management Era |
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods              |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era |
+| [Managed Ant Lineages](../lore/honeypot-ants/managed-ant-lineages.md)                                         | lore/honeypot-ants/managed-ant-lineages.md                     | Lore  | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... | Ecological Management Era |
+| [Sap-Feeder Lineages and Honeydew Flow](../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)             | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md          | Lore  | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... | Ecological Management Era |
 
 ## Living Storage
 
@@ -209,8 +242,15 @@ Back-of-book style index of topics with at least two references.
 
 | Title                                                           | Path                                  | Layer     | Summary                                                                                                                  | Time Periods                |
 | --------------------------------------------------------------- | ------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... | Protohistoric Expansion Era |
+| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md) | lore/transport/moa-mounted-warfare.md | Lore      | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... | Protohistoric Expansion Era |
 | [Moas](../reference/species/moas.md)                            | reference/species/moas.md             | Reference | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |                             |
+
+## Mounted Warfare
+
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                               | lore/transport/moa-mounted-warfare.md                          | Lore  | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... | Protohistoric Expansion Era |
 
 ## Movement Corridors
 
@@ -307,6 +347,13 @@ Back-of-book style index of topics with at least two references.
 | --------------------------------------------------------------------------- | --------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
 | [Honeypot Ant Harvesting](../lore/honeypot-ants/honeypot-ant-harvesting.md) | lore/honeypot-ants/honeypot-ant-harvesting.md | Lore      | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... | Ecological Management Era |
 | [Honeypot Ants](../reference/species/honeypot-ants.md)                      | reference/species/honeypot-ants.md            | Reference | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |                           |
+
+## Ridability
+
+| Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods                |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md             | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
 
 ## Sahul
 

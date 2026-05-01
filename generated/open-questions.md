@@ -128,6 +128,7 @@ Source: `lore/biology/fire-incubation-and-extended-juvenile-development.md`
 - How does fire incubation interact with the cassowary neurodevelopment transition timeline?
 - How much longer can egg and juvenile development plausibly extend under domestic fire and food-processing conditions compared to wild nesting?
 - Which bird species are incubated first, and what drives early choices?
+- Which Sahul giant bird lineages cross from chick rearing into true domestication rather than prestige handling?
 
 ## first cassowary arrival in New Zealand
 
@@ -161,6 +162,20 @@ Source: `reference/ecology/forest-refugia-and-arboreal-species.md`
 
 - Which specific upland zones in northeastern Queensland functioned as continuous refugia across multiple consecutive early Pleistocene glacial maxima?
 - What was the minimum corridor width along river systems between New Guinea highland zones and northeastern Australian highland zones that was sufficient to maintain gene flow for cassowary-like large frugivores?
+
+## Giant Goose Domestication And Ridability
+
+### Giant Goose Domestication and Ridability
+
+Source: `lore/domestication/giant-goose-domestication-and-ridability.md`
+
+- Which dromornithid or Australian anseriform giant bird lineages are small, calm, or social enough for true domestication rather than prestige handling?
+- Which Sahul regions provide enough overlap between cassowary settlements and suitable giant bird nesting grounds?
+- When does giant goose domestication begin relative to moa domestication in New Zealand?
+- How long does selection need to produce reliable load-bearing or riding lineages?
+- Which uses emerge first: prestige display, pack transport, route work, or riding?
+- Which military uses emerge first: courier work, scouting, raiding, pursuit, elite shock display, or battlefield formation?
+- Does giant goose management remain regional, or does it spread through specialist handler lineages and exchange networks?
 
 ## Haast's eagle
 
@@ -286,6 +301,7 @@ Source: `lore/transport/moa-domestication-and-ridability.md`
 - Which combination of egg incubation, imprinting, captive breeding, harnessing, and route training best explains ridability?
 - Were the first managed moas hatched from stolen eggs, captured chicks, or both?
 - How long does the New Zealand isolation period need to be before the moa system is mature enough for Sahul import?
+- Which parts of moa handling are inherited from Sahul giant goose management, and which parts are New Zealand-specific innovations?
 
 ## Moa Mounted Warfare
 
@@ -295,6 +311,8 @@ Source: `lore/transport/moa-mounted-warfare.md`
 
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
+- Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
+- Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
 
 ## Moas
 

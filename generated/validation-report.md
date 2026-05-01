@@ -1,17 +1,18 @@
 # Validation Report
 
-- Docs scanned: 51
-- Topic indexes: 52
+- Docs scanned: 52
+- Topic indexes: 58
 - Time indexes: 4
 - Layer indexes: 4
 - Errors: 0
-- Warnings: 26
+- Warnings: 27
 
 ## Warnings
 
 - lore/agriculture/orchard-sugar-tree-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/biology/fire-incubation-and-extended-juvenile-development.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/domestication/dromornithid-prestige-handling.md: Unexpected metadata label: Status [unknown-metadata-label]
+- lore/domestication/giant-goose-domestication-and-ridability.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/ecology/sap-feeder-lineages-and-honeydew-flow.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md: Unexpected metadata label: Status [unknown-metadata-label]
 - lore/honeypot-ants/managed-ant-lineages.md: Unexpected metadata label: Status [unknown-metadata-label]

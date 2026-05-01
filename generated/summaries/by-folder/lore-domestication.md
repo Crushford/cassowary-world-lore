@@ -1,35 +1,13 @@
-# Topic Summary: Dromornithids
+# Folder Summary: lore/domestication
 
-Generated summary bundle for docs tagged with `Dromornithids`.
+Generated summary bundle for documents in `lore/domestication`.
 
 ## Documents
 
-| Title                                                                                                               | Path                                                           | Layer     | Time Periods              | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)                     | lore/domestication/dromornithid-prestige-handling.md           | Lore      | Ecological Management Era | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                    | reference/megafauna/dromornithidae.md                          | Reference |                           | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)                          | reference/megafauna/extinct-sahul-fauna-catalog.md             | Reference |                           | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
-| [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore      | Ecological Management Era | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... |
-
-## Layer Breakdown
-
-### Reference
-
-- [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
-- [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
-
-### Divergences
-
-No entries found.
-
-### Lore
-
-- [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)
-- [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md)
-
-### Stories
-
-No entries found.
+| Title                                                                                                               | Time Periods              | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)                     | Ecological Management Era | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
+| [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md) | Ecological Management Era | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... |
 
 ## Key Atomic Notes
 
@@ -65,6 +43,20 @@ No entries found.
 - Giant goose mounted warfare is regional and lineage-specific. It is not automatic dromornithid cavalry.
 - Fire incubation enables chick rearing, but it does not erase ecological, behavioural, size, or terrain constraints.
 
+## Related Documents
+
+- [Cassowaries](../../../reference/species/cassowaries.md)
+- [Core Logic](../../../docs/core-logic.md)
+- [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)
+- [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
+- [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
+- [Fire Incubation and Extended Juvenile Development](../../../lore/biology/fire-incubation-and-extended-juvenile-development.md)
+- [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md)
+- [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
+- [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)
+- [Open Questions](../../../99-open-questions.md)
+- [World State — Protohistoric Expansion Era](../../../reference/world-state-protohistoric-expansion-era.md)
+
 ## Open Questions
 
 ### Dromornithid Prestige Handling
@@ -73,17 +65,6 @@ No entries found.
 - Which dromornithid lineages, if any, were small, calm, or socially tolerant enough for even limited ceremonial handling?
 - How geographically widespread is dromornithid handling across Sahul societies, and which regions have documented access?
 - Does the practice spread through trade in specialist knowledge, or does it develop independently in multiple locations?
-
-### Dromornithidae
-
-- Which dromornithid genera are confirmed present in the northern Sahul region during the ~2 MYA representative window?
-- What was the spatial overlap between dromornithid populations and cassowary range during the relevant period?
-
-### Extinct Sahul Fauna Catalog
-
-- Which dromornithid genus is most appropriate for the ~2 MYA representative window in northern Sahul?
-- Was Thylacoleo carnifex present at ~2 MYA or does the ~2 MYA window represent an earlier thylacoleonid species?
-- Was a large varanid predator confirmed in New Guinea at ~2 MYA, or was its presence restricted to mainland Australia in this window?
 
 ### Giant Goose Domestication and Ridability
 
@@ -94,38 +75,3 @@ No entries found.
 - Which uses emerge first: prestige display, pack transport, route work, or riding?
 - Which military uses emerge first: courier work, scouting, raiding, pursuit, elite shock display, or battlefield formation?
 - Does giant goose management remain regional, or does it spread through specialist handler lineages and exchange networks?
-
-## Related Topics
-
-- Captive Breeding
-- Catalog
-- Danger Handling
-- Diprotodontids
-- Dromornithid Prestige Handling
-- Dromornithidae
-- early Pleistocene
-- Egg Capture
-- Elite Practice
-- Extinct Sahul fauna catalog
-- Extinct Species
-- Fire Incubation
-- Giant Flightless Birds
-- Giant Geese
-- Giant Goose Domestication And Ridability
-- Herbivores
-- Imprinting
-- Lineage Selection
-- Megafauna
-- Megalania
-- Mihirungs
-- Mounted Warfare
-- Palorchestes
-- Political Theatre
-- Prestige Animals
-- Quinkana
-- Ridability
-- Sahul
-- Thylacine
-- Thylacoleonids
-- Zaglossus
-- Zygomaturus

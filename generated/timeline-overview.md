@@ -39,7 +39,7 @@ Generated from source document `Time periods` metadata.
 - Fire Incubation and Extended Juvenile Development: Longer juvenile dependency under domestic conditions supports extended learning, social transmission, and the acquisition of technical skills.
 - Fire Incubation and Extended Juvenile Development: Fire incubation knowledge transfers to eggs taken from other bird species.
 - Fire Incubation and Extended Juvenile Development: Bird chicks do not require milk. Stolen or opportunistically collected eggs from other species can be incubated and raised by cassowary households using existing fire and food-processing infrastructure.
-- Fire Incubation and Extended Juvenile Development: This mechanism makes later moa domestication in New Zealand plausible and rare dromornithid prestige handling in Sahul possible.
+- Fire Incubation and Extended Juvenile Development: This mechanism makes giant goose domestication in Sahul, later moa domestication in New Zealand, and rare dromornithid prestige handling possible.
 
 ## Ecological Management Era
 
@@ -49,6 +49,7 @@ Generated from source document `Time periods` metadata.
 | [Ceramic Vessels and Nest Chambers](../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)                 | lore/infrastructure/ceramic-vessels-and-nest-chambers.md       | Lore        | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
 | [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md)                        | lore/domestication/dromornithid-prestige-handling.md           | Lore        | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
 | [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)         | lore/infrastructure/food-preservation-and-storage-systems.md   | Lore        | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md)    | lore/domestication/giant-goose-domestication-and-ridability.md | Lore        | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... |
 | [Honeypot Ant Harvesting](../lore/honeypot-ants/honeypot-ant-harvesting.md)                                      | lore/honeypot-ants/honeypot-ant-harvesting.md                  | Lore        | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
 | [Honeypot Ant Nest Splitting](../lore/divergences/honeypot-ant-nest-splitting.md)                                | lore/divergences/honeypot-ant-nest-splitting.md                | Divergences | This divergence file tracks the Cassowary World change that makes one domesticated honeypot ant lineage more scalable... |
 | [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)        | lore/honeypot-ants/honeypot-ant-orchard-system-management.md   | Lore        | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
@@ -83,19 +84,36 @@ Generated from source document `Time periods` metadata.
 - Ceramic Vessels and Nest Chambers: Ceramic breakage is a real operational constraint, not a marginal risk; fragility limits how far and reliably ceramic infrastructure can extend.
 - Dromornithid Prestige Handling: Some Sahul cassowary societies experiment with dromornithid egg capture, chick rearing, and juvenile handling.
 - Dromornithid Prestige Handling: This is enabled by the same fire-assisted incubation knowledge developed in cassowary domestic life and applied to moa domestication in New Zealand.
-- Dromornithid Prestige Handling: Dromornithids are not primarily sought for meat, routine egg production, or general transport.
+- Dromornithid Prestige Handling: Most handled dromornithids are not primarily sought for meat, routine egg production, general transport, or warfare.
 - Dromornithid Prestige Handling: Their value is prestige, ritual display, elite danger-handling, and political theatre.
 - Dromornithid Prestige Handling: Handling a dromornithid demonstrates access to rare knowledge, high-risk capability, and social resources.
 - Dromornithid Prestige Handling: Dromornithids are dangerous, regionally specific, and difficult to manage. Adult specimens remain hazardous throughout their lives.
 - Dromornithid Prestige Handling: Dromornithid handling is more analogous to falconry, royal elephant keeping, or aristocratic management of dangerous prestige animals than to ordinary livestock production.
-- Dromornithid Prestige Handling: Riding, if it occurs at all, is ceremonial, elite, and limited. It is not widespread cavalry or routine transport.
-- Dromornithid Prestige Handling: Dromornithids are not a general replacement for moas. They occupy a different social niche entirely.
+- Dromornithid Prestige Handling: Riding within prestige-handling traditions, if it occurs at all, is ceremonial, elite, and limited.
+- Dromornithid Prestige Handling: Domesticated giant goose lineages are a separate category from prestige-handled dromornithid individuals.
 - Food Preservation and Storage Systems: Food preservation systems convert perishable orchard and ant-derived calories into durable stored surplus.
 - Food Preservation and Storage Systems: The system combines sugar concentration, drying, sealed ceramics, cool storage, and rotation rather than relying on one universal storage method.
 - Food Preservation and Storage Systems: Preserved sugar paste is the most institutionally important stored calorie because it is dense, sealable, and transportable.
 - Food Preservation and Storage Systems: Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
 - Food Preservation and Storage Systems: Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Food Preservation and Storage Systems: Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
+- Giant Goose Domestication and Ridability: Cassowary fire use begins as a survival and food-processing behaviour before it becomes a mature domestic technology.
+- Giant Goose Domestication and Ridability: Fire improves digestibility and food reliability, giving it a broad civilizational role similar to cooking in human societies.
+- Giant Goose Domestication and Ridability: Fire also changes cassowary reproduction by making warmer, more stable egg incubation possible in managed shelters.
+- Giant Goose Domestication and Ridability: Over evolutionary and cultural time, intelligent cassowary eggs become dependent on warmer and more stable incubation than unmanaged nests reliably provide.
+- Giant Goose Domestication and Ridability: Fire shelters, controlled warmth, humidity management, egg turning, nest protection, chick emergence, and long juvenile care become normal cassowary household knowledge.
+- Giant Goose Domestication and Ridability: This mature incubation culture exists before large bird domestication.
+- Giant Goose Domestication and Ridability: Once cassowaries are expert egg managers, eggs of other bird species become plausible management targets.
+- Giant Goose Domestication and Ridability: Australian giant geese are geographically easier targets than moas because they can be encountered within Sahul and do not require New Zealand contact.
+- Giant Goose Domestication and Ridability: Egg capture matters more than adult capture because eggs can be incubated, hatched, and socially shaped before dangerous adult behaviour develops.
+- Giant Goose Domestication and Ridability: Imprinting is the key bridge between wild giant goose biology and cassowary handling.
+- Giant Goose Domestication and Ridability: Captive breeding selects for calmness, handler tolerance, flock manageability, route tolerance, and load tolerance.
+- Giant Goose Domestication and Ridability: Ridability develops gradually from handler familiarity, pack use, harness experiments, route work, and multi-generation selection.
+- Giant Goose Domestication and Ridability: Some ridable giant goose lineages become military mounts in regions where breeding, route infrastructure, handler training, and feed access are stable enough to support them.
+- Giant Goose Domestication and Ridability: Wild adult giant geese are not automatically rideable and remain dangerous.
+- Giant Goose Domestication and Ridability: Not all giant goose species, populations, or managed lineages become rideable.
+- Giant Goose Domestication and Ridability: Giant goose mounted warfare is regional and lineage-specific. It is not automatic dromornithid cavalry.
+- Giant Goose Domestication and Ridability: Fire incubation enables chick rearing, but it does not erase ecological, behavioural, size, or terrain constraints.
 - Honeypot Ant Harvesting: Cassowaries make ant reserves harvestable by placing clay vessels or ceramic chambers near colony entrances and likely expansion zones.
 - Honeypot Ant Harvesting: Artificial chambers encourage nest expansion when they provide stable, protected, dry volume — the chamber creates harvestable space, not new storage behaviour.
 - Honeypot Ant Harvesting: Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
@@ -230,7 +248,7 @@ Generated from source document `Time periods` metadata.
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                                                           | lore/transport/first-new-zealand-arrival.md                 | Lore      | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
 | [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                                             | lore/transport/moa-domestication-and-ridability.md          | Lore      | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
-| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                                                       | lore/transport/moa-mounted-warfare.md                       | Lore      | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                                                       | lore/transport/moa-mounted-warfare.md                       | Lore      | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... |
 | [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md)                                         | lore/transport/sahul-new-zealand-maritime-contact.md        | Lore      | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
 | [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)                         | lore/tribute/tribute-collection-counting-and-enforcement.md | Lore      | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
 | [Tribute Seal Integrity and Authority Marks](../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                           | lore/tribute/tribute-seal-integrity-and-authority-marks.md  | Lore      | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
@@ -253,7 +271,7 @@ Generated from source document `Time periods` metadata.
 - First New Zealand Arrival: The absence from Indonesia is established canon. The reason for that absence is not resolved.
 - First New Zealand Arrival: Possible contributing factors include: deep-water channels toward the west that persist even at glacial maximum sea levels; dangerous open-sea crossing conditions; and the possibility that cassowary food systems and orchard crops do not establish well in the different ecologies of the Indonesian island chain. None of these is confirmed as the primary cause.
 - Moa Domestication and Ridability: Moa domestication begins in New Zealand, before regular trade contact with Sahul.
-- Moa Domestication and Ridability: Early New Zealand cassowaries use egg capture and fire-assisted incubation, drawing on knowledge also used in cassowary domestic life.
+- Moa Domestication and Ridability: Early New Zealand cassowaries use egg capture and fire-assisted incubation, drawing on knowledge used in cassowary domestic life and in earlier Sahul large-bird management.
 - Moa Domestication and Ridability: Moa chicks can be raised by cassowary households because they do not require milk. Stolen or managed eggs can be incubated and hatched under fire conditions.
 - Moa Domestication and Ridability: Moa chicks raised from hatching under cassowary care imprint on cassowary handlers.
 - Moa Domestication and Ridability: Captive breeding across generations selects for calmness, manageable temperament, route tolerance, load tolerance, and handler responsiveness.
@@ -261,13 +279,16 @@ Generated from source document `Time periods` metadata.
 - Moa Domestication and Ridability: Ridability develops gradually from extended handling, pack use, harnessing experiments, and route work. It is not assumed from the start.
 - Moa Domestication and Ridability: Riding remains elite, terrain-limited, and technically supported by purpose-designed harness systems.
 - Moa Domestication and Ridability: Wild adult moas are not assumed to be rideable. Ridability requires generations of managed selection.
-- Moa Domestication and Ridability: Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch.
+- Moa Domestication and Ridability: Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch and does not abandon Sahul-native giant goose mount traditions where those already exist.
 - Moa Domestication and Ridability: Moas remain moas. They do not become horse-like. Their capabilities, speeds, temperament range, and ecological requirements reflect a large ratite under managed but not infinitely plastic selection.
 - Moa Mounted Warfare: The northern empire imports moas from New Zealand and breeds them across Sahul.
 - Moa Mounted Warfare: Moas become part of warfare and transport systems rather than remaining a local curiosity.
 - Moa Mounted Warfare: Cassowaries ride moas in Sahul, so the system must support mount use in practice.
 - Moa Mounted Warfare: The ridability mechanism is addressed in [Moa Domestication and Ridability](moa-domestication-and-ridability.md) as a Canon Candidate. It remains under review but is no longer entirely absent.
 - Moa Mounted Warfare: Moas arrive in Sahul from New Zealand via the maritime contact system described in [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md), as already-managed lineages rather than wild captures.
+- Moa Mounted Warfare: Moa mounted warfare does not require the absence of giant goose mounted warfare. The two systems occupy different logistical and military niches.
+- Moa Mounted Warfare: Giant goose mounts are Sahul-native, regional, lineage-specific, and tied to local breeding and ecological constraints.
+- Moa Mounted Warfare: Moa imports are valuable because New Zealand lineages may offer different size, temperament, endurance, terrain performance, or institutional standardisation.
 - Sahul-New Zealand Maritime Contact: Regular Sahul-New Zealand maritime contact begins much later than first arrival.
 - Sahul-New Zealand Maritime Contact: The route connects Sahul societies to already-established New Zealand cassowary populations with existing moa-handling traditions.
 - Sahul-New Zealand Maritime Contact: Sahul does not arrive in New Zealand to begin moa domestication from scratch. It imports animals and lineages that New Zealand communities have already been managing.

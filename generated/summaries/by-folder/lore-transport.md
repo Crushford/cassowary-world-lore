@@ -8,7 +8,7 @@ Generated summary bundle for documents in `lore/transport`.
 | --------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)                   | Protohistoric Expansion Era | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
 | [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)     | Protohistoric Expansion Era | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
-| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)                               | Protohistoric Expansion Era | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
+| [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)                               | Protohistoric Expansion Era | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... |
 | [Sahul-New Zealand Maritime Contact](../../../lore/transport/sahul-new-zealand-maritime-contact.md) | Protohistoric Expansion Era | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
 
 ## Key Atomic Notes
@@ -31,7 +31,7 @@ Generated summary bundle for documents in `lore/transport`.
 ### Moa Domestication and Ridability
 
 - Moa domestication begins in New Zealand, before regular trade contact with Sahul.
-- Early New Zealand cassowaries use egg capture and fire-assisted incubation, drawing on knowledge also used in cassowary domestic life.
+- Early New Zealand cassowaries use egg capture and fire-assisted incubation, drawing on knowledge used in cassowary domestic life and in earlier Sahul large-bird management.
 - Moa chicks can be raised by cassowary households because they do not require milk. Stolen or managed eggs can be incubated and hatched under fire conditions.
 - Moa chicks raised from hatching under cassowary care imprint on cassowary handlers.
 - Captive breeding across generations selects for calmness, manageable temperament, route tolerance, load tolerance, and handler responsiveness.
@@ -39,7 +39,7 @@ Generated summary bundle for documents in `lore/transport`.
 - Ridability develops gradually from extended handling, pack use, harnessing experiments, and route work. It is not assumed from the start.
 - Riding remains elite, terrain-limited, and technically supported by purpose-designed harness systems.
 - Wild adult moas are not assumed to be rideable. Ridability requires generations of managed selection.
-- Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch.
+- Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch and does not abandon Sahul-native giant goose mount traditions where those already exist.
 - Moas remain moas. They do not become horse-like. Their capabilities, speeds, temperament range, and ecological requirements reflect a large ratite under managed but not infinitely plastic selection.
 
 ### Moa Mounted Warfare
@@ -49,6 +49,9 @@ Generated summary bundle for documents in `lore/transport`.
 - Cassowaries ride moas in Sahul, so the system must support mount use in practice.
 - The ridability mechanism is addressed in [Moa Domestication and Ridability](moa-domestication-and-ridability.md) as a Canon Candidate. It remains under review but is no longer entirely absent.
 - Moas arrive in Sahul from New Zealand via the maritime contact system described in [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md), as already-managed lineages rather than wild captures.
+- Moa mounted warfare does not require the absence of giant goose mounted warfare. The two systems occupy different logistical and military niches.
+- Giant goose mounts are Sahul-native, regional, lineage-specific, and tied to local breeding and ecological constraints.
+- Moa imports are valuable because New Zealand lineages may offer different size, temperament, endurance, terrain performance, or institutional standardisation.
 
 ### Sahul-New Zealand Maritime Contact
 
@@ -64,6 +67,7 @@ Generated summary bundle for documents in `lore/transport`.
 
 - [Fire Incubation and Extended Juvenile Development](../../../lore/biology/fire-incubation-and-extended-juvenile-development.md)
 - [First New Zealand Arrival](../../../lore/transport/first-new-zealand-arrival.md)
+- [Giant Goose Domestication and Ridability](../../../lore/domestication/giant-goose-domestication-and-ridability.md)
 - [Haast's Eagle](../../../reference/predators/haasts-eagle.md)
 - [History and Timeline](../../../03-history-and-timeline.md)
 - [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
@@ -92,11 +96,14 @@ Generated summary bundle for documents in `lore/transport`.
 - Which combination of egg incubation, imprinting, captive breeding, harnessing, and route training best explains ridability?
 - Were the first managed moas hatched from stolen eggs, captured chicks, or both?
 - How long does the New Zealand isolation period need to be before the moa system is mature enough for Sahul import?
+- Which parts of moa handling are inherited from Sahul giant goose management, and which parts are New Zealand-specific innovations?
 
 ### Moa Mounted Warfare
 
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
+- Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
+- Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
 
 ### Sahul-New Zealand Maritime Contact
 
