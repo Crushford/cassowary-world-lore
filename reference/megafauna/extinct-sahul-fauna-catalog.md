@@ -130,3 +130,7 @@ These are the best-documented representatives of their lineages and valid constr
 - [Predator Systems of Sahul](../ecology/predator-systems-of-sahul.md)
 - [Megafauna and Landscape Pressure](../ecology/megafauna-and-landscape-pressure.md)
 - [Missing Animal Groups in Sahul](../biogeography/missing-animal-groups-in-sahul.md)
+
+## Used By Lore
+
+- [Diprotodontid Domestication and Working Lineages](../../lore/domestication/diprotodontid-domestication-and-working-lineages.md)

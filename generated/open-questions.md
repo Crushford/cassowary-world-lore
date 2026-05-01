@@ -78,6 +78,31 @@ Source: `reference/species/cockatoos.md`
 - Which cockatoo species are confirmed as Sahul residents during the ~2 MYA representative window, and which are relevant to the northern Australian and New Guinea range?
 - What is the upper bound of cockatoo object manipulation complexity under natural conditions, and how does this vary by species?
 
+## Diprotodontid Domestication And Working Lineages
+
+### Diprotodontid Domestication and Working Lineages
+
+Source: `lore/domestication/diprotodontid-domestication-and-working-lineages.md`
+
+- What breeding success rate is plausible for controlled diprotodontid lineages under cassowary management?
+- Which Sahul regions support true working lineages versus only occasional taming?
+- How do thylacoleonid, varanid, crocodilian, and thylacine predators shape juvenile intervention and herd protection?
+- Are mature working animals owned by institutions, handler lineages, route authorities, storage centers, or private elite households?
+- Which harness, sled, drag, or cart-like systems emerge first under cassowary anatomy and available materials?
+- How does diprotodontid water dependency shape road placement and political control over wells, waterholes, wetlands, and river crossings?
+
+## Diprotodontid Haulage And Road Economics
+
+### Diprotodontid Haulage and Road Economics
+
+Source: `lore/transport/diprotodontid-haulage-and-road-economics.md`
+
+- Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
+- Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
+- Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
+- How much does heavy haulage change tribute volume before writing and formal accounting exist?
+- Which regions develop WTA-style trade systems first?
+
 ## Dromornithid Prestige Handling
 
 ### Dromornithid Prestige Handling
@@ -128,6 +153,7 @@ Source: `lore/biology/fire-incubation-and-extended-juvenile-development.md`
 - How does fire incubation interact with the cassowary neurodevelopment transition timeline?
 - How much longer can egg and juvenile development plausibly extend under domestic fire and food-processing conditions compared to wild nesting?
 - Which bird species are incubated first, and what drives early choices?
+- Which Sahul giant bird lineages cross from chick rearing into true domestication rather than prestige handling?
 
 ## first cassowary arrival in New Zealand
 
@@ -152,6 +178,7 @@ Source: `lore/infrastructure/food-preservation-and-storage-systems.md`
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+- How does heavy haulage change acceptable vessel size, batch movement, and storage-node spacing?
 
 ## Forest refugia and arboreal species
 
@@ -161,6 +188,20 @@ Source: `reference/ecology/forest-refugia-and-arboreal-species.md`
 
 - Which specific upland zones in northeastern Queensland functioned as continuous refugia across multiple consecutive early Pleistocene glacial maxima?
 - What was the minimum corridor width along river systems between New Guinea highland zones and northeastern Australian highland zones that was sufficient to maintain gene flow for cassowary-like large frugivores?
+
+## Giant Goose Domestication And Ridability
+
+### Giant Goose Domestication and Ridability
+
+Source: `lore/domestication/giant-goose-domestication-and-ridability.md`
+
+- Which dromornithid or Australian anseriform giant bird lineages are small, calm, or social enough for true domestication rather than prestige handling?
+- Which Sahul regions provide enough overlap between cassowary settlements and suitable giant bird nesting grounds?
+- When does giant goose domestication begin relative to moa domestication in New Zealand?
+- How long does selection need to produce reliable load-bearing or riding lineages?
+- Which uses emerge first: prestige display, pack transport, route work, or riding?
+- Which military uses emerge first: courier work, scouting, raiding, pursuit, elite shock display, or battlefield formation?
+- Does giant goose management remain regional, or does it spread through specialist handler lineages and exchange networks?
 
 ## Haast's eagle
 
@@ -286,6 +327,7 @@ Source: `lore/transport/moa-domestication-and-ridability.md`
 - Which combination of egg incubation, imprinting, captive breeding, harnessing, and route training best explains ridability?
 - Were the first managed moas hatched from stolen eggs, captured chicks, or both?
 - How long does the New Zealand isolation period need to be before the moa system is mature enough for Sahul import?
+- Which parts of moa handling are inherited from Sahul giant goose management, and which parts are New Zealand-specific innovations?
 
 ## Moa Mounted Warfare
 
@@ -295,6 +337,9 @@ Source: `lore/transport/moa-mounted-warfare.md`
 
 - Which moa lineages are most suitable for warfare and heavy transport use?
 - How does Sahul breeding continue the selection work begun in New Zealand?
+- Where do moa mounts replace giant goose mounts, and where do the two systems remain complementary?
+- Which tactical roles remain better suited to Sahul-native giant geese than imported moas?
+- How do mounted bird units coordinate with slow diprotodontid haulage in campaign logistics?
 
 ## Moas
 
@@ -456,6 +501,7 @@ Source: `lore/infrastructure/transport-networks.md`
 - How early do formal route-maintenance obligations appear?
 - Which chokepoints become stable political centers?
 - How much transport is seasonal versus year-round?
+- When do maintained routes become road-like enough to support heavy diprotodontid haulage?
 
 ## Tribute Collection Counting And Enforcement
 
@@ -469,6 +515,7 @@ Source: `lore/tribute/tribute-collection-counting-and-enforcement.md`
 - How are mixed tribute goods handled before abstract cross-product accounting emerges?
 - How early do formal route-maintenance obligations appear?
 - What kinds of chokepoints become politically central?
+- How does heavy haulage change collection-node spacing and forwarded tribute volume?
 
 ## Tribute Seal Integrity And Authority Marks
 
@@ -491,6 +538,7 @@ Source: `lore/tribute/tribute-sealed-vessel-units.md`
 - How many standardized vessel classes appear before later accounting systems?
 - How are mixed tribute contents normalized, if at all, before abstract accounting?
 - What seal-failure and breakage rates are tolerable before centralized ceramic tribute storage loses political reliability?
+- Does heavy haulage encourage larger vessel classes, or does breakage keep vessel size conservative?
 
 ## Tribute Storage Custody And Redistribution
 
@@ -503,6 +551,7 @@ Source: `lore/tribute/tribute-storage-custody-and-redistribution.md`
 - At what scale do part-time custodians become a stable administrative class tied to regional storage centers?
 - What loss rates from breakage, spoilage, theft, or seizure remain politically tolerable for centralized storage centers?
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
+- How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
 
 ## Uncategorised
 

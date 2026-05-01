@@ -4,10 +4,10 @@ Generated summary bundle for docs tagged with `Storage`.
 
 ## Documents
 
-| Title                                                                                                          | Path                                                         | Layer | Time Periods              | Summary                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)         | lore/infrastructure/ceramic-vessels-and-nest-chambers.md     | Lore  | Ecological Management Era | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md) | lore/infrastructure/food-preservation-and-storage-systems.md | Lore  | Ecological Management Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| Title                                                                                                          | Path                                                         | Layer | Time Periods                                 | Summary                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)         | lore/infrastructure/ceramic-vessels-and-nest-chambers.md     | Lore  | Ecological Management Era                    | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md) | lore/infrastructure/food-preservation-and-storage-systems.md | Lore  | Ecological Management Era, Early History Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
 
 ## Layer Breakdown
 
@@ -46,6 +46,7 @@ No entries found.
 - Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
 - Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
+- Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
 
 ## Open Questions
 
@@ -60,9 +61,11 @@ No entries found.
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+- How does heavy haulage change acceptable vessel size, batch movement, and storage-node spacing?
 
 ## Related Topics
 
+- Bulk Transport
 - Ceramic Vessels And Nest Chambers
 - Ceramics
 - Containers

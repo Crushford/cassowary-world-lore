@@ -145,6 +145,7 @@ Reference docs can say what a fact makes possible or difficult. They must not in
 Whenever a document mentions a defined Cassowary World time period in prose, link it to the generated time index:
 
 - `[Protohistoric Expansion Era](../generated/time/protohistoric-expansion-era.md)`
+- `[Early History Era](../generated/time/early-history-era.md)`
 - `[Ecological Management Era](../generated/time/ecological-management-era.md)`
 - `[Fire and Extended Development Era](../generated/time/fire-and-extended-development-era.md)`
 - `[Claw Development Era](../generated/time/claw-development-era.md)`

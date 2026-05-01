@@ -8,13 +8,14 @@ Real-world baseline for the Dromornithidae, a family of extinct giant flightless
 
 - Primary topic: Dromornithidae
 - Layer: Real-world reference
-- Topics: megafauna, giant flightless birds, Sahul, herbivores, extinct species
+- Topics: megafauna, giant flightless birds, giant geese, dromornithids, Sahul, herbivores, extinct species
 - Regions: Sahul (Australia and New Guinea)
 - Related species: cassowaries (coexisting, distinct lineage); moas (phylogenetically distant)
 
 ## Core Reality
 
 - Dromornithids were extinct giant flightless birds that evolved in Australia and persisted across much of Sahul's prehistory. They are commonly called mihirungs or thunder birds.
+- In Cassowary World lore, "giant goose" means a dromornithid: an Australian anseriform giant bird within the Dromornithidae family. It is a functional and cultural shorthand, not a separate taxonomic group or a precise genus claim.
 - They are not ratites. Phylogenetic evidence places them as relatives of waterfowl, within or near the lineage of ducks, geese, and swans (Anseriformes) — an unusual convergent giant among bird families.
 - Important genera include *Dromornis*, *Bullockornis*, *Genyornis*, and *Ilbandornis*. Size and range varied across genera and time periods. Some rank among the largest known birds by body mass.
 - Current evidence supports large herbivorous or omnivorous birds with massive beaks suited to processing tough vegetation. They were not confirmed specialist predators.
@@ -58,3 +59,4 @@ Real-world baseline for the Dromornithidae, a family of extinct giant flightless
 ## Used By Lore
 
 - [Dromornithid Prestige Handling](../../lore/domestication/dromornithid-prestige-handling.md)
+- [Giant Goose Domestication and Ridability](../../lore/domestication/giant-goose-domestication-and-ridability.md)

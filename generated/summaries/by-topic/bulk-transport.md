@@ -1,6 +1,6 @@
-# Topic Summary: Tribute
+# Topic Summary: Bulk Transport
 
-Generated summary bundle for docs tagged with `Tribute`.
+Generated summary bundle for docs tagged with `Bulk Transport`.
 
 ## Documents
 
@@ -8,9 +8,8 @@ Generated summary bundle for docs tagged with `Tribute`.
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore  | Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
 | [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)                     | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
-| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore  | Ecological Management Era, Early History Era                                                                 | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)                      | lore/infrastructure/food-preservation-and-storage-systems.md           | Lore  | Ecological Management Era, Early History Era                                                                 | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
 | [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)                 | lore/tribute/tribute-collection-counting-and-enforcement.md            | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                   | lore/tribute/tribute-seal-integrity-and-authority-marks.md             | Lore  | Protohistoric Expansion Era                                                                                  | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
 | [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                                 | lore/tribute/tribute-sealed-vessel-units.md                            | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
 | [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)                   | lore/tribute/tribute-storage-custody-and-redistribution.md             | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
 
@@ -28,9 +27,8 @@ No entries found.
 
 - [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md)
 - [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)
-- [Transport Networks](../../../lore/infrastructure/transport-networks.md)
+- [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)
-- [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)
 - [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)
 - [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)
 
@@ -65,16 +63,15 @@ No entries found.
 - Road value depends on animals, loads, water access, rest nodes, and political protection together.
 - Diprotodontid haulage does not replace all transport systems. It adds a slow heavy-transport layer.
 
-### Transport Networks
+### Food Preservation and Storage Systems
 
-- Transport networks are maintained routes and movement nodes rather than abstract space.
-- Route reliability depends on terrain, weather, flooding, predator pressure, and seasonal access.
-- Corridors, river lines, ridge lines, and coastal tracks become more important than uniform open-field movement.
-- Route maintenance requires labor coordination and political incentives because movement infrastructure decays without upkeep.
-- Transport capacity constrains trade and redistribution even when surplus exists.
-- Chokepoints become politically important because they can control movement, taxation, and security.
-- Movement systems are shaped by the fragmented productivity described in the world-state baseline.
-- Heavy haulage animals make roads more economically valuable in the Early History Era, but they depend on earlier route networks.
+- Food preservation systems convert perishable orchard and ant-derived calories into durable stored surplus.
+- The system combines sugar concentration, drying, sealed ceramics, cool storage, and rotation rather than relying on one universal storage method.
+- Preserved sugar paste is the most institutionally important stored calorie because it is dense, sealable, and transportable.
+- Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
+- Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
+- Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
+- Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
 
 ### Tribute Collection Counting and Enforcement
 
@@ -89,19 +86,6 @@ No entries found.
 - Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
 - Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
 - Diprotodontid haulage later increases how much tribute can be forwarded beyond local collection nodes.
-
-### Tribute Seal Integrity and Authority Marks
-
-- A tribute vessel enters custody when it is filled to a recognized standard, closed, sealed, and visibly marked.
-- Closure materials and sealants may vary by region and period, but a trustworthy seal must visibly bind the vessel opening.
-- Opening or tampering with a sealed tribute vessel destroys or visibly disturbs the seal.
-- Authority marks impressed into outer seal material encode household, collection-node, storehouse, elite, or ritual custody without requiring writing.
-- Custody transitions can be witnessed through new seal impressions, allowing a jar to display custody history in visible layers.
-- Marks may be pressed with claws, carved seal tools, or prepared stamp objects.
-- Seal marks distinguish collector and storehouse custody during standardized sealed vessel tribute.
-- Seal trust depends on material durability under heat, humidity, storage conditions, and repeated handling.
-- False marks or imitation seals may emerge once tribute gains value.
-- Seal integrity becomes a state-capacity multiplier because it lets institutions trust stored goods after they leave producer control.
 
 ### Tribute Sealed Vessel Units
 
@@ -152,13 +136,13 @@ No entries found.
 - How much does heavy haulage change tribute volume before writing and formal accounting exist?
 - Which regions develop WTA-style trade systems first?
 
-### Transport Networks
+### Food Preservation and Storage Systems
 
-- Which transport modes dominate earliest by region?
-- How early do formal route-maintenance obligations appear?
-- Which chokepoints become stable political centers?
-- How much transport is seasonal versus year-round?
-- When do maintained routes become road-like enough to support heavy diprotodontid haulage?
+- Which preservation method becomes dominant first in different regions: drying, sugar paste, or mixed storage?
+- Which storage environments are common enough to matter at scale?
+- When do preservation vessels become standardized enough for accounting?
+- How much preservation infrastructure is household-scale versus institutionally controlled?
+- How does heavy haulage change acceptable vessel size, batch movement, and storage-node spacing?
 
 ### Tribute Collection Counting and Enforcement
 
@@ -169,13 +153,6 @@ No entries found.
 - How early do formal route-maintenance obligations appear?
 - What kinds of chokepoints become politically central?
 - How does heavy haulage change collection-node spacing and forwarded tribute volume?
-
-### Tribute Seal Integrity and Authority Marks
-
-- Which seal materials are durable enough in humid Sahul regions for multi-season custody?
-- How many seal-recognition marks can be reliably managed with memory-and-witness systems before symbolic tallying becomes necessary?
-- What loss rates from seal failure remain politically tolerable for centralized storage centers?
-- How common are false marks or imitation seals before later accounting systems emerge?
 
 ### Tribute Sealed Vessel Units
 
@@ -197,11 +174,9 @@ No entries found.
 ## Related Topics
 
 - Administrative Specialization
-- Authority Symbols
-- Bulk Transport
-- Chokepoints
 - Collection
 - Controlled Breeding
+- Cooled Storage
 - Counting
 - Custody
 - Diprotodontid Domestication And Working Lineages
@@ -209,26 +184,24 @@ No entries found.
 - Diprotodontids
 - Domestication
 - Enforcement
+- Food Preservation And Storage Systems
 - Haulage
-- Maintenance
-- Movement
 - Political Authority
+- Preservation
 - Preserved Surplus
 - Redistribution
 - Roads
 - Route Maintenance
-- Routes
-- Seal Marks
+- Sealed Containers
 - Standardized Vessels
+- Storage
 - Storage Control
+- Surplus
 - Taming
-- Tamper Evidence
 - Taxation
-- Trade
 - Transport Economics
-- Transport Networks
+- Tribute
 - Tribute Collection Counting And Enforcement
-- Tribute Seal Integrity And Authority Marks
 - Tribute Sealed Vessel Units
 - Tribute Storage Custody And Redistribution
 - Volume Measurement

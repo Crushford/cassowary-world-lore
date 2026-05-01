@@ -4,13 +4,13 @@ Generated summary bundle for documents in `lore/infrastructure`.
 
 ## Documents
 
-| Title                                                                                                            | Time Periods              | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)           | Ecological Management Era | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)   | Ecological Management Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
-| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | Ecological Management Era | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
-| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | Ecological Management Era | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
-| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                         | Ecological Management Era | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| Title                                                                                                            | Time Periods                                 | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)           | Ecological Management Era                    | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)   | Ecological Management Era, Early History Era | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Pottery-Assisted Ant Nest Architecture](../../../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | Ecological Management Era                    | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
+| [Storage and Ceramic Technology](../../../lore/infrastructure/storage-and-ceramic-technology.md)                 | Ecological Management Era                    | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                         | Ecological Management Era, Early History Era | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
 
 ## Key Atomic Notes
 
@@ -30,6 +30,7 @@ Generated summary bundle for documents in `lore/infrastructure`.
 - Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
 - Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
+- Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
 
 ### Pottery-Assisted Ant Nest Architecture
 
@@ -65,10 +66,12 @@ Generated summary bundle for documents in `lore/infrastructure`.
 - Transport capacity constrains trade and redistribution even when surplus exists.
 - Chokepoints become politically important because they can control movement, taxation, and security.
 - Movement systems are shaped by the fragmented productivity described in the world-state baseline.
+- Heavy haulage animals make roads more economically valuable in the Early History Era, but they depend on earlier route networks.
 
 ## Related Documents
 
 - [Ceramic Vessels and Nest Chambers](../../../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)
+- [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [History and Timeline](../../../03-history-and-timeline.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
@@ -99,6 +102,7 @@ Generated summary bundle for documents in `lore/infrastructure`.
 - Which storage environments are common enough to matter at scale?
 - When do preservation vessels become standardized enough for accounting?
 - How much preservation infrastructure is household-scale versus institutionally controlled?
+- How does heavy haulage change acceptable vessel size, batch movement, and storage-node spacing?
 
 ### Pottery-Assisted Ant Nest Architecture
 
@@ -122,3 +126,4 @@ Generated summary bundle for documents in `lore/infrastructure`.
 - How early do formal route-maintenance obligations appear?
 - Which chokepoints become stable political centers?
 - How much transport is seasonal versus year-round?
+- When do maintained routes become road-like enough to support heavy diprotodontid haulage?

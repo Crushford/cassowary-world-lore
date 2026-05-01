@@ -19,6 +19,7 @@ Generated from source document `Time periods` metadata.
 | Title                                                                                                                                             | Path                                                                          | Layer | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Cassowary Neurodevelopment and Predator Management Transition](../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md | Lore  | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... |
+| [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md)                     | lore/domestication/diprotodontid-domestication-and-working-lineages.md        | Lore  | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
 | [Fire Incubation and Extended Juvenile Development](../lore/biology/fire-incubation-and-extended-juvenile-development.md)                         | lore/biology/fire-incubation-and-extended-juvenile-development.md             | Lore  | This document establishes fire-assisted egg incubation as a core cassowary domestic technology and explains how it ma... |
 
 ### Key Atomic Notes
@@ -32,6 +33,18 @@ Generated from source document `Time periods` metadata.
 - Cassowary Neurodevelopment and Predator Management Transition: Adolescence acts as a coalition filter that stress-tests impulse control and social judgment.
 - Cassowary Neurodevelopment and Predator Management Transition: Adult cognition improves slowly through continued integration rather than a single growth spurt.
 - Cassowary Neurodevelopment and Predator Management Transition: Cassowary predators become manageable risks rather than erased enemies.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid domestication begins with observation, not capture.
+- Diprotodontid Domestication and Working Lineages: Early cassowaries do not impose systematic hunting pressure because their food base is primarily fruit, preserved sugar, and managed forest resources.
+- Diprotodontid Domestication and Working Lineages: Repeated non-predatory proximity lets cassowaries learn diprotodontid movement, waterhole timing, feeding routes, and stress signals.
+- Diprotodontid Domestication and Working Lineages: Juvenile intervention creates the behavioural bridge, but it is slower and less reliable than bird imprinting.
+- Diprotodontid Domestication and Working Lineages: Early managed animals are tamed individuals, not domestic lineages.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid work begins before controlled breeding, through restrained and trained individuals used for clearing, dragging, and path work.
+- Diprotodontid Domestication and Working Lineages: True domestication begins only when calmer individuals can be selected and bred across generations.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid working lineages are slow, powerful, water-dependent, expensive, and institutionally valuable.
+- Diprotodontid Domestication and Working Lineages: Heavy haulage in the Early History Era makes durable roads economically worthwhile.
+- Diprotodontid Domestication and Working Lineages: Political control over trained animals, breeding herds, handlers, and water access becomes economic power.
+- Diprotodontid Domestication and Working Lineages: Diprotodontids are not cavalry, fast transport, primary food animals, or household livestock.
+- Diprotodontid Domestication and Working Lineages: Loss of trained animals disrupts transport, tribute movement, and regional redistribution because they cannot be quickly replaced.
 - Fire Incubation and Extended Juvenile Development: Cassowary domestic life includes controlled fire in and near inhabited spaces across the relevant time window.
 - Fire Incubation and Extended Juvenile Development: Fire creates stable warm environments suitable for egg incubation outside the nest.
 - Fire Incubation and Extended Juvenile Development: Fire-assisted incubation gives handlers more control over egg development than exposed wild nesting allows.
@@ -39,30 +52,32 @@ Generated from source document `Time periods` metadata.
 - Fire Incubation and Extended Juvenile Development: Longer juvenile dependency under domestic conditions supports extended learning, social transmission, and the acquisition of technical skills.
 - Fire Incubation and Extended Juvenile Development: Fire incubation knowledge transfers to eggs taken from other bird species.
 - Fire Incubation and Extended Juvenile Development: Bird chicks do not require milk. Stolen or opportunistically collected eggs from other species can be incubated and raised by cassowary households using existing fire and food-processing infrastructure.
-- Fire Incubation and Extended Juvenile Development: This mechanism makes later moa domestication in New Zealand plausible and rare dromornithid prestige handling in Sahul possible.
+- Fire Incubation and Extended Juvenile Development: This mechanism makes giant goose domestication in Sahul, later moa domestication in New Zealand, and rare dromornithid prestige handling possible.
 
 ## Ecological Management Era
 
-| Title                                                                                                            | Path                                                           | Layer       | Summary                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Aphid Stabilization](../lore/ecology/aphid-stabilization.md)                                                    | lore/ecology/aphid-stabilization.md                            | Lore        | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
-| [Ceramic Vessels and Nest Chambers](../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)                 | lore/infrastructure/ceramic-vessels-and-nest-chambers.md       | Lore        | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
-| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md)                        | lore/domestication/dromornithid-prestige-handling.md           | Lore        | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
-| [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)         | lore/infrastructure/food-preservation-and-storage-systems.md   | Lore        | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
-| [Honeypot Ant Harvesting](../lore/honeypot-ants/honeypot-ant-harvesting.md)                                      | lore/honeypot-ants/honeypot-ant-harvesting.md                  | Lore        | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
-| [Honeypot Ant Nest Splitting](../lore/divergences/honeypot-ant-nest-splitting.md)                                | lore/divergences/honeypot-ant-nest-splitting.md                | Divergences | This divergence file tracks the Cassowary World change that makes one domesticated honeypot ant lineage more scalable... |
-| [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)        | lore/honeypot-ants/honeypot-ant-orchard-system-management.md   | Lore        | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
-| [Honeypot Ant Sugar Preservation](../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                      | lore/honeypot-ants/honeypot-ant-sugar-preservation.md          | Lore        | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
-| [Honeypot Ant Yield and Surplus Capacity](../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md)      | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md  | Lore        | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
-| [Managed Ant Lineages](../lore/honeypot-ants/managed-ant-lineages.md)                                            | lore/honeypot-ants/managed-ant-lineages.md                     | Lore        | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
-| [Orchard Lineage Management](../lore/agriculture/orchard-lineage-management.md)                                  | lore/agriculture/orchard-lineage-management.md                 | Lore        | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... |
-| [Orchard Sugar Tree Lineages](../lore/agriculture/orchard-sugar-tree-lineages.md)                                | lore/agriculture/orchard-sugar-tree-lineages.md                | Lore        | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... |
-| [Pottery-Assisted Ant Nest Architecture](../lore/infrastructure/pottery-assisted-ant-nest-architecture.md)       | lore/infrastructure/pottery-assisted-ant-nest-architecture.md  | Lore        | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
-| [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                        | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md           | Lore        | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
-| [Sahul Food Forest Functional Crop Portfolio](../lore/frameworks/sahul-food-forest-functional-crop-portfolio.md) | lore/frameworks/sahul-food-forest-functional-crop-portfolio.md | Lore        | This document answers how cassowary agriculture can scale across Sahul by preserving crop roles rather than forcing o... |
-| [Sap-Feeder Lineages and Honeydew Flow](../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)                | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md          | Lore        | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
-| [Storage and Ceramic Technology](../lore/infrastructure/storage-and-ceramic-technology.md)                       | lore/infrastructure/storage-and-ceramic-technology.md          | Lore        | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
-| [Transport Networks](../lore/infrastructure/transport-networks.md)                                               | lore/infrastructure/transport-networks.md                      | Lore        | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| Title                                                                                                                         | Path                                                                   | Layer       | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Aphid Stabilization](../lore/ecology/aphid-stabilization.md)                                                                 | lore/ecology/aphid-stabilization.md                                    | Lore        | This document answers how cassowaries keep aphid and sap-feeder-host relationships productive enough to sustain predi... |
+| [Ceramic Vessels and Nest Chambers](../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)                              | lore/infrastructure/ceramic-vessels-and-nest-chambers.md               | Lore        | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... |
+| [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore        | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
+| [Dromornithid Prestige Handling](../lore/domestication/dromornithid-prestige-handling.md)                                     | lore/domestication/dromornithid-prestige-handling.md                   | Lore        | This document covers the rare practice of dromornithid egg capture, chick rearing, and handling among some Sahul cass... |
+| [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)                      | lore/infrastructure/food-preservation-and-storage-systems.md           | Lore        | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md)                 | lore/domestication/giant-goose-domestication-and-ridability.md         | Lore        | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... |
+| [Honeypot Ant Harvesting](../lore/honeypot-ants/honeypot-ant-harvesting.md)                                                   | lore/honeypot-ants/honeypot-ant-harvesting.md                          | Lore        | This document answers how cassowaries make honeypot ant reserves accessible and harvest them without collapsing the c... |
+| [Honeypot Ant Nest Splitting](../lore/divergences/honeypot-ant-nest-splitting.md)                                             | lore/divergences/honeypot-ant-nest-splitting.md                        | Divergences | This divergence file tracks the Cassowary World change that makes one domesticated honeypot ant lineage more scalable... |
+| [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)                     | lore/honeypot-ants/honeypot-ant-orchard-system-management.md           | Lore        | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... |
+| [Honeypot Ant Sugar Preservation](../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                                   | lore/honeypot-ants/honeypot-ant-sugar-preservation.md                  | Lore        | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... |
+| [Honeypot Ant Yield and Surplus Capacity](../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md)                   | lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md          | Lore        | This document answers yield without false precision. Honeypot ant civilisation works through aggregation, not through... |
+| [Managed Ant Lineages](../lore/honeypot-ants/managed-ant-lineages.md)                                                         | lore/honeypot-ants/managed-ant-lineages.md                             | Lore        | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
+| [Orchard Lineage Management](../lore/agriculture/orchard-lineage-management.md)                                               | lore/agriculture/orchard-lineage-management.md                         | Lore        | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... |
+| [Orchard Sugar Tree Lineages](../lore/agriculture/orchard-sugar-tree-lineages.md)                                             | lore/agriculture/orchard-sugar-tree-lineages.md                        | Lore        | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... |
+| [Pottery-Assisted Ant Nest Architecture](../lore/infrastructure/pottery-assisted-ant-nest-architecture.md)                    | lore/infrastructure/pottery-assisted-ant-nest-architecture.md          | Lore        | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  |
+| [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                                     | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md                   | Lore        | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
+| [Sahul Food Forest Functional Crop Portfolio](../lore/frameworks/sahul-food-forest-functional-crop-portfolio.md)              | lore/frameworks/sahul-food-forest-functional-crop-portfolio.md         | Lore        | This document answers how cassowary agriculture can scale across Sahul by preserving crop roles rather than forcing o... |
+| [Sap-Feeder Lineages and Honeydew Flow](../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)                             | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md                  | Lore        | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... |
+| [Storage and Ceramic Technology](../lore/infrastructure/storage-and-ceramic-technology.md)                                    | lore/infrastructure/storage-and-ceramic-technology.md                  | Lore        | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... |
+| [Transport Networks](../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore        | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
 
 ### Key Atomic Notes
 
@@ -81,21 +96,51 @@ Generated from source document `Time periods` metadata.
 - Ceramic Vessels and Nest Chambers: Standardised vessel volume does not emerge from pottery making alone; it requires deliberate production standardisation.
 - Ceramic Vessels and Nest Chambers: Sealing quality depends on firing temperature and sealant; low-temperature vessels are permeable and unsuitable for liquid storage.
 - Ceramic Vessels and Nest Chambers: Ceramic breakage is a real operational constraint, not a marginal risk; fragility limits how far and reliably ceramic infrastructure can extend.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid domestication begins with observation, not capture.
+- Diprotodontid Domestication and Working Lineages: Early cassowaries do not impose systematic hunting pressure because their food base is primarily fruit, preserved sugar, and managed forest resources.
+- Diprotodontid Domestication and Working Lineages: Repeated non-predatory proximity lets cassowaries learn diprotodontid movement, waterhole timing, feeding routes, and stress signals.
+- Diprotodontid Domestication and Working Lineages: Juvenile intervention creates the behavioural bridge, but it is slower and less reliable than bird imprinting.
+- Diprotodontid Domestication and Working Lineages: Early managed animals are tamed individuals, not domestic lineages.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid work begins before controlled breeding, through restrained and trained individuals used for clearing, dragging, and path work.
+- Diprotodontid Domestication and Working Lineages: True domestication begins only when calmer individuals can be selected and bred across generations.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid working lineages are slow, powerful, water-dependent, expensive, and institutionally valuable.
+- Diprotodontid Domestication and Working Lineages: Heavy haulage in the Early History Era makes durable roads economically worthwhile.
+- Diprotodontid Domestication and Working Lineages: Political control over trained animals, breeding herds, handlers, and water access becomes economic power.
+- Diprotodontid Domestication and Working Lineages: Diprotodontids are not cavalry, fast transport, primary food animals, or household livestock.
+- Diprotodontid Domestication and Working Lineages: Loss of trained animals disrupts transport, tribute movement, and regional redistribution because they cannot be quickly replaced.
 - Dromornithid Prestige Handling: Some Sahul cassowary societies experiment with dromornithid egg capture, chick rearing, and juvenile handling.
 - Dromornithid Prestige Handling: This is enabled by the same fire-assisted incubation knowledge developed in cassowary domestic life and applied to moa domestication in New Zealand.
-- Dromornithid Prestige Handling: Dromornithids are not primarily sought for meat, routine egg production, or general transport.
+- Dromornithid Prestige Handling: Most handled dromornithids are not primarily sought for meat, routine egg production, general transport, or warfare.
 - Dromornithid Prestige Handling: Their value is prestige, ritual display, elite danger-handling, and political theatre.
 - Dromornithid Prestige Handling: Handling a dromornithid demonstrates access to rare knowledge, high-risk capability, and social resources.
 - Dromornithid Prestige Handling: Dromornithids are dangerous, regionally specific, and difficult to manage. Adult specimens remain hazardous throughout their lives.
 - Dromornithid Prestige Handling: Dromornithid handling is more analogous to falconry, royal elephant keeping, or aristocratic management of dangerous prestige animals than to ordinary livestock production.
-- Dromornithid Prestige Handling: Riding, if it occurs at all, is ceremonial, elite, and limited. It is not widespread cavalry or routine transport.
-- Dromornithid Prestige Handling: Dromornithids are not a general replacement for moas. They occupy a different social niche entirely.
+- Dromornithid Prestige Handling: Riding within prestige-handling traditions, if it occurs at all, is ceremonial, elite, and limited.
+- Dromornithid Prestige Handling: Domesticated giant goose lineages are a separate category from prestige-handled dromornithid individuals.
 - Food Preservation and Storage Systems: Food preservation systems convert perishable orchard and ant-derived calories into durable stored surplus.
 - Food Preservation and Storage Systems: The system combines sugar concentration, drying, sealed ceramics, cool storage, and rotation rather than relying on one universal storage method.
 - Food Preservation and Storage Systems: Preserved sugar paste is the most institutionally important stored calorie because it is dense, sealable, and transportable.
 - Food Preservation and Storage Systems: Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
 - Food Preservation and Storage Systems: Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Food Preservation and Storage Systems: Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
+- Food Preservation and Storage Systems: Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
+- Giant Goose Domestication and Ridability: Cassowary fire use begins as a survival and food-processing behaviour before it becomes a mature domestic technology.
+- Giant Goose Domestication and Ridability: Fire improves digestibility and food reliability, giving it a broad civilizational role similar to cooking in human societies.
+- Giant Goose Domestication and Ridability: Fire also changes cassowary reproduction by making warmer, more stable egg incubation possible in managed shelters.
+- Giant Goose Domestication and Ridability: Over evolutionary and cultural time, intelligent cassowary eggs become dependent on warmer and more stable incubation than unmanaged nests reliably provide.
+- Giant Goose Domestication and Ridability: Fire shelters, controlled warmth, humidity management, egg turning, nest protection, chick emergence, and long juvenile care become normal cassowary household knowledge.
+- Giant Goose Domestication and Ridability: This mature incubation culture exists before large bird domestication.
+- Giant Goose Domestication and Ridability: Once cassowaries are expert egg managers, eggs of other bird species become plausible management targets.
+- Giant Goose Domestication and Ridability: Australian giant geese are geographically easier targets than moas because they can be encountered within Sahul and do not require New Zealand contact.
+- Giant Goose Domestication and Ridability: Egg capture matters more than adult capture because eggs can be incubated, hatched, and socially shaped before dangerous adult behaviour develops.
+- Giant Goose Domestication and Ridability: Imprinting is the key bridge between wild giant goose biology and cassowary handling.
+- Giant Goose Domestication and Ridability: Captive breeding selects for calmness, handler tolerance, flock manageability, route tolerance, and load tolerance.
+- Giant Goose Domestication and Ridability: Ridability develops gradually from handler familiarity, pack use, harness experiments, route work, and multi-generation selection.
+- Giant Goose Domestication and Ridability: Some ridable giant goose lineages become military mounts in regions where breeding, route infrastructure, handler training, and feed access are stable enough to support them.
+- Giant Goose Domestication and Ridability: Wild adult giant geese are not automatically rideable and remain dangerous.
+- Giant Goose Domestication and Ridability: Not all giant goose species, populations, or managed lineages become rideable.
+- Giant Goose Domestication and Ridability: Giant goose mounted warfare is regional and lineage-specific. It is not automatic dromornithid cavalry.
+- Giant Goose Domestication and Ridability: Fire incubation enables chick rearing, but it does not erase ecological, behavioural, size, or terrain constraints.
 - Honeypot Ant Harvesting: Cassowaries make ant reserves harvestable by placing clay vessels or ceramic chambers near colony entrances and likely expansion zones.
 - Honeypot Ant Harvesting: Artificial chambers encourage nest expansion when they provide stable, protected, dry volume — the chamber creates harvestable space, not new storage behaviour.
 - Honeypot Ant Harvesting: Pottery-assisted localization concentrates repletes into predictable access points without creating the replete-storage trait.
@@ -223,23 +268,45 @@ Generated from source document `Time periods` metadata.
 - Transport Networks: Transport capacity constrains trade and redistribution even when surplus exists.
 - Transport Networks: Chokepoints become politically important because they can control movement, taxation, and security.
 - Transport Networks: Movement systems are shaped by the fragmented productivity described in the world-state baseline.
+- Transport Networks: Heavy haulage animals make roads more economically valuable in the Early History Era, but they depend on earlier route networks.
 
 ## Protohistoric Expansion Era
 
-| Title                                                                                                                                 | Path                                                        | Layer     | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                                                           | lore/transport/first-new-zealand-arrival.md                 | Lore      | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
-| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                                             | lore/transport/moa-domestication-and-ridability.md          | Lore      | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
-| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                                                       | lore/transport/moa-mounted-warfare.md                       | Lore      | This document explains how moas function as mounts and transport animals in Cassowary World. It tracks import from Ne... |
-| [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md)                                         | lore/transport/sahul-new-zealand-maritime-contact.md        | Lore      | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
-| [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)                         | lore/tribute/tribute-collection-counting-and-enforcement.md | Lore      | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                           | lore/tribute/tribute-seal-integrity-and-authority-marks.md  | Lore      | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Sealed Vessel Units](../lore/tribute/tribute-sealed-vessel-units.md)                                                         | lore/tribute/tribute-sealed-vessel-units.md                 | Lore      | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
-| [Tribute Storage Custody and Redistribution](../lore/tribute/tribute-storage-custody-and-redistribution.md)                           | lore/tribute/tribute-storage-custody-and-redistribution.md  | Lore      | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md        | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
+| Title                                                                                                                                 | Path                                                                   | Layer     | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md)         | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore      | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
+| [Diprotodontid Haulage and Road Economics](../lore/transport/diprotodontid-haulage-and-road-economics.md)                             | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore      | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
+| [First New Zealand Arrival](../lore/transport/first-new-zealand-arrival.md)                                                           | lore/transport/first-new-zealand-arrival.md                            | Lore      | This document establishes that cassowaries reached New Zealand before the regular Sahul-New Zealand maritime trade ro... |
+| [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                                             | lore/transport/moa-domestication-and-ridability.md                     | Lore      | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... |
+| [Moa Mounted Warfare](../lore/transport/moa-mounted-warfare.md)                                                                       | lore/transport/moa-mounted-warfare.md                                  | Lore      | This document explains how moas function as imported mounts and transport animals in Cassowary World. It tracks impor... |
+| [Sahul-New Zealand Maritime Contact](../lore/transport/sahul-new-zealand-maritime-contact.md)                                         | lore/transport/sahul-new-zealand-maritime-contact.md                   | Lore      | This document covers the later regular contact and trade between Sahul societies and established New Zealand cassowar... |
+| [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)                         | lore/tribute/tribute-collection-counting-and-enforcement.md            | Lore      | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                           | lore/tribute/tribute-seal-integrity-and-authority-marks.md             | Lore      | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../lore/tribute/tribute-sealed-vessel-units.md)                                                         | lore/tribute/tribute-sealed-vessel-units.md                            | Lore      | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../lore/tribute/tribute-storage-custody-and-redistribution.md)                           | lore/tribute/tribute-storage-custody-and-redistribution.md             | Lore      | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md                   | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ### Key Atomic Notes
 
+- Diprotodontid Domestication and Working Lineages: Diprotodontid domestication begins with observation, not capture.
+- Diprotodontid Domestication and Working Lineages: Early cassowaries do not impose systematic hunting pressure because their food base is primarily fruit, preserved sugar, and managed forest resources.
+- Diprotodontid Domestication and Working Lineages: Repeated non-predatory proximity lets cassowaries learn diprotodontid movement, waterhole timing, feeding routes, and stress signals.
+- Diprotodontid Domestication and Working Lineages: Juvenile intervention creates the behavioural bridge, but it is slower and less reliable than bird imprinting.
+- Diprotodontid Domestication and Working Lineages: Early managed animals are tamed individuals, not domestic lineages.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid work begins before controlled breeding, through restrained and trained individuals used for clearing, dragging, and path work.
+- Diprotodontid Domestication and Working Lineages: True domestication begins only when calmer individuals can be selected and bred across generations.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid working lineages are slow, powerful, water-dependent, expensive, and institutionally valuable.
+- Diprotodontid Domestication and Working Lineages: Heavy haulage in the Early History Era makes durable roads economically worthwhile.
+- Diprotodontid Domestication and Working Lineages: Political control over trained animals, breeding herds, handlers, and water access becomes economic power.
+- Diprotodontid Domestication and Working Lineages: Diprotodontids are not cavalry, fast transport, primary food animals, or household livestock.
+- Diprotodontid Domestication and Working Lineages: Loss of trained animals disrupts transport, tribute movement, and regional redistribution because they cannot be quickly replaced.
+- Diprotodontid Haulage and Road Economics: Before diprotodontid haulage, transport is limited by cassowary carrying capacity, terrain, seasonal access, mounted bird limits, and river or coastal availability.
+- Diprotodontid Haulage and Road Economics: Diprotodontids allow bulk movement where water, forage, terrain, and route support make heavy animals viable.
+- Diprotodontid Haulage and Road Economics: Roads reduce the energy cost and injury risk of moving heavy animals with heavy loads.
+- Diprotodontid Haulage and Road Economics: Route maintenance becomes profitable when it increases the load moved per animal, per handler, and per season.
+- Diprotodontid Haulage and Road Economics: Heavy haulage makes forwarded tribute and larger storage centers more practical.
+- Diprotodontid Haulage and Road Economics: Road value depends on animals, loads, water access, rest nodes, and political protection together.
+- Diprotodontid Haulage and Road Economics: Diprotodontid haulage does not replace all transport systems. It adds a slow heavy-transport layer.
 - First New Zealand Arrival: Cassowary presence in New Zealand begins before regular Sahul-New Zealand maritime trade routes.
 - First New Zealand Arrival: First arrival occurs thousands of years or more before the later moa trade system.
 - First New Zealand Arrival: The exact mechanism of first arrival is unresolved.
@@ -253,7 +320,7 @@ Generated from source document `Time periods` metadata.
 - First New Zealand Arrival: The absence from Indonesia is established canon. The reason for that absence is not resolved.
 - First New Zealand Arrival: Possible contributing factors include: deep-water channels toward the west that persist even at glacial maximum sea levels; dangerous open-sea crossing conditions; and the possibility that cassowary food systems and orchard crops do not establish well in the different ecologies of the Indonesian island chain. None of these is confirmed as the primary cause.
 - Moa Domestication and Ridability: Moa domestication begins in New Zealand, before regular trade contact with Sahul.
-- Moa Domestication and Ridability: Early New Zealand cassowaries use egg capture and fire-assisted incubation, drawing on knowledge also used in cassowary domestic life.
+- Moa Domestication and Ridability: Early New Zealand cassowaries use egg capture and fire-assisted incubation, drawing on knowledge used in cassowary domestic life and in earlier Sahul large-bird management.
 - Moa Domestication and Ridability: Moa chicks can be raised by cassowary households because they do not require milk. Stolen or managed eggs can be incubated and hatched under fire conditions.
 - Moa Domestication and Ridability: Moa chicks raised from hatching under cassowary care imprint on cassowary handlers.
 - Moa Domestication and Ridability: Captive breeding across generations selects for calmness, manageable temperament, route tolerance, load tolerance, and handler responsiveness.
@@ -261,13 +328,18 @@ Generated from source document `Time periods` metadata.
 - Moa Domestication and Ridability: Ridability develops gradually from extended handling, pack use, harnessing experiments, and route work. It is not assumed from the start.
 - Moa Domestication and Ridability: Riding remains elite, terrain-limited, and technically supported by purpose-designed harness systems.
 - Moa Domestication and Ridability: Wild adult moas are not assumed to be rideable. Ridability requires generations of managed selection.
-- Moa Domestication and Ridability: Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch.
+- Moa Domestication and Ridability: Later Sahul imports already managed or semi-domesticated moa lineages from New Zealand communities. Sahul does not begin domestication from scratch and does not abandon Sahul-native giant goose mount traditions where those already exist.
 - Moa Domestication and Ridability: Moas remain moas. They do not become horse-like. Their capabilities, speeds, temperament range, and ecological requirements reflect a large ratite under managed but not infinitely plastic selection.
+- Moa Domestication and Ridability: Moa and giant goose mounts provide movement and military roles that differ from slow diprotodontid haulage.
 - Moa Mounted Warfare: The northern empire imports moas from New Zealand and breeds them across Sahul.
 - Moa Mounted Warfare: Moas become part of warfare and transport systems rather than remaining a local curiosity.
 - Moa Mounted Warfare: Cassowaries ride moas in Sahul, so the system must support mount use in practice.
 - Moa Mounted Warfare: The ridability mechanism is addressed in [Moa Domestication and Ridability](moa-domestication-and-ridability.md) as a Canon Candidate. It remains under review but is no longer entirely absent.
 - Moa Mounted Warfare: Moas arrive in Sahul from New Zealand via the maritime contact system described in [Sahul-New Zealand Maritime Contact](sahul-new-zealand-maritime-contact.md), as already-managed lineages rather than wild captures.
+- Moa Mounted Warfare: Moa mounted warfare does not require the absence of giant goose mounted warfare. The two systems occupy different logistical and military niches.
+- Moa Mounted Warfare: Giant goose mounts are Sahul-native, regional, lineage-specific, and tied to local breeding and ecological constraints.
+- Moa Mounted Warfare: Moa imports are valuable because New Zealand lineages may offer different size, temperament, endurance, terrain performance, or institutional standardisation.
+- Moa Mounted Warfare: Moa mounted warfare remains distinct from diprotodontid haulage. Moas move riders and selected loads; diprotodontids move bulk goods slowly through road systems.
 - Sahul-New Zealand Maritime Contact: Regular Sahul-New Zealand maritime contact begins much later than first arrival.
 - Sahul-New Zealand Maritime Contact: The route connects Sahul societies to already-established New Zealand cassowary populations with existing moa-handling traditions.
 - Sahul-New Zealand Maritime Contact: Sahul does not arrive in New Zealand to begin moa domestication from scratch. It imports animals and lineages that New Zealand communities have already been managing.
@@ -285,6 +357,7 @@ Generated from source document `Time periods` metadata.
 - Tribute Collection Counting and Enforcement: Standardized vessels create recurring administrative labor in sealing, inspecting, guarding, sorting, rotating, collecting, and redistributing stored goods.
 - Tribute Collection Counting and Enforcement: Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
 - Tribute Collection Counting and Enforcement: Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
+- Tribute Collection Counting and Enforcement: Diprotodontid haulage later increases how much tribute can be forwarded beyond local collection nodes.
 - Tribute Seal Integrity and Authority Marks: A tribute vessel enters custody when it is filled to a recognized standard, closed, sealed, and visibly marked.
 - Tribute Seal Integrity and Authority Marks: Closure materials and sealants may vary by region and period, but a trustworthy seal must visibly bind the vessel opening.
 - Tribute Seal Integrity and Authority Marks: Opening or tampering with a sealed tribute vessel destroys or visibly disturbs the seal.
@@ -305,6 +378,7 @@ Generated from source document `Time periods` metadata.
 - Tribute Sealed Vessel Units: Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
 - Tribute Sealed Vessel Units: Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
 - Tribute Sealed Vessel Units: Nest-assist pots stay in the orchard and are managed by orchard keepers. Tribute jars travel between orchards, storage centres, and redistribution facilities, and are managed by tribute collectors and custodians.
+- Tribute Sealed Vessel Units: Diprotodontid haulage later allows larger batches of sealed vessels to move between collection nodes and storage centers.
 - Tribute Storage Custody and Redistribution: Tribute institutions emerge when sealed surplus moves from household storage into recognized custody.
 - Tribute Storage Custody and Redistribution: Household storage keeps surplus dispersed, situational, and low-leverage because producers retain physical control.
 - Tribute Storage Custody and Redistribution: Communal storage makes contributions publicly visible during seasonal gatherings while custody remains socially negotiated.
@@ -317,3 +391,88 @@ Generated from source document `Time periods` metadata.
 - Tribute Storage Custody and Redistribution: Priority redistribution can reward compliant households, allies, and dependents.
 - Tribute Storage Custody and Redistribution: Coercive extraction without redistribution can collapse compliance coalitions.
 - Tribute Storage Custody and Redistribution: Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
+- Tribute Storage Custody and Redistribution: Diprotodontid haulage later expands the practical catchment area of storage centers where roads and water access support heavy transport.
+
+## Early History Era
+
+| Title                                                                                                                         | Path                                                                   | Layer | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore  | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
+| [Diprotodontid Haulage and Road Economics](../lore/transport/diprotodontid-haulage-and-road-economics.md)                     | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore  | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
+| [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)                      | lore/infrastructure/food-preservation-and-storage-systems.md           | Lore  | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Transport Networks](../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore  | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| [Tribute Collection Counting and Enforcement](../lore/tribute/tribute-collection-counting-and-enforcement.md)                 | lore/tribute/tribute-collection-counting-and-enforcement.md            | Lore  | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Sealed Vessel Units](../lore/tribute/tribute-sealed-vessel-units.md)                                                 | lore/tribute/tribute-sealed-vessel-units.md                            | Lore  | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../lore/tribute/tribute-storage-custody-and-redistribution.md)                   | lore/tribute/tribute-storage-custody-and-redistribution.md             | Lore  | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+
+### Key Atomic Notes
+
+- Diprotodontid Domestication and Working Lineages: Diprotodontid domestication begins with observation, not capture.
+- Diprotodontid Domestication and Working Lineages: Early cassowaries do not impose systematic hunting pressure because their food base is primarily fruit, preserved sugar, and managed forest resources.
+- Diprotodontid Domestication and Working Lineages: Repeated non-predatory proximity lets cassowaries learn diprotodontid movement, waterhole timing, feeding routes, and stress signals.
+- Diprotodontid Domestication and Working Lineages: Juvenile intervention creates the behavioural bridge, but it is slower and less reliable than bird imprinting.
+- Diprotodontid Domestication and Working Lineages: Early managed animals are tamed individuals, not domestic lineages.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid work begins before controlled breeding, through restrained and trained individuals used for clearing, dragging, and path work.
+- Diprotodontid Domestication and Working Lineages: True domestication begins only when calmer individuals can be selected and bred across generations.
+- Diprotodontid Domestication and Working Lineages: Diprotodontid working lineages are slow, powerful, water-dependent, expensive, and institutionally valuable.
+- Diprotodontid Domestication and Working Lineages: Heavy haulage in the Early History Era makes durable roads economically worthwhile.
+- Diprotodontid Domestication and Working Lineages: Political control over trained animals, breeding herds, handlers, and water access becomes economic power.
+- Diprotodontid Domestication and Working Lineages: Diprotodontids are not cavalry, fast transport, primary food animals, or household livestock.
+- Diprotodontid Domestication and Working Lineages: Loss of trained animals disrupts transport, tribute movement, and regional redistribution because they cannot be quickly replaced.
+- Diprotodontid Haulage and Road Economics: Before diprotodontid haulage, transport is limited by cassowary carrying capacity, terrain, seasonal access, mounted bird limits, and river or coastal availability.
+- Diprotodontid Haulage and Road Economics: Diprotodontids allow bulk movement where water, forage, terrain, and route support make heavy animals viable.
+- Diprotodontid Haulage and Road Economics: Roads reduce the energy cost and injury risk of moving heavy animals with heavy loads.
+- Diprotodontid Haulage and Road Economics: Route maintenance becomes profitable when it increases the load moved per animal, per handler, and per season.
+- Diprotodontid Haulage and Road Economics: Heavy haulage makes forwarded tribute and larger storage centers more practical.
+- Diprotodontid Haulage and Road Economics: Road value depends on animals, loads, water access, rest nodes, and political protection together.
+- Diprotodontid Haulage and Road Economics: Diprotodontid haulage does not replace all transport systems. It adds a slow heavy-transport layer.
+- Food Preservation and Storage Systems: Food preservation systems convert perishable orchard and ant-derived calories into durable stored surplus.
+- Food Preservation and Storage Systems: The system combines sugar concentration, drying, sealed ceramics, cool storage, and rotation rather than relying on one universal storage method.
+- Food Preservation and Storage Systems: Preserved sugar paste is the most institutionally important stored calorie because it is dense, sealable, and transportable.
+- Food Preservation and Storage Systems: Preservation becomes administratively important when stored calories can be measured, guarded, rotated, and redistributed across seasons.
+- Food Preservation and Storage Systems: Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
+- Food Preservation and Storage Systems: Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
+- Food Preservation and Storage Systems: Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
+- Transport Networks: Transport networks are maintained routes and movement nodes rather than abstract space.
+- Transport Networks: Route reliability depends on terrain, weather, flooding, predator pressure, and seasonal access.
+- Transport Networks: Corridors, river lines, ridge lines, and coastal tracks become more important than uniform open-field movement.
+- Transport Networks: Route maintenance requires labor coordination and political incentives because movement infrastructure decays without upkeep.
+- Transport Networks: Transport capacity constrains trade and redistribution even when surplus exists.
+- Transport Networks: Chokepoints become politically important because they can control movement, taxation, and security.
+- Transport Networks: Movement systems are shaped by the fragmented productivity described in the world-state baseline.
+- Transport Networks: Heavy haulage animals make roads more economically valuable in the Early History Era, but they depend on earlier route networks.
+- Tribute Collection Counting and Enforcement: Tribute collection is a transport-and-custody process built around standard vessels.
+- Tribute Collection Counting and Enforcement: Households or local groups fill and seal tribute vessels after preservation cycles, then carry them during seasonal gathering windows.
+- Tribute Collection Counting and Enforcement: Collection occurs at socially agreed nodes where vessels are counted and sorted through visible form, seal status, and public witnessing rather than abstract written accounts.
+- Tribute Collection Counting and Enforcement: Selected tribute shares may be retained locally or forwarded to regional storage nodes.
+- Tribute Collection Counting and Enforcement: Poor routes or seasonal access failures make tribute collection more local, episodic, and dependent on nearby storage nodes.
+- Tribute Collection Counting and Enforcement: Intake practices combine sorting, custody seals, and stock rotation into one visible administrative routine.
+- Tribute Collection Counting and Enforcement: Early tribute enforcement uses control of stored food, productive orchard zones, protected ant-management areas, and coalition dominance rather than specialized police forces.
+- Tribute Collection Counting and Enforcement: Standardized vessels create recurring administrative labor in sealing, inspecting, guarding, sorting, rotating, collecting, and redistributing stored goods.
+- Tribute Collection Counting and Enforcement: Early administrators likely emerge as part-time custodians attached to powerful lineages, ritual centers, or storage coalitions.
+- Tribute Collection Counting and Enforcement: Reliable tribute access supports more permanent custodial, supervisory, and craft-specialist roles over time.
+- Tribute Collection Counting and Enforcement: Diprotodontid haulage later increases how much tribute can be forwarded beyond local collection nodes.
+- Tribute Sealed Vessel Units: Tribute obligations become administratively usable when they are expressed as counts of standardized physical units.
+- Tribute Sealed Vessel Units: In early cassowary civilizations, the primary tribute unit is a sealed ceramic container filled with preserved sugar paste or related preserved foods.
+- Tribute Sealed Vessel Units: Container volume precedes abstract weight measurement because repeatable vessel form can be visually compared without precision scales.
+- Tribute Sealed Vessel Units: Vessel form, fill convention, and visible seals make quantity and custody legible even when contents vary.
+- Tribute Sealed Vessel Units: Proto-tribute through repeated seasonal vessel contributions appears in the Ecological Management Era.
+- Tribute Sealed Vessel Units: Standardized sealed vessel tribute appears in some core regions in the Protohistoric Expansion Era.
+- Tribute Sealed Vessel Units: Content heterogeneity, imperfect ceramic control, breakage, shape drift, and fill-line disputes limit trust in equal tribute units.
+- Tribute Sealed Vessel Units: Tribute jars are downstream of ant harvest and preservation. They are not involved in the living colony. Confusing tribute jars with nest-assist pots misrepresents both the orchard system and the tribute system.
+- Tribute Sealed Vessel Units: Tribute vessel counts may represent district or orchard-cluster yield rather than single-colony yield. A tribute vessel is an aggregated product of many colonies and many harvests, not the output of one nest in one season.
+- Tribute Sealed Vessel Units: Nest-assist pots stay in the orchard and are managed by orchard keepers. Tribute jars travel between orchards, storage centres, and redistribution facilities, and are managed by tribute collectors and custodians.
+- Tribute Sealed Vessel Units: Diprotodontid haulage later allows larger batches of sealed vessels to move between collection nodes and storage centers.
+- Tribute Storage Custody and Redistribution: Tribute institutions emerge when sealed surplus moves from household storage into recognized custody.
+- Tribute Storage Custody and Redistribution: Household storage keeps surplus dispersed, situational, and low-leverage because producers retain physical control.
+- Tribute Storage Custody and Redistribution: Communal storage makes contributions publicly visible during seasonal gatherings while custody remains socially negotiated.
+- Tribute Storage Custody and Redistribution: Vessel counting in communal storage creates comparative contribution norms and increases the power of hosts, guards, and witnesses.
+- Tribute Storage Custody and Redistribution: Guarded storehouses or protected cool-storage sites shift power from producer possession toward controlled access.
+- Tribute Storage Custody and Redistribution: Centralized custody enables rationing, delayed redistribution, and sanctions against noncompliant households.
+- Tribute Storage Custody and Redistribution: Elite-, temple-, or court-controlled storage turns storage sites into authority centers where seal marks encode political hierarchy.
+- Tribute Storage Custody and Redistribution: Producer claims and administrator release authority can coexist, creating tension between customary ownership and institutional custody.
+- Tribute Storage Custody and Redistribution: Control of centralized stored food creates enforcement power during scarcity.
+- Tribute Storage Custody and Redistribution: Priority redistribution can reward compliant households, allies, and dependents.
+- Tribute Storage Custody and Redistribution: Coercive extraction without redistribution can collapse compliance coalitions.
+- Tribute Storage Custody and Redistribution: Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
+- Tribute Storage Custody and Redistribution: Diprotodontid haulage later expands the practical catchment area of storage centers where roads and water access support heavy transport.

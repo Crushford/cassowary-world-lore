@@ -68,6 +68,7 @@ const ALLOWED_TIME_LABELS = [
   'Fire and Extended Development Era',
   'Ecological Management Era',
   'Protohistoric Expansion Era',
+  'Early History Era',
   'Agricultural and Civilisational Era',
   'WTA Period',
 ];
