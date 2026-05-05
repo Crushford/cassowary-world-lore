@@ -489,6 +489,13 @@ Back-of-book style index of topics with at least two references.
 | [Pottery-Assisted Ant Nest Architecture](../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  | Ecological Management Era |
 | [Storage and Ceramic Technology](../lore/infrastructure/storage-and-ceramic-technology.md)                 | lore/infrastructure/storage-and-ceramic-technology.md         | Lore  | This document answers how cassowary societies produce, standardize, seal, and reuse containers that make food preserv... | Ecological Management Era |
 
+## Vocal Learning
+
+| Title                                                                                             | Path                                                  | Layer     | Summary                                                                                                                  | Time Periods                                                 |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Cockatoo–Cassowary Signal Coevolution](../lore/biology/cockatoo-cassowary-signal-coevolution.md) | lore/biology/cockatoo-cassowary-signal-coevolution.md | Lore      | This document explains how cassowary action-language emerges from coevolution with cockatoo vocal signalling rather t... | Fire and Extended Development Era, Ecological Management Era |
+| [Cockatoos](../reference/species/cockatoos.md)                                                    | reference/species/cockatoos.md                        | Reference | Real-world baseline for cockatoo biology, cognition, and social behaviour. Defines the capabilities and constraints r... |                                                              |
+
 ## Wallace Line
 
 | Title                                                                                          | Path                                                     | Layer     | Summary                                                                                                                  | Time Periods |

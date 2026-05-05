@@ -53,3 +53,8 @@ Real-world baseline for cockatoo biology, cognition, and social behaviour. Defin
 
 - [World State — Protohistoric Expansion Era](../world-state-protohistoric-expansion-era.md)
 - [Cassowaries](cassowaries.md)
+
+## Used By Lore
+
+- [Cockatoo–Cassowary Signal Coevolution](../../lore/biology/cockatoo-cassowary-signal-coevolution.md)
+- [Cassowary Forelimb Manipulation Pathway](../../lore/biology/cassowary-forelimb-manipulation-pathway.md)

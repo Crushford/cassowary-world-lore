@@ -115,4 +115,5 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Thylacoleonids](summaries/by-topic/thylacoleonids.md)
 - [Tribute](summaries/by-topic/tribute.md)
 - [Tribute Jars](summaries/by-topic/tribute-jars.md)
+- [Vocal Learning](summaries/by-topic/vocal-learning.md)
 - [Wallace Line](summaries/by-topic/wallace-line.md)

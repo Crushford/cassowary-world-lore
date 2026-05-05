@@ -84,4 +84,5 @@ Generated LLM-friendly context bundles derived from source docs.
 - [Thylacoleonids](by-topic/thylacoleonids.md)
 - [Tribute](by-topic/tribute.md)
 - [Tribute Jars](by-topic/tribute-jars.md)
+- [Vocal Learning](by-topic/vocal-learning.md)
 - [Wallace Line](by-topic/wallace-line.md)
