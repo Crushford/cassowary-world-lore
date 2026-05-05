@@ -30,6 +30,8 @@ This document establishes fire-assisted egg incubation as a core cassowary domes
 
 This document sits beside [Cassowary Neurodevelopment and Predator Management Transition](cassowary-neurodevelopment-and-predator-management-transition.md) because fire incubation is a downstream application of the same extended juvenile dependency the neurodevelopment transition established. Longer, more managed cassowary childhoods create the technical knowledge base for managing other birds' eggs and chicks.
 
+Managed incubation is itself downstream of the long upstream sequence documented in [Cassowary Forelimb Manipulation Pathway](cassowary-forelimb-manipulation-pathway.md). That pathway traces the compounding pressures — chick clasping, parental carrying, egg relocation, food processing, fire following — that create the manipulation capacity and fire familiarity from which deliberate incubation management emerges. Fire incubation is the convergence of that pathway, not an isolated innovation.
+
 The important claim is not that fire incubation is a sudden invention. It is that fire, already present for warmth, predator deterrence, and food preparation, creates conditions where egg incubation of other species becomes a natural extension of existing practice rather than a conceptual leap.
 
 This is especially important for large birds. A mammal newborn taken from its mother would require milk or specialized feeding. A giant goose or moa chick does not. If a cassowary household can incubate a stolen or collected egg, the chick can emerge among cassowaries, imprint on handlers, and enter a managed rearing pathway. In Sahul, this supports giant goose domestication where suitable Australian anseriform giant bird lineages can be bred and selected across generations. In other dromornithid contexts, the same mechanism may stop at prestige handling because the animals remain too dangerous, scarce, or difficult to breed under control.
@@ -52,6 +54,7 @@ This is especially important for large birds. A mammal newborn taken from its mo
 
 ## Related Documents
 
+- [Cassowary Forelimb Manipulation Pathway](cassowary-forelimb-manipulation-pathway.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](cassowary-neurodevelopment-and-predator-management-transition.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [Moas](../../reference/species/moas.md)

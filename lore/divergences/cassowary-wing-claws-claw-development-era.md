@@ -46,12 +46,13 @@ Do not reintroduce a later divergence date or treat the wing-claw adaptation as 
 
 ## Open Questions
 
-- What anatomical pathway connects chick clinging claws to later load-bearing manipulation?
+- Which intermediate anatomical stages between chick clasping and adult body-supported manipulation need more detailed biomechanical modelling?
 - Which intermediate stages need technical documentation?
 
 ## Related Documents
 
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [Guiding Principles](../../docs/guiding-principles.md)
+- [Cassowary Forelimb Manipulation Pathway](../biology/cassowary-forelimb-manipulation-pathway.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../biology/cassowary-neurodevelopment-and-predator-management-transition.md)
 - [Open Questions](../../generated/open-questions.md)

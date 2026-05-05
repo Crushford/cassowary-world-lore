@@ -40,6 +40,21 @@ Source: `reference/species/cassowaries.md`
 - What is the spatial extent of cassowary ancestral range during early Pleistocene glacial maxima, particularly during rainforest contraction?
 - How does male parental care behaviour interact with female territorial behaviour to shape settlement density constraints?
 
+## Cassowary Forelimb Manipulation Pathway
+
+### Cassowary Forelimb Manipulation Pathway
+
+Source: `lore/biology/cassowary-forelimb-manipulation-pathway.md`
+
+- What anatomical intermediate best explains the transition from chick clasping to adult body-supported carrying? Which intermediate bone, muscle, and tendon changes are most plausible?
+- How much adult forelimb lifting strength is plausible before changes interfere with balance, running speed, or thermoregulation?
+- Which behaviours emerge first among chick carrying, egg relocation, low climbing, and object probing? Are there regional or ecological variants where order differs?
+- How often can egg relocation succeed without increasing egg breakage or nest abandonment rates above the baseline risk of stationary incubation?
+- Which food sources create the strongest selection pressure for improved manipulation: difficult fruit, insects, larvae, eggs, or fire-exposed foods?
+- How early does cockatoo guidance become a stable interspecies behaviour rather than occasional opportunistic following?
+- Which parts of the pathway require biological evolution across generations, and which can emerge culturally once minimal manipulation capacity exists?
+- How does fire-following behaviour interact with predator avoidance and group movement during fire events?
+
 ## Cassowary Neurodevelopment And Predator Management Transition
 
 ### Cassowary Neurodevelopment and Predator Management Transition
@@ -57,7 +72,7 @@ Source: `lore/biology/cassowary-neurodevelopment-and-predator-management-transit
 
 Source: `lore/divergences/cassowary-wing-claws-claw-development-era.md`
 
-- What anatomical pathway connects chick clinging claws to later load-bearing manipulation?
+- Which intermediate anatomical stages between chick clasping and adult body-supported manipulation need more detailed biomechanical modelling?
 - Which intermediate stages need technical documentation?
 
 ## Ceramic Vessels And Nest Chambers

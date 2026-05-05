@@ -29,6 +29,7 @@ Generated LLM-friendly context bundles derived from source docs.
 - [Bulk Transport](by-topic/bulk-transport.md)
 - [Captive Breeding](by-topic/captive-breeding.md)
 - [Cassowaries](by-topic/cassowaries.md)
+- [Cassowary Anatomy](by-topic/cassowary-anatomy.md)
 - [Ceramics](by-topic/ceramics.md)
 - [Colony Management](by-topic/colony-management.md)
 - [Custody](by-topic/custody.md)

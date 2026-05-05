@@ -4,12 +4,28 @@ Generated from source document `Time periods` metadata.
 
 ## Claw Development Era
 
-| Title                                                                                                           | Path                                                          | Layer       | Summary                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [Cassowary Wing-Claws — Claw Development Era](../lore/divergences/cassowary-wing-claws-claw-development-era.md) | lore/divergences/cassowary-wing-claws-claw-development-era.md | Divergences | This divergence file tracks the root change in cassowary wing-claw function. During the Claw Development Era, rising... |
+| Title                                                                                                           | Path                                                          | Layer       | Summary                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowary Forelimb Manipulation Pathway](../lore/biology/cassowary-forelimb-manipulation-pathway.md)           | lore/biology/cassowary-forelimb-manipulation-pathway.md       | Lore        | This document explains the staged evolutionary and behavioural pathway from early chick wing-claw clasping to adult b... |
+| [Cassowary Wing-Claws — Claw Development Era](../lore/divergences/cassowary-wing-claws-claw-development-era.md) | lore/divergences/cassowary-wing-claws-claw-development-era.md | Divergences | This divergence file tracks the root change in cassowary wing-claw function. During the Claw Development Era, rising...  |
 
 ### Key Atomic Notes
 
+- Cassowary Forelimb Manipulation Pathway: Forelimb manipulation begins with chick clasping, not adult tool use.
+- Cassowary Forelimb Manipulation Pathway: Stronger chick clasping improves survival by allowing young to hold onto fathers, vegetation, roots, and sheltering surfaces during predator disturbance, flooding, and nest movement.
+- Cassowary Forelimb Manipulation Pathway: Father-assisted carrying creates a second selection loop: males that can pre-emptively steady or move chicks during danger raise more surviving offspring.
+- Cassowary Forelimb Manipulation Pathway: Early body-supported carrying is beak-foot-forelimb coordination, not human-like arm use.
+- Cassowary Forelimb Manipulation Pathway: Egg relocation becomes possible only after adult forelimbs can brace and carry fragile objects without crushing them.
+- Cassowary Forelimb Manipulation Pathway: Egg relocation rewards danger recognition, pair coordination, careful handling, impulse control, and spatial memory of safer nest sites.
+- Cassowary Forelimb Manipulation Pathway: Proto-tool use begins with simple probing, pulling, scraping, and opening behaviours directed at fruit, bark, rotten wood, and insect nests.
+- Cassowary Forelimb Manipulation Pathway: Limited climbing means low scrambling, reaching, and bracing against leaning trees, roots, vines, and low branches — not arboreal life.
+- Cassowary Forelimb Manipulation Pathway: Better manipulation expands diet access to fresher fruit, difficult-to-open fruit, insects, larvae, and occasional opportunistic scavenging.
+- Cassowary Forelimb Manipulation Pathway: Insect extraction increases access to protein and fat during development, breeding, and seasonal scarcity.
+- Cassowary Forelimb Manipulation Pathway: Cockatoo guidance emerges from repeated mutual benefit at insect nests and foraging sites before any formal domestication pathway.
+- Cassowary Forelimb Manipulation Pathway: Fire-following becomes useful because burned and disturbed landscapes expose insects, grubs, eggs, small animals, and softened plant foods.
+- Cassowary Forelimb Manipulation Pathway: Controlled fire, safer nests, and processed soft food enable longer juvenile dependency, higher social learning, and deeper parental apprenticeship.
+- Cassowary Forelimb Manipulation Pathway: Managed incubation is downstream of fire use, food processing, nest management, and extended parental care — not an isolated invention.
+- Cassowary Forelimb Manipulation Pathway: Each stage in this pathway creates a survival advantage that selects for the next. No step requires the prior existence of a later stage.
 - Cassowary Wing-Claws — Claw Development Era: Cassowary wing-claw divergence begins as stronger chick wing-claw function under predator pressure during the Claw Development Era.
 - Cassowary Wing-Claws — Claw Development Era: The divergence changes the developmental importance of vestigial wing claws without granting sudden human-like hands.
 - Cassowary Wing-Claws — Claw Development Era: Later manipulation, tool use, carrying, craft, storage, transport, and institutions must trace back to this anatomical bridge.
@@ -18,12 +34,28 @@ Generated from source document `Time periods` metadata.
 
 | Title                                                                                                                                             | Path                                                                          | Layer | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cassowary Forelimb Manipulation Pathway](../lore/biology/cassowary-forelimb-manipulation-pathway.md)                                             | lore/biology/cassowary-forelimb-manipulation-pathway.md                       | Lore  | This document explains the staged evolutionary and behavioural pathway from early chick wing-claw clasping to adult b... |
 | [Cassowary Neurodevelopment and Predator Management Transition](../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md | Lore  | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... |
 | [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md)                     | lore/domestication/diprotodontid-domestication-and-working-lineages.md        | Lore  | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
 | [Fire Incubation and Extended Juvenile Development](../lore/biology/fire-incubation-and-extended-juvenile-development.md)                         | lore/biology/fire-incubation-and-extended-juvenile-development.md             | Lore  | This document establishes fire-assisted egg incubation as a core cassowary domestic technology and explains how it ma... |
 
 ### Key Atomic Notes
 
+- Cassowary Forelimb Manipulation Pathway: Forelimb manipulation begins with chick clasping, not adult tool use.
+- Cassowary Forelimb Manipulation Pathway: Stronger chick clasping improves survival by allowing young to hold onto fathers, vegetation, roots, and sheltering surfaces during predator disturbance, flooding, and nest movement.
+- Cassowary Forelimb Manipulation Pathway: Father-assisted carrying creates a second selection loop: males that can pre-emptively steady or move chicks during danger raise more surviving offspring.
+- Cassowary Forelimb Manipulation Pathway: Early body-supported carrying is beak-foot-forelimb coordination, not human-like arm use.
+- Cassowary Forelimb Manipulation Pathway: Egg relocation becomes possible only after adult forelimbs can brace and carry fragile objects without crushing them.
+- Cassowary Forelimb Manipulation Pathway: Egg relocation rewards danger recognition, pair coordination, careful handling, impulse control, and spatial memory of safer nest sites.
+- Cassowary Forelimb Manipulation Pathway: Proto-tool use begins with simple probing, pulling, scraping, and opening behaviours directed at fruit, bark, rotten wood, and insect nests.
+- Cassowary Forelimb Manipulation Pathway: Limited climbing means low scrambling, reaching, and bracing against leaning trees, roots, vines, and low branches — not arboreal life.
+- Cassowary Forelimb Manipulation Pathway: Better manipulation expands diet access to fresher fruit, difficult-to-open fruit, insects, larvae, and occasional opportunistic scavenging.
+- Cassowary Forelimb Manipulation Pathway: Insect extraction increases access to protein and fat during development, breeding, and seasonal scarcity.
+- Cassowary Forelimb Manipulation Pathway: Cockatoo guidance emerges from repeated mutual benefit at insect nests and foraging sites before any formal domestication pathway.
+- Cassowary Forelimb Manipulation Pathway: Fire-following becomes useful because burned and disturbed landscapes expose insects, grubs, eggs, small animals, and softened plant foods.
+- Cassowary Forelimb Manipulation Pathway: Controlled fire, safer nests, and processed soft food enable longer juvenile dependency, higher social learning, and deeper parental apprenticeship.
+- Cassowary Forelimb Manipulation Pathway: Managed incubation is downstream of fire use, food processing, nest management, and extended parental care — not an isolated invention.
+- Cassowary Forelimb Manipulation Pathway: Each stage in this pathway creates a survival advantage that selects for the next. No step requires the prior existence of a later stage.
 - Cassowary Neurodevelopment and Predator Management Transition: Cassowary cognition is layered rather than uniformly enlarged.
 - Cassowary Neurodevelopment and Predator Management Transition: Early-maturing systems handle movement, balance, threat response, and basic vocalization.
 - Cassowary Neurodevelopment and Predator Management Transition: Juvenile learning loads spatial memory, tool sequences, seasonal timing, individual recognition, and simple coalition logic.

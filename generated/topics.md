@@ -65,6 +65,13 @@ Back-of-book style index of topics with at least two references.
 | [Cassowary Neurodevelopment and Predator Management Transition](../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md | Lore      | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... | Fire and Extended Development Era |
 | [Forest Refugia and Arboreal Species](../reference/ecology/forest-refugia-and-arboreal-species.md)                                                | reference/ecology/forest-refugia-and-arboreal-species.md                      | Reference | Real-world baseline for how rainforest contracts into isolated refugia during glacial maxima and what constraints thi... |                                   |
 
+## Cassowary Anatomy
+
+| Title                                                                                                           | Path                                                          | Layer       | Summary                                                                                                                  | Time Periods                                            |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| [Cassowary Forelimb Manipulation Pathway](../lore/biology/cassowary-forelimb-manipulation-pathway.md)           | lore/biology/cassowary-forelimb-manipulation-pathway.md       | Lore        | This document explains the staged evolutionary and behavioural pathway from early chick wing-claw clasping to adult b... | Claw Development Era, Fire and Extended Development Era |
+| [Cassowary Wing-Claws — Claw Development Era](../lore/divergences/cassowary-wing-claws-claw-development-era.md) | lore/divergences/cassowary-wing-claws-claw-development-era.md | Divergences | This divergence file tracks the root change in cassowary wing-claw function. During the Claw Development Era, rising...  | Claw Development Era                                    |
+
 ## Ceramics
 
 | Title                                                                                            | Path                                                     | Layer | Summary                                                                                                                  | Time Periods              |
