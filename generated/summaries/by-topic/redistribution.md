@@ -4,17 +4,18 @@ Generated summary bundle for docs tagged with `Redistribution`.
 
 ## Documents
 
-| Title                                                                                                             | Path                                                         | Layer | Time Periods                                   | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)   | lore/transport/diprotodontid-haulage-and-road-economics.md   | Lore  | Protohistoric Expansion Era, Early History Era | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
-| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)    | lore/infrastructure/food-preservation-and-storage-systems.md | Lore  | Ecological Management Era, Early History Era   | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md) | lore/tribute/tribute-storage-custody-and-redistribution.md   | Lore  | Protohistoric Expansion Era, Early History Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                             | Path                                                         | Layer     | Time Periods                                   | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)   | lore/transport/diprotodontid-haulage-and-road-economics.md   | Lore      | Protohistoric Expansion Era, Early History Era | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
+| [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)    | lore/infrastructure/food-preservation-and-storage-systems.md | Lore      | Ecological Management Era, Early History Era   | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md) | lore/tribute/tribute-storage-custody-and-redistribution.md   | Lore      | Protohistoric Expansion Era, Early History Era | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| [World State — Early History Era](../../../reference/world-state-early-history-era.md)                            | reference/world-state-early-history-era.md                   | Reference | Early History Era                              | Early History Era is the period when story-facing institutions such as WTA-style trade, maintained roads, large stora... |
 
 ## Layer Breakdown
 
 ### Reference
 
-No entries found.
+- [World State — Early History Era](../../../reference/world-state-early-history-era.md)
 
 ### Divergences
 
@@ -72,6 +73,7 @@ No entries found.
 
 ### Diprotodontid Haulage and Road Economics
 
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
 - Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
 - Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
@@ -95,6 +97,12 @@ No entries found.
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
 - How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
 
+### World State — Early History Era
+
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
+- Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
+- How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
+
 ## Related Topics
 
 - Bulk Transport
@@ -106,12 +114,16 @@ No entries found.
 - Haulage
 - Political Authority
 - Preservation
+- Regional Politics
 - Roads
 - Route Maintenance
 - Sealed Containers
 - Storage
 - Storage Control
 - Surplus
+- Trade Systems
 - Transport Economics
 - Tribute
 - Tribute Storage Custody And Redistribution
+- Working Animals
+- World State — Early History Era

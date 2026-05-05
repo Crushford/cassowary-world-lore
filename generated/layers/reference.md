@@ -5,6 +5,7 @@ Grouped by folder.
 ## reference
 | Title                                                                                                                                    | Path                                                 | Time Periods                | Summary                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [World State — Early History Era](../../reference/world-state-early-history-era.md)                                                      | reference/world-state-early-history-era.md           | Early History Era           | Early History Era is the period when story-facing institutions such as WTA-style trade, maintained roads, large stora... |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## reference/biogeography

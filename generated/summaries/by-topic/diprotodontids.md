@@ -69,6 +69,7 @@ No entries found.
 
 ### Diprotodontid Haulage and Road Economics
 
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
 - Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
 - Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?

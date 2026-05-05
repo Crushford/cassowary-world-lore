@@ -4,21 +4,22 @@ Generated summary bundle for docs tagged with `Tribute`.
 
 ## Documents
 
-| Title                                                                                                                               | Path                                                                   | Layer | Time Periods                                                                                                 | Summary                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore  | Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
-| [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)                     | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
-| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore  | Ecological Management Era, Early History Era                                                                 | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
-| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)                 | lore/tribute/tribute-collection-counting-and-enforcement.md            | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
-| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                   | lore/tribute/tribute-seal-integrity-and-authority-marks.md             | Lore  | Protohistoric Expansion Era                                                                                  | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
-| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                                 | lore/tribute/tribute-sealed-vessel-units.md                            | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
-| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)                   | lore/tribute/tribute-storage-custody-and-redistribution.md             | Lore  | Protohistoric Expansion Era, Early History Era                                                               | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| Title                                                                                                                               | Path                                                                   | Layer     | Time Periods                                                                                                 | Summary                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md) | lore/domestication/diprotodontid-domestication-and-working-lineages.md | Lore      | Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era | This document explains how diprotodontid management develops from long-term observation of wild megafauna into taming... |
+| [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)                     | lore/transport/diprotodontid-haulage-and-road-economics.md             | Lore      | Protohistoric Expansion Era, Early History Era                                                               | This document explains why maintained roads become economically valuable once diprotodontid working lineages exist. E... |
+| [Transport Networks](../../../lore/infrastructure/transport-networks.md)                                                            | lore/infrastructure/transport-networks.md                              | Lore      | Ecological Management Era, Early History Era                                                                 | This document answers how maintained routes and movement nodes let cassowary societies move goods, people, and inform... |
+| [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)                 | lore/tribute/tribute-collection-counting-and-enforcement.md            | Lore      | Protohistoric Expansion Era, Early History Era                                                               | This document answers how early tribute is collected, counted, audited, and enforced before writing or formal police...  |
+| [Tribute Seal Integrity and Authority Marks](../../../lore/tribute/tribute-seal-integrity-and-authority-marks.md)                   | lore/tribute/tribute-seal-integrity-and-authority-marks.md             | Lore      | Protohistoric Expansion Era                                                                                  | This document answers how sealed tribute vessels carry trust and authority before writing. It focuses on tamper evide... |
+| [Tribute Sealed Vessel Units](../../../lore/tribute/tribute-sealed-vessel-units.md)                                                 | lore/tribute/tribute-sealed-vessel-units.md                            | Lore      | Protohistoric Expansion Era, Early History Era                                                               | This document answers how early cassowary tribute becomes measurable before weights, writing, or abstract accounting.... |
+| [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)                   | lore/tribute/tribute-storage-custody-and-redistribution.md             | Lore      | Protohistoric Expansion Era, Early History Era                                                               | This document answers how stored tribute becomes political power. It focuses on where sealed surplus is held, who con... |
+| [World State — Early History Era](../../../reference/world-state-early-history-era.md)                                              | reference/world-state-early-history-era.md                             | Reference | Early History Era                                                                                            | Early History Era is the period when story-facing institutions such as WTA-style trade, maintained roads, large stora... |
 
 ## Layer Breakdown
 
 ### Reference
 
-No entries found.
+- [World State — Early History Era](../../../reference/world-state-early-history-era.md)
 
 ### Divergences
 
@@ -146,6 +147,7 @@ No entries found.
 
 ### Diprotodontid Haulage and Road Economics
 
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
 - Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
 - Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
@@ -194,6 +196,12 @@ No entries found.
 - Do regional storage centers emerge first in honeypot-ant surplus regions or in transport chokepoints with mixed storage economies?
 - How much does diprotodontid haulage expand the storage catchment area before writing and formal accounting exist?
 
+### World State — Early History Era
+
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
+- Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
+- How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
+
 ## Related Topics
 
 - Administrative Specialization
@@ -215,16 +223,19 @@ No entries found.
 - Political Authority
 - Preserved Surplus
 - Redistribution
+- Regional Politics
 - Roads
 - Route Maintenance
 - Routes
 - Seal Marks
 - Standardized Vessels
+- Storage
 - Storage Control
 - Taming
 - Tamper Evidence
 - Taxation
 - Trade
+- Trade Systems
 - Transport Economics
 - Transport Networks
 - Tribute Collection Counting And Enforcement
@@ -234,3 +245,4 @@ No entries found.
 - Volume Measurement
 - Witnessed Audit
 - Working Animals
+- World State — Early History Era
