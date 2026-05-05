@@ -10,7 +10,6 @@ This document establishes that cassowaries reached New Zealand before the regula
 - Primary topic: first cassowary arrival in New Zealand
 - Topics: New Zealand, migration, maritime contact, first settlement, isolation, moa encounter
 - Regions: New Zealand, Sahul coastal margins
-- Status: Draft
 - Related species: cassowaries, moas
 - Related institutions: early coastal navigation, accidental displacement, founding populations
 - Era: Protohistoric Expansion Era
@@ -60,5 +59,5 @@ This document establishes that prior presence without needing to resolve the arr
 - [Haast's Eagle](../../reference/predators/haasts-eagle.md)
 - [Fire Incubation and Extended Juvenile Development](../biology/fire-incubation-and-extended-juvenile-development.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [Timeline Overview](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)

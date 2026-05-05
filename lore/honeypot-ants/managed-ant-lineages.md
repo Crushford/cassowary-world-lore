@@ -11,7 +11,6 @@ This document defines ant lineages selected for different environments and manag
 - Topics: honeypot ants, lineage selection, chamber tolerance, replete storage, humidity tolerance, harvest recovery, regional management
 - Era: Ecological Management Era
 - Regions: Sahul — dryland, savanna woodland, PNG and wet margins, upland, coastal
-- Status: Canon Candidate
 - Related species: honeypot ants, cassowaries
 - Related technologies: pottery, ceramic chambers, nest architecture
 - Related institutions: orchard management, tribute production, lineage knowledge
@@ -154,4 +153,4 @@ Prestige production, high fragility.
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
 - [Honeypot Ants](../../reference/species/honeypot-ants.md)
 - [Honeypot Ant Nest Splitting](../divergences/honeypot-ant-nest-splitting.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

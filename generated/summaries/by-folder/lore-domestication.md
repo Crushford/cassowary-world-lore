@@ -75,7 +75,7 @@ Generated summary bundle for documents in `lore/domestication`.
 - [Megafauna and Landscape Pressure](../../../reference/ecology/megafauna-and-landscape-pressure.md)
 - [Moa Domestication and Ridability](../../../lore/transport/moa-domestication-and-ridability.md)
 - [Moa Mounted Warfare](../../../lore/transport/moa-mounted-warfare.md)
-- [Open Questions](../../../99-open-questions.md)
+- [Open Questions](../../open-questions.md)
 - [Transport Networks](../../../lore/infrastructure/transport-networks.md)
 - [Tribute Collection Counting and Enforcement](../../../lore/tribute/tribute-collection-counting-and-enforcement.md)
 - [Tribute Storage Custody and Redistribution](../../../lore/tribute/tribute-storage-custody-and-redistribution.md)

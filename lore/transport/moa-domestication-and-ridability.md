@@ -11,7 +11,6 @@ This document explains how moa domestication develops in New Zealand and how rid
 - Topics: moa domestication, egg capture, fire incubation, imprinting, captive breeding, ridability, selection, harnessing
 - Era: Protohistoric Expansion Era
 - Regions: New Zealand (origin), later Sahul
-- Status: Canon Candidate
 - Related species: moas, cassowaries
 - Related technologies: fire incubation, harness design, captive breeding, route management
 - Related institutions: New Zealand moa-handling traditions, imperial moa breeding, mounted warfare, haulage systems
@@ -69,5 +68,5 @@ Moa mounts are not the heavy-haul foundation for road economics. That role belon
 - [Diprotodontid Haulage and Road Economics](diprotodontid-haulage-and-road-economics.md)
 - [Moas](../../reference/species/moas.md)
 - [Haast's Eagle](../../reference/predators/haasts-eagle.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [Timeline Overview](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)

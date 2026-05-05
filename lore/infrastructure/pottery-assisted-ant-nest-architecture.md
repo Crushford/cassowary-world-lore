@@ -11,7 +11,6 @@ This document makes the pots and nest system visually and technically concrete. 
 - Topics: ceramic chambers, nest-assist pots, harvest bowls, tribute jars, nest architecture, living storage, dead storage
 - Era: Ecological Management Era
 - Regions: Sahul — all ecotypes, with varying pot forms by region
-- Status: Canon Candidate
 - Related species: honeypot ants, cassowaries
 - Related technologies: pottery, ceramics, sealants, clay working, firing
 - Related institutions: tribute, storage custody, redistribution
@@ -196,4 +195,4 @@ This distinction matters for:
 - [Food Preservation and Storage Systems](food-preservation-and-storage-systems.md)
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
 - [Ceramic Vessels and Nest Chambers](ceramic-vessels-and-nest-chambers.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [Timeline Overview](../../generated/timeline-overview.md)
