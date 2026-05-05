@@ -60,6 +60,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Bulk Transport](summaries/by-topic/bulk-transport.md)
 - [Captive Breeding](summaries/by-topic/captive-breeding.md)
 - [Cassowaries](summaries/by-topic/cassowaries.md)
+- [Cassowary Anatomy](summaries/by-topic/cassowary-anatomy.md)
 - [Ceramics](summaries/by-topic/ceramics.md)
 - [Colony Management](summaries/by-topic/colony-management.md)
 - [Custody](summaries/by-topic/custody.md)

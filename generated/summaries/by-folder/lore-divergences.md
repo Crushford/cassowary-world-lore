@@ -26,6 +26,7 @@ Generated summary bundle for documents in `lore/divergences`.
 ## Related Documents
 
 - [Cassowaries](../../../reference/species/cassowaries.md)
+- [Cassowary Forelimb Manipulation Pathway](../../../lore/biology/cassowary-forelimb-manipulation-pathway.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
 - [Guiding Principles](../../../docs/guiding-principles.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
@@ -38,7 +39,7 @@ Generated summary bundle for documents in `lore/divergences`.
 
 ### Cassowary Wing-Claws — Claw Development Era
 
-- What anatomical pathway connects chick clinging claws to later load-bearing manipulation?
+- Which intermediate anatomical stages between chick clasping and adult body-supported manipulation need more detailed biomechanical modelling?
 - Which intermediate stages need technical documentation?
 
 ### Honeypot Ant Nest Splitting
