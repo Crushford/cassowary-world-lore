@@ -13,7 +13,6 @@ The core pathway is: repeated non-predatory proximity -> landscape knowledge -> 
 - Topics: diprotodontids, domestication, taming, working animals, haulage, roads, bulk transport, tribute, controlled breeding
 - Time periods: Fire and Extended Development Era, Ecological Management Era, Protohistoric Expansion Era, Early History Era
 - Regions: Sahul waterhole, wetland, river-corridor, and productive woodland ecologies
-- Status: Canon Candidate
 - Related species: diprotodontids, cassowaries, thylacoleonid predators, large varanid predators
 - Related technologies: route maintenance, road surfacing, harnessing, restraint systems, ceramic tribute vessels
 - Related institutions: handler lineages, route authorities, tribute systems, storage custodians, long-distance redistribution

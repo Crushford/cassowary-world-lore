@@ -11,7 +11,6 @@ This document answers yield without false precision. Honeypot ant civilisation w
 - Topics: yield, surplus, orchard clusters, tribute districts, colony management, qualitative modelling
 - Era: Ecological Management Era
 - Regions: Sahul orchard ecologies, ecotype-dependent
-- Status: Canon Candidate
 - Related species: honeypot ants, orchard trees, sap-feeders
 - Related technologies: pottery, ceramic vessels, preservation
 - Related institutions: tribute, redistribution, storage custody
@@ -99,5 +98,5 @@ None of these require extraordinary biology. All of them require sustained ecolo
 - [Tribute Sealed Vessel Units](../tribute/tribute-sealed-vessel-units.md)
 - [Food Preservation and Storage Systems](../infrastructure/food-preservation-and-storage-systems.md)
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
-- [Open Questions](../../99-open-questions.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [Open Questions](../../generated/open-questions.md)
+- [Timeline Overview](../../generated/timeline-overview.md)

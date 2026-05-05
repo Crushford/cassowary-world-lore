@@ -11,7 +11,6 @@ This document defines how honeypot ant systems vary across Sahul environments. H
 - Topics: honeypot ants, regional ecology, orchard management, pottery, ecotypes, environmental constraints
 - Era: Ecological Management Era
 - Regions: Sahul — arid interior, savanna woodland, PNG and wet margins, upland refugia, coastal shelf
-- Status: Canon Candidate
 - Related species: honeypot ants, aphids and other sap-feeders, orchard trees
 - Related technologies: pottery, drainage, ceramic chambers, nest architecture
 - Related institutions: tribute, redistribution, orchard management
@@ -193,4 +192,4 @@ These systems are geographically contingent. They exist during glacial maxima wh
 - [Pottery-Assisted Ant Nest Architecture](../infrastructure/pottery-assisted-ant-nest-architecture.md)
 - [Storage and Ceramic Technology](../infrastructure/storage-and-ceramic-technology.md)
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
-- [History and Timeline](../../03-history-and-timeline.md)
+- [Timeline Overview](../../generated/timeline-overview.md)

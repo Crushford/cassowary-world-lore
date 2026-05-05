@@ -13,7 +13,6 @@ The core claim is not that roads appear because cassowaries want roads. Roads be
 - Topics: diprotodontids, haulage, roads, transport economics, bulk transport, tribute, redistribution, route maintenance
 - Time periods: Protohistoric Expansion Era, Early History Era
 - Regions: Sahul route corridors, waterhole systems, storage-node networks, productive woodland and river-margin ecologies
-- Status: Canon Candidate
 - Related species: diprotodontids, cassowaries
 - Related technologies: road maintenance, haulage harnessing, drag systems, sled systems, ceramic tribute vessels
 - Related institutions: route authorities, tribute systems, storage custodians, WTA-style trade systems, redistribution networks

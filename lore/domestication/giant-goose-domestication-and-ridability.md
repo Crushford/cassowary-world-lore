@@ -13,7 +13,6 @@ The claim is not that all dromornithids become domestic animals. The claim is th
 - Topics: giant geese, dromornithids, mihirungs, egg capture, fire incubation, imprinting, captive breeding, ridability, mounted warfare, lineage selection
 - Era: Ecological Management Era
 - Regions: Sahul, dromornithid-inhabited ecologies
-- Status: Canon Candidate
 - Related species: cassowaries, dromornithids, moas
 - Related technologies: fire incubation, chick rearing, food processing, route training, harness design
 - Related institutions: handler lineages, prestige economies, transport systems, breeding traditions, mounted warfare, haulage systems

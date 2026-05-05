@@ -11,7 +11,6 @@ This document establishes fire-assisted egg incubation as a core cassowary domes
 - Topics: fire use, egg incubation, juvenile dependency, bird domestication, technology transfer
 - Era: Fire and Extended Development Era
 - Regions: Sahul inhabited ecologies; later transferred to New Zealand
-- Status: Canon Candidate
 - Related species: cassowaries, giant geese, moas, dromornithids
 - Related technologies: fire use, food processing, ceramic vessels, chick rearing
 
@@ -62,4 +61,4 @@ This is especially important for large birds. A mammal newborn taken from its mo
 - [Giant Goose Domestication and Ridability](../domestication/giant-goose-domestication-and-ridability.md)
 - [Moa Domestication and Ridability](../transport/moa-domestication-and-ridability.md)
 - [Dromornithid Prestige Handling](../domestication/dromornithid-prestige-handling.md)
-- [Core Logic](../../CORE_LOGIC.md)
+- [Core Logic](../../docs/core-logic.md)

@@ -11,7 +11,6 @@ This document covers the later regular contact and trade between Sahul societies
 - Topics: maritime trade, moa import, New Zealand, Sahul empire, route knowledge, seasonal navigation
 - Era: Protohistoric Expansion Era
 - Regions: Sahul coastal systems, New Zealand, open ocean crossing
-- Status: Canon Candidate
 - Related species: cassowaries, moas
 - Related institutions: imperial logistics, trade routes, specialised maritime crews, political demand
 
@@ -50,5 +49,5 @@ The trade is not easy and not frequent. It requires coordinated effort, seasonal
 - [Moa Mounted Warfare](moa-mounted-warfare.md)
 - [Transport Networks](../infrastructure/transport-networks.md)
 - [Moas](../../reference/species/moas.md)
-- [History and Timeline](../../03-history-and-timeline.md)
-- [Open Questions](../../99-open-questions.md)
+- [Timeline Overview](../../generated/timeline-overview.md)
+- [Open Questions](../../generated/open-questions.md)

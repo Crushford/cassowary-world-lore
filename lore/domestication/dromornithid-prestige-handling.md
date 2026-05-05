@@ -13,7 +13,6 @@ This document does not rule out domesticated giant goose lineages. [Giant Goose 
 - Topics: dromornithids, prestige animals, elite practice, fire incubation, danger handling, political theatre
 - Era: Ecological Management Era
 - Regions: Sahul, dromornithid-inhabited ecologies
-- Status: Draft
 - Related species: dromornithids, cassowaries
 - Related institutions: elite display, ritual practice, political theatre, prestige economy
 
@@ -57,4 +56,4 @@ The social function is different. Prestige handling is political display. Posses
 - [Giant Goose Domestication and Ridability](giant-goose-domestication-and-ridability.md)
 - [Moa Domestication and Ridability](../transport/moa-domestication-and-ridability.md)
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)

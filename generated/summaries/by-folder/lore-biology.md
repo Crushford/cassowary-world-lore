@@ -61,7 +61,7 @@ Generated summary bundle for documents in `lore/biology`.
 - [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
 - [Cassowary Wing-Claws — Claw Development Era](../../../lore/divergences/cassowary-wing-claws-claw-development-era.md)
 - [Cockatoos](../../../reference/species/cockatoos.md)
-- [Core Logic](../../../CORE_LOGIC.md)
+- [Core Logic](../../../docs/core-logic.md)
 - [Dromornithid Prestige Handling](../../../lore/domestication/dromornithid-prestige-handling.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
 - [Fire Incubation and Extended Juvenile Development](../../../lore/biology/fire-incubation-and-extended-juvenile-development.md)

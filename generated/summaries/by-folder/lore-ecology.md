@@ -39,7 +39,6 @@ Generated summary bundle for documents in `lore/ecology`.
 - [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)
 - [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
 - [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
-- [Open Questions](../../../99-open-questions.md)
 - [Open Questions](../../open-questions.md)
 - [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)
 - [Orchard Sugar Tree Lineages](../../../lore/agriculture/orchard-sugar-tree-lineages.md)

@@ -11,7 +11,6 @@ This document defines aphid and sap-feeder types as managed functional lineages 
 - Topics: aphids, sap-feeders, honeydew, orchard management, ecological domestication, lineage selection
 - Era: Ecological Management Era
 - Regions: Sahul orchard ecologies — functional roles vary by region
-- Status: Canon Candidate
 - Related species: aphids, other sap-feeding insects, orchard trees, honeypot ants, cassowaries
 - Related institutions: orchard management, tribute production, lineage knowledge
 
@@ -145,4 +144,4 @@ Lineages closely tied to particular host tree varieties.
 - [Honeypot Ant Orchard System Management](../honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Aphid-Ant Relationships](../../reference/ecology/aphid-ant-relationships.md)
 - [Sap-Feeding Host Trees](../../reference/ecology/sap-feeding-host-trees.md)
-- [Open Questions](../../99-open-questions.md)
+- [Open Questions](../../generated/open-questions.md)
