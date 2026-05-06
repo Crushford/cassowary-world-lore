@@ -84,6 +84,22 @@ Source: `lore/infrastructure/ceramic-vessels-and-nest-chambers.md`
 - What is the minimum reliable firing temperature achievable in Sahul contexts for producing low-permeability storage vessels?
 - Which local sealant materials in Sahul ecologies are effective for sealing fired clay at the relevant time window?
 
+## Cockatoo-Cassowary Signal Coevolution
+
+### Cockatoo–Cassowary Signal Coevolution
+
+Source: `lore/biology/cockatoo-cassowary-signal-coevolution.md`
+
+- Which cockatoo species or functional cockatoo types are most plausible as early signal partners in Sahul forest and woodland ecologies during the relevant era?
+- How much vocal imitation can cassowaries plausibly achieve given their altered anatomy? What frequency range, spectral flexibility, or call complexity is realistic?
+- Which signal categories emerge first: food, danger, follow, chick, nest, or fire? Is there a consistent developmental or ecological ordering?
+- How much of early cassowary language remains cockatoo-derived versus internally innovated after several generations of cassowary-only reuse?
+- How stable are cockatoo-derived signals across regions with different cockatoo species and ecologies?
+- When do cassowary-only calls become recognisable as dialects rather than rough borrowed mimicry?
+- How do body posture, head orientation, forelimb position, and movement direction combine with calls to carry meaning, and which of these components is primary?
+- At what point does action-language become capable of supporting early institutional coordination beyond the parenting dyad?
+- Can cockatoos act as message relays before formal domestication — carrying a cassowary-associated call to a distant location — or does that capability require a later lore document?
+
 ## Cockatoos
 
 ### Cockatoos
@@ -112,6 +128,7 @@ Source: `lore/domestication/diprotodontid-domestication-and-working-lineages.md`
 
 Source: `lore/transport/diprotodontid-haulage-and-road-economics.md`
 
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which road surfaces and drainage methods are minimally viable for heavy diprotodontid haulage?
 - Do early haulage systems use dragged loads, sleds, wheelless platforms, carts, or multiple regional solutions?
 - Which institutions maintain water stops: route authorities, storage centers, handler lineages, or local communities?
@@ -577,6 +594,16 @@ Source: `docs/core-logic.md`
 - Which systems are required before a first coherent timeline pass can move beyond placeholders?
 - How should preservation and storage milestones be placed relative to early tribute systems?
 - Which generated validation warnings should become errors after existing docs are cleaned up?
+
+## World State — Early History Era
+
+### World State — Early History Era
+
+Source: `reference/world-state-early-history-era.md`
+
+- What distinguishes WTA-style trade systems from earlier regional redistribution networks?
+- Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
+- How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
 
 ## World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 

@@ -170,7 +170,7 @@ Over repeated cycles, both species treat the other as a reliable signal rather t
 
 Key constraint: this is an ecological and behavioural partnership, not domestication. Cockatoos are not controlled. The relationship is learned and repeated rather than deliberately managed.
 
-This stage is a behavioural precursor to deeper communication partnerships between cassowaries and cockatoos. The shared foraging context creates the conditions in which more structured interspecies signals can develop.
+This stage is a behavioural precursor to deeper communication partnerships between cassowaries and cockatoos. The shared foraging context creates the conditions in which more structured interspecies signals can develop. The full signal coevolution pathway — from cockatoo-led food signalling through functional mimicry to cassowary-owned action-language — is documented in [Cockatoo–Cassowary Signal Coevolution](cockatoo-cassowary-signal-coevolution.md).
 
 ## Stage 9 — Opportunistic Diet Broadening
 
@@ -270,6 +270,7 @@ Key constraint: managed incubation is downstream of all earlier stages. It is no
 
 - [Cassowary Wing-Claws — Claw Development Era](../divergences/cassowary-wing-claws-claw-development-era.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](cassowary-neurodevelopment-and-predator-management-transition.md)
+- [Cockatoo–Cassowary Signal Coevolution](cockatoo-cassowary-signal-coevolution.md)
 - [Fire Incubation and Extended Juvenile Development](fire-incubation-and-extended-juvenile-development.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [Cockatoos](../../reference/species/cockatoos.md)

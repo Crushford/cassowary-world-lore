@@ -31,7 +31,7 @@ This document answers how cassowary cognition shifts during the Fire and Extende
 
 This file sits beside [Cassowary Wing-Claws — Claw Development Era](../../lore/divergences/cassowary-wing-claws-claw-development-era.md) because later cognitive and social development depends on earlier anatomical capacity. The full staged pathway from chick clasping through parental carrying, egg relocation, proto-tool use, diet expansion, cockatoo partnership, fire following, and managed incubation is documented in [Cassowary Forelimb Manipulation Pathway](cassowary-forelimb-manipulation-pathway.md). Extended juvenile learning in this document depends partly on that earlier pathway having created more complex foraging, food-processing, and parental-care behaviours that give the longer juvenile period content to transmit. The real species baseline is summarized in [Cassowaries](../../reference/species/cassowaries.md). The broader ecological stage is constrained by [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md), though this transition itself occurs earlier.
 
-The important claim is not that cassowaries become human-like. It is that cognition becomes socially load-bearing: chicks learn through prolonged dependency, coalitions matter more, and predators can be managed through repeated collective behavior rather than only escape.
+The important claim is not that cassowaries become human-like. It is that cognition becomes socially load-bearing: chicks learn through prolonged dependency, coalitions matter more, and predators can be managed through repeated collective behavior rather than only escape. Extended juvenile learning is also the route through which cockatoo-derived signals become cassowary-owned action-language; the full signal pathway is documented in [Cockatoo–Cassowary Signal Coevolution](cockatoo-cassowary-signal-coevolution.md).
 
 ## Open Questions
 
@@ -44,6 +44,7 @@ The important claim is not that cassowaries become human-like. It is that cognit
 
 - [Cassowary Wing-Claws — Claw Development Era](../../lore/divergences/cassowary-wing-claws-claw-development-era.md)
 - [Cassowary Forelimb Manipulation Pathway](cassowary-forelimb-manipulation-pathway.md)
+- [Cockatoo–Cassowary Signal Coevolution](cockatoo-cassowary-signal-coevolution.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [World State — Protohistoric Expansion Era](../../reference/world-state-protohistoric-expansion-era.md)
 - [History and Timeline](../../generated/timeline-overview.md)

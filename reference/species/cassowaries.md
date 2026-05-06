@@ -63,5 +63,6 @@ Real-world baseline for cassowary biology, anatomy, and ecology. Defines the phy
 
 - [Cassowary Wing-Claws — Claw Development Era](../../lore/divergences/cassowary-wing-claws-claw-development-era.md)
 - [Cassowary Forelimb Manipulation Pathway](../../lore/biology/cassowary-forelimb-manipulation-pathway.md)
+- [Cockatoo–Cassowary Signal Coevolution](../../lore/biology/cockatoo-cassowary-signal-coevolution.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
 - [Fire Incubation and Extended Juvenile Development](../../lore/biology/fire-incubation-and-extended-juvenile-development.md)
