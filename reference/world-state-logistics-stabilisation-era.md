@@ -68,6 +68,7 @@ WTA does not build new road networks from nothing. It rehabilitates and reconnec
 - What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
 - How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
 - Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
+- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline?
 
 ## Related Documents
 

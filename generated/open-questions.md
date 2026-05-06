@@ -607,6 +607,7 @@ Source: `reference/world-state-collapse-era.md`
 - Which coastal and riverine regions become the core successor political centres, and why?
 - Does the Collapse Era produce new documentation or recording practices — attempts to preserve institutional knowledge against future loss?
 - How long does the Collapse Era last, and is recovery gradual or punctuated by new secondary collapses?
+- What are the approximate calendar dates for the Collapse Era in years, and how does its duration compare to the Early History Era that preceded it?
 
 ## World State — Early History Era
 
@@ -630,6 +631,7 @@ Source: `reference/world-state-kati-thunda-ant-revolution.md`
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
 
 ## World State — Logistics Stabilisation Era
 
@@ -643,6 +645,7 @@ Source: `reference/world-state-logistics-stabilisation-era.md`
 - What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
 - How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
 - Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
+- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline?
 
 ## World State — Orchard Era
 
@@ -655,6 +658,7 @@ Source: `reference/world-state-orchard-era.md`
 - Which Sahul regions reach stable orchard investment soonest, and which remain in mobile-foraging conditions?
 - How much does tree maturation timescale shape the length of cassowary political alliances and succession expectations?
 - What prevents orchard knowledge from being preserved through collapse events, and what allows some of it to survive?
+- What are the approximate calendar dates and duration of the Orchard Era in years, and how does it bracket relative to the Fire and Extended Development Era and Ecological Management Era?
 
 ## World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 

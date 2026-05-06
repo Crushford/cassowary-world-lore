@@ -173,6 +173,7 @@ No entries found.
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
 
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 

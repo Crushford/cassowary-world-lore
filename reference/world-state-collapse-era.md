@@ -62,6 +62,7 @@ This matters for the post-collapse period. The roads are still there. Some stret
 - Which coastal and riverine regions become the core successor political centres, and why?
 - Does the Collapse Era produce new documentation or recording practices — attempts to preserve institutional knowledge against future loss?
 - How long does the Collapse Era last, and is recovery gradual or punctuated by new secondary collapses?
+- What are the approximate calendar dates for the Collapse Era in years, and how does its duration compare to the Early History Era that preceded it?
 
 ## Related Documents
 

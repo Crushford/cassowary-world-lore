@@ -42,6 +42,7 @@ No atomic notes found.
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
 
 ### World State — Logistics Stabilisation Era
 
@@ -51,6 +52,7 @@ No atomic notes found.
 - What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
 - How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
 - Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
+- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline?
 
 ## Related Topics
 
