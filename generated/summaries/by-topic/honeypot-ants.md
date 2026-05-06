@@ -13,6 +13,7 @@ Generated summary bundle for docs tagged with `Honeypot Ants`.
 | [Honeypot Ants](../../../reference/species/honeypot-ants.md)                                                                                | reference/species/honeypot-ants.md                           | Reference   |                             | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |
 | [Managed Ant Lineages](../../../lore/honeypot-ants/managed-ant-lineages.md)                                                                 | lore/honeypot-ants/managed-ant-lineages.md                   | Lore        | Ecological Management Era   | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... |
 | [Regional Honeypot Ant Ecotypes](../../../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                                             | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore        | Ecological Management Era   | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... |
+| [World State — Kati Thunda Ant Revolution](../../../reference/world-state-kati-thunda-ant-revolution.md)                                    | reference/world-state-kati-thunda-ant-revolution.md          | Reference   | Kati Thunda Ant Revolution  | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md         | Reference   | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
@@ -20,6 +21,7 @@ Generated summary bundle for docs tagged with `Honeypot Ants`.
 ### Reference
 
 - [Honeypot Ants](../../../reference/species/honeypot-ants.md)
+- [World State — Kati Thunda Ant Revolution](../../../reference/world-state-kati-thunda-ant-revolution.md)
 - [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md)
 
 ### Divergences
@@ -163,6 +165,15 @@ No entries found.
 - What is the earliest period at which wet-margin ceramic nest management becomes technically viable?
 - How much does regional ant lineage selection require active selective breeding versus repeated preference for colonies that survive and recover well?
 
+### World State — Kati Thunda Ant Revolution
+
+- Is the Kati Thunda label a later retrospective name for a recognized threshold, or a contemporary term used by those living through it?
+- Which Sahul regions reach the storage threshold first?
+- What sealing and preservation methods create the first reliably multi-season ant storage?
+- How quickly does administrative specialisation emerge after storage becomes reliable?
+- What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
+- At what point does control of storage become a heritable institutional position rather than a personal authority claim?
+
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
 - Which Sahul shelf and exposed coastal plain regions remain productive enough for orchard-capable ecologies during representative glacial maxima?
@@ -171,9 +182,11 @@ No entries found.
 
 ## Related Topics
 
+- Administrative Specialisation
 - Aphid Stabilization
 - Aphids
 - Arid Ecology
+- Ceramic Preservation
 - Ceramic Sealing
 - Chamber Tolerance
 - Climate
@@ -182,6 +195,7 @@ No entries found.
 - Controlled Harvest
 - Dead Storage
 - Domestication
+- Early Accounting
 - Ecological Domestication
 - Ecotypes
 - Environmental Constraints
@@ -197,6 +211,7 @@ No entries found.
 - Lineage Selection
 - Liquid Food Storage
 - Living Storage
+- Logistics
 - Managed Honeypot Ant Lineages
 - Megafauna
 - Movement Corridors
@@ -204,6 +219,7 @@ No entries found.
 - Nest Propagation
 - Nest-Assist Pots
 - Orchard Management
+- Political Economy Transformation
 - Pottery
 - Preserved Sugar Paste
 - Refugia
@@ -216,7 +232,10 @@ No entries found.
 - Sahul
 - Scalable Sugar Production
 - Sea Level
+- Storage Revolution
 - Stored Surplus
 - Sugar Preservation
 - Sugar Production
+- Tribute Origin
+- World State — Kati Thunda Ant Revolution
 - World State — Protohistoric Expansion Era (Representative Glacial Maximum)

@@ -225,6 +225,7 @@ Back-of-book style index of topics with at least two references.
 | [Honeypot Ants](../reference/species/honeypot-ants.md)                                                                                | reference/species/honeypot-ants.md                           | Reference   | Real-world baseline for honeypot ant biology, colony structure, and the ecological conditions that support replete-ba... |                             |
 | [Managed Ant Lineages](../lore/honeypot-ants/managed-ant-lineages.md)                                                                 | lore/honeypot-ants/managed-ant-lineages.md                   | Lore        | This document defines ant lineages selected for different environments and management roles. Cassowary societies do n... | Ecological Management Era   |
 | [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                                             | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore        | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... | Ecological Management Era   |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md)                                    | reference/world-state-kati-thunda-ant-revolution.md          | Reference   | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution  |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md         | Reference   | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... | Protohistoric Expansion Era |
 
 ## Imprinting
@@ -241,6 +242,13 @@ Back-of-book style index of topics with at least two references.
 | [Sahul and Pleistocene Climate](../reference/geography/sahul-and-pleistocene-climate.md)       | reference/geography/sahul-and-pleistocene-climate.md    | Reference | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |              |
 | [Sea Level and Sahul Connectivity](../reference/geography/sea-level-and-sahul-connectivity.md) | reference/geography/sea-level-and-sahul-connectivity.md | Reference | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |              |
 
+## Lineage Management
+
+| Title                                                                             | Path                                            | Layer     | Summary                                                                                                                  | Time Periods              |
+| --------------------------------------------------------------------------------- | ----------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [Orchard Sugar Tree Lineages](../lore/agriculture/orchard-sugar-tree-lineages.md) | lore/agriculture/orchard-sugar-tree-lineages.md | Lore      | This document defines tree roles used in honeydew and sugar production without overcommitting to exact species. Casso... | Ecological Management Era |
+| [World State — Orchard Era](../reference/world-state-orchard-era.md)              | reference/world-state-orchard-era.md            | Reference | The Orchard Era is the period when cassowary societies make their first durable multigenerational investments in mana... | Orchard Era               |
+
 ## Lineage Selection
 
 | Title                                                                                                         | Path                                                           | Layer | Summary                                                                                                                  | Time Periods              |
@@ -255,6 +263,13 @@ Back-of-book style index of topics with at least two references.
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
 | [Honeypot Ant Sugar Preservation](../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)                | lore/honeypot-ants/honeypot-ant-sugar-preservation.md         | Lore  | This document answers how harvested honeypot ant reserves become preserved sugar paste or related concentrates. It fo... | Ecological Management Era |
 | [Pottery-Assisted Ant Nest Architecture](../lore/infrastructure/pottery-assisted-ant-nest-architecture.md) | lore/infrastructure/pottery-assisted-ant-nest-architecture.md | Lore  | This document makes the pots and nest system visually and technically concrete. Pottery does not create honeypot ant...  | Ecological Management Era |
+
+## Logistics
+
+| Title                                                                                                | Path                                                 | Layer     | Summary                                                                                                                  | Time Periods               |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md)   | reference/world-state-kati-thunda-ant-revolution.md  | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
+| [World State — Logistics Stabilisation Era](../reference/world-state-logistics-stabilisation-era.md) | reference/world-state-logistics-stabilisation-era.md | Reference | The Logistics Stabilisation Era is the period corresponding to the WTA trade framework. It is not trade as usual, sca... | WTA Period                 |
 
 ## Megafauna
 
@@ -340,6 +355,20 @@ Back-of-book style index of topics with at least two references.
 | [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md) | lore/honeypot-ants/honeypot-ant-orchard-system-management.md | Lore  | This document answers how cassowaries maintain the orchard, aphid, and honeypot ant relationships that make predictab... | Ecological Management Era |
 | [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                 | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore  | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... | Ecological Management Era |
 | [Sap-Feeder Lineages and Honeydew Flow](../lore/ecology/sap-feeder-lineages-and-honeydew-flow.md)         | lore/ecology/sap-feeder-lineages-and-honeydew-flow.md        | Lore  | This document defines aphid and sap-feeder types as managed functional lineages in Cassowary World orchard systems. C... | Ecological Management Era |
+
+## Orchards
+
+| Title                                                                           | Path                                           | Layer     | Summary                                                                                                                  | Time Periods              |
+| ------------------------------------------------------------------------------- | ---------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [Orchard Lineage Management](../lore/agriculture/orchard-lineage-management.md) | lore/agriculture/orchard-lineage-management.md | Lore      | This document answers how cassowaries preserve and adapt productive orchard tree lineages over multiple generations s... | Ecological Management Era |
+| [World State — Orchard Era](../reference/world-state-orchard-era.md)            | reference/world-state-orchard-era.md           | Reference | The Orchard Era is the period when cassowary societies make their first durable multigenerational investments in mana... | Orchard Era               |
+
+## Pottery
+
+| Title                                                                                              | Path                                                 | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)          | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md | Lore      | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... | Ecological Management Era  |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md  | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
 
 ## Predator Guild
 

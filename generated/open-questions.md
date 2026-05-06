@@ -595,6 +595,19 @@ Source: `docs/core-logic.md`
 - How should preservation and storage milestones be placed relative to early tribute systems?
 - Which generated validation warnings should become errors after existing docs are cleaned up?
 
+## World State — Collapse Era
+
+### World State — Collapse Era
+
+Source: `reference/world-state-collapse-era.md`
+
+- What triggers the initial cascade in each region: drought, epidemic, political succession conflict, external military pressure, or some combination?
+- Which political forms survive the Collapse Era in recognisable condition?
+- Do handler lineages emerge as a new autonomous political class with more independent power after collapse, and what institutional forms do they develop?
+- Which coastal and riverine regions become the core successor political centres, and why?
+- Does the Collapse Era produce new documentation or recording practices — attempts to preserve institutional knowledge against future loss?
+- How long does the Collapse Era last, and is recovery gradual or punctuated by new secondary collapses?
+
 ## World State — Early History Era
 
 ### World State — Early History Era
@@ -604,6 +617,44 @@ Source: `reference/world-state-early-history-era.md`
 - What distinguishes WTA-style trade systems from earlier regional redistribution networks?
 - Which Sahul regions reach Early History Era institutional stability first, and which remain in Protohistoric Expansion Era conditions?
 - How does the geographic uneven development of this era shape political competition, marriage alliance, and warfare between regions?
+
+## World State — Kati Thunda Ant Revolution
+
+### World State — Kati Thunda Ant Revolution
+
+Source: `reference/world-state-kati-thunda-ant-revolution.md`
+
+- Is the Kati Thunda label a later retrospective name for a recognized threshold, or a contemporary term used by those living through it?
+- Which Sahul regions reach the storage threshold first?
+- What sealing and preservation methods create the first reliably multi-season ant storage?
+- How quickly does administrative specialisation emerge after storage becomes reliable?
+- What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
+- At what point does control of storage become a heritable institutional position rather than a personal authority claim?
+
+## World State — Logistics Stabilisation Era
+
+### World State — Logistics Stabilisation Era
+
+Source: `reference/world-state-logistics-stabilisation-era.md`
+
+- What is the original political form of the first WTA-framework institutions — a coalition of route authorities, a dominant regional polity, a mutual-guarantee compact among storage custodians, or something else?
+- How does WTA handle route authority defection — those who damage the network for short-term advantage?
+- Which regions join the WTA network earliest, and which remain outside it longest?
+- What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
+- How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
+- Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
+
+## World State — Orchard Era
+
+### World State — Orchard Era
+
+Source: `reference/world-state-orchard-era.md`
+
+- What triggers the transition from seasonal cooperation around orchards to multigenerational lineage investment?
+- At what scale does graft-cutting exchange become a formalised political institution rather than an informal alliance?
+- Which Sahul regions reach stable orchard investment soonest, and which remain in mobile-foraging conditions?
+- How much does tree maturation timescale shape the length of cassowary political alliances and succession expectations?
+- What prevents orchard knowledge from being preserved through collapse events, and what allows some of it to survive?
 
 ## World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 

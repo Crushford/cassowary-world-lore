@@ -25,9 +25,13 @@ This directory contains deterministic Markdown views derived from the hand-autho
 
 - [Claw Development Era](time/claw-development-era.md)
 - [Fire and Extended Development Era](time/fire-and-extended-development-era.md)
+- [Orchard Era](time/orchard-era.md)
 - [Ecological Management Era](time/ecological-management-era.md)
+- [Kati Thunda Ant Revolution](time/kati-thunda-ant-revolution.md)
 - [Protohistoric Expansion Era](time/protohistoric-expansion-era.md)
 - [Early History Era](time/early-history-era.md)
+- [Collapse Era](time/collapse-era.md)
+- [WTA Period](time/wta-period.md)
 
 ## Summary Bundles
 
@@ -84,8 +88,10 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Honeypot Ants](summaries/by-topic/honeypot-ants.md)
 - [Imprinting](summaries/by-topic/imprinting.md)
 - [Land Bridges](summaries/by-topic/land-bridges.md)
+- [Lineage Management](summaries/by-topic/lineage-management.md)
 - [Lineage Selection](summaries/by-topic/lineage-selection.md)
 - [Living Storage](summaries/by-topic/living-storage.md)
+- [Logistics](summaries/by-topic/logistics.md)
 - [Megafauna](summaries/by-topic/megafauna.md)
 - [Megalania](summaries/by-topic/megalania.md)
 - [Mesopredator](summaries/by-topic/mesopredator.md)
@@ -97,6 +103,8 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [New Zealand](summaries/by-topic/new-zealand.md)
 - [Orchard Ecology](summaries/by-topic/orchard-ecology.md)
 - [Orchard Management](summaries/by-topic/orchard-management.md)
+- [Orchards](summaries/by-topic/orchards.md)
+- [Pottery](summaries/by-topic/pottery.md)
 - [Predator Guild](summaries/by-topic/predator-guild.md)
 - [Predators](summaries/by-topic/predators.md)
 - [Quinkana](summaries/by-topic/quinkana.md)
