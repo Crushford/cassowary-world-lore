@@ -101,6 +101,12 @@ Generated from source document `Time periods` metadata.
 - Fire Incubation and Extended Juvenile Development: Bird chicks do not require milk. Stolen or opportunistically collected eggs from other species can be incubated and raised by cassowary households using existing fire and food-processing infrastructure.
 - Fire Incubation and Extended Juvenile Development: This mechanism makes giant goose domestication in Sahul, later moa domestication in New Zealand, and rare dromornithid prestige handling possible.
 
+## Orchard Era
+
+| Title                                                                | Path                                 | Layer     | Summary                                                                                                                  |
+| -------------------------------------------------------------------- | ------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [World State — Orchard Era](../reference/world-state-orchard-era.md) | reference/world-state-orchard-era.md | Reference | The Orchard Era is the period when cassowary societies make their first durable multigenerational investments in mana... |
+
 ## Ecological Management Era
 
 | Title                                                                                                                         | Path                                                                   | Layer       | Summary                                                                                                                  |
@@ -332,6 +338,12 @@ Generated from source document `Time periods` metadata.
 - Transport Networks: Movement systems are shaped by the fragmented productivity described in the world-state baseline.
 - Transport Networks: Heavy haulage animals make roads more economically valuable in the Early History Era, but they depend on earlier route networks.
 
+## Kati Thunda Ant Revolution
+
+| Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... |
+
 ## Protohistoric Expansion Era
 
 | Title                                                                                                                                 | Path                                                                   | Layer     | Summary                                                                                                                  |
@@ -539,3 +551,15 @@ Generated from source document `Time periods` metadata.
 - Tribute Storage Custody and Redistribution: Coercive extraction without redistribution can collapse compliance coalitions.
 - Tribute Storage Custody and Redistribution: Regional guarded storage centers and forwarded taxation networks emerge in the Protohistoric Expansion Era.
 - Tribute Storage Custody and Redistribution: Diprotodontid haulage later expands the practical catchment area of storage centers where roads and water access support heavy transport.
+
+## Collapse Era
+
+| Title                                                                  | Path                                  | Layer     | Summary                                                                                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [World State — Collapse Era](../reference/world-state-collapse-era.md) | reference/world-state-collapse-era.md | Reference | The Collapse Era is the period of regional political fragmentation that follows the overextension of Early History Er... |
+
+## WTA Period
+
+| Title                                                                                                | Path                                                 | Layer     | Summary                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [World State — Logistics Stabilisation Era](../reference/world-state-logistics-stabilisation-era.md) | reference/world-state-logistics-stabilisation-era.md | Reference | The Logistics Stabilisation Era is the period corresponding to the WTA trade framework. It is not trade as usual, sca... |

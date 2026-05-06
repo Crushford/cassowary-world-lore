@@ -66,9 +66,12 @@ const IGNORED_DIRS = new Set(['.git', '.obsidian', 'generated', 'node_modules', 
 const ALLOWED_TIME_LABELS = [
   'Claw Development Era',
   'Fire and Extended Development Era',
+  'Orchard Era',
   'Ecological Management Era',
+  'Kati Thunda Ant Revolution',
   'Protohistoric Expansion Era',
   'Early History Era',
+  'Collapse Era',
   'Agricultural and Civilisational Era',
   'WTA Period',
 ];
