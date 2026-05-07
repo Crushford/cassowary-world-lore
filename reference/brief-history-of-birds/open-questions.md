@@ -27,7 +27,7 @@ Structured catalogue of unresolved research questions for the `reference/brief-h
 ## System Implications
 
 - Any new document added to this section should check this file and either address listed questions or add new ones.
-- Lore documents drawing on this section must not treat open questions as closed unless a specific reference document has resolved them.
+- Open questions listed here must not be treated as resolved unless a specific reference document in this section explicitly addresses them with evidence.
 
 ## Known Variability
 

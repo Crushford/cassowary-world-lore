@@ -4,21 +4,23 @@ Generated summary bundle for docs tagged with `Sahul`.
 
 ## Documents
 
-| Title                                                                                                                                       | Path                                                    | Layer     | Time Periods                | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                    | reference/species/cassowaries.md                        | Reference |                             | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                   | Reference |                             | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)                                                  | reference/megafauna/extinct-sahul-fauna-catalog.md      | Reference |                             | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
-| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)                                                        | reference/ecology/predator-systems-of-sahul.md          | Reference |                             | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
-| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md    | Reference |                             | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [Sahul Predator Roles](../../../reference/predators/sahul-predator-roles.md)                                                                | reference/predators/sahul-predator-roles.md             | Reference |                             | Real-world baseline for the ecological roles filled by Sahul's predator guild and the mechanisms through which predat... |
-| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md)                                        | reference/geography/sea-level-and-sahul-connectivity.md | Reference |                             | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md    | Reference | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
+| Title                                                                                                                                       | Path                                                             | Layer     | Time Periods                | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)                                   | reference/brief-history-of-birds/bird-geography-and-dispersal.md | Reference |                             | Bird biogeography is reconstructed from fossils, living distributions, molecular relationships, and geological contex... |
+| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                    | reference/species/cassowaries.md                                 | Reference |                             | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                            | Reference |                             | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)                                                  | reference/megafauna/extinct-sahul-fauna-catalog.md               | Reference |                             | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
+| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)                                                        | reference/ecology/predator-systems-of-sahul.md                   | Reference |                             | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
+| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md             | Reference |                             | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
+| [Sahul Predator Roles](../../../reference/predators/sahul-predator-roles.md)                                                                | reference/predators/sahul-predator-roles.md                      | Reference |                             | Real-world baseline for the ecological roles filled by Sahul's predator guild and the mechanisms through which predat... |
+| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md)                                        | reference/geography/sea-level-and-sahul-connectivity.md          | Reference |                             | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md             | Reference | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
 
 ### Reference
 
+- [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
 - [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
@@ -45,6 +47,15 @@ No entries found.
 No atomic notes found.
 
 ## Open Questions
+
+### Bird Geography and Dispersal
+
+- Which southern fossil records — Antarctic, South American, Australian — best constrain early neornithine geographic distribution around the K-Pg boundary?
+- How important was Antarctica as a survival refuge versus a dispersal corridor for southern neornithine lineages in the early Paleogene?
+- Which ratite distributions require flighted ancestors to explain, and which can be accounted for by vicariance alone?
+- When did the cassowary-emu lineage (Casuariiformes) become established as a Sahul-regional clade, and by what route?
+- How much of Neoaves' global spread was initiated from Gondwana-derived landmasses versus later dispersal from northern or equatorial centres?
+- How should uncertain movement routes be represented in reference documents without converting inference into false maps?
 
 ### Cassowaries
 
@@ -95,17 +106,21 @@ No atomic notes found.
 ## Related Topics
 
 - Anatomy
+- Antarctica
 - Apex Predator
 - Aphids
 - Arafura Shelf
 - Bass Strait
 - Biogeography
+- Bird geography and dispersal
+- Birds
 - Cassowaries
 - Catalog
 - Climate
 - Corridors
 - Crocodile
 - Diprotodontids
+- Dispersal
 - Dromornithidae
 - Dromornithids
 - early Pleistocene
@@ -114,12 +129,14 @@ No atomic notes found.
 - Fear Ecology
 - Female Territoriality
 - Flightless Birds
+- Fossils
 - Frugivory
 - Geography
 - Giant Flightless Birds
 - Giant Geese
 - Glacial Cycles
 - Glacial Maximum
+- Gondwana
 - Habitat Use
 - Herbivores
 - Honeypot Ants
@@ -131,7 +148,9 @@ No atomic notes found.
 - Megafauna
 - Megalania
 - Mesopredator
+- Molecular Evidence
 - Movement Corridors
+- Palaeognaths
 - Palorchestes
 - Pleistocene climate
 - Predator Ecology
@@ -140,6 +159,7 @@ No atomic notes found.
 - Predators
 - Prey Behaviour
 - Quinkana
+- Ratites
 - Refugia
 - Sahul and Pleistocene climate
 - Sahul predator roles

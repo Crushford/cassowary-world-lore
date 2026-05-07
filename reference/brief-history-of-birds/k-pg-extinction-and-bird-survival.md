@@ -33,7 +33,7 @@ Real-world reference on the K-Pg mass extinction and its effects on bird lineage
 ## System Implications
 
 - Any reference to bird lineages near the K-Pg boundary must specify whether the evidence is fossil-based or molecular-clock-based, and must not conflate the two.
-- Lore involving birds in deep time must account for the fact that most bird lineages present before the K-Pg boundary are now extinct; modern bird types cannot be assumed as deep-time defaults.
+- Most bird lineages present before the K-Pg boundary are extinct and have no modern analogs; modern bird types cannot be assumed as deep-time defaults.
 - The ecological filtering at K-Pg constrains which ancestral ecological traits are plausible starting conditions for post-K-Pg lineages.
 
 ## Known Variability

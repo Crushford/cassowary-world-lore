@@ -32,7 +32,7 @@ Real-world reference on the origins of living bird families within Neornithes. D
 
 ## System Implications
 
-- Lore referencing specific bird families in Sahul or Australasia must account for the fact that family-level distributions have shifted significantly since the K-Pg boundary.
+- Family-level distributions in Sahul and Australasia have shifted significantly since the K-Pg boundary; present-day distributions cannot be treated as ancient defaults.
 - Cassowaries and emus (ratites, Palaeognathae) share deeper evolutionary history than most Neoaves lineages do with each other; assumptions drawn from passerine or shorebird biology do not transfer.
 - The rapid early Neoaves radiation means that many apparent morphological similarities across families reflect convergence rather than close shared ancestry; surface resemblance does not imply close relationship.
 

@@ -6,6 +6,7 @@ Generated summary bundle for docs tagged with `Cassowaries`.
 
 | Title                                                                                                                                                   | Path                                                                          | Layer     | Time Periods                      | Summary                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [A Brief History of Birds](../../../reference/brief-history-of-birds/index.md)                                                                          | reference/brief-history-of-birds/index.md                                     | Reference |                                   | Living birds represent a narrow surviving subset of ancient avian diversity. Through the Cretaceous, multiple distinc... |
 | [Cassowaries](../../../reference/species/cassowaries.md)                                                                                                | reference/species/cassowaries.md                                              | Reference |                                   | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
 | [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md) | lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md | Lore      | Fire and Extended Development Era | This document answers how cassowary cognition shifts during the Fire and Extended Development Era from predator avoid... |
 | [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md)                                                | reference/ecology/forest-refugia-and-arboreal-species.md                      | Reference |                                   | Real-world baseline for how rainforest contracts into isolated refugia during glacial maxima and what constraints thi... |
@@ -14,6 +15,7 @@ Generated summary bundle for docs tagged with `Cassowaries`.
 
 ### Reference
 
+- [A Brief History of Birds](../../../reference/brief-history-of-birds/index.md)
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Forest Refugia and Arboreal Species](../../../reference/ecology/forest-refugia-and-arboreal-species.md)
 
@@ -45,6 +47,15 @@ No entries found.
 
 ## Open Questions
 
+### A Brief History of Birds
+
+- Which crown-bird lineages are confirmed as present before the K-Pg boundary on the basis of unambiguous fossil evidence?
+- Which proposed K-Pg survival traits are strongly evidenced versus plausible but unresolved?
+- How much of the apparent post-K-Pg radiation of Neoaves reflects true rapid diversification versus gaps in fossil preservation?
+- Was ratite flightlessness lost once in a common ancestor of all ratites, or independently in multiple lineages after dispersal? The nested position of tinamous makes this a live and unresolved question.
+- When did the cassowary-emu lineage diverge, and what constraints does that divergence impose on claims about cassowary deep history in Sahul?
+- Which pre-K-Pg avian lineages — particularly enantiornithines — occupied ecological roles now held by modern bird groups, and what does that mean for ecological inferences drawn from modern-bird behaviour?
+
 ### Cassowaries
 
 - What is the spatial extent of cassowary ancestral range during early Pleistocene glacial maxima, particularly during rainforest contraction?
@@ -66,9 +77,13 @@ No entries found.
 
 - Anatomy
 - Arboreal Species
+- Birds
+- Brief history of birds
 - Cassowary Neurodevelopment And Predator Management Transition
 - Coalition Logic
 - Connectivity
+- Evolution
+- Extinction
 - Female Territoriality
 - Flightless Birds
 - Forest Refugia
@@ -77,12 +92,16 @@ No entries found.
 - Gene Flow
 - Glacial Contraction
 - Juvenile Learning
+- K-Pg extinction
 - Male Parental Care
+- Neornithes
 - Neurodevelopment
 - New Guinea highlands
+- Palaeognathae
 - Possums
 - Predator Management
 - Queensland rainforest
 - Rainforest
+- Ratites
 - Sahul
 - Tree Kangaroos
