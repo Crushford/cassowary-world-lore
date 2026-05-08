@@ -4,14 +4,15 @@ Generated summary bundle for docs tagged with `Birds`.
 
 ## Documents
 
-| Title                                                                                                                            | Path                                                                  | Layer     | Time Periods | Summary                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [A Brief History of Birds](../../../reference/brief-history-of-birds/index.md)                                                   | reference/brief-history-of-birds/index.md                             | Reference |              | Living birds represent a narrow surviving subset of ancient avian diversity. Through the Cretaceous, multiple distinc... |
-| [Bird Evolution: Evidence, Reconstruction, and Uncertainty](../../../reference/bird-evolution-evidence-and-uncertainty/index.md) | reference/bird-evolution-evidence-and-uncertainty/index.md            | Reference |              | The fossil record for birds is incomplete in ways that compound at depth. Fossils require conditions rare enough that... |
-| [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)                        | reference/brief-history-of-birds/bird-geography-and-dispersal.md      | Reference |              | Bird biogeography is reconstructed from fossils, living distributions, molecular relationships, and geological contex... |
-| [K-Pg Extinction and Bird Survival](../../../reference/brief-history-of-birds/k-pg-extinction-and-bird-survival.md)              | reference/brief-history-of-birds/k-pg-extinction-and-bird-survival.md | Reference |              | Real-world reference on the K-Pg mass extinction and its effects on bird lineages. Defines which bird groups are unde... |
-| [Living Bird Family Origins](../../../reference/brief-history-of-birds/living-bird-family-origins.md)                            | reference/brief-history-of-birds/living-bird-family-origins.md        | Reference |              | Real-world reference on the origins of living bird families within Neornithes. Defines the major groupings, the evide... |
-| [Open Questions — A Brief History of Birds](../../../reference/brief-history-of-birds/open-questions.md)                         | reference/brief-history-of-birds/open-questions.md                    | Reference |              | Structured catalogue of unresolved research questions for the `reference/brief-history-of-birds/` section. Each quest... |
+| Title                                                                                                                                  | Path                                                                  | Layer     | Time Periods | Summary                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [A Brief History of Birds](../../../reference/brief-history-of-birds/index.md)                                                         | reference/brief-history-of-birds/index.md                             | Reference |              | Living birds represent a narrow surviving subset of ancient avian diversity. Through the Cretaceous, multiple distinc... |
+| [Bird Evolution: Evidence, Reconstruction, and Uncertainty](../../../reference/bird-evolution-evidence-and-uncertainty/index.md)       | reference/bird-evolution-evidence-and-uncertainty/index.md            | Reference |              | The fossil record for birds is incomplete in ways that compound at depth. Fossils require conditions rare enough that... |
+| [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)                              | reference/brief-history-of-birds/bird-geography-and-dispersal.md      | Reference |              | Bird biogeography is reconstructed from fossils, living distributions, molecular relationships, and geological contex... |
+| [Bird Geography, Gondwana, and Australasian Evolution](../../../reference/bird-geography-gondwana-and-australasian-evolution/index.md) | reference/bird-geography-gondwana-and-australasian-evolution/index.md | Reference |              | Gondwana's staged fragmentation, Antarctica's transition from forested to glaciated, Australia's progressive aridific... |
+| [K-Pg Extinction and Bird Survival](../../../reference/brief-history-of-birds/k-pg-extinction-and-bird-survival.md)                    | reference/brief-history-of-birds/k-pg-extinction-and-bird-survival.md | Reference |              | Real-world reference on the K-Pg mass extinction and its effects on bird lineages. Defines which bird groups are unde... |
+| [Living Bird Family Origins](../../../reference/brief-history-of-birds/living-bird-family-origins.md)                                  | reference/brief-history-of-birds/living-bird-family-origins.md        | Reference |              | Real-world reference on the origins of living bird families within Neornithes. Defines the major groupings, the evide... |
+| [Open Questions — A Brief History of Birds](../../../reference/brief-history-of-birds/open-questions.md)                               | reference/brief-history-of-birds/open-questions.md                    | Reference |              | Structured catalogue of unresolved research questions for the `reference/brief-history-of-birds/` section. Each quest... |
 
 ## Layer Breakdown
 
@@ -20,6 +21,7 @@ Generated summary bundle for docs tagged with `Birds`.
 - [A Brief History of Birds](../../../reference/brief-history-of-birds/index.md)
 - [Bird Evolution: Evidence, Reconstruction, and Uncertainty](../../../reference/bird-evolution-evidence-and-uncertainty/index.md)
 - [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)
+- [Bird Geography, Gondwana, and Australasian Evolution](../../../reference/bird-geography-gondwana-and-australasian-evolution/index.md)
 - [K-Pg Extinction and Bird Survival](../../../reference/brief-history-of-birds/k-pg-extinction-and-bird-survival.md)
 - [Living Bird Family Origins](../../../reference/brief-history-of-birds/living-bird-family-origins.md)
 - [Open Questions — A Brief History of Birds](../../../reference/brief-history-of-birds/open-questions.md)
@@ -69,6 +71,15 @@ No atomic notes found.
 - How much of Neoaves' global spread was initiated from Gondwana-derived landmasses versus later dispersal from northern or equatorial centres?
 - How should uncertain movement routes be represented in reference documents without converting inference into false maps?
 
+### Bird Geography, Gondwana, and Australasian Evolution
+
+- Which bird lineages used Antarctic movement corridors during the Paleocene and Eocene, and how does that bear on southern neornithine biogeography?
+- How important was Antarctica as a refuge or dispersal corridor for neornithine lineages in the aftermath of the K-Pg extinction, before full glaciation?
+- When did the major Australasian drying phases most strongly affect bird evolution, and which lineages show the clearest signatures of aridification-driven range contraction?
+- What proportion of ratite distribution reflects vicariance versus over-water dispersal, and which specific lineages require which mechanism?
+- Where did the earliest passerine radiation most intensively occur, and how quickly did the initial dispersal from Australasia to other regions proceed?
+- Which modern Australasian bird distributions are the most contracted remnants of wider ancient presences, and therefore most mislead inference about historical range?
+
 ### K-Pg Extinction and Bird Survival
 
 - Which crown-bird lineages are confirmed present before the K-Pg boundary based on unambiguous fossil evidence?
@@ -85,11 +96,14 @@ No atomic notes found.
 ## Related Topics
 
 - Antarctica
+- Australasia
 - Biogeography
 - Bird evolution evidence and uncertainty
+- Bird geography and Australasian evolution
 - Bird geography and dispersal
 - Brief history of birds
 - Cassowaries
+- Climate
 - Convergence
 - Dispersal
 - Diversification
@@ -113,6 +127,7 @@ No atomic notes found.
 - Palaeognathae
 - Palaeognaths
 - Palaeontology
+- Passerines
 - Ratites
 - Sahul
 - Survival

@@ -58,6 +58,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 
 ### By Topic
 
+- [Antarctica](summaries/by-topic/antarctica.md)
 - [Apex Predator](summaries/by-topic/apex-predator.md)
 - [Aphid Stabilization](summaries/by-topic/aphid-stabilization.md)
 - [Aphids](summaries/by-topic/aphids.md)
@@ -69,10 +70,12 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Cassowaries](summaries/by-topic/cassowaries.md)
 - [Cassowary Anatomy](summaries/by-topic/cassowary-anatomy.md)
 - [Ceramics](summaries/by-topic/ceramics.md)
+- [Climate](summaries/by-topic/climate.md)
 - [Colony Management](summaries/by-topic/colony-management.md)
 - [Custody](summaries/by-topic/custody.md)
 - [Dead Storage](summaries/by-topic/dead-storage.md)
 - [Diprotodontids](summaries/by-topic/diprotodontids.md)
+- [Dispersal](summaries/by-topic/dispersal.md)
 - [Disturbance Ecology](summaries/by-topic/disturbance-ecology.md)
 - [Domestication](summaries/by-topic/domestication.md)
 - [Dromornithids](summaries/by-topic/dromornithids.md)
@@ -86,6 +89,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Fossils](summaries/by-topic/fossils.md)
 - [Giant Geese](summaries/by-topic/giant-geese.md)
 - [Glacial Maximum](summaries/by-topic/glacial-maximum.md)
+- [Gondwana](summaries/by-topic/gondwana.md)
 - [Grazing](summaries/by-topic/grazing.md)
 - [Haulage](summaries/by-topic/haulage.md)
 - [Herbivores](summaries/by-topic/herbivores.md)
@@ -112,6 +116,7 @@ This directory contains deterministic Markdown views derived from the hand-autho
 - [Orchard Management](summaries/by-topic/orchard-management.md)
 - [Orchards](summaries/by-topic/orchards.md)
 - [Palaeognathae](summaries/by-topic/palaeognathae.md)
+- [Palaeognaths](summaries/by-topic/palaeognaths.md)
 - [Pottery](summaries/by-topic/pottery.md)
 - [Predator Guild](summaries/by-topic/predator-guild.md)
 - [Predators](summaries/by-topic/predators.md)

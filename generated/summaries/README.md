@@ -23,6 +23,7 @@ Generated LLM-friendly context bundles derived from source docs.
 
 ## By Topic
 
+- [Antarctica](by-topic/antarctica.md)
 - [Apex Predator](by-topic/apex-predator.md)
 - [Aphid Stabilization](by-topic/aphid-stabilization.md)
 - [Aphids](by-topic/aphids.md)
@@ -34,10 +35,12 @@ Generated LLM-friendly context bundles derived from source docs.
 - [Cassowaries](by-topic/cassowaries.md)
 - [Cassowary Anatomy](by-topic/cassowary-anatomy.md)
 - [Ceramics](by-topic/ceramics.md)
+- [Climate](by-topic/climate.md)
 - [Colony Management](by-topic/colony-management.md)
 - [Custody](by-topic/custody.md)
 - [Dead Storage](by-topic/dead-storage.md)
 - [Diprotodontids](by-topic/diprotodontids.md)
+- [Dispersal](by-topic/dispersal.md)
 - [Disturbance Ecology](by-topic/disturbance-ecology.md)
 - [Domestication](by-topic/domestication.md)
 - [Dromornithids](by-topic/dromornithids.md)
@@ -51,6 +54,7 @@ Generated LLM-friendly context bundles derived from source docs.
 - [Fossils](by-topic/fossils.md)
 - [Giant Geese](by-topic/giant-geese.md)
 - [Glacial Maximum](by-topic/glacial-maximum.md)
+- [Gondwana](by-topic/gondwana.md)
 - [Grazing](by-topic/grazing.md)
 - [Haulage](by-topic/haulage.md)
 - [Herbivores](by-topic/herbivores.md)
@@ -77,6 +81,7 @@ Generated LLM-friendly context bundles derived from source docs.
 - [Orchard Management](by-topic/orchard-management.md)
 - [Orchards](by-topic/orchards.md)
 - [Palaeognathae](by-topic/palaeognathae.md)
+- [Palaeognaths](by-topic/palaeognaths.md)
 - [Pottery](by-topic/pottery.md)
 - [Predator Guild](by-topic/predator-guild.md)
 - [Predators](by-topic/predators.md)

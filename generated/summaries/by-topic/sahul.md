@@ -4,23 +4,25 @@ Generated summary bundle for docs tagged with `Sahul`.
 
 ## Documents
 
-| Title                                                                                                                                       | Path                                                             | Layer     | Time Periods                | Summary                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)                                   | reference/brief-history-of-birds/bird-geography-and-dispersal.md | Reference |                             | Bird biogeography is reconstructed from fossils, living distributions, molecular relationships, and geological contex... |
-| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                    | reference/species/cassowaries.md                                 | Reference |                             | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
-| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                            | Reference |                             | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
-| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)                                                  | reference/megafauna/extinct-sahul-fauna-catalog.md               | Reference |                             | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
-| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)                                                        | reference/ecology/predator-systems-of-sahul.md                   | Reference |                             | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
-| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md             | Reference |                             | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
-| [Sahul Predator Roles](../../../reference/predators/sahul-predator-roles.md)                                                                | reference/predators/sahul-predator-roles.md                      | Reference |                             | Real-world baseline for the ecological roles filled by Sahul's predator guild and the mechanisms through which predat... |
-| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md)                                        | reference/geography/sea-level-and-sahul-connectivity.md          | Reference |                             | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
-| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md             | Reference | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
+| Title                                                                                                                                       | Path                                                                  | Layer     | Time Periods                | Summary                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)                                   | reference/brief-history-of-birds/bird-geography-and-dispersal.md      | Reference |                             | Bird biogeography is reconstructed from fossils, living distributions, molecular relationships, and geological contex... |
+| [Bird Geography, Gondwana, and Australasian Evolution](../../../reference/bird-geography-gondwana-and-australasian-evolution/index.md)      | reference/bird-geography-gondwana-and-australasian-evolution/index.md | Reference |                             | Gondwana's staged fragmentation, Antarctica's transition from forested to glaciated, Australia's progressive aridific... |
+| [Cassowaries](../../../reference/species/cassowaries.md)                                                                                    | reference/species/cassowaries.md                                      | Reference |                             | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |
+| [Dromornithidae](../../../reference/megafauna/dromornithidae.md)                                                                            | reference/megafauna/dromornithidae.md                                 | Reference |                             | Real-world baseline for the Dromornithidae, a family of extinct giant flightless birds from Sahul. Defines their biol... |
+| [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)                                                  | reference/megafauna/extinct-sahul-fauna-catalog.md                    | Reference |                             | A structured catalog of major extinct Sahul fauna, with ecological role, body size, and constraint implications for e... |
+| [Predator Systems of Sahul](../../../reference/ecology/predator-systems-of-sahul.md)                                                        | reference/ecology/predator-systems-of-sahul.md                        | Reference |                             | Real-world baseline for the predator assemblage present in Sahul during the early Pleistocene. Defines the ecological... |
+| [Sahul and Pleistocene Climate](../../../reference/geography/sahul-and-pleistocene-climate.md)                                              | reference/geography/sahul-and-pleistocene-climate.md                  | Reference |                             | Real-world baseline for the climate and geography mechanisms that shaped Sahul across Pleistocene glacial cycles. Def... |
+| [Sahul Predator Roles](../../../reference/predators/sahul-predator-roles.md)                                                                | reference/predators/sahul-predator-roles.md                           | Reference |                             | Real-world baseline for the ecological roles filled by Sahul's predator guild and the mechanisms through which predat... |
+| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md)                                        | reference/geography/sea-level-and-sahul-connectivity.md               | Reference |                             | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
+| [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../../../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md                  | Reference | Protohistoric Expansion Era | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... |
 
 ## Layer Breakdown
 
 ### Reference
 
 - [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)
+- [Bird Geography, Gondwana, and Australasian Evolution](../../../reference/bird-geography-gondwana-and-australasian-evolution/index.md)
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
 - [Extinct Sahul Fauna Catalog](../../../reference/megafauna/extinct-sahul-fauna-catalog.md)
@@ -56,6 +58,15 @@ No atomic notes found.
 - When did the cassowary-emu lineage (Casuariiformes) become established as a Sahul-regional clade, and by what route?
 - How much of Neoaves' global spread was initiated from Gondwana-derived landmasses versus later dispersal from northern or equatorial centres?
 - How should uncertain movement routes be represented in reference documents without converting inference into false maps?
+
+### Bird Geography, Gondwana, and Australasian Evolution
+
+- Which bird lineages used Antarctic movement corridors during the Paleocene and Eocene, and how does that bear on southern neornithine biogeography?
+- How important was Antarctica as a refuge or dispersal corridor for neornithine lineages in the aftermath of the K-Pg extinction, before full glaciation?
+- When did the major Australasian drying phases most strongly affect bird evolution, and which lineages show the clearest signatures of aridification-driven range contraction?
+- What proportion of ratite distribution reflects vicariance versus over-water dispersal, and which specific lineages require which mechanism?
+- Where did the earliest passerine radiation most intensively occur, and how quickly did the initial dispersal from Australasia to other regions proceed?
+- Which modern Australasian bird distributions are the most contracted remnants of wider ancient presences, and therefore most mislead inference about historical range?
 
 ### Cassowaries
 
@@ -110,8 +121,10 @@ No atomic notes found.
 - Apex Predator
 - Aphids
 - Arafura Shelf
+- Australasia
 - Bass Strait
 - Biogeography
+- Bird geography and Australasian evolution
 - Bird geography and dispersal
 - Birds
 - Cassowaries
@@ -126,6 +139,7 @@ No atomic notes found.
 - early Pleistocene
 - Extinct Sahul fauna catalog
 - Extinct Species
+- Extinction
 - Fear Ecology
 - Female Territoriality
 - Flightless Birds
@@ -152,6 +166,7 @@ No atomic notes found.
 - Movement Corridors
 - Palaeognaths
 - Palorchestes
+- Passerines
 - Pleistocene climate
 - Predator Ecology
 - Predator Guild

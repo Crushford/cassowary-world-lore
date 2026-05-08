@@ -35,6 +35,19 @@ Source: `reference/bird-evolution-evidence-and-uncertainty/index.md`
 - What is the irreducible uncertainty range in molecular clock estimates for early Neornithes divergences, given current fossil calibration options?
 - How many distinct bird lineages went extinct at the K-Pg boundary without leaving any descendants, and what ecological space did they occupy?
 
+## Bird geography and Australasian evolution
+
+### Bird Geography, Gondwana, and Australasian Evolution
+
+Source: `reference/bird-geography-gondwana-and-australasian-evolution/index.md`
+
+- Which bird lineages used Antarctic movement corridors during the Paleocene and Eocene, and how does that bear on southern neornithine biogeography?
+- How important was Antarctica as a refuge or dispersal corridor for neornithine lineages in the aftermath of the K-Pg extinction, before full glaciation?
+- When did the major Australasian drying phases most strongly affect bird evolution, and which lineages show the clearest signatures of aridification-driven range contraction?
+- What proportion of ratite distribution reflects vicariance versus over-water dispersal, and which specific lineages require which mechanism?
+- Where did the earliest passerine radiation most intensively occur, and how quickly did the initial dispersal from Australasia to other regions proceed?
+- Which modern Australasian bird distributions are the most contracted remnants of wider ancient presences, and therefore most mislead inference about historical range?
+
 ## Bird geography and dispersal
 
 ### Bird Geography and Dispersal
