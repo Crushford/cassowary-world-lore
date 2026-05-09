@@ -107,6 +107,18 @@ Source: `lore/biology/cassowary-forelimb-manipulation-pathway.md`
 - Which parts of the pathway require biological evolution across generations, and which can emerge culturally once minimal manipulation capacity exists?
 - How does fire-following behaviour interact with predator avoidance and group movement during fire events?
 
+## Cassowary naming and kinship terms
+
+### Cassowary Naming and Kinship Terms
+
+Source: `lore/language/cassowary-naming-and-kinship-terms.md`
+
+- What is the oldest self-name used by the speaking lineage in their own action-language or derived speech system, and does it already encode a kinship or categorical distinction?
+- Do forest cassowaries receive taboo names, kin names, ecological names, or avoidance terms in different regional traditions? Do some communities name individual forest cassowaries?
+- How do scientific speakers and classificatory traditions distinguish the biological cassowary genus from the speaking lineage in contexts where precision is required?
+- Does the naming distinction generate active ethical debate within the speaking lineage? Are there positions that argue for broader kinship recognition or positions that argue for stricter categorical separation?
+- Are non-speaking forest cassowaries protected, avoided, studied, ritually acknowledged, hunted, or some combination depending on era, region, and institution?
+
 ## Cassowary Neurodevelopment And Predator Management Transition
 
 ### Cassowary Neurodevelopment and Predator Management Transition
