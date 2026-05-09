@@ -1,22 +1,22 @@
-# Topic Summary: Biogeography
+# Topic Summary: Molecular Evidence
 
-Generated summary bundle for docs tagged with `Biogeography`.
+Generated summary bundle for docs tagged with `Molecular Evidence`.
 
 ## Documents
 
 | Title                                                                                                     | Path                                                             | Layer     | Time Periods | Summary                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md) | reference/brief-history-of-birds/bird-geography-and-dispersal.md | Reference |              | Bird biogeography is reconstructed from fossils, living distributions, molecular relationships, and geological contex... |
-| [Missing Animal Groups in Sahul](../../../reference/biogeography/missing-animal-groups-in-sahul.md)       | reference/biogeography/missing-animal-groups-in-sahul.md         | Reference |              | Real-world baseline for the major animal groups absent from Sahul that were present on other continents. Defines the...  |
-| [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md)      | reference/geography/sea-level-and-sahul-connectivity.md          | Reference |              | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |
+| [Living Bird Family Origins](../../../reference/brief-history-of-birds/living-bird-family-origins.md)     | reference/brief-history-of-birds/living-bird-family-origins.md   | Reference |              | Real-world reference on the origins of living bird families within Neornithes. Defines the major groupings, the evide... |
+| [Open Questions — A Brief History of Birds](../../../reference/brief-history-of-birds/open-questions.md)  | reference/brief-history-of-birds/open-questions.md               | Reference |              | Structured catalogue of unresolved research questions for the `reference/brief-history-of-birds/` section. Each quest... |
 
 ## Layer Breakdown
 
 ### Reference
 
 - [Bird Geography and Dispersal](../../../reference/brief-history-of-birds/bird-geography-and-dispersal.md)
-- [Missing Animal Groups in Sahul](../../../reference/biogeography/missing-animal-groups-in-sahul.md)
-- [Sea Level and Sahul Connectivity](../../../reference/geography/sea-level-and-sahul-connectivity.md)
+- [Living Bird Family Origins](../../../reference/brief-history-of-birds/living-bird-family-origins.md)
+- [Open Questions — A Brief History of Birds](../../../reference/brief-history-of-birds/open-questions.md)
 
 ### Divergences
 
@@ -45,42 +45,32 @@ No atomic notes found.
 - How much of Neoaves' global spread was initiated from Gondwana-derived landmasses versus later dispersal from northern or equatorial centres?
 - How should uncertain movement routes be represented in reference documents without converting inference into false maps?
 
-### Missing Animal Groups in Sahul
+### Living Bird Family Origins
 
-- Which specific ecological functions performed by ungulates in Eurasian systems were most significantly absent from Sahul, and which marsupial analogues came closest to filling them?
-- Did the absence of large manipulative mammals (elephants, apes) affect the distribution or accessibility of food resources in ways that later shaped the evolution of Sahul's fauna?
-
-### Sea Level and Sahul Connectivity
-
-- What was the extent of exposed shelf land in the Arafura region during the ~2 MYA representative glacial maximum, and how productive were those exposed areas?
-- Did the Gulf of Carpentaria basin form a freshwater lake during the ~2 MYA glacial maximum, and how did that affect regional fauna distribution?
-- Which shelf zones remained above sea level across multiple consecutive glacial maxima, providing habitat continuity beyond a single cycle?
+- When did the major Australasian bird lineages (including ratite ancestors and early Neoaves lineages) become established in Sahul?
+- Which Neoaves families have credible Cretaceous-era stem records versus relying primarily on molecular divergence estimates?
+- How should extinct bird groups phylogenetically close to living families be handled when fossil evidence is fragmentary?
 
 ## Related Topics
 
 - Antarctica
-- Arafura Shelf
-- Bass Strait
+- Biogeography
 - Bird geography and dispersal
 - Birds
-- Convergent Evolution
-- Corridors
 - Dispersal
-- Ecological Roles
-- Faunal Absence
+- Diversification
+- Evolution
+- Extinction
 - Fossils
-- Glacial Maximum
+- Galloanserae
 - Gondwana
-- Land Bridges
-- Marsupials
-- Missing animal groups in Sahul
-- Molecular Evidence
+- Living bird family origins
+- Neoaves
+- Neornithes
+- Open Questions
+- Open questions — brief history of birds
+- Palaeognathae
 - Palaeognaths
-- Placental Mammals
 - Ratites
 - Sahul
-- Sahul fauna
-- Sea Level
-- Sea level and Sahul connectivity
-- Torres Strait
-- Wallace Line
+- Taxonomy
