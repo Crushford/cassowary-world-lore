@@ -28,6 +28,7 @@ Generated summary bundle for documents in `lore/divergences`.
 - [Cassowaries](../../../reference/species/cassowaries.md)
 - [Cassowary Forelimb Manipulation Pathway](../../../lore/biology/cassowary-forelimb-manipulation-pathway.md)
 - [Cassowary Neurodevelopment and Predator Management Transition](../../../lore/biology/cassowary-neurodevelopment-and-predator-management-transition.md)
+- [Cassowary World Era Timeline](../../../reference/cassowary-world-era-timeline.md)
 - [Guiding Principles](../../../docs/guiding-principles.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)
 - [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)

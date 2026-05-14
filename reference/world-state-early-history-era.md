@@ -43,6 +43,7 @@ Early History Era is the period when story-facing institutions such as WTA-style
 
 ## Related Documents
 
+- [Cassowary World Era Timeline](cassowary-world-era-timeline.md)
 - [World State — Protohistoric Expansion Era](world-state-protohistoric-expansion-era.md)
 - [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md)
 - [Diprotodontid Haulage and Road Economics](../lore/transport/diprotodontid-haulage-and-road-economics.md)

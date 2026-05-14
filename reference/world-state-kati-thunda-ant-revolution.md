@@ -63,10 +63,11 @@ This also creates the first forms of early notation and accounting logic. If sea
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
-- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent? Current canonical placement is in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the ~50,000-year transition window is illustrative and the actual threshold sharpness remains unresolved.
 
 ## Related Documents
 
+- [Cassowary World Era Timeline](cassowary-world-era-timeline.md)
 - [World State — Orchard Era](world-state-orchard-era.md)
 - [World State — Protohistoric Expansion Era](world-state-protohistoric-expansion-era.md)
 - [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md)

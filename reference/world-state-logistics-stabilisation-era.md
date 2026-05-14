@@ -68,10 +68,11 @@ WTA does not build new road networks from nothing. It rehabilitates and reconnec
 - What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
 - How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
 - Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
-- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline?
+- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline? Current canonical placement and the full Orchard-through-WTA mapping are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the era's end-point is provisional and depends on later canon not yet documented.
 
 ## Related Documents
 
+- [Cassowary World Era Timeline](cassowary-world-era-timeline.md)
 - [World State — Collapse Era](world-state-collapse-era.md)
 - [World State — Early History Era](world-state-early-history-era.md)
 - [Diprotodontid Haulage and Road Economics](../lore/transport/diprotodontid-haulage-and-road-economics.md)

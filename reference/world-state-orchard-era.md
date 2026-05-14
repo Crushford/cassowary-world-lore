@@ -65,10 +65,11 @@ Graft exchange networks create the first webs of long-distance political obligat
 - Which Sahul regions reach stable orchard investment soonest, and which remain in mobile-foraging conditions?
 - How much does tree maturation timescale shape the length of cassowary political alliances and succession expectations?
 - What prevents orchard knowledge from being preserved through collapse events, and what allows some of it to survive?
-- What are the approximate calendar dates and duration of the Orchard Era in years, and how does it bracket relative to the Fire and Extended Development Era and Ecological Management Era?
+- What are the approximate calendar dates and duration of the Orchard Era in years, and how does it bracket relative to the Fire and Extended Development Era and Ecological Management Era? Current canonical ranges and reasoning are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); ranges remain tentative and the specific Ecological Management / Orchard boundary remains genuinely ambiguous.
 
 ## Related Documents
 
+- [Cassowary World Era Timeline](cassowary-world-era-timeline.md)
 - [World State — Protohistoric Expansion Era](world-state-protohistoric-expansion-era.md)
 - [World State — Kati Thunda Ant Revolution](world-state-kati-thunda-ant-revolution.md)
 - [Orchard Lineage Management](../lore/agriculture/orchard-lineage-management.md)

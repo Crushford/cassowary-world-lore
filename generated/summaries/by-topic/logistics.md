@@ -42,7 +42,7 @@ No atomic notes found.
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
-- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent? Current canonical placement is in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the ~50,000-year transition window is illustrative and the actual threshold sharpness remains unresolved.
 
 ### World State — Logistics Stabilisation Era
 
@@ -52,7 +52,7 @@ No atomic notes found.
 - What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
 - How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
 - Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
-- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline?
+- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline? Current canonical placement and the full Orchard-through-WTA mapping are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the era's end-point is provisional and depends on later canon not yet documented.
 
 ## Related Topics
 

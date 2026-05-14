@@ -62,10 +62,11 @@ This matters for the post-collapse period. The roads are still there. Some stret
 - Which coastal and riverine regions become the core successor political centres, and why?
 - Does the Collapse Era produce new documentation or recording practices — attempts to preserve institutional knowledge against future loss?
 - How long does the Collapse Era last, and is recovery gradual or punctuated by new secondary collapses?
-- What are the approximate calendar dates for the Collapse Era in years, and how does its duration compare to the Early History Era that preceded it?
+- What are the approximate calendar dates for the Collapse Era in years, and how does its duration compare to the Early History Era that preceded it? Current canonical ranges are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the ~50,000-year span is illustrative and reflects how quickly cascading institutional failure can propagate once critical infrastructure fails.
 
 ## Related Documents
 
+- [Cassowary World Era Timeline](cassowary-world-era-timeline.md)
 - [World State — Early History Era](world-state-early-history-era.md)
 - [World State — Logistics Stabilisation Era](world-state-logistics-stabilisation-era.md)
 - [Diprotodontid Domestication and Working Lineages](../lore/domestication/diprotodontid-domestication-and-working-lineages.md)

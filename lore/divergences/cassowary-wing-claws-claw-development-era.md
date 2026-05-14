@@ -51,6 +51,7 @@ Do not reintroduce a later divergence date or treat the wing-claw adaptation as 
 
 ## Related Documents
 
+- [Cassowary World Era Timeline](../../reference/cassowary-world-era-timeline.md)
 - [Cassowaries](../../reference/species/cassowaries.md)
 - [Guiding Principles](../../docs/guiding-principles.md)
 - [Cassowary Forelimb Manipulation Pathway](../biology/cassowary-forelimb-manipulation-pathway.md)

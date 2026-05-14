@@ -173,7 +173,7 @@ No entries found.
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
-- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent? Current canonical placement is in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the ~50,000-year transition window is illustrative and the actual threshold sharpness remains unresolved.
 
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 

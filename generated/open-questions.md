@@ -139,6 +139,21 @@ Source: `lore/divergences/cassowary-wing-claws-claw-development-era.md`
 - Which intermediate anatomical stages between chick clasping and adult body-supported manipulation need more detailed biomechanical modelling?
 - Which intermediate stages need technical documentation?
 
+## Cassowary World era timeline (absolute calendar)
+
+### Cassowary World Era Timeline
+
+Source: `reference/cassowary-world-era-timeline.md`
+
+- How precise can the Claw Development Era onset date be made against current palaeontological evidence for marsupial-predator diversification in Sahul? Is the ~12 MYA estimate tied to a specific predator-fossil window, or is it more loosely calibrated against general Late Miocene ecological conditions?
+- How long does the Fire and Extended Development Era actually need to be, given the stages of the cassowary forelimb manipulation pathway and the cockatoo–cassowary signal coevolution that span it? Is the ~4 million year range adequate, generous, or tight?
+- Is Ecological Management Era genuinely after Fire and Extended Development Era, or does it begin during it as a regional or partial development before stabilising universally? The era ordering convention in this document treats them as sequential; this may oversimplify.
+- Where exactly does Ecological Management Era end and Orchard Era begin, and what evidence (or set of canonical claims) distinguishes them? The current placement is calibrated by the Orchard Era's "What Changed from the Fire and Extended Development Era" section but does not resolve the relationship to Ecological Management.
+- How long was the Kati Thunda Ant Revolution as a transition window? The ~50,000-year placement is illustrative; the threshold could be sharper (a few generations) or broader (multiple glacial cycles) depending on how the storage technology actually crossed reliability thresholds.
+- What is the calendar separation between First New Zealand Arrival and Sahul-NZ Maritime Contact, given that both currently sit within the Protohistoric Expansion Era? The era is approximately 100,000 years wide in this document; how is that span partitioned between the two events?
+- What is the canonical end of the Logistics Stabilisation Era / WTA Period? This document places it at ~1.70 MYA notionally; later events in Cassowary World history are not yet documented, so this end-point is provisional.
+- Should this document be revised when regional differentiation lore is added, to provide per-region calendar anchors alongside the Sahul-wide canonical placements?
+
 ## Ceramic Vessels And Nest Chambers
 
 ### Ceramic Vessels and Nest Chambers
@@ -692,7 +707,7 @@ Source: `reference/world-state-collapse-era.md`
 - Which coastal and riverine regions become the core successor political centres, and why?
 - Does the Collapse Era produce new documentation or recording practices — attempts to preserve institutional knowledge against future loss?
 - How long does the Collapse Era last, and is recovery gradual or punctuated by new secondary collapses?
-- What are the approximate calendar dates for the Collapse Era in years, and how does its duration compare to the Early History Era that preceded it?
+- What are the approximate calendar dates for the Collapse Era in years, and how does its duration compare to the Early History Era that preceded it? Current canonical ranges are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the ~50,000-year span is illustrative and reflects how quickly cascading institutional failure can propagate once critical infrastructure fails.
 
 ## World State — Early History Era
 
@@ -716,7 +731,7 @@ Source: `reference/world-state-kati-thunda-ant-revolution.md`
 - How quickly does administrative specialisation emerge after storage becomes reliable?
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
-- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent? Current canonical placement is in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the ~50,000-year transition window is illustrative and the actual threshold sharpness remains unresolved.
 
 ## World State — Logistics Stabilisation Era
 
@@ -730,7 +745,7 @@ Source: `reference/world-state-logistics-stabilisation-era.md`
 - What notation or record-keeping systems become standardised within WTA operations, and what physical form do they take?
 - How does WTA interact with tribute systems inherited from the Early History Era? Does it absorb, transform, or operate alongside them?
 - Is there a single WTA framework institution, or is WTA a distributed set of compatible institutional practices with no central authority?
-- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline?
+- What are the approximate calendar dates and duration of the Logistics Stabilisation Era in years, and how does the full era sequence from Orchard Era through WTA Period map onto an absolute timeline? Current canonical placement and the full Orchard-through-WTA mapping are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); the era's end-point is provisional and depends on later canon not yet documented.
 
 ## World State — Orchard Era
 
@@ -743,7 +758,7 @@ Source: `reference/world-state-orchard-era.md`
 - Which Sahul regions reach stable orchard investment soonest, and which remain in mobile-foraging conditions?
 - How much does tree maturation timescale shape the length of cassowary political alliances and succession expectations?
 - What prevents orchard knowledge from being preserved through collapse events, and what allows some of it to survive?
-- What are the approximate calendar dates and duration of the Orchard Era in years, and how does it bracket relative to the Fire and Extended Development Era and Ecological Management Era?
+- What are the approximate calendar dates and duration of the Orchard Era in years, and how does it bracket relative to the Fire and Extended Development Era and Ecological Management Era? Current canonical ranges and reasoning are in [Cassowary World Era Timeline](cassowary-world-era-timeline.md); ranges remain tentative and the specific Ecological Management / Orchard boundary remains genuinely ambiguous.
 
 ## World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
