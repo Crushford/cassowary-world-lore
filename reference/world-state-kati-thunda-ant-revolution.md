@@ -57,15 +57,17 @@ This also creates the first forms of early notation and accounting logic. If sea
 
 ## First Basin Civilisation: State Formation in the Kati Thanda Basin
 
-The Kati Thunda storage threshold produces its first large-scale state expression in the Kati Thanda basin and related interior flood-basin ecologies during a wetter glacial minimum or interglacial phase.
+The Kati Thunda storage threshold produces its first large-scale state expression in the Kati Thanda basin and related interior flood-basin ecologies during a wetter interglacial or pre-maximum regional phase.
 
-This is not a separate civilisation disconnected from the revolution that produces it. The First Basin Civilisation is what the Kati Thunda storage threshold becomes when the right ecological conditions exist: flood-basin orchard abundance, managed honeypot ant reserves, fruit preservation, and sealed ceramic storage converging in a region that is, for this period, genuinely and reliably wet.
+This is not a separate civilisation disconnected from the revolution that produces it. The First Basin Civilisation is what the Kati Thunda storage threshold becomes when the right ecological conditions exist: flood-basin orchard abundance, managed honeypot ant reserves, fruit preservation, and sealed ceramic storage converging in a region that is, for this period, wet enough to support repeated flood-basin orchard productivity while still seasonal enough to make storage and water control politically decisive.
 
-The Kati Thanda basin and related interior flood-basin systems during this wetter phase support irregular but productive flood cycles that spread water across basin floors. Productive flood years drive orchard growth, sap-feeder abundance, ant reserve production, and large-scale fruit harvests available for drying and preservation. Dry intervals between floods shift labour toward reservoir construction, channel maintenance, embankment works, and storage management. This alternating pressure — abundance to preserve, scarcity to survive — is the engine of hydraulic administration.
+The Kati Thanda basin and related interior flood-basin systems during this wetter phase support irregular but productive flood cycles. Productive flood years drive orchard growth, sap-feeder abundance, ant reserve production, and large-scale fruit harvests available for drying and preservation. Dry intervals between floods shift labour toward reservoir construction, channel maintenance, embankment works, and storage management. This alternating pressure — abundance to preserve, scarcity to survive — is the engine of hydraulic administration, not a permanently wet paradise.
 
 What emerges is a state whose power rests on controlling water, orchards, ant-producing landscapes, preservation production, sealed vessel storage, and the labour connecting all of them. It resembles ancient Egypt or Mesopotamia in structural logic: a hydraulic society whose administrative authority is rooted in controlling the surplus that irregular water cycles make possible. But its surplus base is not grain. It is flood-basin orchard productivity converted into durable stored food through drying, preserved fruit pastes, fruit-honey and sugar-paste preserves, ceramic vessels, and managed honeypot ant reserves.
 
 This is the first cassowary society to achieve large-scale administrative specialisation, labour levies, guarded storage facilities, institutionalised tribute, and the conditions that eventually produce writing. Power in this state is not ecological in the old sense — proximity to living orchards and waterholes. It is logistical: controlling what was counted, sealed, and stored.
+
+For the full treatment of hydraulic administration, writing, collapse, and the post-collapse interval, see [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md). The sections below summarise the key points anchored in this world-state document.
 
 ## The Stored Food Base
 
@@ -85,57 +87,29 @@ The stored food system is a mixed base. Honeypot ants provide what they reliably
 
 ## Collapse Under Glacial Drying
 
-The First Basin Civilisation is tied to the hydrological conditions that made it possible. As conditions shift toward a representative glacial maximum, the Kati Thanda basin and related interior flood-basin systems dry. Flood cycles become too rare and too unreliable to sustain the hydraulic orchard-ant storage economy.
+As conditions shift toward a representative glacial maximum, the Kati Thanda basin and related interior flood-basin systems dry. Flood cycles become too rare and too unreliable to sustain the hydraulic orchard-ant storage economy.
 
-The collapse is systemic and cascading. Less floodwater means less orchard productivity. Less orchard productivity means weaker sap-feeder flows, lower honeypot ant reserve production, less fruit available for drying and paste-making, and less sealed surplus reaching storage facilities. With less surplus, the administrative class — scribes, storage custodians, reservoir engineers, labour supervisors, tribute collectors, guards — loses its caloric base. Positions that were economically rational under basin abundance become impossible to sustain under basin drought.
+The collapse cascade: less floodwater → less orchard productivity → weaker sap-feeder flows → lower ant reserves → less fruit for drying and paste-making → less sealed surplus → administrative class loses caloric base → administrative specialisation is no longer economically rational. The state likely responds first with intensification — deeper reservoirs, coercive labour, tighter storage authority — which delays but accelerates the fragmentation it cannot prevent.
 
-The state does not respond passively. It likely intensifies extraction first: deeper reservoirs, more trench and embankment work, coercive labour levies, increased slave raiding, tighter storage control, rationing, and stronger institutional authority over sealed surplus. These responses delay collapse but also increase extraction pressure on an already-declining production base, accelerating the internal fragmentation that precedes administrative failure.
-
-Eventually the system can no longer maintain the surplus needed to support administrative specialisation. The collapse is not an intelligence collapse. Cassowaries who survive are no less capable than their ancestors. What disappears is the ecological and storage infrastructure that made large-scale administration economically rational. The first cassowary state collapses because its foundation — the wet-phase basin hydrology — is no longer there, not because its people forgot how to think.
-
-After collapse, cassowary societies survive across Sahul in lower-density, more mobile, or smaller-scale forms. They retain ecological intelligence, oral traditions, local orchard management, opportunistic ant harvesting, and preservation knowledge. They do not retain basin-scale storage bureaucracy or full writing. The long interval between the First Basin Civilisation and the later rise of civilisation under glacial maximum conditions is not an interval of stagnation — it is an interval of survival, ecological adaptation, and gradual distributed technical development without state-level administration.
+The collapse is not an intelligence collapse. What disappears is the ecological and storage infrastructure that made large-scale administration economically rational. For the full treatment including the post-collapse interval, see [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md).
 
 ## Writing and Administrative Notation
 
-The Kati Thunda storage threshold creates the accounting pressure that eventually leads toward writing. But writing does not appear at the moment the storage threshold is crossed.
+The Kati Thunda storage threshold creates the accounting pressure that eventually leads toward writing. But writing does not appear immediately at the storage threshold.
 
-The sequence is slower:
+The sequence: sealed vessels, authority marks, and tally notches at the threshold → storage and flood records as administration grows → full writing when institutional memory outgrows pre-literate vessel marks and oral transmission. Writing disappears after collapse because the administrative class that needed it disappears. Some marks may survive as seal symbols or lineage marks, but the scribal system has no economic function without basin-scale storage and labour administration to justify it.
 
-Before and at the storage threshold: sealed vessels, authority marks, tally notches, vessel forms, and witnessed accounting carry the administrative load. Physical custody and human memory are sufficient when the administrative system is local and seasonal.
-
-As surplus grows and flood-cycle administration becomes more complex: storage records, flood records, labour obligation records, reservoir works logs, and archive traditions develop within the Basin Civilisation. Institutional memory grows beyond what a single generation of individuals can reliably hold. Pre-literate notation — seal marks, tally systems, vessel shape conventions — is pushed toward its limits.
-
-Full writing emerges when administrative needs outgrow pre-literate vessel marks and oral memory: when flood-cycle accounting, labour levies, reservoir management, and tribute custody at regional scale require a recording system that outlasts any single custodian and can be read by a successor without personal transmission.
-
-This is consistent with the existing constraint that early Kati Thunda administrative systems are pre-literate. Full writing comes from accounting pressure that builds across the Basin Civilisation's development, not immediately at the storage threshold.
-
-Writing disappears after collapse because the administrative class disappears. When populations disperse and storage systems shrink to household or local scales, full writing loses its practical function. Some marks may survive as seal symbols, ritual signs, lineage marks, or inherited forms that no longer carry their original administrative meaning. But the full scribal system does not remain useful without basin-scale storage, labour administration, and flood-cycle management to justify maintaining it.
+This is consistent with the existing constraint in this document that early Kati Thunda administrative systems are pre-literate. For the full sequence, see [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md).
 
 ## Pottery in the Basin Phase and Later
 
-Pottery in the First Basin Civilisation serves primarily as dead-storage and processing infrastructure. This is its earliest major administrative role.
+Pottery in the First Basin Civilisation serves primarily as dead-storage and processing infrastructure. The Basin Phase uses pottery for: preserve jars, authority-marked storage vessels, early levy and redistribution containers, processing bowls, and harvest cups. Some local nest protection near basin-margin ant clusters may appear, but mature pottery-assisted ant nest architecture at regional scale develops later.
 
-The Basin Phase uses pottery for: preserve jars, sealed storage vessels, tribute containers, authority-marked seals, processing bowls, harvest cups, and possibly simple local nest protection near productive basin-margin ant clusters.
-
-What the Basin Phase does not yet have — or has only in early and localised forms — is mature pottery-assisted ant nest architecture at regional scale. Nest-assist pots designed to reshape colony structure by providing dry, protected, predictable chambers may appear opportunistically in this period. But the mature living-system nest infrastructure — pots manufactured specifically to change nest architecture, distributed across many ecotypes, enabling ant production in environments that would not otherwise support ground-nest honeypot ant colonies — develops later.
-
-The distinction is:
-
-The Kati Thunda storage threshold is reached through preservation vessels and sealed dead-storage, not through mature nest-assist pot systems.
-
-Mature pottery-assisted nest architecture later expands where honeypot ant production is possible — beyond the original Kati Thanda basin conditions into savanna woodland, wet-margin, upland refugia, coastal shelf, and other regional ecotypes described in the regional ecotypes documents.
-
-The First Basin Civilisation makes stored surplus durable. Pottery-assisted ant nest architecture later makes the living production system more regionally portable. Those are different achievements, separated in time.
+The key distinction: the Kati Thunda storage threshold is reached through preservation vessels and sealed dead-storage. Mature nest-assist pot systems that change colony architecture and extend ant production beyond naturally suitable ground-nest ecologies are a later development, tied to the Ecological Management Era. The First Basin Civilisation makes stored surplus durable. Pottery-assisted ant nest architecture later makes the living production system more regionally portable.
 
 ## Staged Ant Domestication
 
-The First Basin Civilisation does not begin with fully domesticated honeypot ants. The domestication process is gradual and sequential.
-
-Before the Kati Thunda threshold: cassowaries already know and exploit honeypot ants. They protect productive nests, learn seasonal yield patterns, and understand that ant reserves depend on host trees, sap-feeders, nest stability, and climate. This knowledge is functional but informal and ecologically embedded.
-
-During and following the threshold in the Basin Phase: ground-nest management intensifies in favourable basin-margin and orchard ecologies. The First Basin Civilisation's ant economy relies on naturally suitable ground nests under Kati Thanda basin conditions, managed orchard-ant landscapes, and increasingly systematic nest protection and harvest regulation. Ants remain embedded in local ecology. They are not yet universally portable or reliably propagatable beyond naturally favourable sites.
-
-The domestication threshold is gradual. It includes selecting productive colonies, protecting nests from disruption, regulating harvest to preserve colony recovery, managing nearby host trees, stabilising sap-feeder populations, and eventually favouring lineages that recover well under management. Full scalable domestication — the ability to propagate managed colonies beyond naturally favourable sites and establish them in new ecologies — remains tied to later developments in nest splitting, managed ant lineages, and mature pottery-assisted nest architecture.
+The First Basin Civilisation does not begin with fully domesticated honeypot ants. Before the threshold: cassowaries know and exploit productive nests, but management is informal and ecologically embedded. During the Basin Phase: ground-nest management intensifies in naturally suitable basin-margin ecologies, with nest protection and harvest regulation, but ants are not yet propagatable beyond naturally favourable sites. Full scalable domestication — nest splitting, managed lineages, colony propagation across ecotypes — develops later.
 
 ## Open Questions
 
@@ -151,6 +125,7 @@ The domestication threshold is gradual. It includes selecting productive colonie
 - How long did the collapse take, and were there recognisable phases of intensification, fragmentation, and abandonment before the basin-scale state fully ceased?
 - What proportion of writing-like notation survived the collapse as inherited marks, and in what contexts did those marks continue to be used?
 - At what point in the later recovery does the accounting pressure for writing re-emerge, and does it produce a system continuous with or independent of the Basin Civilisation's scribal tradition?
+- The repository currently uses "Kati Thunda" for the named storage threshold revolution and "Kati Thanda" for the basin geography. These are treated as related but distinct references. Naming consistency across files should be verified and standardised in a later pass.
 
 ## Related Documents
 

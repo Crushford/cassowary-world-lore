@@ -2,7 +2,7 @@
 
 ## Summary
 
-The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of the Kati Thunda Ant Revolution in the Kati Thanda basin and related interior flood-basin ecologies during a wetter glacial minimum or interglacial phase. It is not a separate invention from the revolution that produces it. It is what the Kati Thunda storage threshold becomes when the ecological conditions align: flood-basin orchard abundance, managed honeypot ant reserves, fruit preservation, sealed ceramic storage, and hydraulic administration converging in a region that is, for this period, genuinely and reliably wet.
+The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of the Kati Thunda Ant Revolution in the Kati Thanda basin and related interior flood-basin ecologies during a wetter interglacial or pre-maximum regional phase. It is not a separate invention from the revolution that produces it. It is what the Kati Thunda storage threshold becomes when the ecological conditions align: flood-basin orchard abundance, managed honeypot ant reserves, fruit preservation, sealed ceramic storage, and hydraulic administration converging in a region that is, for this period, wet enough to support repeated flood-basin orchard productivity while still seasonal enough to make storage and water control politically decisive.
 
 This document is a synthesis file. It links existing system mechanisms into a coherent historical sequence. The source of truth for each mechanism remains in the documents listed in Related Documents. Do not introduce new mechanics here that contradict those sources.
 
@@ -25,7 +25,7 @@ Cassowary societies have intelligence, coordination, multigenerational orchard i
 Pottery-assisted storage crosses a reliability threshold. Sealed ceramic vessels hold preserved sugar paste, dried fruit, fruit-honey preserves, and other concentrated foods across full lean seasons. Power shifts from controlling what is growing toward controlling what was counted and sealed. Administrative specialisation becomes economically rational for the first time.
 
 **Regional expression — First Basin Civilisation:**
-In and around the Kati Thanda basin and related interior flood-basin ecologies, during a wetter glacial minimum or interglacial phase, the Kati Thunda storage threshold produces its first large-scale state expression. A hydraulic administration emerges from the pressure of managing flood cycles, orchard abundance, preservation, and stored surplus at regional scale.
+In and around the Kati Thanda basin and related interior flood-basin ecologies, during a wetter interglacial or pre-maximum regional phase, the Kati Thunda storage threshold produces its first large-scale state expression. A hydraulic administration emerges from the pressure of managing flood cycles, orchard abundance, preservation, and stored surplus at regional scale.
 
 **After collapse — long post-collapse interval:**
 As conditions shift toward a representative glacial maximum, the basin hydrology fails. The First Basin Civilisation collapses. Cassowaries survive in lower-density, more mobile, or smaller-scale forms across Sahul. Writing disappears. State-level administration disappears. The long interval is not stagnation — it is survival and distributed technical development.
@@ -39,7 +39,7 @@ These two structures must not be blurred together. They are historically distinc
 
 | Dimension | First Basin Civilisation | Later Protohistoric Expansion |
 |---|---|---|
-| Climate phase | Wetter glacial minimum or interglacial | Representative glacial maximum |
+| Climate phase | Wetter interglacial or pre-maximum regional phase | Representative glacial maximum |
 | Geographic basis | Basin-bound, flood-dependent interior | Distributed regional ecotypes across Sahul |
 | Ecological foundation | Flood-basin orchard abundance, managed ground-nest ant reserves | Savanna woodland, wet-margin, upland refugia, coastal shelf, and other ecotypes |
 | Pottery role in ant production | Primarily dead-storage and preservation | Mature nest-assist pot architecture as living infrastructure |
@@ -126,7 +126,7 @@ They do not retain:
 - Full writing or scribal systems
 - State-level administration of any kind
 
-The post-collapse interval is not stagnation. It is a long period of survival, ecological adaptation, and gradual distributed technical development. The Ecological Management Era develops across this interval and after it: aphid stabilisation, sap-feeder management, managed ant lineages, nest splitting, pottery-assisted nest architecture, and the regional ecotype systems that eventually support the Protohistoric Expansion Era. None of these require state-level administration to develop. They require sustained multigenerational ecological practice.
+The post-collapse interval is not stagnation. It is a long period of survival, ecological adaptation, and gradual distributed technical development. The post-collapse interval preserves and develops some of the practices that later become formalised in the Ecological Management Era: sap-feeder management, managed ant lineages, nest splitting, pottery-assisted nest architecture, and the regional ecotype systems that eventually support the Protohistoric Expansion Era. None of these require continuous state-level administration to develop. They require sustained multigenerational ecological practice.
 
 ## What the Later System Is Not
 
