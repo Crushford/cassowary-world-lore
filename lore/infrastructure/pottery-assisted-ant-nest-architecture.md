@@ -163,6 +163,24 @@ Large-volume institutional storage; not hand-carried in routine operations.
 
 ---
 
+## Two Phases of Pottery in Ant Production
+
+Pottery enters cassowary ant production in two historically distinct phases. Conflating them produces anachronistic accounts of either the First Basin Civilisation or the later Ecological Management and Protohistoric Expansion systems.
+
+**Phase One — Kati Thunda Basin Phase:**
+Pottery's primary role is dead-storage and preservation infrastructure. Sealed preserve jars, authority-marked storage vessels, early levy and redistribution containers, processing bowls, and harvest cups are the dominant ceramic forms. Pottery makes stored surplus durable, transportable, and administratively controllable. Some local nest protection may appear near productive basin-margin ant clusters during this phase, but mature nest-assist pot systems at regional scale are not yet the basis of the ant economy. The Kati Thunda storage threshold is crossed through preservation and sealing, not through nest architecture transformation.
+
+**Phase Two — Ecological Management and Protohistoric Expansion Phase:**
+Pottery-assisted ant nest architecture develops as a distinct living-system technology. Nest-assist pots change nest microclimate by creating dry, protected, predictable chambers where repletes can be accessed and partially harvested. This living infrastructure expands where honeypot ant production is possible — beyond the original Kati Thanda basin conditions into savanna woodland, wet-margin, upland refugia, coastal shelf, and other regional ecotypes. The range of viable ant production grows because pottery changes what the ant colony can do in environments that would not naturally support stable ground-nest honeypot ant colonies.
+
+The key historical distinction is:
+
+The Kati Thunda Ant Revolution makes stored surplus durable.
+
+Pottery-assisted ant nest architecture later makes the living production system more regionally portable.
+
+Both matter. They are different achievements, separated in time and in which direction the technology faces — outward toward storage and administration, or inward toward the living colony.
+
 ## The Critical Distinction
 
 **Nest-assist pots are living-system infrastructure. Tribute jars are dead-storage and accounting infrastructure.**

@@ -91,6 +91,8 @@ No entries found.
 - Reliable preserved surplus supports administrators, craftspeople, and other non-foraging roles.
 - Control of orchard-ant production and preservation infrastructure becomes a source of state power tied to orchard health and pest ecology.
 - The tribute jar — a sealed standardised vessel — is not a nest-assist pot. It holds the output of preservation, not the living nest. Conflating them misrepresents both the orchard system and the tribute system.
+- Preserved sugar paste can act as a stabilising ingredient in broader fruit-based preserves, not only as a standalone product. Mixing concentrated ant sugars with dried fruit pulp, fruit paste, or other orchard-derived concentrates creates sealed products with longer shelf life and broader caloric value than either component alone. Combined preserves of this kind are administratively useful precisely because they can absorb more of an orchard's seasonal output into a single sealable form.
+- The preserved sugar paste's role in extending fruit-based preserves is distinct from its role as a standalone tribute product. Both roles are real; they serve different positions in the storage and tribute chain.
 
 ### Managed Ant Lineages
 
@@ -174,6 +176,12 @@ No entries found.
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
 - What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- How precisely did the Kati Thanda basin's wetter phases align with the storage threshold crossing? Was the First Basin Civilisation built during a single long wet interval or across multiple cycles?
+- How extensive was the First Basin Civilisation geographically, and which other interior basin systems were incorporated into its administrative reach?
+- How long did the collapse take, and were there recognisable phases of intensification, fragmentation, and abandonment before the basin-scale state fully ceased?
+- What proportion of writing-like notation survived the collapse as inherited marks, and in what contexts did those marks continue to be used?
+- At what point in the later recovery does the accounting pressure for writing re-emerge, and does it produce a system continuous with or independent of the Basin Civilisation's scribal tradition?
+- The repository currently uses "Kati Thunda" for the named storage threshold revolution and "Kati Thanda" for the basin geography. These are treated as related but distinct references. Naming consistency across files should be verified and standardised in a later pass.
 
 ### World State — Protohistoric Expansion Era (Representative Glacial Maximum)
 
@@ -200,6 +208,8 @@ No entries found.
 - Ecological Domestication
 - Ecotypes
 - Environmental Constraints
+- First Basin Civilisation
+- Flood-Basin Orchards
 - Geography
 - Glacial Maximum
 - Harvest Recovery
@@ -208,6 +218,7 @@ No entries found.
 - Honeypot Ant Orchard System Management
 - Honeypot Ant Sugar Preservation
 - Humidity Tolerance
+- Hydraulic State
 - Large Predators
 - Lineage Selection
 - Liquid Food Storage
@@ -233,6 +244,8 @@ No entries found.
 - Sahul
 - Scalable Sugar Production
 - Sea Level
+- Staged Domestication
+- State Collapse
 - Storage Revolution
 - Stored Surplus
 - Sugar Preservation
@@ -240,3 +253,4 @@ No entries found.
 - Tribute Origin
 - World State — Kati Thunda Ant Revolution
 - World State — Protohistoric Expansion Era (Representative Glacial Maximum)
+- Writing Emergence

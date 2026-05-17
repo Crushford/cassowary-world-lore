@@ -210,6 +210,10 @@ Generated from source document `Time periods` metadata.
 - Food Preservation and Storage Systems: Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Food Preservation and Storage Systems: Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
 - Food Preservation and Storage Systems: Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
+- Food Preservation and Storage Systems: The stored food base is mixed across all phases: dried fruit, fruit paste cakes, fruit-honey preserves, sugar-paste concentrates, and ant-derived sugars contribute together. No single product carries the administrative weight alone.
+- Food Preservation and Storage Systems: Honeypot ant reserves provide concentrated sugars and living biological storage; drying, concentration, ceramic sealing, and rotation convert the broader seasonal orchard abundance into administrative surplus. The ant colony does not feed cities on its own.
+- Food Preservation and Storage Systems: Orchard fruit — dried into portable slabs, concentrated into paste cakes, or combined with honeypot ant sugars into sealed preserves — forms part of the caloric base alongside ant-derived preserved sugar. This applies from the earliest state-forming phases of the Kati Thunda Ant Revolution through the later Protohistoric Expansion Era.
+- Food Preservation and Storage Systems: In flood-basin orchard contexts, productive flood years generate large fruit volumes available for drying and paste-making that the lean-season storage system must absorb. The scale of the drying and sealing operation in these ecologies is correspondingly larger than in purely dryland systems.
 - Giant Goose Domestication and Ridability: Cassowary fire use begins as a survival and food-processing behaviour before it becomes a mature domestic technology.
 - Giant Goose Domestication and Ridability: Fire improves digestibility and food reliability, giving it a broad civilizational role similar to cooking in human societies.
 - Giant Goose Domestication and Ridability: Fire also changes cassowary reproduction by making warmer, more stable egg incubation possible in managed shelters.
@@ -265,6 +269,8 @@ Generated from source document `Time periods` metadata.
 - Honeypot Ant Sugar Preservation: Reliable preserved surplus supports administrators, craftspeople, and other non-foraging roles.
 - Honeypot Ant Sugar Preservation: Control of orchard-ant production and preservation infrastructure becomes a source of state power tied to orchard health and pest ecology.
 - Honeypot Ant Sugar Preservation: The tribute jar — a sealed standardised vessel — is not a nest-assist pot. It holds the output of preservation, not the living nest. Conflating them misrepresents both the orchard system and the tribute system.
+- Honeypot Ant Sugar Preservation: Preserved sugar paste can act as a stabilising ingredient in broader fruit-based preserves, not only as a standalone product. Mixing concentrated ant sugars with dried fruit pulp, fruit paste, or other orchard-derived concentrates creates sealed products with longer shelf life and broader caloric value than either component alone. Combined preserves of this kind are administratively useful precisely because they can absorb more of an orchard's seasonal output into a single sealable form.
+- Honeypot Ant Sugar Preservation: The preserved sugar paste's role in extending fruit-based preserves is distinct from its role as a standalone tribute product. Both roles are real; they serve different positions in the storage and tribute chain.
 - Honeypot Ant Yield and Surplus Capacity: A single colony rarely feeds a city, settlement, or even a large household reliably. The colony is not the unit of civilisation.
 - Honeypot Ant Yield and Surplus Capacity: Many colonies across managed orchards create reliable surplus through aggregation and scheduled partial harvest.
 - Honeypot Ant Yield and Surplus Capacity: Yield should be measured at the orchard-ant cluster level, not the isolated nest level.
@@ -275,6 +281,8 @@ Generated from source document `Time periods` metadata.
 - Honeypot Ant Yield and Surplus Capacity: Tribute yield is only meaningful across many colonies and many orchards. It is a district-level phenomenon, not a colony-level one.
 - Honeypot Ant Yield and Surplus Capacity: Preserved surplus from many colonies becomes politically controllable when sealed into countable vessels. The transition from living replete to sealed jar is where yield becomes administrative.
 - Honeypot Ant Yield and Surplus Capacity: Loss of orchard stability, tree health, or sap-feeder populations reduces yield before colony health declines — the system signals stress before collapse.
+- Honeypot Ant Yield and Surplus Capacity: In the First Basin Civilisation context, even at the height of the Kati Thunda storage threshold, city-scale surplus does not come from isolated high-output colonies. It comes from aggregated orchard-ant landscapes across basin margins, flood-following orchards, managed reservoir zones, and distributed preservation labour. The aggregation principle applies from the earliest state-forming phases of the revolution, not only in later eras.
+- Honeypot Ant Yield and Surplus Capacity: First Basin surplus is also a mixed-base phenomenon: honeypot ant yield is one component of the stored food system, combined with dried fruit, fruit paste cakes, and fruit-honey preserves. The ant colony contribution matters most as a sugar and living-reserve component, not as the primary caloric foundation of the state.
 - Managed Ant Lineages: There is no single domesticated honeypot ant. The managed population is a regional set of lineages, each selected for different conditions.
 - Managed Ant Lineages: Selection is primarily passive: cassowaries prefer, protect, and harvest from colonies that survive, recover well, and expand into provided chambers. Over generations this constitutes selection without requiring deliberate breeding programs.
 - Managed Ant Lineages: Deliberate selection for specific traits — larger repletes, better chamber acceptance, faster recovery — may develop later, particularly in elite production contexts.
@@ -360,7 +368,26 @@ Generated from source document `Time periods` metadata.
 
 | Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)                         | lore/frameworks/first-basin-civilisation.md         | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... |
 | [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... |
+
+### Key Atomic Notes
+
+- First Basin Civilisation: The First Basin Civilisation is the state-level expression of the Kati Thunda Ant Revolution in the Kati Thanda basin, not a separate civilisation disconnected from the storage threshold that produces it.
+- First Basin Civilisation: The grain-equivalent of the First Basin Civilisation is preserved seasonal abundance, not the honeypot ant colony.
+- First Basin Civilisation: The stored food base is mixed: dried fruit, fruit paste cakes, fruit-honey preserves, ant-derived preserved sugar paste, and other basin foods compatible with drying and ceramic sealing.
+- First Basin Civilisation: City-scale surplus in the First Basin phase comes from aggregated orchard-ant landscapes at basin, estate, and district scale — not isolated high-output colonies.
+- First Basin Civilisation: The First Basin Civilisation is a hydraulic state whose administrative authority is rooted in controlling the surplus that irregular flood cycles make possible.
+- First Basin Civilisation: Pottery in the Basin Phase serves primarily as dead-storage and preservation infrastructure: authority-marked storage vessels, early levy containers, preserve jars, processing bowls. Mature pottery-assisted ant nest architecture at regional scale is a later development.
+- First Basin Civilisation: The First Basin Civilisation is the first cassowary society to achieve large-scale administrative specialisation, labour levies, guarded storage, institutionalised tribute, and the conditions that eventually produce writing.
+- First Basin Civilisation: Writing does not appear immediately at the Kati Thunda storage threshold. It develops under administrative pressure across the Basin Civilisation's history as pre-literate notation reaches its limits.
+- First Basin Civilisation: Writing disappears after collapse because the administrative class disappears. The scribal system has no economic function without basin-scale storage and labour administration to justify it.
+- First Basin Civilisation: The First Basin Civilisation collapses because its ecological and storage infrastructure disappears as climate shifts toward a representative glacial maximum — not because cassowaries become less intelligent.
+- First Basin Civilisation: The collapse cascade: less floodwater → less orchard productivity → weaker sap-feeder flows → lower ant reserves → less sealed surplus → administrative class loses caloric base.
+- First Basin Civilisation: The post-collapse interval is not stagnation. It preserves and develops practices that later become formalised in the Ecological Management Era without requiring continuous state-level administration.
+- First Basin Civilisation: The later Protohistoric Expansion Era civilisation is not the First Basin Civilisation restored. It is a different structure built on distributed regional ecotypes rather than a single wet-phase interior basin.
+- First Basin Civilisation: The First Basin Civilisation and the later Protohistoric Expansion system share the Kati Thunda storage logic and the orchard-ant-pottery complex as their common technical ancestry. They are related by descent, not by continuity.
+- First Basin Civilisation: Ant domestication in the Basin Phase relies on naturally suitable ground nests in basin-margin ecologies. Full scalable domestication — nest splitting, managed lineages, propagation beyond naturally favourable sites — develops later.
 
 ## Protohistoric Expansion Era
 
@@ -526,6 +553,10 @@ Generated from source document `Time periods` metadata.
 - Food Preservation and Storage Systems: Loss of container integrity or seal integrity reduces usable surplus even if the underlying food is still available.
 - Food Preservation and Storage Systems: Storage infrastructure becomes a state-capacity multiplier because it turns short-lived ecological abundance into controllable reserves.
 - Food Preservation and Storage Systems: Heavy haulage later increases the scale at which preserved surplus can move between storage nodes.
+- Food Preservation and Storage Systems: The stored food base is mixed across all phases: dried fruit, fruit paste cakes, fruit-honey preserves, sugar-paste concentrates, and ant-derived sugars contribute together. No single product carries the administrative weight alone.
+- Food Preservation and Storage Systems: Honeypot ant reserves provide concentrated sugars and living biological storage; drying, concentration, ceramic sealing, and rotation convert the broader seasonal orchard abundance into administrative surplus. The ant colony does not feed cities on its own.
+- Food Preservation and Storage Systems: Orchard fruit — dried into portable slabs, concentrated into paste cakes, or combined with honeypot ant sugars into sealed preserves — forms part of the caloric base alongside ant-derived preserved sugar. This applies from the earliest state-forming phases of the Kati Thunda Ant Revolution through the later Protohistoric Expansion Era.
+- Food Preservation and Storage Systems: In flood-basin orchard contexts, productive flood years generate large fruit volumes available for drying and paste-making that the lean-season storage system must absorb. The scale of the drying and sealing operation in these ecologies is correspondingly larger than in purely dryland systems.
 - Transport Networks: Transport networks are maintained routes and movement nodes rather than abstract space.
 - Transport Networks: Route reliability depends on terrain, weather, flooding, predator pressure, and seasonal access.
 - Transport Networks: Corridors, river lines, ridge lines, and coastal tracks become more important than uniform open-field movement.

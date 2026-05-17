@@ -251,6 +251,20 @@ Source: `lore/biology/fire-incubation-and-extended-juvenile-development.md`
 - Which bird species are incubated first, and what drives early choices?
 - Which Sahul giant bird lineages cross from chick rearing into true domestication rather than prestige handling?
 
+## First Basin Civilisation
+
+### First Basin Civilisation
+
+Source: `lore/frameworks/first-basin-civilisation.md`
+
+- How many independent basin systems were incorporated into the First Basin Civilisation's administrative reach, and how tightly integrated were they?
+- Was the First Basin Civilisation a single polity, a regional hegemony, or a cluster of related states sharing common institutional forms?
+- What was the physical form of its largest storage centres, and where were they located relative to the basin flood margins?
+- How did the collapse play out regionally? Were some areas abandoned before others, or did fragmentation occur across the basin system simultaneously?
+- What marks or recording practices survived the collapse in recognisable form, and how long did they remain in use?
+- Does the later Ecological Management Era preserve any institutional memory of the First Basin Civilisation, or does the later system develop independently with no continuous tradition?
+- At what point in the later recovery does administrative specialisation re-emerge at levels comparable to the First Basin Civilisation?
+
 ## first cassowary arrival in New Zealand
 
 ### First New Zealand Arrival
@@ -717,6 +731,12 @@ Source: `reference/world-state-kati-thunda-ant-revolution.md`
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
 - What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- How precisely did the Kati Thanda basin's wetter phases align with the storage threshold crossing? Was the First Basin Civilisation built during a single long wet interval or across multiple cycles?
+- How extensive was the First Basin Civilisation geographically, and which other interior basin systems were incorporated into its administrative reach?
+- How long did the collapse take, and were there recognisable phases of intensification, fragmentation, and abandonment before the basin-scale state fully ceased?
+- What proportion of writing-like notation survived the collapse as inherited marks, and in what contexts did those marks continue to be used?
+- At what point in the later recovery does the accounting pressure for writing re-emerge, and does it produce a system continuous with or independent of the Basin Civilisation's scribal tradition?
+- The repository currently uses "Kati Thunda" for the named storage threshold revolution and "Kati Thanda" for the basin geography. These are treated as related but distinct references. Naming consistency across files should be verified and standardised in a later pass.
 
 ## World State — Logistics Stabilisation Era
 

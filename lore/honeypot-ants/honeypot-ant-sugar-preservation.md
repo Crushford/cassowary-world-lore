@@ -31,6 +31,8 @@ This document answers how harvested honeypot ant reserves become preserved sugar
 - Reliable preserved surplus supports administrators, craftspeople, and other non-foraging roles.
 - Control of orchard-ant production and preservation infrastructure becomes a source of state power tied to orchard health and pest ecology.
 - The tribute jar — a sealed standardised vessel — is not a nest-assist pot. It holds the output of preservation, not the living nest. Conflating them misrepresents both the orchard system and the tribute system.
+- Preserved sugar paste can act as a stabilising ingredient in broader fruit-based preserves, not only as a standalone product. Mixing concentrated ant sugars with dried fruit pulp, fruit paste, or other orchard-derived concentrates creates sealed products with longer shelf life and broader caloric value than either component alone. Combined preserves of this kind are administratively useful precisely because they can absorb more of an orchard's seasonal output into a single sealable form.
+- The preserved sugar paste's role in extending fruit-based preserves is distinct from its role as a standalone tribute product. Both roles are real; they serve different positions in the storage and tribute chain.
 
 ## Context
 
