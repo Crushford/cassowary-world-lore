@@ -67,10 +67,19 @@ Graft exchange networks create the first webs of long-distance political obligat
 - What prevents orchard knowledge from being preserved through collapse events, and what allows some of it to survive?
 - What are the approximate calendar dates and duration of the Orchard Era in years, and how does it bracket relative to the Fire and Extended Development Era and Ecological Management Era?
 
+## Resolution in a Later Era
+
+The "intelligence without storage" limitation defined by this era is not a permanent condition. It is resolved in a specific major regional form by the Kati Thunda Ant Revolution.
+
+During a wetter glacial minimum or interglacial phase, the Kati Thanda basin and related interior flood-basin ecologies become the site of the First Basin Civilisation — the first large-scale cassowary state built on stored orchard-ant surplus. The intelligence, ecological knowledge, orchard investment, and political coordination developed in the Orchard Era are preconditions for that state. What the Orchard Era cannot provide is the storage layer that makes those capabilities compound across seasons and bad years. The Kati Thunda threshold provides it.
+
+The Orchard Era's defining statement — "intelligence without storage is not yet civilisation" — describes exactly the problem the First Basin Civilisation later solves, in one region, under one set of conditions. Orchard Era societies everywhere else continue to live with the boom-bust constraint until the storage threshold reaches them.
+
 ## Related Documents
 
 - [World State — Protohistoric Expansion Era](world-state-protohistoric-expansion-era.md)
 - [World State — Kati Thunda Ant Revolution](world-state-kati-thunda-ant-revolution.md)
+- [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)
 - [Orchard Lineage Management](../lore/agriculture/orchard-lineage-management.md)
 - [Orchard Sugar Tree Lineages](../lore/agriculture/orchard-sugar-tree-lineages.md)
 - [Honeypot Ant Orchard System Management](../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
