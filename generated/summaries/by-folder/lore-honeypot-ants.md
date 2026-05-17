@@ -58,6 +58,8 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 - Reliable preserved surplus supports administrators, craftspeople, and other non-foraging roles.
 - Control of orchard-ant production and preservation infrastructure becomes a source of state power tied to orchard health and pest ecology.
 - The tribute jar — a sealed standardised vessel — is not a nest-assist pot. It holds the output of preservation, not the living nest. Conflating them misrepresents both the orchard system and the tribute system.
+- Preserved sugar paste can act as a stabilising ingredient in broader fruit-based preserves, not only as a standalone product. Mixing concentrated ant sugars with dried fruit pulp, fruit paste, or other orchard-derived concentrates creates sealed products with longer shelf life and broader caloric value than either component alone. Combined preserves of this kind are administratively useful precisely because they can absorb more of an orchard's seasonal output into a single sealable form.
+- The preserved sugar paste's role in extending fruit-based preserves is distinct from its role as a standalone tribute product. Both roles are real; they serve different positions in the storage and tribute chain.
 
 ### Honeypot Ant Yield and Surplus Capacity
 
@@ -71,6 +73,8 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 - Tribute yield is only meaningful across many colonies and many orchards. It is a district-level phenomenon, not a colony-level one.
 - Preserved surplus from many colonies becomes politically controllable when sealed into countable vessels. The transition from living replete to sealed jar is where yield becomes administrative.
 - Loss of orchard stability, tree health, or sap-feeder populations reduces yield before colony health declines — the system signals stress before collapse.
+- In the First Basin Civilisation context, even at the height of the Kati Thunda storage threshold, city-scale surplus does not come from isolated high-output colonies. It comes from aggregated orchard-ant landscapes across basin margins, flood-following orchards, managed reservoir zones, and distributed preservation labour. The aggregation principle applies from the earliest state-forming phases of the revolution, not only in later eras.
+- First Basin surplus is also a mixed-base phenomenon: honeypot ant yield is one component of the stored food system, combined with dried fruit, fruit paste cakes, and fruit-honey preserves. The ant colony contribution matters most as a sugar and living-reserve component, not as the primary caloric foundation of the state.
 
 ### Managed Ant Lineages
 
@@ -100,6 +104,7 @@ Generated summary bundle for documents in `lore/honeypot-ants`.
 
 - [Aphid Stabilization](../../../lore/ecology/aphid-stabilization.md)
 - [Aphid-Ant Relationships](../../../reference/ecology/aphid-ant-relationships.md)
+- [First Basin Civilisation](../../../lore/frameworks/first-basin-civilisation.md)
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [History and Timeline](../../timeline-overview.md)
 - [Honeypot Ant Harvesting](../../../lore/honeypot-ants/honeypot-ant-harvesting.md)

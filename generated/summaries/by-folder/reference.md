@@ -23,9 +23,11 @@ No atomic notes found.
 - [Diprotodontid Domestication and Working Lineages](../../../lore/domestication/diprotodontid-domestication-and-working-lineages.md)
 - [Diprotodontid Haulage and Road Economics](../../../lore/transport/diprotodontid-haulage-and-road-economics.md)
 - [Dromornithidae](../../../reference/megafauna/dromornithidae.md)
+- [First Basin Civilisation](../../../lore/frameworks/first-basin-civilisation.md)
 - [Food Preservation and Storage Systems](../../../lore/infrastructure/food-preservation-and-storage-systems.md)
 - [Honeypot Ant Orchard System Management](../../../lore/honeypot-ants/honeypot-ant-orchard-system-management.md)
 - [Honeypot Ant Sugar Preservation](../../../lore/honeypot-ants/honeypot-ant-sugar-preservation.md)
+- [Honeypot Ant Yield and Surplus Capacity](../../../lore/honeypot-ants/honeypot-ant-yield-and-surplus-capacity.md)
 - [Honeypot Ants](../../../reference/species/honeypot-ants.md)
 - [Moas](../../../reference/species/moas.md)
 - [Orchard Lineage Management](../../../lore/agriculture/orchard-lineage-management.md)
@@ -71,6 +73,12 @@ No atomic notes found.
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
 - What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- How precisely did the Kati Thanda basin's wetter phases align with the storage threshold crossing? Was the First Basin Civilisation built during a single long wet interval or across multiple cycles?
+- How extensive was the First Basin Civilisation geographically, and which other interior basin systems were incorporated into its administrative reach?
+- How long did the collapse take, and were there recognisable phases of intensification, fragmentation, and abandonment before the basin-scale state fully ceased?
+- What proportion of writing-like notation survived the collapse as inherited marks, and in what contexts did those marks continue to be used?
+- At what point in the later recovery does the accounting pressure for writing re-emerge, and does it produce a system continuous with or independent of the Basin Civilisation's scribal tradition?
+- The repository currently uses "Kati Thunda" for the named storage threshold revolution and "Kati Thanda" for the basin geography. These are treated as related but distinct references. Naming consistency across files should be verified and standardised in a later pass.
 
 ### World State — Logistics Stabilisation Era
 

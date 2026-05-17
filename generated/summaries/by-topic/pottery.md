@@ -61,6 +61,12 @@ No entries found.
 - What are the first forms of early logistic notation? Seal marks, tally notches, vessel shapes, colour or texture coding, or something else?
 - At what point does control of storage become a heritable institutional position rather than a personal authority claim?
 - What are the approximate calendar dates for the Kati Thunda threshold — how many years before or after neighbouring era boundaries does it fall, and how long a transition period does it represent?
+- How precisely did the Kati Thanda basin's wetter phases align with the storage threshold crossing? Was the First Basin Civilisation built during a single long wet interval or across multiple cycles?
+- How extensive was the First Basin Civilisation geographically, and which other interior basin systems were incorporated into its administrative reach?
+- How long did the collapse take, and were there recognisable phases of intensification, fragmentation, and abandonment before the basin-scale state fully ceased?
+- What proportion of writing-like notation survived the collapse as inherited marks, and in what contexts did those marks continue to be used?
+- At what point in the later recovery does the accounting pressure for writing re-emerge, and does it produce a system continuous with or independent of the Basin Civilisation's scribal tradition?
+- The repository currently uses "Kati Thunda" for the named storage threshold revolution and "Kati Thanda" for the basin geography. These are treated as related but distinct references. Naming consistency across files should be verified and standardised in a later pass.
 
 ## Related Topics
 
@@ -69,12 +75,18 @@ No entries found.
 - Early Accounting
 - Ecotypes
 - Environmental Constraints
+- First Basin Civilisation
+- Flood-Basin Orchards
 - Honeypot Ants
+- Hydraulic State
 - Logistics
 - Orchard Management
 - Political Economy Transformation
 - Regional Ecology
 - Regional Honeypot Ant Ecotypes
+- Staged Domestication
+- State Collapse
 - Storage Revolution
 - Tribute Origin
 - World State — Kati Thunda Ant Revolution
+- Writing Emergence

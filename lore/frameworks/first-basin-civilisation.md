@@ -14,7 +14,23 @@ This document is a synthesis file. It links existing system mechanisms into a co
 - Time periods: Kati Thunda Ant Revolution
 - Regions: Kati Thanda basin and related interior flood-basin ecologies of Sahul
 
-## Position in the Historical Sequence
+## Atomic Notes
+
+- The First Basin Civilisation is the state-level expression of the Kati Thunda Ant Revolution in the Kati Thanda basin, not a separate civilisation disconnected from the storage threshold that produces it.
+- The grain-equivalent of the First Basin Civilisation is preserved seasonal abundance, not the honeypot ant colony.
+- The stored food base is mixed: dried fruit, fruit paste cakes, fruit-honey preserves, ant-derived preserved sugar paste, and other basin foods compatible with drying and ceramic sealing.
+- City-scale surplus in the First Basin phase comes from aggregated orchard-ant landscapes at basin, estate, and district scale — not isolated high-output colonies.
+- The First Basin Civilisation is a hydraulic state whose administrative authority is rooted in controlling the surplus that irregular flood cycles make possible.
+- Pottery in the Basin Phase serves primarily as dead-storage and preservation infrastructure: authority-marked storage vessels, early levy containers, preserve jars, processing bowls. Mature pottery-assisted ant nest architecture at regional scale is a later development.
+- The First Basin Civilisation is the first cassowary society to achieve large-scale administrative specialisation, labour levies, guarded storage, institutionalised tribute, and the conditions that eventually produce writing.
+- Writing does not appear immediately at the Kati Thunda storage threshold. It develops under administrative pressure across the Basin Civilisation's history as pre-literate notation reaches its limits.
+- Writing disappears after collapse because the administrative class disappears. The scribal system has no economic function without basin-scale storage and labour administration to justify it.
+- The First Basin Civilisation collapses because its ecological and storage infrastructure disappears as climate shifts toward a representative glacial maximum — not because cassowaries become less intelligent.
+- The collapse cascade: less floodwater → less orchard productivity → weaker sap-feeder flows → lower ant reserves → less sealed surplus → administrative class loses caloric base.
+- The post-collapse interval is not stagnation. It preserves and develops practices that later become formalised in the Ecological Management Era without requiring continuous state-level administration.
+- The later Protohistoric Expansion Era civilisation is not the First Basin Civilisation restored. It is a different structure built on distributed regional ecotypes rather than a single wet-phase interior basin.
+- The First Basin Civilisation and the later Protohistoric Expansion system share the Kati Thunda storage logic and the orchard-ant-pottery complex as their common technical ancestry. They are related by descent, not by continuity.
+- Ant domestication in the Basin Phase relies on naturally suitable ground nests in basin-margin ecologies. Full scalable domestication — nest splitting, managed lineages, propagation beyond naturally favourable sites — develops later.
 
 The First Basin Civilisation occupies a specific position between the Orchard Era and the later Ecological Management and Protohistoric Expansion systems. Understanding its position requires distinguishing it from what comes before and after.
 

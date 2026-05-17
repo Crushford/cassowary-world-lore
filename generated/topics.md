@@ -108,6 +108,13 @@ Back-of-book style index of topics with at least two references.
 | [Bird Geography, Gondwana, and Australasian Evolution](../reference/bird-geography-gondwana-and-australasian-evolution/index.md)      | reference/bird-geography-gondwana-and-australasian-evolution/index.md | Reference | Gondwana's staged fragmentation, Antarctica's transition from forested to glaciated, Australia's progressive aridific... |                             |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md                  | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... | Protohistoric Expansion Era |
 
+## Collapse
+
+| Title                                                                      | Path                                        | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------- | ------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md) | lore/frameworks/first-basin-civilisation.md | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... | Kati Thunda Ant Revolution |
+| [World State — Collapse Era](../reference/world-state-collapse-era.md)     | reference/world-state-collapse-era.md       | Reference | The Collapse Era is the period of regional political fragmentation that follows the overextension of Early History Er... | Collapse Era               |
+
 ## Colony Management
 
 | Title                                                                                                       | Path                                                          | Layer | Summary                                                                                                                  | Time Periods              |
@@ -216,12 +223,26 @@ Back-of-book style index of topics with at least two references.
 | [Giant Goose Domestication and Ridability](../lore/domestication/giant-goose-domestication-and-ridability.md) | lore/domestication/giant-goose-domestication-and-ridability.md | Lore  | This document explains how some Australian giant goose lineages could move from egg capture and chick rearing into tr... | Ecological Management Era   |
 | [Moa Domestication and Ridability](../lore/transport/moa-domestication-and-ridability.md)                     | lore/transport/moa-domestication-and-ridability.md             | Lore  | This document explains how moa domestication develops in New Zealand and how ridability emerges from generations of m... | Protohistoric Expansion Era |
 
+## First Basin Civilisation
+
+| Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)                         | lore/frameworks/first-basin-civilisation.md         | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... | Kati Thunda Ant Revolution |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
+
 ## Flightless Birds
 
 | Title                                              | Path                             | Layer     | Summary                                                                                                                  | Time Periods |
 | -------------------------------------------------- | -------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Cassowaries](../reference/species/cassowaries.md) | reference/species/cassowaries.md | Reference | Real-world baseline for cassowary biology, anatomy, and ecology. Defines the physical and behavioural constraints tha... |              |
 | [Moas](../reference/species/moas.md)               | reference/species/moas.md        | Reference | Real-world baseline for moas as extinct flightless birds of New Zealand. Defines their biology, ecology, and the cons... |              |
+
+## Flood-Basin Orchards
+
+| Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)                         | lore/frameworks/first-basin-civilisation.md         | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... | Kati Thunda Ant Revolution |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
 
 ## Fossils
 
@@ -298,6 +319,13 @@ Back-of-book style index of topics with at least two references.
 | [Regional Honeypot Ant Ecotypes](../lore/honeypot-ants/regional-honeypot-ant-ecotypes.md)                                             | lore/honeypot-ants/regional-honeypot-ant-ecotypes.md         | Lore        | This document defines how honeypot ant systems vary across Sahul environments. Honeypot ant surplus is regional and e... | Ecological Management Era   |
 | [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md)                                    | reference/world-state-kati-thunda-ant-revolution.md          | Reference   | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution  |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md         | Reference   | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... | Protohistoric Expansion Era |
+
+## Hydraulic State
+
+| Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)                         | lore/frameworks/first-basin-civilisation.md         | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... | Kati Thunda Ant Revolution |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
 
 ## Imprinting
 
@@ -586,6 +614,13 @@ Back-of-book style index of topics with at least two references.
 | [Sea Level and Sahul Connectivity](../reference/geography/sea-level-and-sahul-connectivity.md)                                        | reference/geography/sea-level-and-sahul-connectivity.md         | Reference | Real-world baseline for sea level variation across early Pleistocene glacial cycles and its effects on land connectiv... |                             |
 | [World State — Protohistoric Expansion Era (Representative Glacial Maximum)](../reference/world-state-protohistoric-expansion-era.md) | reference/world-state-protohistoric-expansion-era.md            | Reference | A time-specific baseline snapshot of real-world Earth conditions during the [Protohistoric Expansion Era](../generate... | Protohistoric Expansion Era |
 
+## Staged Domestication
+
+| Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)                         | lore/frameworks/first-basin-civilisation.md         | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... | Kati Thunda Ant Revolution |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
+
 ## Storage
 
 | Title                                                                                                    | Path                                                         | Layer     | Summary                                                                                                                  | Time Periods                                 |
@@ -593,6 +628,13 @@ Back-of-book style index of topics with at least two references.
 | [Ceramic Vessels and Nest Chambers](../lore/infrastructure/ceramic-vessels-and-nest-chambers.md)         | lore/infrastructure/ceramic-vessels-and-nest-chambers.md     | Lore      | Material baseline for fired clay vessels as shaped, durable containers and chambers. Defines what ceramic cavities ca... | Ecological Management Era                    |
 | [Food Preservation and Storage Systems](../lore/infrastructure/food-preservation-and-storage-systems.md) | lore/infrastructure/food-preservation-and-storage-systems.md | Lore      | This document answers how cassowary societies convert perishable orchard and ant-derived food into durable stored sur... | Ecological Management Era, Early History Era |
 | [World State — Early History Era](../reference/world-state-early-history-era.md)                         | reference/world-state-early-history-era.md                   | Reference | Early History Era is the period when story-facing institutions such as WTA-style trade, maintained roads, large stora... | Early History Era                            |
+
+## Storage Revolution
+
+| Title                                                                                              | Path                                                | Layer     | Summary                                                                                                                  | Time Periods               |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [First Basin Civilisation](../lore/frameworks/first-basin-civilisation.md)                         | lore/frameworks/first-basin-civilisation.md         | Lore      | The First Basin Civilisation is the first large-scale cassowary state society. It is the state-level expression of th... | Kati Thunda Ant Revolution |
+| [World State — Kati Thunda Ant Revolution](../reference/world-state-kati-thunda-ant-revolution.md) | reference/world-state-kati-thunda-ant-revolution.md | Reference | The Kati Thunda Ant Revolution is the name given to the threshold transformation when pottery-assisted honeypot ant s... | Kati Thunda Ant Revolution |
 
 ## Surplus
 
